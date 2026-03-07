@@ -131,9 +131,9 @@ const animal = {
     }
     
     .hero-image {
-        height: 80vh;
+        height: 85vh;
         background-size: cover;
-        background-position: center;
+        background-position: center top;
         background-repeat: no-repeat;
         position: relative;
     }
@@ -143,34 +143,35 @@ const animal = {
         bottom: 0;
         left: 0;
         right: 0;
-        padding: 4rem;
-        background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 50%, transparent 100%);
+        padding: 2rem 4rem 3rem;
+        background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.6) 30%, transparent 60%);
         text-align: center;
     }
     
     .status-badge {
         display: inline-block;
-        padding: 0.5rem 1rem;
-        background: #c92a2a;
+        padding: 0.35rem 0.75rem;
+        background: rgba(201, 42, 42, 0.9);
         color: white;
         border-radius: 2px;
-        font-size: 0.8rem;
-        letter-spacing: 0.1em;
+        font-size: 0.7rem;
+        letter-spacing: 0.15em;
         text-transform: uppercase;
-        margin-bottom: 1rem;
+        margin-bottom: 0.75rem;
     }
     
     .hero-overlay h1 {
         font-family: 'Cormorant Garamond', serif;
-        font-size: clamp(2.5rem, 5vw, 4rem);
+        font-size: clamp(1.75rem, 4vw, 3rem);
         font-weight: 400;
-        margin-bottom: 0.5rem;
+        margin-bottom: 0.25rem;
+        letter-spacing: 0.1em;
     }
     
     .scientific {
         font-style: italic;
-        opacity: 0.8;
-        font-size: 1.1rem;
+        opacity: 0.7;
+        font-size: 0.95rem;
     }
     
     /* Facts Bar */
@@ -264,29 +265,43 @@ const animal = {
     /* Mobile Responsive */
     @media (max-width: 768px) {
         .hero-image {
-            height: 60vh;
+            height: 70vh;
+            background-position: center;
         }
         
         .hero-overlay {
-            padding: 2rem;
+            padding: 1.5rem 1.5rem 2rem;
+            background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.7) 25%, transparent 50%);
+        }
+        
+        .hero-overlay h1 {
+            font-size: 1.5rem;
         }
         
         .facts-bar {
-            gap: 1.5rem;
-            padding: 1.5rem 1rem;
+            gap: 1rem;
+            padding: 1.25rem 1rem;
         }
         
         .fact-item {
-            flex: 1 1 40%;
-            min-width: 140px;
+            flex: 1 1 45%;
+            min-width: 120px;
+        }
+        
+        .fact-label {
+            font-size: 0.65rem;
+        }
+        
+        .fact-value {
+            font-size: 0.9rem;
         }
         
         .content-wrapper {
-            padding: 2rem 1.5rem;
+            padding: 2rem 1.25rem;
         }
         
         .main-content h2 {
-            font-size: 1.75rem;
+            font-size: 1.5rem;
         }
     }
 </style>
