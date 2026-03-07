@@ -1,0 +1,43 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const continents = [
+    { name: 'Africa', animals: 12, image: '/images/africa-elephant.jpg', status: 'active' },
+    { name: 'Asia', animals: 8, image: null, status: 'coming' },
+    { name: 'North America', animals: 6, image: null, status: 'coming' },
+    { name: 'South America', animals: 7, image: null, status: 'coming' },
+    { name: 'Europe', animals: 5, image: null, status: 'coming' },
+    { name: 'Australia', animals: 6, image: null, status: 'coming' },
+    { name: 'Antarctica', animals: 3, image: null, status: 'coming' },
+];
+---
+
+<Layout>
+    <section class="hero">
+        <div class="hero-bg"></div>
+        <div class="hero-image"></div>
+        <h1>Wildlife</h1>
+        <p>A journey through seven continents, captured through the lens of conservation photography</p>
+    </section>
+
+    <section class="continents-section">
+        <h2>Explore by Continent</h2>
+        <div class="continent-grid">
+            {continents.map(continent => (
+                <a href={continent.status === 'active' ? `/continents/${continent.name.toLowerCase().replace(' ', '-')}` : '#'} class="continent-card">
+                    {continent.image ? (
+                        <img src={continent.image} alt={continent.name} />
+                    ) : (
+                        <div class="placeholder">
+                            <span>Coming Soon</span>
+                        </div>
+                    )}
+                    <div class="overlay">
+                        <h3>{continent.name}</h3>
+                        <p>{continent.status === 'active' ? `${continent.animals} animals` : 'Coming soon'}</p>
+                    </div>
+                </a>
+            ))}
+        </div>
+    </section>
+</Layout>

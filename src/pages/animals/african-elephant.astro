@@ -1,0 +1,283 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const animal = {
+    name: 'African Elephant',
+    scientific: 'Loxodonta africana',
+    status: 'Endangered',
+    location: 'Amboseli National Park, Kenya',
+    population: '415,000 (2016 estimate)',
+    trend: 'Decreasing',
+    image: '/images/africa-elephant.jpg'
+};
+---
+
+<Layout title={`${animal.name} | Wildlife`}>
+    <article class="animal-page">
+        <div class="hero-image">
+            <div class="placeholder-hero">
+                <span>🐘</span>
+                <p>Hero Image Placeholder</p>
+                <p class="small">Your AI-generated elephant image will go here</p>
+            </div>
+        </div>
+        
+        <div class="content-wrapper">
+            <header class="animal-header">
+                <span class="status-badge">{animal.status}</span>
+                <h1>{animal.name}</h1>
+                <p class="scientific">{animal.scientific}</p>
+            </header>
+            
+            <div class="content-grid">
+                <div class="main-content">
+                    <section class="story">
+                        <h2>The Story</h2>
+                        <p>[Full research-based story will go here. This will cover the elephant's role in African ecosystems, their intelligence, family structures, and the challenges they face.]</p>
+                        <p>[Placeholder for 2-3 more paragraphs of researched content about their behavior, migration patterns, and cultural significance.]</p>
+                    </section>
+                    
+                    <section class="habitat">
+                        <h2>Habitat</h2>
+                        <p>[Description of savanna ecosystem, water sources, seasonal movements, and how they engineer the landscape.]</p>
+                    </section>
+                    
+                    <section class="importance">
+                        <h2>Ecological Importance</h2>
+                        <p>[Keystone species explanation: how elephants create water holes, disperse seeds, clear pathways, and shape the environment for other species.]</p>
+                    </section>
+                    
+                    <section class="conservation">
+                        <h2>Conservation</h2>
+                        <p>[Current threats: poaching statistics, habitat fragmentation, human-wildlife conflict. Protection efforts: anti-poaching units, corridor creation, community programs.]</p>
+                    </section>
+                </div>
+                
+                <aside class="sidebar">
+                    <div class="info-card">
+                        <h3>Quick Facts</h3>
+                        <dl>
+                            <dt>Status</dt>
+                            <dd>{animal.status}</dd>
+                            
+                            <dt>Population</dt>
+                            <dd>{animal.population}</dd>
+                            
+                            <dt>Trend</dt>
+                            <dd class="trend-down">{animal.trend}</dd>
+                            
+                            <dt>Location</dt>
+                            <dd>{animal.location}</dd>
+                        </dl>
+                    </div>
+                    
+                    <div class="info-card">
+                        <h3>About the Image</h3>
+                        <p><strong>Style:</strong> Nick Brandt-inspired conservation photography</p>
+                        <p><strong>Camera:</strong> Pentax 67II medium format</p>
+                        <p><strong>Location:</strong> Amboseli National Park, Kenya</p>
+                        <p><strong>AI Platform:</strong> Midjourney v6</p>
+                        <a href="#" class="prompt-link">View full prompt →</a>
+                    </div>
+                    
+                    <div class="info-card">
+                        <h3>Sources</h3>
+                        <ul class="sources">
+                            <li><a href="#">IUCN Red List</a></li>
+                            <li><a href="#">World Wildlife Fund</a></li>
+                            <li><a href="#">Amboseli Trust for Elephants</a></li>
+                        </ul>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </article>
+</Layout>
+
+<style>
+    .animal-page {
+        min-height: 100vh;
+    }
+    
+    .hero-image {
+        height: 80vh;
+        background: #1a1a1a;
+    }
+    
+    .placeholder-hero {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        color: #444;
+    }
+    
+    .placeholder-hero span {
+        font-size: 8rem;
+        margin-bottom: 1rem;
+    }
+    
+    .placeholder-hero p {
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .placeholder-hero .small {
+        font-size: 0.9rem;
+        opacity: 0.6;
+    }
+    
+    .content-wrapper {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 4rem 3rem;
+    }
+    
+    .animal-header {
+        text-align: center;
+        margin-bottom: 4rem;
+    }
+    
+    .status-badge {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        background: #c92a2a;
+        color: white;
+        border-radius: 2px;
+        font-size: 0.8rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        margin-bottom: 1.5rem;
+    }
+    
+    .animal-header h1 {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: clamp(2.5rem, 5vw, 4rem);
+        font-weight: 400;
+        margin-bottom: 0.5rem;
+    }
+    
+    .scientific {
+        font-style: italic;
+        opacity: 0.6;
+        font-size: 1.1rem;
+    }
+    
+    .content-grid {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        gap: 4rem;
+    }
+    
+    .main-content section {
+        margin-bottom: 3rem;
+    }
+    
+    .main-content h2 {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 1.75rem;
+        font-weight: 400;
+        margin-bottom: 1rem;
+        letter-spacing: 0.05em;
+    }
+    
+    .main-content p {
+        margin-bottom: 1rem;
+        line-height: 1.8;
+        opacity: 0.9;
+    }
+    
+    .sidebar {
+        position: sticky;
+        top: 100px;
+        height: fit-content;
+    }
+    
+    .info-card {
+        background: #111;
+        padding: 1.5rem;
+        border-radius: 4px;
+        margin-bottom: 1.5rem;
+    }
+    
+    .info-card h3 {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 1.1rem;
+        font-weight: 400;
+        margin-bottom: 1rem;
+        letter-spacing: 0.05em;
+        border-bottom: 1px solid #333;
+        padding-bottom: 0.5rem;
+    }
+    
+    .info-card dl {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.75rem;
+    }
+    
+    .info-card dt {
+        font-size: 0.8rem;
+        opacity: 0.6;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+    
+    .info-card dd {
+        font-size: 0.9rem;
+        text-align: right;
+    }
+    
+    .trend-down {
+        color: #ff6b6b;
+    }
+    
+    .info-card p {
+        font-size: 0.9rem;
+        margin-bottom: 0.75rem;
+        line-height: 1.6;
+    }
+    
+    .prompt-link {
+        color: #fff;
+        text-decoration: none;
+        font-size: 0.85rem;
+        opacity: 0.7;
+        transition: opacity 0.3s;
+    }
+    
+    .prompt-link:hover {
+        opacity: 1;
+    }
+    
+    .sources {
+        list-style: none;
+    }
+    
+    .sources li {
+        margin-bottom: 0.5rem;
+    }
+    
+    .sources a {
+        color: #888;
+        text-decoration: none;
+        font-size: 0.85rem;
+        transition: color 0.3s;
+    }
+    
+    .sources a:hover {
+        color: #fff;
+    }
+    
+    @media (max-width: 968px) {
+        .content-grid {
+            grid-template-columns: 1fr;
+        }
+        
+        .sidebar {
+            position: static;
+        }
+    }
+</style>
