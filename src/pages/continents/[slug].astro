@@ -1,0 +1,363 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import animalsData from '../../data/animals.json';
+
+export async function getStaticPaths() {
+  return animalsData.continents.map(continent => ({
+    params: { slug: continent.slug },
+    props: { continent },
+  }));
+}
+
+const { continent } = Astro.props;
+const continentAnimals = animalsData.animals.filter(a => a.continent === continent.name);
+---
+
+<Layout title={`${continent.name} | Wildlife`}>
+  <div class="continent-hero">
+    <div class="hero-gradient"></div>
+    <div class="hero-content">
+      <span class="continent-number">0{continent.order}</span>
+      <h1>{continent.name}</h1>
+      <p class="description">{continent.description}</p>
+    </div>
+  </div>
+
+  <div class="continent-info">
+    <div class="info-grid">
+      <div class="info-section">
+        <h2>Subregions</h2>
+        <div class="subregions">
+          {continent.subregions.map(sub => (
+            <div class="subregion-card">
+              <h3>{sub.name}</h3>
+              <p class="countries">{sub.countries.join(', ')}</p>
+              <p class="habitat">{sub.habitat}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <div class="info-section stats">
+        <h2>At a Glance</h2>
+        <div class="stat-grid">
+          <div class="stat">
+            <span class="stat-number">{continentAnimals.length}</span>
+            <span class="stat-label">Featured Animals</span>
+          </div>
+          <div class="stat">
+            <span class="stat-number">{continent.subregions.length}</span>
+            <span class="stat-label">Subregions</span>
+          </div>
+          <div class="stat">
+            <span class="stat-emoji">{continent.emoji}</span>
+            <span class="stat-label">Icon</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {continentAnimals.length > 0 && (
+    <section class="animals-section">
+      <h2>Featured Animals</h2>
+      <div class="animals-grid">
+        {continentAnimals.map(animal => (
+          <a href={`/animals/${animal.slug}`} class="animal-card">
+            <div class="card-image">
+              <span class="card-emoji">{animal.emoji}</span>
+            </div>
+            <div class="card-content">
+              <h3>{animal.name}</h3>
+              <span class="scientific">{animal.scientificName}</span>
+              <span class={`status-badge status-${animal.status.toLowerCase().replace(/\s+/g, '-')}`}>
+                {animal.status}
+              </span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <div class="continent-navigation">
+    <a href="/continents" class="nav-link">← All Continents</a>
+    <a href="/" class="nav-link">Home →</a>
+  </div>
+</Layout>
+
+<style>
+  .continent-hero {
+    height: 70vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .hero-gradient {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f0f1a 100%);
+    z-index: 0;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    padding: 2rem;
+  }
+
+  .continent-number {
+    display: block;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1rem;
+    letter-spacing: 0.3em;
+    color: #666;
+    margin-bottom: 1rem;
+  }
+
+  .hero-content h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(3rem, 8vw, 6rem);
+    font-weight: 400;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+  }
+
+  .description {
+    font-size: 1.1rem;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    opacity: 0.8;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .continent-info {
+    padding: 4rem 2rem;
+    background: #141414;
+    border-top: 1px solid #2a2a2a;
+    border-bottom: 1px solid #2a2a2a;
+  }
+
+  .info-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 4rem;
+  }
+
+  .info-section h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.75rem;
+    font-weight: 400;
+    margin-bottom: 1.5rem;
+    letter-spacing: 0.05em;
+  }
+
+  .subregions {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .subregion-card {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    padding: 1.5rem;
+  }
+
+  .subregion-card h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-bottom: 0.5rem;
+  }
+
+  .subregion-card .countries {
+    font-size: 0.9rem;
+    color: #888;
+    margin-bottom: 0.25rem;
+  }
+
+  .subregion-card .habitat {
+    font-size: 0.85rem;
+    color: #666;
+    font-style: italic;
+  }
+
+  .stat-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+
+  .stat {
+    text-align: center;
+    padding: 1.5rem;
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+  }
+
+  .stat-number {
+    display: block;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 3rem;
+    font-weight: 400;
+    color: #fff;
+  }
+
+  .stat-emoji {
+    display: block;
+    font-size: 3rem;
+  }
+
+  .stat-label {
+    display: block;
+    font-size: 0.8rem;
+    color: #888;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 0.5rem;
+  }
+
+  .animals-section {
+    padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  .animals-section h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 2rem;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 3rem;
+    letter-spacing: 0.1em;
+  }
+
+  .animals-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+  }
+
+  .animal-card {
+    background: #1a1a1a;
+    border: 1px solid #2a2a2a;
+    border-radius: 8px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.3s, border-color 0.3s;
+  }
+
+  .animal-card:hover {
+    transform: translateY(-4px);
+    border-color: #444;
+  }
+
+  .card-image {
+    aspect-ratio: 16/10;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .card-emoji {
+    font-size: 4rem;
+  }
+
+  .card-content {
+    padding: 1.5rem;
+  }
+
+  .card-content h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 0.25rem;
+  }
+
+  .scientific {
+    display: block;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #888;
+    margin-bottom: 1rem;
+  }
+
+  .status-badge {
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .status-badge.status-least-concern {
+    background: rgba(76, 175, 80, 0.15);
+    color: #4caf50;
+  }
+
+  .status-badge.status-near-threatened {
+    background: rgba(255, 193, 7, 0.15);
+    color: #ffc107;
+  }
+
+  .status-badge.status-vulnerable {
+    background: rgba(255, 152, 0, 0.15);
+    color: #ff9800;
+  }
+
+  .status-badge.status-endangered {
+    background: rgba(244, 67, 54, 0.15);
+    color: #f44336;
+  }
+
+  .status-badge.status-critically-endangered {
+    background: rgba(183, 28, 28, 0.2);
+    color: #b71c1c;
+  }
+
+  .continent-navigation {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    border-top: 1px solid #2a2a2a;
+  }
+
+  .nav-link {
+    color: #888;
+    text-decoration: none;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    transition: color 0.3s;
+  }
+
+  .nav-link:hover {
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .info-grid {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  }
+</style>

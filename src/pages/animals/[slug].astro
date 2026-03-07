@@ -1,0 +1,348 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import animalsData from '../../data/animals.json';
+
+export async function getStaticPaths() {
+  return animalsData.animals.map(animal => ({
+    params: { slug: animal.slug },
+    props: { animal },
+  }));
+}
+
+const { animal } = Astro.props;
+const continent = animalsData.continents.find(c => c.name === animal.continent);
+---
+
+<Layout title={`${animal.name} | Wildlife`}>
+  <div class="animal-hero">
+    <div class="hero-image-layer">
+      <div class="placeholder-image">
+        <span class="animal-emoji">{animal.emoji}</span>
+      </div>
+    </div>
+    <div class="gradient-layer"></div>
+    <div class="text-layer">
+      <span class="continent-label">{animal.continent}</span>
+      <h1>{animal.name}</h1>
+      <span class="scientific-name">{animal.scientificName}</span>
+    </div>
+  </div>
+
+  <div class="meta-bar">
+    <div class="meta-item">
+      <span class="meta-label">Status</span>
+      <span class={`status-badge status-${animal.status.toLowerCase().replace(/\s+/g, '-')}`}>
+        {animal.status}
+      </span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Habitat</span>
+      <span class="meta-value">{animal.stats.habitat}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Diet</span>
+      <span class="meta-value">{animal.stats.diet}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Lifespan</span>
+      <span class="meta-value">{animal.stats.lifespan}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Weight</span>
+      <span class="meta-value">{animal.stats.weight}</span>
+    </div>
+  </div>
+
+  <article class="animal-content">
+    <div class="content-wrapper">
+      <section class="description">
+        <p class="lead">{animal.description}</p>
+      </section>
+
+      <section class="highlights">
+        <h2>Key Facts</h2>
+        <ul>
+          {animal.highlights.map(highlight => (
+            <li>{highlight}</li>
+          ))}
+        </ul>
+      </section>
+
+      <section class="conservation">
+        <h2>Conservation</h2>
+        <p>{animal.conservation}</p>
+      </section>
+
+      <section class="midjourney-prompt">
+        <h2>Image Generation Prompt</h2>
+        <div class="prompt-box">
+          <code>{animal.midjourneyPrompt}</code>
+        </div>
+        <p class="prompt-note">Use this prompt in Midjourney to generate the wildlife photography for this animal.</p>
+      </section>
+    </div>
+  </article>
+
+  <div class="animal-navigation">
+    <a href={`/continents/${continent?.slug}`} class="nav-link">
+      ← Back to {animal.continent}
+    </a>
+    <a href="/continents" class="nav-link">
+      All Continents →
+    </a>
+  </div>
+</Layout>
+
+<style>
+  .animal-hero {
+    height: 70vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  .hero-image-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+  }
+
+  .placeholder-image {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f0f1a 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .animal-emoji {
+    font-size: 8rem;
+    opacity: 0.6;
+  }
+
+  .gradient-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(10, 10, 10, 0.3) 0%,
+      rgba(10, 10, 10, 0.6) 50%,
+      rgba(10, 10, 10, 0.95) 100%
+    );
+    z-index: 1;
+  }
+
+  .text-layer {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 2rem;
+  }
+
+  .continent-label {
+    display: block;
+    font-size: 0.9rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #888;
+    margin-bottom: 1rem;
+  }
+
+  .text-layer h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2.5rem, 6vw, 5rem);
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.75rem;
+    color: #ffffff !important;
+  }
+
+  .scientific-name {
+    font-size: 1.1rem;
+    font-style: italic;
+    color: #aaa;
+    letter-spacing: 0.05em;
+  }
+
+  .meta-bar {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding: 2rem;
+    background: #141414;
+    border-top: 1px solid #2a2a2a;
+    border-bottom: 1px solid #2a2a2a;
+    flex-wrap: wrap;
+  }
+
+  .meta-item {
+    text-align: center;
+  }
+
+  .meta-label {
+    display: block;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #666;
+    margin-bottom: 0.5rem;
+  }
+
+  .meta-value {
+    display: block;
+    font-size: 0.95rem;
+    color: #ccc;
+  }
+
+  .status-badge {
+    display: inline-block;
+    padding: 0.35rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .status-badge.status-least-concern {
+    background: rgba(76, 175, 80, 0.15);
+    color: #4caf50;
+  }
+
+  .status-badge.status-near-threatened {
+    background: rgba(255, 193, 7, 0.15);
+    color: #ffc107;
+  }
+
+  .status-badge.status-vulnerable {
+    background: rgba(255, 152, 0, 0.15);
+    color: #ff9800;
+  }
+
+  .status-badge.status-endangered {
+    background: rgba(244, 67, 54, 0.15);
+    color: #f44336;
+  }
+
+  .status-badge.status-critically-endangered {
+    background: rgba(183, 28, 28, 0.2);
+    color: #b71c1c;
+  }
+
+  .animal-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+  }
+
+  .content-wrapper section {
+    margin-bottom: 3rem;
+  }
+
+  .description .lead {
+    font-size: 1.25rem;
+    line-height: 1.7;
+    color: #ccc;
+  }
+
+  .highlights h2,
+  .conservation h2,
+  .midjourney-prompt h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.75rem;
+    font-weight: 400;
+    margin-bottom: 1.25rem;
+    letter-spacing: 0.05em;
+  }
+
+  .highlights ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .highlights li {
+    padding: 0.75rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+    color: #aaa;
+    line-height: 1.6;
+  }
+
+  .highlights li::before {
+    content: "→";
+    position: absolute;
+    left: 0;
+    color: #666;
+  }
+
+  .conservation p {
+    color: #aaa;
+    line-height: 1.7;
+  }
+
+  .prompt-box {
+    background: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .prompt-box code {
+    font-family: 'Monaco', 'Consolas', monospace;
+    font-size: 0.85rem;
+    color: #888;
+    line-height: 1.6;
+    word-wrap: break-word;
+  }
+
+  .prompt-note {
+    font-size: 0.9rem;
+    color: #666;
+    font-style: italic;
+  }
+
+  .animal-navigation {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    border-top: 1px solid #2a2a2a;
+  }
+
+  .nav-link {
+    color: #888;
+    text-decoration: none;
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    transition: color 0.3s;
+  }
+
+  .nav-link:hover {
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+    .meta-bar {
+      gap: 1.5rem;
+    }
+
+    .meta-item {
+      flex: 1 1 40%;
+    }
+
+    .animal-emoji {
+      font-size: 5rem;
+    }
+  }
+</style>

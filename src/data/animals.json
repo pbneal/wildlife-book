@@ -1,0 +1,379 @@
+{
+  "continents": [
+    {
+      "slug": "africa",
+      "name": "Africa",
+      "order": 1,
+      "emoji": "🦁",
+      "description": "The cradle of wildlife, home to the planet's most iconic megafauna",
+      "subregions": [
+        {
+          "name": "East Africa",
+          "countries": ["Kenya", "Tanzania", "Uganda"],
+          "habitat": "Savannas, grasslands, and the Serengeti"
+        },
+        {
+          "name": "Southern Africa", 
+          "countries": ["South Africa", "Botswana", "Zimbabwe"],
+          "habitat": "Kruger National Park, Okavango Delta"
+        }
+      ]
+    },
+    {
+      "slug": "asia",
+      "name": "Asia", 
+      "order": 2,
+      "emoji": "🐅",
+      "description": "From the Himalayas to tropical rainforests, home to tigers, pandas, and ancient megafauna",
+      "subregions": [
+        {
+          "name": "Indian Subcontinent",
+          "countries": ["India", "Nepal", "Bangladesh"],
+          "habitat": "Tropical forests, grasslands, mangroves"
+        },
+        {
+          "name": "Southeast Asia",
+          "countries": ["Thailand", "Indonesia", "Malaysia"],
+          "habitat": "Rainforests, bamboo forests"
+        }
+      ]
+    },
+    {
+      "slug": "north-america",
+      "name": "North America",
+      "order": 3,
+      "emoji": "🦅",
+      "description": "From Arctic tundra to desert Southwest, a land of bears, wolves, and iconic birds",
+      "subregions": [
+        {
+          "name": "Western Mountains",
+          "countries": ["USA", "Canada"],
+          "habitat": "Rocky Mountains, Yellowstone"
+        },
+        {
+          "name": "Northern Forests",
+          "countries": ["Canada", "Alaska"],
+          "habitat": "Boreal forests, tundra"
+        }
+      ]
+    },
+    {
+      "slug": "south-america",
+      "name": "South America",
+      "order": 4,
+      "emoji": "🦜",
+      "description": "The Amazon rainforest and Andes mountains harbor unparalleled biodiversity",
+      "subregions": [
+        {
+          "name": "Amazon Basin",
+          "countries": ["Brazil", "Peru", "Colombia"],
+          "habitat": "Tropical rainforest, river systems"
+        },
+        {
+          "name": "Patagonia",
+          "countries": ["Argentina", "Chile"],
+          "habitat": "Mountains, grasslands, coast"
+        }
+      ]
+    },
+    {
+      "slug": "europe",
+      "name": "Europe",
+      "order": 5,
+      "emoji": "🦌",
+      "description": "Ancient forests and mountain ranges where wildlife is slowly returning",
+      "subregions": [
+        {
+          "name": "Alpine Region",
+          "countries": ["Switzerland", "Austria", "Italy"],
+          "habitat": "High mountains, alpine meadows"
+        },
+        {
+          "name": "Scandinavia",
+          "countries": ["Norway", "Sweden", "Finland"],
+          "habitat": "Boreal forests, tundra"
+        }
+      ]
+    },
+    {
+      "slug": "australia",
+      "name": "Australia",
+      "order": 6,
+      "emoji": "🦘",
+      "description": "An island continent where marsupials rule and unique wildlife evolved in isolation",
+      "subregions": [
+        {
+          "name": "Eastern Forests",
+          "countries": ["Australia"],
+          "habitat": "Eucalyptus forests, coastal regions"
+        },
+        {
+          "name": "Red Centre",
+          "countries": ["Australia"],
+          "habitat": "Desert, outback, Uluru region"
+        }
+      ]
+    },
+    {
+      "slug": "antarctica",
+      "name": "Antarctica",
+      "order": 7,
+      "emoji": "🐧",
+      "description": "The frozen continent, home to extreme survivors and abundant marine life",
+      "subregions": [
+        {
+          "name": "Coastal Regions",
+          "countries": ["Antarctica"],
+          "habitat": "Ice shelves, penguin colonies"
+        },
+        {
+          "name": "Southern Ocean",
+          "countries": ["Antarctica"],
+          "habitat": "Marine ecosystem, krill beds"
+        }
+      ]
+    }
+  ],
+  "animals": [
+    {
+      "slug": "african-elephant",
+      "name": "African Elephant",
+      "scientificName": "Loxodonta africana",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Endangered",
+      "emoji": "🐘",
+      "stats": {
+        "habitat": "Savannah, Forests, Grasslands",
+        "diet": "Herbivore",
+        "lifespan": "60-70 years",
+        "weight": "4,000-7,000 kg"
+      },
+      "midjourneyPrompt": "Professional wildlife photography of an African elephant in golden hour light, standing in the Serengeti grasslands, dust particles in air, National Geographic style, 400mm lens, shallow depth of field, warm savanna colors, highly detailed, photorealistic --ar 3:2 --v 6",
+      "description": "The African elephant is the largest land animal on Earth. These magnificent creatures roam the savannas and forests of sub-Saharan Africa, playing a crucial role in their ecosystems as ecosystem engineers.",
+      "highlights": [
+        "Largest land animal on Earth",
+        "Matriarchal family groups led by oldest female",
+        "Ecosystem engineers that shape their environment",
+        "Can communicate over long distances via infrasound"
+      ],
+      "conservation": "Classified as Endangered by the IUCN. Major threats include poaching for ivory, habitat loss due to human expansion, and human-elephant conflict. Conservation efforts focus on anti-poaching measures, habitat protection, and community-based initiatives."
+    },
+    {
+      "slug": "lion",
+      "name": "Lion",
+      "scientificName": "Panthera leo",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Vulnerable",
+      "emoji": "🦁",
+      "stats": {
+        "habitat": "Grasslands, Savannas",
+        "diet": "Carnivore",
+        "lifespan": "10-14 years (wild)",
+        "weight": "120-190 kg (male)"
+      },
+      "midjourneyPrompt": "Majestic male lion portrait at golden hour, mane glowing in warm light, African savanna background, professional wildlife photography, National Geographic quality, 600mm lens, sharp focus on eyes, shallow depth of field, dramatic lighting, photorealistic --ar 3:2 --v 6",
+      "description": "The lion has long been celebrated as the 'King of Beasts' and remains one of Africa's most iconic predators. These magnificent cats once roamed across Africa, Asia, and Europe.",
+      "highlights": [
+        "Only truly social cat, living in prides",
+        "Female lions do majority of hunting",
+        "Male's mane signals health and vigor",
+        "Can sleep up to 20 hours per day"
+      ],
+      "conservation": "Populations have declined by approximately 50% in the past 20 years. Major threats include habitat loss, human-wildlife conflict, and prey depletion."
+    },
+    {
+      "slug": "giraffe",
+      "name": "Giraffe",
+      "scientificName": "Giraffa camelopardalis",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Vulnerable",
+      "emoji": "🦒",
+      "stats": {
+        "habitat": "Savannas, Open Woodlands",
+        "diet": "Herbivore",
+        "lifespan": "20-25 years",
+        "weight": "800-1,900 kg"
+      },
+      "midjourneyPrompt": "Towering giraffe silhouette against dramatic African sunset, acacia trees in background, professional wildlife photography, golden hour lighting, National Geographic style, long neck extended, elegant pose, warm orange and purple sky, photorealistic --ar 2:3 --v 6",
+      "description": "The giraffe is the world's tallest mammal, with legs alone often taller than most humans. These gentle giants tower over the African savanna.",
+      "highlights": [
+        "World's tallest mammal",
+        "Heart weighs up to 11 kg to pump blood to brain",
+        "Prehensile tongue is 45cm long",
+        "Pattern is unique as human fingerprint"
+      ],
+      "conservation": "Populations have declined by 40% in 30 years. Silent extinction threatens these iconic animals as they receive less conservation attention."
+    },
+    {
+      "slug": "zebra",
+      "name": "Zebra",
+      "scientificName": "Equus quagga",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Near Threatened",
+      "emoji": "🦓",
+      "stats": {
+        "habitat": "Grasslands, Savannas",
+        "diet": "Herbivore",
+        "lifespan": "20-30 years",
+        "weight": "175-450 kg"
+      },
+      "midjourneyPrompt": "Dramatic close-up of zebra stripes, abstract pattern, black and white contrast, professional wildlife photography, shallow depth of field, texture detail, artistic composition, National Geographic quality, photorealistic --ar 3:2 --v 6",
+      "description": "Zebras are among Africa's most distinctive animals, their black-and-white stripes creating patterns as unique as human fingerprints.",
+      "highlights": [
+        "Each zebra has unique stripe pattern",
+        "Stripes confuse biting flies",
+        "Can run up to 65 km/h",
+        "Part of Great Migration with wildebeest"
+      ],
+      "conservation": "Plains zebras remain relatively numerous, but Grévy's zebras number fewer than 2,500 individuals."
+    },
+    {
+      "slug": "cheetah",
+      "name": "Cheetah",
+      "scientificName": "Acinonyx jubatus",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Vulnerable",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "Grasslands, Savannas",
+        "diet": "Carnivore",
+        "lifespan": "10-12 years (wild)",
+        "weight": "21-72 kg"
+      },
+      "midjourneyPrompt": "Cheetah in full sprint, motion blur effect, dust flying, African savanna, professional wildlife action photography, golden hour, dynamic composition, speed and power, National Geographic style, photorealistic --ar 3:2 --v 6",
+      "description": "The cheetah is the world's fastest land animal, capable of reaching speeds up to 70 mph in mere seconds.",
+      "highlights": [
+        "Fastest land animal (70 mph)",
+        "Can accelerate 0-60 mph in 3 seconds",
+        "Non-retractable claws grip like cleats",
+        "50% hunting success rate"
+      ],
+      "conservation": "Only 7,100 remain in the wild. Namibia hosts the world's largest population."
+    },
+    {
+      "slug": "hippopotamus",
+      "name": "Hippopotamus",
+      "scientificName": "Hippopotamus amphibius",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Vulnerable",
+      "emoji": "🦛",
+      "stats": {
+        "habitat": "Rivers, Lakes, Wetlands",
+        "diet": "Herbivore",
+        "lifespan": "40-50 years",
+        "weight": "1,300-1,500 kg"
+      },
+      "midjourneyPrompt": "Hippopotamus emerging from water at sunset, water droplets falling, African river scene, professional wildlife photography, golden hour backlighting, dramatic lighting, National Geographic quality, photorealistic --ar 3:2 --v 6",
+      "description": "The hippopotamus is Africa's most dangerous large animal. Despite their comical appearance, these massive herbivores command respect.",
+      "highlights": [
+        "Africa's most dangerous animal",
+        "Can run 30 km/h on land",
+        "Spend 16 hours per day in water",
+        "Territorial and fiercely protective"
+      ],
+      "conservation": "Significant decline due to habitat loss and poaching for ivory (canine teeth)."
+    },
+    {
+      "slug": "bengal-tiger",
+      "name": "Bengal Tiger",
+      "scientificName": "Panthera tigris tigris",
+      "continent": "Asia",
+      "subregion": "Indian Subcontinent",
+      "status": "Endangered",
+      "emoji": "🐅",
+      "stats": {
+        "habitat": "Tropical Forests, Mangroves",
+        "diet": "Carnivore",
+        "lifespan": "8-10 years (wild)",
+        "weight": "180-260 kg (male)"
+      },
+      "midjourneyPrompt": "Majestic Bengal tiger in Indian jungle, orange and black stripes, intense gaze, dappled sunlight through canopy, professional wildlife photography, National Geographic style, 400mm lens, shallow depth of field, mystical atmosphere, photorealistic --ar 3:2 --v 6",
+      "description": "The Bengal tiger is among the most magnificent predators on Earth. As the most numerous tiger subspecies, it represents both conservation success and ongoing challenges.",
+      "highlights": [
+        "Most numerous tiger subspecies",
+        "National animal of India and Bangladesh",
+        "Can swim up to 4 miles",
+        "Project Tiger increased population from 1,800 to 3,000+"
+      ],
+      "conservation": "Success story with Project Tiger, but habitat fragmentation and human conflict remain challenges."
+    },
+    {
+      "slug": "giant-panda",
+      "name": "Giant Panda",
+      "scientificName": "Ailuropoda melanoleuca",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Vulnerable",
+      "emoji": "🐼",
+      "stats": {
+        "habitat": "Temperate Bamboo Forests",
+        "diet": "Herbivore (99% bamboo)",
+        "lifespan": "20 years (wild)",
+        "weight": "85-125 kg"
+      },
+      "midjourneyPrompt": "Giant panda sitting among bamboo forest, misty mountain atmosphere, Sichuan China, professional wildlife photography, soft diffused lighting, black and white contrast, peaceful expression, National Geographic style, photorealistic --ar 3:2 --v 6",
+      "description": "The giant panda is one of the world's most beloved animals and the global symbol of wildlife conservation.",
+      "highlights": [
+        "Eats 12-38 kg of bamboo daily",
+        "Has pseudo-thumb for gripping bamboo",
+        "Downlisted from Endangered to Vulnerable in 2016",
+        "Conservation success story"
+      ],
+      "conservation": "Remarkable recovery through China's conservation efforts. Wild populations exceed 1,800 individuals."
+    },
+    {
+      "slug": "grizzly-bear",
+      "name": "Grizzly Bear",
+      "scientificName": "Ursus arctos horribilis",
+      "continent": "North America",
+      "subregion": "Western Mountains",
+      "status": "Least Concern",
+      "emoji": "🐻",
+      "stats": {
+        "habitat": "Mountains, Forests, Tundra",
+        "diet": "Omnivore",
+        "lifespan": "20-30 years",
+        "weight": "180-360 kg (male)"
+      },
+      "midjourneyPrompt": "Massive grizzly bear catching salmon at waterfall, Alaska wilderness, dramatic action shot, water splashing, professional wildlife photography, National Geographic style, 400mm lens, golden hour lighting, powerful and wild, photorealistic --ar 3:2 --v 6",
+      "description": "The grizzly bear commands respect as one of North America's largest predators. Famous for dramatic salmon fishing during spawning runs.",
+      "highlights": [
+        "Can eat dozens of salmon daily during runs",
+        "Hibernate 5-7 months without eating",
+        "Heart rate drops to 8-19 bpm during hibernation",
+        "Mother bears fiercely protective"
+      ],
+      "conservation": "Populations stable in Alaska, but fragmented in lower 48 states."
+    },
+    {
+      "slug": "bald-eagle",
+      "name": "Bald Eagle",
+      "scientificName": "Haliaeetus leucocephalus",
+      "continent": "North America",
+      "subregion": "Northern Forests",
+      "status": "Least Concern",
+      "emoji": "🦅",
+      "stats": {
+        "habitat": "Coasts, Lakes, Rivers",
+        "diet": "Carnivore (primarily fish)",
+        "lifespan": "20-30 years",
+        "weight": "3-6.3 kg"
+      },
+      "midjourneyPrompt": "Bald eagle in flight, wings spread wide, American flag colors in background blur, professional wildlife photography, dramatic sky, patriotic atmosphere, National Geographic quality, sharp focus, majestic and powerful, photorealistic --ar 3:2 --v 6",
+      "description": "The bald eagle is one of North America's most majestic birds and serves as the national symbol of the United States.",
+      "highlights": [
+        "National symbol of USA",
+        "Eyesight 4-8x sharper than humans",
+        "Remarkable comeback from DDT crisis",
+        "Can reach 160 km/h in dives"
+      ],
+      "conservation": "Removed from Endangered Species List in 2007. Proof that environmental protection works."
+    }
+  ]
+}
