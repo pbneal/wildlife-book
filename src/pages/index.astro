@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import StoryCard from '../components/StoryCard.astro';
 import animalsData from '../data/animals.json';
 
 const sortedContinents = animalsData.continents.sort((a, b) => a.order - b.order);
@@ -12,338 +13,49 @@ const featuredAnimals = animalsData.animals.slice(0, 4);
     <div class="hero-content">
       <h1>Wildlife</h1>
       <p>A journey through seven continents, captured through the lens of conservation photography</p>
-      <a href="#continents" class="hero-cta">Explore the Continents</a>
+      <a href="#continents" class="hero-cta">Explore</a>
     </div>
   </section>
 
-  <section id="continents" class="continents-section">
-    <h2>Explore by Continent</h2>
-    <div class="continent-grid">
+  <section id="continents" class="section">
+    <h2 class="section-title">Explore by Continent</h2>
+    <div class="story-grid story-grid--continents">
       {sortedContinents.map(continent => {
         const animalCount = animalsData.animals.filter(a => a.continent === continent.name).length;
         return (
-          <a href={`/continents/${continent.slug}`} class="continent-card">
-            <div class="placeholder">
-              <span class="continent-emoji">{continent.emoji}</span>
-            </div>
-            <div class="overlay">
-              <h3>{continent.name}</h3>
-              <p>{animalCount} animals featured</p>
-            </div>
-          </a>
+          <StoryCard
+            href={`/continents/${continent.slug}`}
+            emoji={continent.emoji}
+            title={continent.name}
+            subtitle={`${animalCount} animals featured`}
+            size="medium"
+          />
         );
       })}
     </div>
   </section>
 
   {featuredAnimals.length > 0 && (
-    <section class="featured-animals">
-      <h2>Featured Animals</h2>
-      <div class="featured-grid">
+    <section class="section" style="background: #080808;">
+      <h2 class="section-title">Featured Animals</h2>
+      <div class="story-grid story-grid--featured">
         {featuredAnimals.map(animal => (
-          <a href={`/animals/${animal.slug}`} class="featured-card">
-            <div class="featured-image">
-              <span class="animal-emoji-large">{animal.emoji}</span>
-            </div>
-            <div class="featured-content">
-              <span class="featured-continent">{animal.continent}</span>
-              <h3>{animal.name}</h3>
-              <span class={`status-badge status-${animal.status.toLowerCase().replace(/\s+/g, '-')}`}>
-                {animal.status}
-              </span>
-            </div>
-          </a>
+          <StoryCard
+            href={`/animals/${animal.slug}`}
+            title={animal.name}
+            subtitle={animal.continent}
+            status={animal.status}
+            size="small"
+          />
         ))}
       </div>
     </section>
   )}
 
   <section class="about-section">
-    <div class="about-content">
-      <h2>About This Project</h2>
-      <p>This book represents a journey across seven continents, exploring the world's most magnificent wildlife through AI-generated photography. Each animal is rendered with photorealistic detail, accompanied by research on their habitat, behavior, and conservation status.</p>
-      <p>From the elephants of Africa to the penguins of Antarctica, these pages celebrate the diversity of life on Earth while highlighting the urgent need for conservation.</p>
-      <a href="/about" class="about-link">Learn More →</a>
-    </div>
+    <h2>About This Project</h2>
+    <p>This book represents a journey across seven continents, exploring the world's most magnificent wildlife through AI-generated photography. Each animal is rendered with photorealistic detail, accompanied by research on their habitat, behavior, and conservation status.</p>
+    <p>From the elephants of Africa to the penguins of Antarctica, these pages celebrate the diversity of life on Earth while highlighting the urgent need for conservation.</p>
+    <a href="/about" class="about-link">Learn More</a>
   </section>
 </Layout>
-
-<style>
-  .hero {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .hero-bg {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: url('/images/africa-elephant.png') center/cover no-repeat;
-    z-index: -1;
-  }
-
-  .hero-bg::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.6) 100%);
-  }
-
-  .hero-content {
-    padding: 2rem;
-  }
-
-  .hero h1 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: clamp(3rem, 8vw, 6rem);
-    font-weight: 400;
-    letter-spacing: 0.15em;
-    margin-bottom: 1rem;
-    text-transform: uppercase;
-  }
-
-  .hero p {
-    font-size: 1.1rem;
-    font-weight: 300;
-    letter-spacing: 0.1em;
-    opacity: 0.8;
-    max-width: 600px;
-    margin-bottom: 2rem;
-  }
-
-  .hero-cta {
-    display: inline-block;
-    padding: 1rem 2rem;
-    border: 1px solid rgba(255,255,255,0.3);
-    color: white;
-    text-decoration: none;
-    letter-spacing: 0.1em;
-    font-size: 0.9rem;
-    transition: all 0.3s;
-  }
-
-  .hero-cta:hover {
-    background: white;
-    color: #0a0a0a;
-  }
-
-  .continents-section {
-    padding: 6rem 3rem;
-    max-width: 1400px;
-    margin: 0 auto;
-  }
-
-  .continents-section h2 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 2.5rem;
-    font-weight: 400;
-    text-align: center;
-    margin-bottom: 4rem;
-    letter-spacing: 0.1em;
-  }
-
-  .continent-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 2rem;
-  }
-
-  .continent-card {
-    position: relative;
-    aspect-ratio: 4/5;
-    overflow: hidden;
-    cursor: pointer;
-    background: #1a1a1a;
-    transition: transform 0.3s;
-    text-decoration: none;
-  }
-
-  .continent-card:hover {
-    transform: translateY(-5px);
-  }
-
-  .placeholder {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: linear-gradient(135deg, #2a2a3e 0%, #1a1a2e 100%);
-  }
-
-  .continent-emoji {
-    font-size: 5rem;
-    opacity: 0.8;
-  }
-
-  .overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 2rem;
-    background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.7) 50%, transparent 100%);
-  }
-
-  .overlay h3 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 2rem;
-    font-weight: 400;
-    letter-spacing: 0.1em;
-    margin-bottom: 0.5rem;
-    color: #ffffff;
-  }
-
-  .overlay p {
-    font-size: 0.9rem;
-    color: #cccccc;
-    letter-spacing: 0.05em;
-  }
-
-  .featured-animals {
-    padding: 6rem 3rem;
-    background: #141414;
-  }
-
-  .featured-animals h2 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 2.5rem;
-    font-weight: 400;
-    text-align: center;
-    margin-bottom: 4rem;
-    letter-spacing: 0.1em;
-  }
-
-  .featured-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-    max-width: 1200px;
-    margin: 0 auto;
-  }
-
-  .featured-card {
-    background: #1a1a1a;
-    border: 1px solid #2a2a2a;
-    border-radius: 8px;
-    overflow: hidden;
-    text-decoration: none;
-    color: inherit;
-    transition: transform 0.3s, border-color 0.3s;
-  }
-
-  .featured-card:hover {
-    transform: translateY(-4px);
-    border-color: #444;
-  }
-
-  .featured-image {
-    aspect-ratio: 16/10;
-    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .animal-emoji-large {
-    font-size: 4rem;
-  }
-
-  .featured-content {
-    padding: 1.5rem;
-  }
-
-  .featured-continent {
-    display: block;
-    font-size: 0.8rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: #666;
-    margin-bottom: 0.5rem;
-  }
-
-  .featured-content h3 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 1.5rem;
-    font-weight: 400;
-    margin-bottom: 0.75rem;
-  }
-
-  .status-badge {
-    display: inline-block;
-    padding: 0.35rem 0.75rem;
-    border-radius: 4px;
-    font-size: 0.75rem;
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-  }
-
-  .status-badge.status-least-concern {
-    background: rgba(76, 175, 80, 0.15);
-    color: #4caf50;
-  }
-
-  .status-badge.status-near-threatened {
-    background: rgba(255, 193, 7, 0.15);
-    color: #ffc107;
-  }
-
-  .status-badge.status-vulnerable {
-    background: rgba(255, 152, 0, 0.15);
-    color: #ff9800;
-  }
-
-  .status-badge.status-endangered {
-    background: rgba(244, 67, 54, 0.15);
-    color: #f44336;
-  }
-
-  .about-section {
-    padding: 6rem 3rem;
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-  }
-
-  .about-section h2 {
-    font-family: 'Cormorant Garamond', serif;
-    font-size: 2.5rem;
-    font-weight: 400;
-    margin-bottom: 2rem;
-    letter-spacing: 0.1em;
-  }
-
-  .about-content p {
-    font-size: 1.1rem;
-    line-height: 1.8;
-    color: #aaa;
-    margin-bottom: 1.5rem;
-  }
-
-  .about-link {
-    display: inline-block;
-    margin-top: 1rem;
-    color: #fff;
-    text-decoration: none;
-    letter-spacing: 0.05em;
-    border-bottom: 1px solid #444;
-    padding-bottom: 0.25rem;
-    transition: border-color 0.3s;
-  }
-
-  .about-link:hover {
-    border-color: #fff;
-  }
-</style>

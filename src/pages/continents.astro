@@ -1,0 +1,74 @@
+---
+import Layout from '../layouts/Layout.astro';
+import StoryCard from '../components/StoryCard.astro';
+import animalsData from '../data/animals.json';
+
+const sortedContinents = animalsData.continents.sort((a, b) => a.order - b.order);
+---
+
+<Layout title="Continents | Wildlife">
+  <div class="page-hero">
+    <div class="hero-content">
+      <h1>Seven Continents</h1>
+      <p>Explore wildlife across the world</p>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="story-grid story-grid--continents">
+      {sortedContinents.map(continent => {
+        const animalCount = animalsData.animals.filter(a => a.continent === continent.name).length;
+        return (
+          <StoryCard
+            href={`/continents/${continent.slug}`}
+            emoji={continent.emoji}
+            title={continent.name}
+            subtitle={`${animalCount} animals featured`}
+            size="medium"
+          />
+        );
+      })}
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .page-hero {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #050505;
+    position: relative;
+  }
+
+  .page-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at center, #0f0f0f 0%, #050505 70%);
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    padding: 2rem;
+  }
+
+  .hero-content h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 400;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    color: white;
+  }
+
+  .hero-content p {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.4);
+    letter-spacing: 0.05em;
+  }
+</style>

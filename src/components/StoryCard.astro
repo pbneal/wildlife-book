@@ -1,0 +1,183 @@
+---
+// StoryCard.astro - Reusable card component for animals and continents
+const { 
+  href, 
+  image, 
+  title, 
+  subtitle = null,
+  status = null,
+  emoji = null,
+  size = 'medium' // small, medium, large
+} = Astro.props;
+
+const sizeClasses = {
+  small: 'story-card--small',
+  medium: 'story-card--medium',
+  large: 'story-card--large'
+};
+---
+
+<a href={href} class={`story-card ${sizeClasses[size]}`}>
+  <div class="story-card__image">
+    {image ? (
+      <img src={image} alt={title} loading="lazy" />
+    ) : emoji ? (
+      <span class="story-card__emoji">{emoji}</span>
+    ) : (
+      <div class="story-card__placeholder"></div>
+    )}
+    <div class="story-card__overlay"></div>
+  </div>
+  <div class="story-card__content">
+    {subtitle && <span class="story-card__subtitle">{subtitle}</span>}
+    <h3 class="story-card__title">{title}</h3>
+    {status && (
+      <span class={`story-card__status status-${status.toLowerCase().replace(/\s+/g, '-')}`}>
+        {status}
+      </span>
+    )}
+  </div>
+</a>
+
+<style>
+  .story-card {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+    color: white;
+    background: #0f0f0f;
+    transition: transform 0.4s ease;
+  }
+
+  .story-card:hover {
+    transform: translateY(-4px);
+  }
+
+  .story-card--small {
+    aspect-ratio: 4/5;
+  }
+
+  .story-card--medium {
+    aspect-ratio: 3/4;
+  }
+
+  .story-card--large {
+    aspect-ratio: 16/10;
+  }
+
+  .story-card__image {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+  }
+
+  .story-card__image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.6s ease;
+  }
+
+  .story-card:hover .story-card__image img {
+    transform: scale(1.05);
+  }
+
+  .story-card__emoji {
+    font-size: 5rem;
+    opacity: 0.6;
+  }
+
+  .story-card__placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, #1a1a1a 0%, #0a0a0a 100%);
+  }
+
+  .story-card__overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.9) 0%,
+      rgba(0, 0, 0, 0.4) 40%,
+      transparent 70%
+    );
+    transition: background 0.3s ease;
+  }
+
+  .story-card:hover .story-card__overlay {
+    background: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.95) 0%,
+      rgba(0, 0, 0, 0.5) 50%,
+      rgba(0, 0, 0, 0.1) 100%
+    );
+  }
+
+  .story-card__content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1.5rem;
+    z-index: 2;
+  }
+
+  .story-card__subtitle {
+    display: block;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 0.5rem;
+  }
+
+  .story-card__title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .story-card__status {
+    display: inline-block;
+    margin-top: 0.75rem;
+    padding: 0.25rem 0.5rem;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.65rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border-radius: 2px;
+  }
+
+  .status-least-concern {
+    background: rgba(76, 175, 80, 0.2);
+    color: #81c784;
+  }
+
+  .status-near-threatened {
+    background: rgba(255, 193, 7, 0.2);
+    color: #ffd54f;
+  }
+
+  .status-vulnerable {
+    background: rgba(255, 152, 0, 0.2);
+    color: #ffb74d;
+  }
+
+  .status-endangered {
+    background: rgba(244, 67, 54, 0.2);
+    color: #e57373;
+  }
+
+  .status-critically-endangered {
+    background: rgba(183, 28, 28, 0.3);
+    color: #ef5350;
+  }
+</style>

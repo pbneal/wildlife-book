@@ -3,143 +3,125 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 <Layout title="About | Wildlife">
-    <div class="about-hero">
-        <h1>About This Project</h1>
+  <div class="page-hero">
+    <div class="hero-content">
+      <h1>About</h1>
+      <p>A conservation photography project</p>
     </div>
+  </div>
 
-    <article class="about-article">
-        <div class="article-content">
-            <p class="lead">This book is a celebration of Earth's wildlife and a call to conservation action. Through AI-generated photography and carefully researched text, we explore the magnificent creatures that share our planet.</p>
+  <article class="about-article">
+    <div class="article-content">
+      <p class="lead">This book is a celebration of Earth's wildlife and a call to conservation action. Through AI-generated photography and carefully researched text, we explore the magnificent creatures that share our planet.</p>
 
-            <h2>The Concept</h2>
-            <p>The idea for this project emerged from a simple question: How can we use modern technology to celebrate and document wildlife in new ways? AI image generation has reached a point where it can create photorealistic images that capture the essence and beauty of animals—images that serve not as replacements for wildlife photography, but as complements that allow us to explore scenes and moments that would be impossible or unethical to capture in the wild.</p>
+      <h2>The Concept</h2>
+      <p>The idea for this project emerged from a simple question: How can we use modern technology to celebrate and document wildlife in new ways? AI image generation has reached a point where it can create photorealistic images that capture the essence and beauty of animals—images that serve not as replacements for wildlife photography, but as complements that allow us to explore scenes and moments that would be impossible or unethical to capture in the wild.</p>
 
-            <h2>Seven Continents, Countless Stories</h2>
-            <p>Each continent tells a unique story of evolution, adaptation, and survival. From the elephants of Africa to the penguins of Antarctica, the animals featured in this book represent the incredible diversity of life on Earth. They also represent the challenges that wildlife faces in the modern world.</p>
+      <h2>Seven Continents</h2>
+      <p>Each continent tells a unique story of evolution, adaptation, and survival. From the elephants of Africa to the penguins of Antarctica, the animals featured in this book represent the incredible diversity of life on Earth.</p>
 
-            <h2>Conservation Through Awareness</h2>
-            <p>Every animal profile includes conservation status and the threats each species faces. This isn't meant to depress, but to inform. Awareness is the first step toward action. Many of the species featured here are endangered or vulnerable—not because they're not magnificent enough to survive, but because human activities have made their survival difficult.</p>
+      <h2>Conservation</h2>
+      <p>Every animal profile includes conservation status and the threats each species faces. Awareness is the first step toward action. Many of the species featured here are endangered or vulnerable—not because they're not magnificent enough to survive, but because human activities have made their survival difficult.</p>
 
-            <blockquote>
-                "In the end, we will conserve only what we love, we will love only what we understand, and we will understand only what we are taught."
-                <cite>— Baba Dioum</cite>
-            </blockquote>
+      <blockquote>
+        "In the end, we will conserve only what we love, we will love only what we understand, and we will understand only what we are taught."
+        <cite>— Baba Dioum</cite>
+      </blockquote>
 
-            <h2>The Technology</h2>
-            <p>The images in this book were created using AI image generation models, with prompts carefully crafted to produce photorealistic wildlife photography. Each image was generated with attention to anatomical accuracy, natural lighting, and environmental context.</p>
-            <p>The text was researched from scientific sources, conservation organizations, and wildlife experts to ensure accuracy and depth.</p>
+      <h2>Technology</h2>
+      <p>The images in this book were created using AI image generation models, with prompts carefully crafted to produce photorealistic wildlife photography. Each image was generated with attention to anatomical accuracy, natural lighting, and environmental context.</p>
 
-            <h2>A Note on Ethics</h2>
-            <p>AI-generated wildlife images raise interesting questions about authenticity and representation. This project uses AI not to deceive, but to create art that celebrates wildlife. Every image is clearly identified as AI-generated, and the focus remains on education and conservation awareness.</p>
-            <p>We believe that when technology is used thoughtfully, it can enhance our connection to the natural world rather than replace it.</p>
-
-            <h2>The Future</h2>
-            <p>This book is just the beginning. Future editions will expand to include more animals, more detailed conservation information, and perhaps even interactive digital experiences. The goal is simple: to inspire wonder, foster understanding, and motivate action.</p>
-
-            <div class="project-meta">
-                <div class="meta-item">
-                    <span class="meta-label">Project</span>
-                    <span class="meta-value">Wildlife Photography Book</span>
-                </div>
-                <div class="meta-item">
-                    <span class="meta-label">Continents</span>
-                    <span class="meta-value">7</span>
-                </div>
-                <div class="meta-item">
-                    <span class="meta-label">Animals</span>
-                    <span class="meta-value">50+</span>
-                </div>
-                <div class="meta-item">
-                    <span class="meta-label">Status</span>
-                    <span class="meta-value">In Progress</span>
-                </div>
-            </div>
-        </div>
-    </article>
+      <h2>Ethics</h2>
+      <p>AI-generated wildlife images raise interesting questions about authenticity and representation. This project uses AI not to deceive, but to create art that celebrates wildlife. Every image is clearly identified as AI-generated, and the focus remains on education and conservation awareness.</p>
+    </div>
+  </article>
 </Layout>
 
 <style>
-    .about-hero {
-        padding: 8rem 2rem 4rem;
-        text-align: center;
-    }
+  .page-hero {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #050505;
+    position: relative;
+  }
 
-    .about-hero h1 {
-        font-family: 'Cormorant Garamond', serif;
-        font-size: clamp(2.5rem, 5vw, 4rem);
-        font-weight: 400;
-        letter-spacing: 0.1em;
-    }
+  .page-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at center, #0f0f0f 0%, #050505 70%);
+  }
 
-    .about-article {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 0 2rem 6rem;
-    }
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    padding: 2rem;
+  }
 
-    .article-content .lead {
-        font-size: 1.35rem;
-        line-height: 1.6;
-        color: #ccc;
-        margin-bottom: 3rem;
-    }
+  .hero-content h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 400;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    color: white;
+  }
 
-    .article-content h2 {
-        font-family: 'Cormorant Garamond', serif;
-        font-size: 1.75rem;
-        font-weight: 400;
-        margin: 3rem 0 1.25rem;
-        letter-spacing: 0.05em;
-    }
+  .hero-content p {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.35);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
 
-    .article-content p {
-        font-size: 1.05rem;
-        line-height: 1.8;
-        margin-bottom: 1.5rem;
-        color: #aaa;
-    }
+  .about-article {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 4rem 2rem 6rem;
+  }
 
-    .article-content blockquote {
-        margin: 3rem 0;
-        padding: 2rem;
-        border-left: 3px solid #444;
-        background: #141414;
-        font-style: italic;
-    }
+  .article-content .lead {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 3rem;
+    font-weight: 300;
+  }
 
-    .article-content blockquote cite {
-        display: block;
-        margin-top: 1rem;
-        font-size: 0.9rem;
-        color: #888;
-        font-style: normal;
-    }
+  .article-content h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 3rem 0 1rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.8);
+  }
 
-    .project-meta {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-        gap: 2rem;
-        margin-top: 4rem;
-        padding-top: 3rem;
-        border-top: 1px solid #2a2a2a;
-    }
+  .article-content p {
+    font-size: 0.95rem;
+    line-height: 1.8;
+    margin-bottom: 1.25rem;
+    color: rgba(255, 255, 255, 0.45);
+  }
 
-    .meta-item {
-        text-align: center;
-    }
+  .article-content blockquote {
+    margin: 3rem 0;
+    padding: 1.5rem 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    font-style: italic;
+  }
 
-    .meta-label {
-        display: block;
-        font-size: 0.75rem;
-        text-transform: uppercase;
-        letter-spacing: 0.1em;
-        color: #666;
-        margin-bottom: 0.5rem;
-    }
-
-    .meta-value {
-        display: block;
-        font-size: 1.1rem;
-        color: #fff;
-    }
+  .article-content blockquote cite {
+    display: block;
+    margin-top: 0.75rem;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.3);
+    font-style: normal;
+  }
 </style>
