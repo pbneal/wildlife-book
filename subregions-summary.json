@@ -1,0 +1,76 @@
+{
+  "extractedAt": "2026-03-07T22:47:05.409Z",
+  "totalRows": 28,
+  "continents": [
+    {
+      "name": "Africa",
+      "subregionCount": 5,
+      "subregions": [
+        "Central Africa",
+        "East Africa",
+        "North Africa",
+        "Southern Africa",
+        "West Africa"
+      ]
+    },
+    {
+      "name": "Antarctica",
+      "subregionCount": 3,
+      "subregions": [
+        "Antarctic Peninsula",
+        "East Antarctica",
+        "West Antarctica"
+      ]
+    },
+    {
+      "name": "Asia",
+      "subregionCount": 5,
+      "subregions": [
+        "Central Asia",
+        "East Asia",
+        "South Asia",
+        "Southeast Asia",
+        "West Asia"
+      ]
+    },
+    {
+      "name": "Europe",
+      "subregionCount": 4,
+      "subregions": [
+        "Eastern Europe",
+        "Northern Europe",
+        "Southern Europe",
+        "Western Europe"
+      ]
+    },
+    {
+      "name": "North America",
+      "subregionCount": 3,
+      "subregions": [
+        "Caribbean",
+        "Central America",
+        "USA and Canada"
+      ]
+    },
+    {
+      "name": "Oceania",
+      "subregionCount": 4,
+      "subregions": [
+        "Australia",
+        "Melanesia",
+        "Micronesia",
+        "Polynesia"
+      ]
+    },
+    {
+      "name": "South America",
+      "subregionCount": 4,
+      "subregions": [
+        "Amazon Rainforest",
+        "Andes Mountains",
+        "Pantanal",
+        "Patagonia"
+      ]
+    }
+  ]
+}
