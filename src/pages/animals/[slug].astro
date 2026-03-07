@@ -11,13 +11,37 @@ export async function getStaticPaths() {
 
 const { animal } = Astro.props;
 const continent = animalsData.continents.find(c => c.name === animal.continent);
+
+// Check if image and video exist for this animal
+const imagePath = `/images/${animal.slug}.png`;
+const videoPath = `/images/${animal.slug}.mp4`;
 ---
 
 <Layout title={`${animal.name} | Wildlife`}>
   <div class="animal-hero">
-    <div class="hero-visual">
-      <span class="hero-emoji">{animal.emoji}</span>
+    <!-- Video background (if exists) -->
+    <video 
+      class="hero-video" 
+      autoplay 
+      muted 
+      loop 
+      playsinline
+      poster={imagePath}
+    >
+      <source src={videoPath} type="video/mp4" />
+    </video>
+    
+    <!-- Image fallback (if video doesn't load or doesn't exist) -->
+    <div class="hero-image" style={`background-image: url('${imagePath}')`}></div>
+    
+    <!-- Emoji fallback (if no image) -->
+    <div class="hero-emoji-fallback">
+      <span>{animal.emoji}</span>
     </div>
+    
+    <!-- Dark overlay for text readability -->
+    <div class="hero-overlay"></div>
+    
     <div class="hero-content">
       <span class="continent-label">{animal.continent}</span>
       <h1>{animal.name}</h1>
@@ -84,7 +108,7 @@ const continent = animalsData.continents.find(c => c.name === animal.continent);
 
 <style>
   .animal-hero {
-    height: 85vh;
+    height: 100vh;
     position: relative;
     display: flex;
     align-items: center;
@@ -93,24 +117,68 @@ const continent = animalsData.continents.find(c => c.name === animal.continent);
     background: #050505;
   }
 
-  .hero-visual {
+  /* Video background */
+  .hero-video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 1;
+  }
+
+  /* Image background (fallback) */
+  .hero-image {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    z-index: 2;
+  }
+
+  /* Hide image if video is playing */
+  .hero-video:not([src=""]) ~ .hero-image {
+    display: none;
+  }
+
+  /* Emoji fallback */
+  .hero-emoji-fallback {
     position: absolute;
     inset: 0;
     display: flex;
     align-items: center;
     justify-content: center;
     background: radial-gradient(ellipse at center, #111 0%, #050505 60%);
+    z-index: 3;
   }
 
-  .hero-emoji {
+  .hero-emoji-fallback span {
     font-size: 50vh;
     opacity: 0.06;
     filter: blur(1px);
   }
 
+  /* Hide emoji if image exists */
+  .hero-image:not([style*="undefined"]) ~ .hero-emoji-fallback {
+    display: none;
+  }
+
+  /* Dark overlay for text readability */
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(5, 5, 5, 0.3) 0%,
+      rgba(5, 5, 5, 0.1) 40%,
+      rgba(5, 5, 5, 0.5) 100%
+    );
+    z-index: 4;
+  }
+
   .hero-content {
     position: relative;
-    z-index: 1;
+    z-index: 5;
     text-align: center;
     padding: 2rem;
   }
@@ -120,7 +188,7 @@ const continent = animalsData.continents.find(c => c.name === animal.continent);
     font-size: 0.75rem;
     letter-spacing: 0.2em;
     text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.35);
+    color: rgba(255, 255, 255, 0.5);
     margin-bottom: 1rem;
   }
 
@@ -137,7 +205,7 @@ const continent = animalsData.continents.find(c => c.name === animal.continent);
   .scientific-name {
     font-size: 1rem;
     font-style: italic;
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.5);
     letter-spacing: 0.03em;
   }
 
@@ -292,7 +360,7 @@ const continent = animalsData.continents.find(c => c.name === animal.continent);
       flex: 1 1 40%;
     }
 
-    .hero-emoji {
+    .hero-emoji-fallback span {
       font-size: 35vh;
     }
   }
