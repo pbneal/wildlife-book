@@ -1,0 +1,255 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import StoryCard from '../../components/StoryCard.astro';
+import animalsData from '../../data/animals.json';
+
+export async function getStaticPaths() {
+  const paths: any[] = [];
+  
+  animalsData.continents.forEach(continent => {
+    continent.subregions.forEach(subregion => {
+      const slug = subregion.name.toLowerCase().replace(/\s+/g, '-');
+      paths.push({
+        params: { slug },
+        props: { 
+          subregion, 
+          continent,
+          animals: animalsData.animals.filter(a => 
+            a.continent === continent.name && 
+            a.subregion === subregion.name
+          )
+        },
+      });
+    });
+  });
+  
+  return paths;
+}
+
+const { subregion, continent, animals } = Astro.props;
+
+// Helper to get animal image
+const getAnimalImage = (slug: string) => `/images/${slug}.png`;
+---
+
+<Layout title={`${subregion.name} | Wildlife`}>
+  <div class="region-hero">
+    <div class="hero-bg">
+      <span class="hero-emoji">{continent.emoji}</span>
+    </div>
+    <div class="hero-overlay"></div>
+    <div class="hero-content">
+      <span class="continent-label">{continent.name}</span>
+      <h1>{subregion.name}</h1>
+      <p class="habitat">{subregion.habitat}</p>
+    </div>
+  </div>
+
+  <div class="meta-bar">
+    <div class="meta-item">
+      <span class="meta-label">Countries</span>
+      <span class="meta-value">{subregion.countries.join(', ')}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Habitat</span>
+      <span class="meta-value">{subregion.habitat}</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Animals</span>
+      <span class="meta-value">{animals.length}</span>
+    </div>
+  </div>
+
+  {animals.length > 0 && (
+    <section class="section">
+      <h2 class="section-title">Wildlife of {subregion.name}</h2>
+      <div class="story-grid story-grid--featured">
+        {animals.map(animal => (
+          <StoryCard
+            href={`/animals/${animal.slug}`}
+            image={getAnimalImage(animal.slug)}
+            emoji={animal.emoji}
+            title={animal.name}
+            subtitle={animal.scientificName}
+            status={animal.status}
+            size="small"
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <div class="region-navigation">
+    <a href={`/continents/${continent.slug}`} class="nav-link">
+      ← Back to {continent.name}
+    </a>
+    <a href="/continents" class="nav-link">
+      All Continents →
+    </a>
+  </div>
+</Layout>
+
+<style>
+  .region-hero {
+    height: 75vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background: #0a0a0a;
+  }
+
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: radial-gradient(ellipse at center, #1a1a1a 0%, #050505 70%);
+  }
+
+  .hero-emoji {
+    font-size: 35vh;
+    opacity: 0.06;
+    filter: blur(1px);
+  }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      rgba(5, 5, 5, 0.4) 0%,
+      rgba(5, 5, 5, 0.2) 40%,
+      rgba(5, 5, 5, 0.6) 100%
+    );
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 2rem;
+  }
+
+  .continent-label {
+    display: block;
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.4);
+    margin-bottom: 1rem;
+  }
+
+  .hero-content h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 400;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    color: white;
+  }
+
+  .habitat {
+    font-size: 0.95rem;
+    font-weight: 300;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.5);
+    max-width: 400px;
+    margin: 0 auto;
+    line-height: 1.6;
+    font-style: italic;
+  }
+
+  .meta-bar {
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    padding: 2rem;
+    background: #080808;
+    border-top: 1px solid rgba(255, 255, 255, 0.03);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    flex-wrap: wrap;
+  }
+
+  .meta-item {
+    text-align: center;
+  }
+
+  .meta-label {
+    display: block;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: rgba(255, 255, 255, 0.3);
+    margin-bottom: 0.5rem;
+  }
+
+  .meta-value {
+    display: block;
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.6);
+    max-width: 300px;
+  }
+
+  .section {
+    padding: 4rem 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+
+  .section-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 3rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  .story-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 2rem;
+  }
+
+  .region-navigation {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .nav-link {
+    color: rgba(255, 255, 255, 0.4);
+    text-decoration: none;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    transition: color 0.3s;
+  }
+
+  .nav-link:hover {
+    color: rgba(255, 255, 255, 0.8);
+  }
+
+  @media (max-width: 768px) {
+    .meta-bar {
+      gap: 2rem;
+    }
+
+    .meta-item {
+      flex: 1 1 40%;
+    }
+
+    .hero-emoji {
+      font-size: 25vh;
+    }
+  }
+</style>
