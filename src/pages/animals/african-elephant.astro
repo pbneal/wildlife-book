@@ -16,15 +16,23 @@ const animal = {
     <article class="animal-page">
         <!-- Hero Section with Image and Title -->
         <div class="hero-section">
-            <a href={animal.image} target="_blank" class="hero-image-link" title="Click to view full image">
+            <label for="lightbox-toggle" class="hero-image-link">
                 <div class="hero-image" style={`background-image: url('${animal.image}')`}>
-                    <div class="click-hint">View full image</div>
+                    <div class="click-hint">Click to view full image</div>
                     <div class="hero-overlay">
-                        <h1>{animal.name}</h1>
-                        <p class="scientific">{animal.scientific}</p>
+                        <h1 style="color: #ffffff; text-shadow: 0 2px 20px rgba(0,0,0,0.9);">{animal.name}</h1>
+                        <p class="scientific" style="color: #ffffff; text-shadow: 0 1px 10px rgba(0,0,0,0.9);">{animal.scientific}</p>
                     </div>
                 </div>
-            </a>
+            </label>
+        </div>
+        
+        <!-- Lightbox using checkbox hack -->
+        <input type="checkbox" id="lightbox-toggle" class="lightbox-toggle">
+        <div class="lightbox">
+            <label for="lightbox-toggle" class="lightbox-overlay"></label>
+            <img src={animal.image} alt={animal.name} class="lightbox-img">
+            <label for="lightbox-toggle" class="close-btn">&times;</label>
         </div>
         
         <!-- Quick Facts Bar -->
@@ -156,16 +164,11 @@ const animal = {
         font-weight: 400;
         margin-bottom: 0.5rem;
         letter-spacing: 0.15em;
-        color: #ffffff !important;
-        text-shadow: 0 3px 30px rgba(0,0,0,1), 0 2px 10px rgba(0,0,0,1), 0 1px 3px rgba(0,0,0,1);
     }
     
     .scientific {
         font-style: italic;
-        color: #ffffff !important;
         font-size: 1.1rem;
-        text-shadow: 0 2px 15px rgba(0,0,0,1), 0 1px 5px rgba(0,0,0,1), 0 1px 2px rgba(0,0,0,1);
-        opacity: 1;
     }
     
     /* Facts Bar */
@@ -259,7 +262,7 @@ const animal = {
     /* Hero Link */
     .hero-image-link {
         display: block;
-        text-decoration: none;
+        cursor: pointer;
         position: relative;
     }
     
@@ -280,6 +283,61 @@ const animal = {
     }
     
     .hero-image:hover .click-hint {
+        opacity: 1;
+    }
+    
+    /* Lightbox */
+    .lightbox-toggle {
+        display: none;
+    }
+    
+    .lightbox {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 1000;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .lightbox-toggle:checked + .lightbox {
+        display: flex;
+    }
+    
+    .lightbox-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0,0,0,0.95);
+        cursor: pointer;
+    }
+    
+    .lightbox-img {
+        max-width: 90%;
+        max-height: 90vh;
+        object-fit: contain;
+        position: relative;
+        z-index: 1001;
+    }
+    
+    .close-btn {
+        position: absolute;
+        top: 2rem;
+        right: 2rem;
+        color: #fff;
+        font-size: 2.5rem;
+        cursor: pointer;
+        opacity: 0.7;
+        transition: opacity 0.3s;
+        z-index: 1002;
+    }
+    
+    .close-btn:hover {
         opacity: 1;
     }
     
@@ -342,6 +400,11 @@ const animal = {
         
         .click-hint {
             display: none;
+        }
+        
+        .lightbox-img {
+            max-width: 95%;
+            max-height: 85vh;
         }
     }
 </style>
