@@ -7,7 +7,7 @@ const animals = [
         scientific: 'Loxodonta africana',
         status: 'Endangered',
         location: 'Amboseli National Park, Kenya',
-        image: '/images/africa-elephant.jpg',
+        image: '/images/africa-elephant.png',
         excerpt: 'The largest land mammal on Earth, African elephants are ecosystem engineers that shape the landscapes they inhabit.'
     }
 ];
@@ -25,10 +25,7 @@ const animals = [
             {animals.map(animal => (
                 <article class="animal-card">
                     <div class="animal-image">
-                        <div class="placeholder-image">
-                            <span>🐘</span>
-                            <p>African Elephant Image</p>
-                        </div>
+                        <img src={animal.image} alt={animal.name} />
                     </div>
                     <div class="animal-content">
                         <span class="status-badge endangered">{animal.status}</span>
