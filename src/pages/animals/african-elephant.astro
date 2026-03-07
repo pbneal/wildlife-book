@@ -14,111 +14,107 @@ const animal = {
 
 <Layout title={`${animal.name} | Wildlife`}>
     <article class="animal-page">
-        <div class="hero-image" style={`background-image: url('${animal.image}')`}>
+        <!-- Hero Section with Image and Title -->
+        <div class="hero-section">
+            <div class="hero-image" style={`background-image: url('${animal.image}')`}>
+                <div class="hero-overlay">
+                    <span class="status-badge">{animal.status}</span>
+                    <h1>{animal.name}</h1>
+                    <p class="scientific">{animal.scientific}</p>
+                </div>
+            </div>
         </div>
         
+        <!-- Quick Facts Bar -->
+        <div class="facts-bar">
+            <div class="fact-item">
+                <span class="fact-label">Status</span>
+                <span class="fact-value status-text">{animal.status}</span>
+            </div>
+            <div class="fact-item">
+                <span class="fact-label">Population</span>
+                <span class="fact-value">{animal.population}</span>
+            </div>
+            <div class="fact-item">
+                <span class="fact-label">Trend</span>
+                <span class="fact-value trend-down">{animal.trend}</span>
+            </div>
+            <div class="fact-item">
+                <span class="fact-label">Location</span>
+                <span class="fact-value">{animal.location}</span>
+            </div>
+        </div>
+        
+        <!-- Main Content -->
         <div class="content-wrapper">
-            <header class="animal-header">
-                <span class="status-badge">{animal.status}</span>
-                <h1>{animal.name}</h1>
-                <p class="scientific">{animal.scientific}</p>
-            </header>
-            
-            <div class="content-grid">
-                <div class="main-content">
-                    <section class="story">
-                        <h2>The Story</h2>
-                        <p>In the shadow of Mount Kilimanjaro, where the golden grasslands of Amboseli stretch to the horizon, stands a living monument to Africa's wild heart—the African elephant. These magnificent creatures, the largest land mammals on Earth, have roamed this continent for millions of years, shaping landscapes and ecosystems in ways that scientists are only beginning to fully understand.</p>
-                        
-                        <p>African elephants are not merely animals; they are ecosystem engineers. A single elephant can modify an entire habitat, uprooting trees to create grasslands, digging water holes that benefit countless other species during dry seasons, and dispersing seeds across vast distances through their dung. In Amboseli, where water is precious, elephants remember ancient pathways to underground springs, their knowledge passed down through generations like a living map etched in memory.</p>
-                        
-                        <p>But these gentle giants face an uncertain future. Once numbering in the millions across Africa, elephant populations have plummeted due to poaching and habitat loss. The ivory trade, despite international bans, continues to claim thousands of lives annually. In Amboseli, however, a different story is unfolding—one of hope and coexistence.</p>
-                        
-                        <p>Here, the Maasai people, who have shared these lands with elephants for centuries, are becoming their greatest protectors. Community conservancies, anti-poaching patrols, and innovative tourism models are demonstrating that elephants are worth more alive than dead. When a tourist pays to witness these magnificent creatures in their natural habitat, that revenue flows back into local communities, funding schools, healthcare, and conservation efforts.</p>
-                        
-                        <p>The elephants of Amboseli have become symbols of what's possible when humans choose stewardship over exploitation. Each individual carries a story—the matriarch who led her family through drought, the young bull testing his strength, the calf taking its first wobbly steps. They remind us that we are not separate from nature, but part of it, and that our choices ripple outward in ways we may never fully see.</p>
-                        
-                        <p>To look into an elephant's eye is to see something ancient and wise, a consciousness that has witnessed the rise and fall of civilizations, the changing of climates, the endless cycle of seasons. They are Africa's memory keepers, and in protecting them, we protect a part of ourselves.</p>
-                    </section>
+            <div class="main-content">
+                <section class="story">
+                    <h2>The Story</h2>
+                    <p>In the shadow of Mount Kilimanjaro, where the golden grasslands of Amboseli stretch to the horizon, stands a living monument to Africa's wild heart—the African elephant. These magnificent creatures, the largest land mammals on Earth, have roamed this continent for millions of years, shaping landscapes and ecosystems in ways that scientists are only beginning to fully understand.</p>
                     
-                    <section class="habitat">
-                        <h2>Habitat</h2>
-                        <p>African elephants inhabit a diverse range of environments across sub-Saharan Africa, from savannas and grasslands to forests and deserts. Amboseli National Park, located in southern Kenya near the Tanzanian border, represents one of the most important elephant habitats in East Africa.</p>
-                        
-                        <p>The park's ecosystem is defined by its seasonal wetlands, fed by underground rivers from Mount Kilimanjaro's melting snows. These swamps create lush oases in an otherwise arid landscape, attracting elephants and hundreds of other species. During the dry season, these water sources become critical, concentrating elephant populations and creating extraordinary wildlife viewing opportunities.</p>
-                        
-                        <p>Elephants are constantly on the move, following ancient migration routes that can span hundreds of kilometers. In Amboseli, they move between the park's swamps and the surrounding community lands, creating a landscape-scale conservation challenge that requires coordination between park authorities, local communities, and private landowners.</p>
-                    </section>
+                    <p>African elephants are not merely animals; they are ecosystem engineers. A single elephant can modify an entire habitat, uprooting trees to create grasslands, digging water holes that benefit countless other species during dry seasons, and dispersing seeds across vast distances through their dung. In Amboseli, where water is precious, elephants remember ancient pathways to underground springs, their knowledge passed down through generations like a living map etched in memory.</p>
                     
-                    <section class="importance">
-                        <h2>Ecological Importance</h2>
-                        <p>African elephants are keystone species—organisms that have a disproportionate impact on their environment relative to their abundance. Their ecological contributions include:</p>
-                        
-                        <p><strong>Habitat Modification:</strong> By feeding on trees and shrubs, elephants prevent savannas from becoming forests, maintaining the open grasslands that support grazing animals like zebras, wildebeest, and gazelles.</p>
-                        
-                        <p><strong>Water Access:</strong> Elephants dig water holes in dry riverbeds, creating water sources used by everything from birds to antelopes to predators.</p>
-                        
-                        <p><strong>Seed Dispersal:</strong> An elephant can consume hundreds of pounds of vegetation daily, and their dung spreads seeds across vast distances. Some tree species depend entirely on elephants for dispersal.</p>
-                        
-                        <p><strong>Nutrient Cycling:</strong> Elephant dung fertilizes the soil and provides food for insects, birds, and small mammals. A single elephant can produce over 100 pounds of dung daily.</p>
-                        
-                        <p><strong>Path Creation:</strong> Elephant trails become highways for other animals, creating pathways through dense vegetation and connecting different habitats.</p>
-                    </section>
+                    <p>But these gentle giants face an uncertain future. Once numbering in the millions across Africa, elephant populations have plummeted due to poaching and habitat loss. The ivory trade, despite international bans, continues to claim thousands of lives annually. In Amboseli, however, a different story is unfolding—one of hope and coexistence.</p>
                     
-                    <section class="conservation">
-                        <h2>Conservation</h2>
-                        <p><strong>Primary Threats:</strong></p>
-                        <p><strong>Poaching:</strong> Despite the international ivory trade ban, illegal killing remains the greatest threat, with an estimated 20,000-30,000 elephants killed annually for their tusks.</p>
-                        
-                        <p><strong>Habitat Loss:</strong> Expanding agriculture, infrastructure development, and human settlement fragment elephant ranges and block migration corridors.</p>
-                        
-                        <p><strong>Human-Elephant Conflict:</strong> As human populations expand into elephant habitats, crop-raiding and property damage lead to retaliatory killings.</p>
-                        
-                        <p><strong>Conservation Efforts:</strong></p>
-                        <p><strong>Anti-Poaching Patrols:</strong> Armed ranger units patrol protected areas, using technology like drones and camera traps to detect and deter poachers.</p>
-                        
-                        <p><strong>Community Conservancies:</strong> Programs that provide economic benefits to local communities from elephant conservation, creating incentives for protection rather than poaching.</p>
-                        
-                        <p><strong>Corridor Protection:</strong> Efforts to maintain and restore migration routes between protected areas.</p>
-                        
-                        <p><strong>Success Stories:</strong> Amboseli's elephant population has actually grown over the past few decades, from approximately 600 in the 1970s to over 1,800 today. This success demonstrates that with adequate protection, community involvement, and sustainable tourism, elephant populations can recover.</p>
-                    </section>
-                </div>
+                    <p>Here, the Maasai people, who have shared these lands with elephants for centuries, are becoming their greatest protectors. Community conservancies, anti-poaching patrols, and innovative tourism models are demonstrating that elephants are worth more alive than dead. When a tourist pays to witness these magnificent creatures in their natural habitat, that revenue flows back into local communities, funding schools, healthcare, and conservation efforts.</p>
+                    
+                    <p>The elephants of Amboseli have become symbols of what's possible when humans choose stewardship over exploitation. Each individual carries a story—the matriarch who led her family through drought, the young bull testing his strength, the calf taking its first wobbly steps. They remind us that we are not separate from nature, but part of it, and that our choices ripple outward in ways we may never fully see.</p>
+                    
+                    <p>To look into an elephant's eye is to see something ancient and wise, a consciousness that has witnessed the rise and fall of civilizations, the changing of climates, the endless cycle of seasons. They are Africa's memory keepers, and in protecting them, we protect a part of ourselves.</p>
+                </section>
                 
-                <aside class="sidebar">
-                    <div class="info-card">
-                        <h3>Quick Facts</h3>
-                        <dl>
-                            <dt>Status</dt>
-                            <dd>{animal.status}</dd>
-                            
-                            <dt>Population</dt>
-                            <dd>{animal.population}</dd>
-                            
-                            <dt>Trend</dt>
-                            <dd class="trend-down">{animal.trend}</dd>
-                            
-                            <dt>Location</dt>
-                            <dd>{animal.location}</dd>
-                        </dl>
-                    </div>
+                <section class="habitat">
+                    <h2>Habitat</h2>
+                    <p>African elephants inhabit a diverse range of environments across sub-Saharan Africa, from savannas and grasslands to forests and deserts. Amboseli National Park, located in southern Kenya near the Tanzanian border, represents one of the most important elephant habitats in East Africa.</p>
                     
-                    <div class="info-card">
-                        <h3>Location</h3>
-                        <p>Amboseli National Park, Kenya</p>
-                        <p style="margin-top: 1rem; font-size: 0.85rem; opacity: 0.7;">Image created with AI assistance</p>
-                    </div>
+                    <p>The park's ecosystem is defined by its seasonal wetlands, fed by underground rivers from Mount Kilimanjaro's melting snows. These swamps create lush oases in an otherwise arid landscape, attracting elephants and hundreds of other species. During the dry season, these water sources become critical, concentrating elephant populations and creating extraordinary wildlife viewing opportunities.</p>
                     
-                    <div class="info-card">
-                        <h3>Sources</h3>
-                        <ul class="sources">
-                            <li><a href="https://www.iucnredlist.org" target="_blank">IUCN Red List</a></li>
-                            <li><a href="https://www.worldwildlife.org" target="_blank">World Wildlife Fund</a></li>
-                            <li><a href="https://www.elephanttrust.org" target="_blank">Amboseli Trust for Elephants</a></li>
-                            <li><a href="https://www.savetheelephants.org" target="_blank">Save the Elephants</a></li>
-                        </ul>
+                    <p>Elephants are constantly on the move, following ancient migration routes that can span hundreds of kilometers. In Amboseli, they move between the park's swamps and the surrounding community lands, creating a landscape-scale conservation challenge that requires coordination between park authorities, local communities, and private landowners.</p>
+                </section>
+                
+                <section class="importance">
+                    <h2>Ecological Importance</h2>
+                    <p>African elephants are keystone species—organisms that have a disproportionate impact on their environment relative to their abundance. Their ecological contributions include:</p>
+                    
+                    <p><strong>Habitat Modification:</strong> By feeding on trees and shrubs, elephants prevent savannas from becoming forests, maintaining the open grasslands that support grazing animals like zebras, wildebeest, and gazelles.</p>
+                    
+                    <p><strong>Water Access:</strong> Elephants dig water holes in dry riverbeds, creating water sources used by everything from birds to antelopes to predators.</p>
+                    
+                    <p><strong>Seed Dispersal:</strong> An elephant can consume hundreds of pounds of vegetation daily, and their dung spreads seeds across vast distances. Some tree species depend entirely on elephants for dispersal.</p>
+                    
+                    <p><strong>Nutrient Cycling:</strong> Elephant dung fertilizes the soil and provides food for insects, birds, and small mammals. A single elephant can produce over 100 pounds of dung daily.</p>
+                    
+                    <p><strong>Path Creation:</strong> Elephant trails become highways for other animals, creating pathways through dense vegetation and connecting different habitats.</p>
+                </section>
+                
+                <section class="conservation">
+                    <h2>Conservation</h2>
+                    <p><strong>Primary Threats:</strong></p>
+                    <p><strong>Poaching:</strong> Despite the international ivory trade ban, illegal killing remains the greatest threat, with an estimated 20,000-30,000 elephants killed annually for their tusks.</p>
+                    
+                    <p><strong>Habitat Loss:</strong> Expanding agriculture, infrastructure development, and human settlement fragment elephant ranges and block migration corridors.</p>
+                    
+                    <p><strong>Human-Elephant Conflict:</strong> As human populations expand into elephant habitats, crop-raiding and property damage lead to retaliatory killings.</p>
+                    
+                    <p><strong>Conservation Efforts:</strong></p>
+                    <p><strong>Anti-Poaching Patrols:</strong> Armed ranger units patrol protected areas, using technology like drones and camera traps to detect and deter poachers.</p>
+                    
+                    <p><strong>Community Conservancies:</strong> Programs that provide economic benefits to local communities from elephant conservation, creating incentives for protection rather than poaching.</p>
+                    
+                    <p><strong>Corridor Protection:</strong> Efforts to maintain and restore migration routes between protected areas.</p>
+                    
+                    <p><strong>Success Stories:</strong> Amboseli's elephant population has actually grown over the past few decades, from approximately 600 in the 1970s to over 1,800 today. This success demonstrates that with adequate protection, community involvement, and sustainable tourism, elephant populations can recover.</p>
+                </section>
+                
+                <section class="sources">
+                    <h2>Sources</h2>
+                    <div class="sources-grid">
+                        <a href="https://www.iucnredlist.org" target="_blank" class="source-link">IUCN Red List</a>
+                        <a href="https://www.worldwildlife.org" target="_blank" class="source-link">World Wildlife Fund</a>
+                        <a href="https://www.elephanttrust.org" target="_blank" class="source-link">Amboseli Trust for Elephants</a>
+                        <a href="https://www.savetheelephants.org" target="_blank" class="source-link">Save the Elephants</a>
                     </div>
-                </aside>
+                </section>
             </div>
         </div>
     </article>
@@ -129,23 +125,27 @@ const animal = {
         min-height: 100vh;
     }
     
+    /* Hero Section */
+    .hero-section {
+        position: relative;
+    }
+    
     .hero-image {
-        height: 70vh;
+        height: 80vh;
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
-        margin-bottom: 2rem;
+        position: relative;
     }
     
-    .content-wrapper {
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 4rem 3rem;
-    }
-    
-    .animal-header {
+    .hero-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 4rem;
+        background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 50%, transparent 100%);
         text-align: center;
-        margin-bottom: 4rem;
     }
     
     .status-badge {
@@ -157,10 +157,10 @@ const animal = {
         font-size: 0.8rem;
         letter-spacing: 0.1em;
         text-transform: uppercase;
-        margin-bottom: 1.5rem;
+        margin-bottom: 1rem;
     }
     
-    .animal-header h1 {
+    .hero-overlay h1 {
         font-family: 'Cormorant Garamond', serif;
         font-size: clamp(2.5rem, 5vw, 4rem);
         font-weight: 400;
@@ -169,123 +169,124 @@ const animal = {
     
     .scientific {
         font-style: italic;
-        opacity: 0.6;
+        opacity: 0.8;
         font-size: 1.1rem;
     }
     
-    .content-grid {
-        display: grid;
-        grid-template-columns: 2fr 1fr;
-        gap: 4rem;
-    }
-    
-    .main-content section {
-        margin-bottom: 3rem;
-    }
-    
-    .main-content h2 {
-        font-family: 'Cormorant Garamond', serif;
-        font-size: 1.75rem;
-        font-weight: 400;
-        margin-bottom: 1.5rem;
-        letter-spacing: 0.05em;
-    }
-    
-    .main-content p {
-        margin-bottom: 1.25rem;
-        line-height: 1.8;
-        opacity: 0.9;
-    }
-    
-    .sidebar {
-        position: sticky;
-        top: 100px;
-        height: fit-content;
-    }
-    
-    .info-card {
+    /* Facts Bar */
+    .facts-bar {
+        display: flex;
+        justify-content: center;
+        gap: 3rem;
+        padding: 2rem;
         background: #111;
-        padding: 1.5rem;
-        border-radius: 4px;
-        margin-bottom: 1.5rem;
+        border-bottom: 1px solid #222;
+        flex-wrap: wrap;
     }
     
-    .info-card h3 {
-        font-family: 'Cormorant Garamond', serif;
-        font-size: 1.1rem;
-        font-weight: 400;
-        margin-bottom: 1rem;
-        letter-spacing: 0.05em;
-        border-bottom: 1px solid #333;
-        padding-bottom: 0.5rem;
+    .fact-item {
+        text-align: center;
     }
     
-    .info-card dl {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 0.75rem;
-    }
-    
-    .info-card dt {
-        font-size: 0.8rem;
-        opacity: 0.6;
+    .fact-label {
+        display: block;
+        font-size: 0.75rem;
         text-transform: uppercase;
-        letter-spacing: 0.05em;
+        letter-spacing: 0.1em;
+        opacity: 0.6;
+        margin-bottom: 0.5rem;
     }
     
-    .info-card dd {
-        font-size: 0.9rem;
-        text-align: right;
+    .fact-value {
+        display: block;
+        font-size: 1rem;
+        font-weight: 500;
+    }
+    
+    .status-text {
+        color: #ff6b6b;
     }
     
     .trend-down {
         color: #ff6b6b;
     }
     
-    .info-card p {
-        font-size: 0.9rem;
-        margin-bottom: 0.75rem;
-        line-height: 1.6;
+    /* Main Content */
+    .content-wrapper {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 4rem 2rem;
     }
     
-    .prompt-link {
-        color: #fff;
-        text-decoration: none;
-        font-size: 0.85rem;
-        opacity: 0.7;
-        transition: opacity 0.3s;
+    .main-content section {
+        margin-bottom: 4rem;
     }
     
-    .prompt-link:hover {
-        opacity: 1;
+    .main-content h2 {
+        font-family: 'Cormorant Garamond', serif;
+        font-size: 2rem;
+        font-weight: 400;
+        margin-bottom: 1.5rem;
+        letter-spacing: 0.05em;
+        text-align: center;
     }
     
-    .sources {
-        list-style: none;
+    .main-content p {
+        margin-bottom: 1.25rem;
+        line-height: 1.8;
+        opacity: 0.9;
+        font-size: 1.05rem;
     }
     
-    .sources li {
-        margin-bottom: 0.5rem;
+    /* Sources */
+    .sources-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        justify-content: center;
     }
     
-    .sources a {
+    .source-link {
         color: #888;
         text-decoration: none;
-        font-size: 0.85rem;
-        transition: color 0.3s;
+        padding: 0.5rem 1rem;
+        border: 1px solid #333;
+        border-radius: 2px;
+        transition: all 0.3s;
+        font-size: 0.9rem;
     }
     
-    .sources a:hover {
+    .source-link:hover {
         color: #fff;
+        border-color: #666;
     }
     
-    @media (max-width: 968px) {
-        .content-grid {
-            grid-template-columns: 1fr;
+    /* Mobile Responsive */
+    @media (max-width: 768px) {
+        .hero-image {
+            height: 60vh;
         }
         
-        .sidebar {
-            position: static;
+        .hero-overlay {
+            padding: 2rem;
+        }
+        
+        .facts-bar {
+            gap: 1.5rem;
+            padding: 1.5rem 1rem;
+        }
+        
+        .fact-item {
+            flex: 1 1 40%;
+            min-width: 140px;
+        }
+        
+        .content-wrapper {
+            padding: 2rem 1.5rem;
+        }
+        
+        .main-content h2 {
+            font-size: 1.75rem;
         }
     }
 </style>
