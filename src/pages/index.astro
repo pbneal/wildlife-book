@@ -5,6 +5,15 @@ import animalsData from '../data/animals.json';
 
 const sortedContinents = animalsData.continents.sort((a, b) => a.order - b.order);
 const featuredAnimals = animalsData.animals.slice(0, 4);
+
+// Helper to check if image exists (we'll pass the path and let the browser handle 404s)
+const getAnimalImage = (slug: string) => `/images/${slug}.png`;
+const getContinentImage = (slug: string) => {
+  const continentImages: Record<string, string> = {
+    'africa': '/images/lion.png',
+  };
+  return continentImages[slug];
+};
 ---
 
 <Layout>
@@ -22,10 +31,12 @@ const featuredAnimals = animalsData.animals.slice(0, 4);
     <div class="story-grid story-grid--continents">
       {sortedContinents.map(continent => {
         const animalCount = animalsData.animals.filter(a => a.continent === continent.name).length;
+        const continentImage = getContinentImage(continent.slug);
         return (
           <StoryCard
             href={`/continents/${continent.slug}`}
-            emoji={continent.emoji}
+            image={continentImage}
+            emoji={!continentImage ? continent.emoji : undefined}
             title={continent.name}
             subtitle={`${animalCount} animals featured`}
             size="medium"
@@ -42,6 +53,8 @@ const featuredAnimals = animalsData.animals.slice(0, 4);
         {featuredAnimals.map(animal => (
           <StoryCard
             href={`/animals/${animal.slug}`}
+            image={getAnimalImage(animal.slug)}
+            emoji={animal.emoji}
             title={animal.name}
             subtitle={animal.continent}
             status={animal.status}

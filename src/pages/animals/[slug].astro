@@ -12,7 +12,7 @@ export async function getStaticPaths() {
 const { animal } = Astro.props;
 const continent = animalsData.continents.find(c => c.name === animal.continent);
 
-// Check if image and video exist for this animal
+// Media paths
 const imagePath = `/images/${animal.slug}.png`;
 const videoPath = `/images/${animal.slug}.mp4`;
 ---
@@ -76,6 +76,11 @@ const videoPath = `/images/${animal.slug}.mp4`;
 
   <article class="animal-content">
     <div class="content-wrapper">
+      <!-- Featured Image -->
+      <section class="featured-image-section">
+        <img src={imagePath} alt={animal.name} class="featured-image" />
+      </section>
+
       <section class="description">
         <p class="lead">{animal.description}</p>
       </section>
@@ -275,13 +280,25 @@ const videoPath = `/images/${animal.slug}.mp4`;
   }
 
   .animal-content {
-    max-width: 700px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 4rem 2rem;
   }
 
   .content-wrapper section {
     margin-bottom: 3.5rem;
+  }
+
+  /* Featured Image Section */
+  .featured-image-section {
+    margin-bottom: 3rem;
+  }
+
+  .featured-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
   }
 
   .description .lead {
@@ -332,7 +349,7 @@ const videoPath = `/images/${animal.slug}.mp4`;
   .animal-navigation {
     display: flex;
     justify-content: space-between;
-    max-width: 700px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 2.5rem 2rem;
     border-top: 1px solid rgba(255, 255, 255, 0.05);

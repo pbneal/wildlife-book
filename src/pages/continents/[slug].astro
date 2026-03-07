@@ -13,6 +13,9 @@ export async function getStaticPaths() {
 const { continent } = Astro.props;
 const continentAnimals = animalsData.animals.filter(a => a.continent === continent.name);
 
+// Helper to get animal image
+const getAnimalImage = (slug: string) => `/images/${slug}.png`;
+
 // Hero images for specific continents
 const heroImages: Record<string, string> = {
   'africa': '/images/lion.png',
@@ -44,11 +47,11 @@ const heroImage = heroImages[continent.slug];
     <h2 class="section-title">Regions</h2>
     <div class="subregions-grid">
       {continent.subregions.map(sub => (
-        <div class="subregion-item">
+        <a href={`/regions/${sub.name.toLowerCase().replace(/\s+/g, '-')}`} class="subregion-item">
           <h3>{sub.name}</h3>
           <p class="countries">{sub.countries.join(', ')}</p>
           <p class="habitat">{sub.habitat}</p>
-        </div>
+        </a>
       ))}
     </div>
   </section>
@@ -60,6 +63,8 @@ const heroImage = heroImages[continent.slug];
         {continentAnimals.map(animal => (
           <StoryCard
             href={`/animals/${animal.slug}`}
+            image={getAnimalImage(animal.slug)}
+            emoji={animal.emoji}
             title={animal.name}
             subtitle={animal.scientificName}
             status={animal.status}
@@ -170,6 +175,13 @@ const heroImage = heroImages[continent.slug];
     background: #050505;
     padding: 2rem;
     text-align: center;
+    text-decoration: none;
+    color: inherit;
+    transition: background 0.3s;
+  }
+
+  .subregion-item:hover {
+    background: #0a0a0a;
   }
 
   .subregion-item h3 {
