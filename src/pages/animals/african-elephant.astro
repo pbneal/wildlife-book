@@ -20,8 +20,8 @@ const animal = {
                 <div class="hero-image" style={`background-image: url('${animal.image}')`}>
                     <div class="click-hint">Click to view full image</div>
                     <div class="hero-overlay">
-                        <h1 style="color: #ffffff; text-shadow: 0 2px 20px rgba(0,0,0,0.9);">{animal.name}</h1>
-                        <p class="scientific" style="color: #ffffff; text-shadow: 0 1px 10px rgba(0,0,0,0.9);">{animal.scientific}</p>
+                        <h1>{animal.name}</h1>
+                        <p class="scientific">{animal.scientific}</p>
                     </div>
                 </div>
             </label>
@@ -164,11 +164,15 @@ const animal = {
         font-weight: 400;
         margin-bottom: 0.5rem;
         letter-spacing: 0.15em;
+        color: #ffffff !important;
+        text-shadow: 0 2px 20px rgba(0,0,0,0.9) !important;
     }
     
-    .scientific {
+    .hero-overlay .scientific {
         font-style: italic;
         font-size: 1.1rem;
+        color: #ffffff !important;
+        text-shadow: 0 1px 10px rgba(0,0,0,0.9) !important;
     }
     
     /* Facts Bar */
