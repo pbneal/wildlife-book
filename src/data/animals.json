@@ -234,7 +234,16 @@
         "lifespan": "60-70 years",
         "weight": "4,000-7,000 kg"
       },
-      "midjourneyPrompt": "Professional wildlife photography of an African elephant in golden hour light, standing in the Serengeti grasslands, dust particles in air, National Geographic style, 400mm lens, shallow depth of field, warm savanna colors, highly detailed, photorealistic --ar 3:2 --v 6",
+      "media": {
+        "heroImage": "/images/african-elephant.jpg",
+        "image2": "/images/african-elephant-2.jpg",
+        "video": "/videos/african-elephant.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African bull elephant with large tusks in Amboseli National Park Kenya, dramatic black and white photography, high contrast, dust particles in golden light, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, elephant fills frame, timeless melancholic mood, fine art conservation photography, dry grassy plain background, Mount Kilimanjaro distant, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, massive African elephant bull crossing Chobe River Botswana, dramatic golden hour backlighting, water splashing, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, river and wetland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African elephant herd walking across savanna at sunset, dust clouds rising, golden hour lighting, slow motion, 4K, dramatic music, National Geographic documentary style"
+      },
       "description": "The African elephant is the largest land animal on Earth. These magnificent creatures roam the savannas and forests of sub-Saharan Africa, playing a crucial role in their ecosystems as ecosystem engineers.",
       "highlights": [
         "Largest land animal on Earth",
@@ -242,7 +251,7 @@
         "Ecosystem engineers that shape their environment",
         "Can communicate over long distances via infrasound"
       ],
-      "conservation": "Classified as Endangered by the IUCN. Major threats include poaching for ivory, habitat loss due to human expansion, and human-elephant conflict. Conservation efforts focus on anti-poaching measures, habitat protection, and community-based initiatives."
+      "conservation": "Classified as Endangered by the IUCN. Major threats include poaching for ivory, habitat loss due to human expansion, and human-elephant conflict."
     },
     {
       "slug": "lion",
@@ -258,8 +267,17 @@
         "lifespan": "10-14 years (wild)",
         "weight": "120-190 kg (male)"
       },
-      "midjourneyPrompt": "Majestic male lion portrait at golden hour, mane glowing in warm light, African savanna background, professional wildlife photography, National Geographic quality, 600mm lens, sharp focus on eyes, shallow depth of field, dramatic lighting, photorealistic --ar 3:2 --v 6",
-      "description": "The lion has long been celebrated as the 'King of Beasts' and remains one of Africa's most iconic predators. These magnificent cats once roamed across Africa, Asia, and Europe.",
+      "media": {
+        "heroImage": "/images/lion.jpg",
+        "image2": "/images/lion-2.jpg",
+        "video": "/videos/lion.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, majestic male African lion with full mane in Serengeti Tanzania, dramatic golden hour backlighting, intense predator gaze, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, golden mane glowing in sunset light, National Geographic quality, tall dry grass foreground, conservation photography, intense amber eyes, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, lion face close-up in Masai Mara Kenya, dramatic black and white photography, high contrast, intense eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, lion fills frame, timeless powerful mood, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, lion pride resting on rocks at sunset, cubs playing, golden hour lighting, slow motion, 4K, dramatic music, National Geographic documentary style"
+      },
+      "description": "The lion has long been celebrated as the 'King of Beasts' and remains one of Africa's most iconic predators.",
       "highlights": [
         "Only truly social cat, living in prides",
         "Female lions do majority of hunting",
@@ -282,15 +300,24 @@
         "lifespan": "20-25 years",
         "weight": "800-1,900 kg"
       },
-      "midjourneyPrompt": "Towering giraffe silhouette against dramatic African sunset, acacia trees in background, professional wildlife photography, golden hour lighting, National Geographic style, long neck extended, elegant pose, warm orange and purple sky, photorealistic --ar 2:3 --v 6",
-      "description": "The giraffe is the world's tallest mammal, with legs alone often taller than most humans. These gentle giants tower over the African savanna.",
+      "media": {
+        "heroImage": "/images/giraffe.jpg",
+        "image2": "/images/giraffe-2.jpg",
+        "video": "/videos/giraffe.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic environmental portrait, elegant Maasai giraffe in Masai Mara Kenya, environmental storytelling, acacia tree silhouette, perfect natural lighting at dawn, graduated ND filter sky effect, surreal atmospheric perspective, giraffe in landscape context, Canon EOS R5, 100-400mm telephoto zoom, environmental conservation photography, East African savanna, distant mountains, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, giraffe head and neck close-up against blue sky, dramatic lighting, detailed pattern, studio-like composition, Canon EOS R5, 200mm lens, intimate close-up, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, giraffe walking through acacia trees at sunset, long neck silhouette, golden hour lighting, slow motion, 4K, peaceful music, National Geographic documentary style"
+      },
+      "description": "The giraffe is the world's tallest mammal, with legs alone often taller than most humans.",
       "highlights": [
         "World's tallest mammal",
         "Heart weighs up to 11 kg to pump blood to brain",
         "Prehensile tongue is 45cm long",
         "Pattern is unique as human fingerprint"
       ],
-      "conservation": "Populations have declined by 40% in 30 years. Silent extinction threatens these iconic animals as they receive less conservation attention."
+      "conservation": "Populations have declined by 40% in 30 years. Silent extinction threatens these iconic animals."
     },
     {
       "slug": "zebra",
@@ -306,7 +333,16 @@
         "lifespan": "20-30 years",
         "weight": "175-450 kg"
       },
-      "midjourneyPrompt": "Dramatic close-up of zebra stripes, abstract pattern, black and white contrast, professional wildlife photography, shallow depth of field, texture detail, artistic composition, National Geographic quality, photorealistic --ar 3:2 --v 6",
+      "media": {
+        "heroImage": "/images/zebra.jpg",
+        "image2": "/images/zebra-2.jpg",
+        "video": "/videos/zebra.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, zebra herd abstract pattern study in Ngorongoro Crater Tanzania, dramatic black and white photography, high contrast, graphic stripes creating visual rhythm, Pentax 67II medium format camera, 200mm lens, timeless composition, fine art photography, dust and golden light, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, zebra drinking at waterhole at sunset, reflection in water, dramatic golden hour lighting, Canon EOS R5, 400mm lens, National Geographic quality, African savanna, conservation photography --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, zebra herd running across plains, dust flying, motion blur, dramatic lighting, slow motion, 4K, intense music, National Geographic documentary style"
+      },
       "description": "Zebras are among Africa's most distinctive animals, their black-and-white stripes creating patterns as unique as human fingerprints.",
       "highlights": [
         "Each zebra has unique stripe pattern",
@@ -330,7 +366,16 @@
         "lifespan": "10-12 years (wild)",
         "weight": "21-72 kg"
       },
-      "midjourneyPrompt": "Cheetah in full sprint, motion blur effect, dust flying, African savanna, professional wildlife action photography, golden hour, dynamic composition, speed and power, National Geographic style, photorealistic --ar 3:2 --v 6",
+      "media": {
+        "heroImage": "/images/cheetah.jpg",
+        "image2": "/images/cheetah-2.jpg",
+        "video": "/videos/cheetah.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, cheetah stalking prey in Serengeti Tanzania, intense focus and concentration, Canon EOS-1D X Mark III, 600mm f/4 telephoto lens, shallow depth of field, low angle ground perspective, tall golden grass, dramatic side lighting, spotted coat detail, National Geographic quality, predator behavior moment, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, cheetah in full sprint, motion blur effect, dust flying, African savanna, professional wildlife action photography, golden hour, dynamic composition, speed and power, National Geographic style --ar 3:2 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, cheetah chasing prey at full speed, slow motion capture of running, dust clouds, intense action, 4K, dramatic music, National Geographic documentary style"
+      },
       "description": "The cheetah is the world's fastest land animal, capable of reaching speeds up to 70 mph in mere seconds.",
       "highlights": [
         "Fastest land animal (70 mph)",
@@ -354,7 +399,16 @@
         "lifespan": "40-50 years",
         "weight": "1,300-1,500 kg"
       },
-      "midjourneyPrompt": "Hippopotamus emerging from water at sunset, water droplets falling, African river scene, professional wildlife photography, golden hour backlighting, dramatic lighting, National Geographic quality, photorealistic --ar 3:2 --v 6",
+      "media": {
+        "heroImage": "/images/hippopotamus.jpg",
+        "image2": "/images/hippopotamus-2.jpg",
+        "video": "/videos/hippopotamus.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic environmental portrait, hippopotamus emerging from water at sunset in Ngorongoro Crater Tanzania, water droplets cascading, environmental storytelling, perfect natural lighting, surreal atmospheric perspective, hippo in aquatic context, Canon EOS R5, 70-200mm lens, environmental conservation photography, East African wetland, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, hippo yawning showing massive teeth, aggressive display, dramatic lighting, Canon EOS R5, 400mm lens, National Geographic quality, African river, conservation photography --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, hippos in river at sunset, water ripples, steam rising, territorial displays, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
       "description": "The hippopotamus is Africa's most dangerous large animal. Despite their comical appearance, these massive herbivores command respect.",
       "highlights": [
         "Africa's most dangerous animal",
@@ -363,6 +417,72 @@
         "Territorial and fiercely protective"
       ],
       "conservation": "Significant decline due to habitat loss and poaching for ivory (canine teeth)."
+    },
+    {
+      "slug": "african-wild-dog",
+      "name": "African Wild Dog",
+      "scientificName": "Lycaon pictus",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Endangered",
+      "emoji": "🐕",
+      "stats": {
+        "habitat": "Savannas, Grasslands",
+        "diet": "Carnivore",
+        "lifespan": "10-11 years (wild)",
+        "weight": "20-30 kg"
+      },
+      "media": {
+        "heroImage": "/images/african-wild-dog.jpg",
+        "image2": "/images/african-wild-dog-2.jpg",
+        "video": "/videos/african-wild-dog.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, African wild dog pack on hunt in Okavango Delta Botswana, dramatic action, intense predator coordination, Canon EOS-1D X Mark III, 400mm f/2.8 telephoto lens, shallow depth of field, painted coat pattern detail, National Geographic quality, wetland grass foreground, conservation photography, endangered species, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, African wild dog face close-up, colorful coat pattern, intense eyes, Canon EOS R5, 400mm lens, National Geographic quality, conservation photography --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African wild dog pack hunting, coordinated chase, dramatic action, slow motion, 4K, intense music, National Geographic documentary style"
+      },
+      "description": "The African wild dog is one of the world's most endangered mammals. These highly social predators are known for their distinctive coat patterns and cooperative hunting.",
+      "highlights": [
+        "Most successful hunters (80% success rate)",
+        "Highly social pack animals",
+        "Each has unique coat pattern",
+        "Can run 66 km/h"
+      ],
+      "conservation": "Only about 6,600 remain. Major threats include habitat fragmentation, human conflict, and disease from domestic dogs."
+    },
+    {
+      "slug": "white-rhino",
+      "name": "White Rhino",
+      "scientificName": "Ceratotherium simum",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Near Threatened",
+      "emoji": "🦏",
+      "stats": {
+        "habitat": "Grasslands, Savannas",
+        "diet": "Herbivore",
+        "lifespan": "40-50 years",
+        "weight": "1,800-2,500 kg"
+      },
+      "media": {
+        "heroImage": "/images/white-rhino.jpg",
+        "image2": "/images/white-rhino-2.jpg",
+        "video": "/videos/white-rhino.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, white rhino mother and calf in Kruger National Park South Africa, dramatic black and white photography, high contrast, tender moment, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate composition, timeless protective mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, white rhino grazing at sunset, dramatic golden hour lighting, Canon EOS R5, 400mm lens, National Geographic quality, conservation photography --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, white rhino mother and calf walking across savanna, protective behavior, golden hour, slow motion, 4K, peaceful music, National Geographic documentary style"
+      },
+      "description": "The white rhino is the second largest land mammal. Despite their name, they are not white but gray. 'White' comes from the Afrikaans word 'wyd' meaning wide, referring to their wide mouths.",
+      "highlights": [
+        "Second largest land mammal",
+        "Square-lipped grazer",
+        "Social compared to black rhino",
+        "Conservation success story"
+      ],
+      "conservation": "Southern white rhinos recovered from near extinction. Northern white rhino functionally extinct with only 2 females remaining."
     },
     {
       "slug": "bengal-tiger",
@@ -378,7 +498,16 @@
         "lifespan": "8-10 years (wild)",
         "weight": "180-260 kg (male)"
       },
-      "midjourneyPrompt": "Majestic Bengal tiger in Indian jungle, orange and black stripes, intense gaze, dappled sunlight through canopy, professional wildlife photography, National Geographic style, 400mm lens, shallow depth of field, mystical atmosphere, photorealistic --ar 3:2 --v 6",
+      "media": {
+        "heroImage": "/images/bengal-tiger.jpg",
+        "image2": "/images/bengal-tiger-2.jpg",
+        "video": "/videos/bengal-tiger.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, majestic Bengal tiger in Ranthambore India, dramatic golden hour backlighting, intense predator gaze through grass, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, orange and black stripes glowing, National Geographic quality, tall dry grass foreground, conservation photography, intense amber eyes, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, Bengal tiger face close-up in Bandhavgarh India, dramatic black and white photography, high contrast, intense eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, tiger fills frame, timeless powerful mood, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Bengal tiger walking through jungle, dappled sunlight, intense gaze, slow motion, 4K, mysterious atmosphere, National Geographic documentary style"
+      },
       "description": "The Bengal tiger is among the most magnificent predators on Earth. As the most numerous tiger subspecies, it represents both conservation success and ongoing challenges.",
       "highlights": [
         "Most numerous tiger subspecies",
@@ -393,7 +522,7 @@
       "name": "Giant Panda",
       "scientificName": "Ailuropoda melanoleuca",
       "continent": "Asia",
-      "subregion": "Southeast Asia",
+      "subregion": "East Asia",
       "status": "Vulnerable",
       "emoji": "🐼",
       "stats": {
@@ -402,7 +531,16 @@
         "lifespan": "20 years (wild)",
         "weight": "85-125 kg"
       },
-      "midjourneyPrompt": "Giant panda sitting among bamboo forest, misty mountain atmosphere, Sichuan China, professional wildlife photography, soft diffused lighting, black and white contrast, peaceful expression, National Geographic style, photorealistic --ar 3:2 --v 6",
+      "media": {
+        "heroImage": "/images/giant-panda.jpg",
+        "image2": "/images/giant-panda-2.jpg",
+        "video": "/videos/giant-panda.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic environmental portrait, giant panda feeding on bamboo in Sichuan China, environmental storytelling, misty mountain bamboo forest, perfect natural lighting filtering through canopy, Canon EOS R5, 400mm lens, environmental conservation photography, endangered species, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, giant panda face close-up, dramatic black and white photography, high contrast, soulful eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, panda fills frame, timeless contemplative mood, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, giant panda eating bamboo, close-up of paws and face, peaceful forest atmosphere, slow motion, 4K, gentle music, National Geographic documentary style"
+      },
       "description": "The giant panda is one of the world's most beloved animals and the global symbol of wildlife conservation.",
       "highlights": [
         "Eats 12-38 kg of bamboo daily",
@@ -411,6 +549,39 @@
         "Conservation success story"
       ],
       "conservation": "Remarkable recovery through China's conservation efforts. Wild populations exceed 1,800 individuals."
+    },
+    {
+      "slug": "orangutan",
+      "name": "Orangutan",
+      "scientificName": "Pongo pygmaeus",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Critically Endangered",
+      "emoji": "🦧",
+      "stats": {
+        "habitat": "Tropical Rainforests",
+        "diet": "Omnivore (mostly fruit)",
+        "lifespan": "35-45 years (wild)",
+        "weight": "50-90 kg (male)"
+      },
+      "media": {
+        "heroImage": "/images/orangutan.jpg",
+        "image2": "/images/orangutan-2.jpg",
+        "video": "/videos/orangutan.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, Bornean orangutan in Tanjung Puting Indonesia, intimate close-up portrait, rainforest atmosphere, diffused natural light, Canon EOS R5, 200mm lens, shallow depth of field, orangutan fills frame, intelligent eyes connection, timeless contemplative mood, fine art conservation photography, critically endangered, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic environmental portrait, orangutan swinging through rainforest canopy in Borneo, environmental storytelling, dynamic action, perfect natural lighting, Canon EOS R5, 400mm lens, environmental conservation photography, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, orangutan moving through forest canopy, thoughtful expressions, slow motion, 4K, contemplative music, National Geographic documentary style"
+      },
+      "description": "Orangutans are the largest arboreal mammals and share 97% of their DNA with humans. Their name means 'person of the forest' in Malay.",
+      "highlights": [
+        "Largest tree-dwelling mammal",
+        "Share 97% DNA with humans",
+        "Solitary compared to other great apes",
+        "Build new nest every night"
+      ],
+      "conservation": "Critically endangered due to palm oil deforestation. Bornean orangutans declined by over 50% in 60 years."
     },
     {
       "slug": "grizzly-bear",
@@ -426,7 +597,16 @@
         "lifespan": "20-30 years",
         "weight": "180-360 kg (male)"
       },
-      "midjourneyPrompt": "Massive grizzly bear catching salmon at waterfall, Alaska wilderness, dramatic action shot, water splashing, professional wildlife photography, National Geographic style, 400mm lens, golden hour lighting, powerful and wild, photorealistic --ar 3:2 --v 6",
+      "media": {
+        "heroImage": "/images/grizzly-bear.jpg",
+        "image2": "/images/grizzly-bear-2.jpg",
+        "video": "/videos/grizzly-bear.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, massive grizzly bear catching salmon at Brooks Falls Alaska, dramatic action shot, water splashing, Canon EOS-1D X Mark III, 400mm f/2.8 telephoto lens, shallow depth of field, National Geographic quality, river and forest foreground, conservation photography, powerful predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, grizzly bear face in snow in Katmai Alaska, dramatic black and white photography, high contrast, piercing eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, bear fills frame, timeless wild mood, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, grizzly bear fishing for salmon at waterfall, dramatic splashes, slow motion capture, 4K, intense action music, National Geographic documentary style"
+      },
       "description": "The grizzly bear commands respect as one of North America's largest predators. Famous for dramatic salmon fishing during spawning runs.",
       "highlights": [
         "Can eat dozens of salmon daily during runs",
@@ -450,7 +630,16 @@
         "lifespan": "20-30 years",
         "weight": "3-6.3 kg"
       },
-      "midjourneyPrompt": "Bald eagle in flight, wings spread wide, American flag colors in background blur, professional wildlife photography, dramatic sky, patriotic atmosphere, National Geographic quality, sharp focus, majestic and powerful, photorealistic --ar 3:2 --v 6",
+      "media": {
+        "heroImage": "/images/bald-eagle.jpg",
+        "image2": "/images/bald-eagle-2.jpg",
+        "video": "/videos/bald-eagle.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, bald eagle diving for fish in Alaska, dramatic action frozen, wings spread, Canon EOS-1D X Mark III, 600mm f/4 telephoto lens, shallow depth of field, National Geographic quality, water splash foreground, conservation photography, national symbol, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, bald eagle perched on branch, intense gaze, white head contrast, dramatic lighting, Canon EOS R5, 500mm lens, National Geographic quality, sharp focus, majestic and powerful --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, bald eagle soaring over mountains, dramatic flight, slow motion wing beats, 4K, patriotic atmosphere, National Geographic documentary style"
+      },
       "description": "The bald eagle is one of North America's most majestic birds and serves as the national symbol of the United States.",
       "highlights": [
         "National symbol of USA",
@@ -459,6 +648,105 @@
         "Can reach 160 km/h in dives"
       ],
       "conservation": "Removed from Endangered Species List in 2007. Proof that environmental protection works."
+    },
+    {
+      "slug": "gray-wolf",
+      "name": "Gray Wolf",
+      "scientificName": "Canis lupus",
+      "continent": "North America",
+      "subregion": "Northern Forests",
+      "status": "Least Concern",
+      "emoji": "🐺",
+      "stats": {
+        "habitat": "Forests, Tundra, Mountains",
+        "diet": "Carnivore",
+        "lifespan": "6-8 years (wild)",
+        "weight": "40-80 kg (male)"
+      },
+      "media": {
+        "heroImage": "/images/gray-wolf.jpg",
+        "image2": "/images/gray-wolf-2.jpg",
+        "video": "/videos/gray-wolf.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, gray wolf pack in Yellowstone Wyoming, dramatic winter backlighting, social predator behavior, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, snowy forest foreground, conservation photography, apex predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, gray wolf face in snow in Yellowstone, dramatic black and white photography, high contrast, piercing eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, wolf fills frame, timeless wild mood, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, gray wolf pack howling at dusk, social interaction, snowy landscape, slow motion, 4K, haunting music, National Geographic documentary style"
+      },
+      "description": "The gray wolf is the largest member of the dog family. These highly social predators were once nearly eliminated from the lower 48 states but are making a comeback.",
+      "highlights": [
+        "Largest wild member of dog family",
+        "Live in packs with complex social structure",
+        "Mate for life",
+        "Howl to communicate over long distances"
+      ],
+      "conservation": "Delisted in some areas but still threatened in others. Controversial recovery efforts ongoing."
+    },
+    {
+      "slug": "polar-bear",
+      "name": "Polar Bear",
+      "scientificName": "Ursus maritimus",
+      "continent": "North America",
+      "subregion": "Arctic",
+      "status": "Vulnerable",
+      "emoji": "🐻‍❄️",
+      "stats": {
+        "habitat": "Sea Ice, Arctic Coasts",
+        "diet": "Carnivore (primarily seals)",
+        "lifespan": "25-30 years",
+        "weight": "350-700 kg (male)"
+      },
+      "media": {
+        "heroImage": "/images/polar-bear.jpg",
+        "image2": "/images/polar-bear-2.jpg",
+        "video": "/videos/polar-bear.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, polar bear on sea ice in Churchill Canada, extreme environment photography, intimate Arctic perspective, Sony A1 mirrorless, 100-400mm lens, dramatic polar lighting, conservation storytelling, melting ice context, climate change symbol, in the style of Paul Nicklen --ar 3:2 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, polar bear face close-up in Canadian Arctic, dramatic black and white photography, high contrast, soulful eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, bear fills frame, timeless melancholic mood, fine art conservation photography, climate vulnerable species, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, polar bear walking on melting sea ice, vast Arctic landscape, climate change context, slow motion, 4K, powerful music, National Geographic documentary style"
+      },
+      "description": "The polar bear is the largest land carnivore and has become the symbol of climate change. These marine mammals depend entirely on sea ice for survival.",
+      "highlights": [
+        "Largest land carnivore",
+        "Excellent swimmers (can swim 100km)",
+        "Transparent fur appears white",
+        "Climate change flagship species"
+      ],
+      "conservation": "Vulnerable due to sea ice loss from climate change. Could face extinction by 2100 if warming continues."
+    },
+    {
+      "slug": "jaguar",
+      "name": "Jaguar",
+      "scientificName": "Panthera onca",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Near Threatened",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "Rainforests, Wetlands, Grasslands",
+        "diet": "Carnivore",
+        "lifespan": "12-15 years (wild)",
+        "weight": "56-96 kg (male)"
+      },
+      "media": {
+        "heroImage": "/images/jaguar.jpg",
+        "image2": "/images/jaguar-2.jpg",
+        "video": "/videos/jaguar.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife photography, jaguar hunting caiman in Pantanal Brazil, dramatic action shot, water explosion, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, wetland foreground, conservation photography, apex predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife portrait, jaguar face close-up in Amazon Brazil, dramatic black and white photography, high contrast, intense eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, jaguar fills frame, timeless powerful mood, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, jaguar stalking and hunting caiman, dramatic water action, slow motion, 4K, intense music, National Geographic documentary style"
+      },
+      "description": "The jaguar is the largest cat in the Americas and the third largest in the world. Known for their powerful bite that can pierce turtle shells.",
+      "highlights": [
+        "Largest cat in Americas",
+        "Most powerful bite of all big cats",
+        "Excellent swimmers",
+        "Solitary apex predator"
+      ],
+      "conservation": "Near threatened due to habitat loss and conflict with ranchers. Pantanal has highest density."
     }
   ]
 }
