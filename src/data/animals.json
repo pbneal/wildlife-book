@@ -4,7 +4,7 @@
       "slug": "africa",
       "name": "Africa",
       "order": 1,
-      "emoji": "\ud83e\udd81",
+      "emoji": "🦁",
       "description": "The cradle of wildlife, home to the planet's most iconic megafauna",
       "subregions": [
         {
@@ -46,7 +46,7 @@
       "slug": "asia",
       "name": "Asia",
       "order": 2,
-      "emoji": "\ud83d\udc05",
+      "emoji": "🐅",
       "description": "From the Himalayas to tropical rainforests, home to tigers, pandas, and ancient megafauna",
       "subregions": [
         {
@@ -84,7 +84,7 @@
       "slug": "north-america",
       "name": "North America",
       "order": 3,
-      "emoji": "\ud83e\udd85",
+      "emoji": "🦅",
       "description": "From Arctic tundra to desert Southwest, a land of bears, wolves, and iconic birds",
       "subregions": [
         {
@@ -108,7 +108,7 @@
       "slug": "south-america",
       "name": "South America",
       "order": 4,
-      "emoji": "\ud83e\udd9c",
+      "emoji": "🦜",
       "description": "The Amazon rainforest and Andes mountains harbor unparalleled biodiversity",
       "subregions": [
         {
@@ -140,7 +140,7 @@
       "slug": "europe",
       "name": "Europe",
       "order": 5,
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "description": "Ancient forests and mountain ranges where wildlife is slowly returning",
       "subregions": [
         {
@@ -169,7 +169,7 @@
       "slug": "australia",
       "name": "Australia",
       "order": 6,
-      "emoji": "\ud83e\udd98",
+      "emoji": "🦘",
       "description": "An island continent where marsupials rule and unique wildlife evolved in isolation",
       "subregions": [
         {
@@ -198,7 +198,7 @@
       "slug": "antarctica",
       "name": "Antarctica",
       "order": 7,
-      "emoji": "\ud83d\udc27",
+      "emoji": "🐧",
       "description": "The frozen continent, home to extreme survivors and abundant marine life",
       "subregions": [
         {
@@ -227,7 +227,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "\ud83d\udc18",
+      "emoji": "🐘",
       "stats": {
         "habitat": "Savannah, Forests, Grasslands",
         "diet": "Herbivore",
@@ -260,7 +260,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd81",
+      "emoji": "🦁",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Carnivore",
@@ -293,7 +293,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd92",
+      "emoji": "🦒",
       "stats": {
         "habitat": "Savannas, Open Woodlands",
         "diet": "Herbivore",
@@ -326,7 +326,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83e\udd93",
+      "emoji": "🦓",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Herbivore",
@@ -334,9 +334,9 @@
         "weight": "175-450 kg"
       },
       "media": {
-        "heroImage": "/images/zebra.jpg",
-        "image2": "/images/zebra-2.jpg",
-        "video": "/videos/zebra.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, zebra herd abstract pattern study in Ngorongoro Crater Tanzania, dramatic black and white photography, high contrast, graphic stripes creating visual rhythm, Pentax 67II medium format camera, 200mm lens, timeless composition, fine art photography, dust and golden light, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -350,7 +350,7 @@
         "Can run up to 65 km/h",
         "Part of Great Migration with wildebeest"
       ],
-      "conservation": "Plains zebras remain relatively numerous, but Gr\u00e9vy's zebras number fewer than 2,500 individuals."
+      "conservation": "Plains zebras remain relatively numerous, but Grévy's zebras number fewer than 2,500 individuals."
     },
     {
       "slug": "cheetah",
@@ -359,7 +359,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Carnivore",
@@ -392,7 +392,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd9b",
+      "emoji": "🦛",
       "stats": {
         "habitat": "Rivers, Lakes, Wetlands",
         "diet": "Herbivore",
@@ -400,9 +400,9 @@
         "weight": "1,300-1,500 kg"
       },
       "media": {
-        "heroImage": "/images/hippopotamus.jpg",
-        "image2": "/images/hippopotamus-2.jpg",
-        "video": "/videos/hippopotamus.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic environmental portrait, hippopotamus emerging from water at sunset in Ngorongoro Crater Tanzania, water droplets cascading, environmental storytelling, perfect natural lighting, surreal atmospheric perspective, hippo in aquatic context, Canon EOS R5, 70-200mm lens, environmental conservation photography, East African wetland, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
@@ -425,7 +425,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Endangered",
-      "emoji": "\ud83d\udc15",
+      "emoji": "🐕",
       "stats": {
         "habitat": "Savannas, Grasslands",
         "diet": "Carnivore",
@@ -433,9 +433,9 @@
         "weight": "20-30 kg"
       },
       "media": {
-        "heroImage": "/images/african-wild-dog.jpg",
-        "image2": "/images/african-wild-dog-2.jpg",
-        "video": "/videos/african-wild-dog.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, African wild dog pack on hunt in Okavango Delta Botswana, dramatic action, intense predator coordination, Canon EOS-1D X Mark III, 400mm f/2.8 telephoto lens, shallow depth of field, painted coat pattern detail, National Geographic quality, wetland grass foreground, conservation photography, endangered species, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -458,7 +458,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83e\udd8f",
+      "emoji": "🦏",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Herbivore",
@@ -466,9 +466,9 @@
         "weight": "1,800-2,500 kg"
       },
       "media": {
-        "heroImage": "/images/white-rhino.jpg",
-        "image2": "/images/white-rhino-2.jpg",
-        "video": "/videos/white-rhino.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, white rhino mother and calf in Kruger National Park South Africa, dramatic black and white photography, high contrast, tender moment, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate composition, timeless protective mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -491,7 +491,7 @@
       "continent": "Asia",
       "subregion": "Indian Subcontinent",
       "status": "Endangered",
-      "emoji": "\ud83d\udc05",
+      "emoji": "🐅",
       "stats": {
         "habitat": "Tropical Forests, Mangroves",
         "diet": "Carnivore",
@@ -499,9 +499,9 @@
         "weight": "180-260 kg (male)"
       },
       "media": {
-        "heroImage": "/images/bengal-tiger.jpg",
-        "image2": "/images/bengal-tiger-2.jpg",
-        "video": "/videos/bengal-tiger.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, majestic Bengal tiger in Ranthambore India, dramatic golden hour backlighting, intense predator gaze through grass, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, orange and black stripes glowing, National Geographic quality, tall dry grass foreground, conservation photography, intense amber eyes, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -524,7 +524,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc3c",
+      "emoji": "🐼",
       "stats": {
         "habitat": "Temperate Bamboo Forests",
         "diet": "Herbivore (99% bamboo)",
@@ -532,9 +532,9 @@
         "weight": "85-125 kg"
       },
       "media": {
-        "heroImage": "/images/giant-panda.jpg",
-        "image2": "/images/giant-panda-2.jpg",
-        "video": "/videos/giant-panda.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic environmental portrait, giant panda feeding on bamboo in Sichuan China, environmental storytelling, misty mountain bamboo forest, perfect natural lighting filtering through canopy, Canon EOS R5, 400mm lens, environmental conservation photography, endangered species, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
@@ -557,7 +557,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udda7",
+      "emoji": "🦧",
       "stats": {
         "habitat": "Tropical Rainforests",
         "diet": "Omnivore (mostly fruit)",
@@ -565,9 +565,9 @@
         "weight": "50-90 kg (male)"
       },
       "media": {
-        "heroImage": "/images/orangutan.jpg",
-        "image2": "/images/orangutan-2.jpg",
-        "video": "/videos/orangutan.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, Bornean orangutan in Tanjung Puting Indonesia, intimate close-up portrait, rainforest atmosphere, diffused natural light, Canon EOS R5, 200mm lens, shallow depth of field, orangutan fills frame, intelligent eyes connection, timeless contemplative mood, fine art conservation photography, critically endangered, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -590,7 +590,7 @@
       "continent": "North America",
       "subregion": "Western Mountains",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc3b",
+      "emoji": "🐻",
       "stats": {
         "habitat": "Mountains, Forests, Tundra",
         "diet": "Omnivore",
@@ -598,9 +598,9 @@
         "weight": "180-360 kg (male)"
       },
       "media": {
-        "heroImage": "/images/grizzly-bear.jpg",
-        "image2": "/images/grizzly-bear-2.jpg",
-        "video": "/videos/grizzly-bear.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, massive grizzly bear catching salmon at Brooks Falls Alaska, dramatic action shot, water splashing, Canon EOS-1D X Mark III, 400mm f/2.8 telephoto lens, shallow depth of field, National Geographic quality, river and forest foreground, conservation photography, powerful predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -623,7 +623,7 @@
       "continent": "North America",
       "subregion": "Northern Forests",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd85",
+      "emoji": "🦅",
       "stats": {
         "habitat": "Coasts, Lakes, Rivers",
         "diet": "Carnivore (primarily fish)",
@@ -631,9 +631,9 @@
         "weight": "3-6.3 kg"
       },
       "media": {
-        "heroImage": "/images/bald-eagle.jpg",
-        "image2": "/images/bald-eagle-2.jpg",
-        "video": "/videos/bald-eagle.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, bald eagle diving for fish in Alaska, dramatic action frozen, wings spread, Canon EOS-1D X Mark III, 600mm f/4 telephoto lens, shallow depth of field, National Geographic quality, water splash foreground, conservation photography, national symbol, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -656,7 +656,7 @@
       "continent": "North America",
       "subregion": "Northern Forests",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc3a",
+      "emoji": "🐺",
       "stats": {
         "habitat": "Forests, Tundra, Mountains",
         "diet": "Carnivore",
@@ -664,9 +664,9 @@
         "weight": "40-80 kg (male)"
       },
       "media": {
-        "heroImage": "/images/gray-wolf.jpg",
-        "image2": "/images/gray-wolf-2.jpg",
-        "video": "/videos/gray-wolf.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, gray wolf pack in Yellowstone Wyoming, dramatic winter backlighting, social predator behavior, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, snowy forest foreground, conservation photography, apex predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -689,7 +689,7 @@
       "continent": "North America",
       "subregion": "Arctic",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc3b\u200d\u2744\ufe0f",
+      "emoji": "🐻‍❄️",
       "stats": {
         "habitat": "Sea Ice, Arctic Coasts",
         "diet": "Carnivore (primarily seals)",
@@ -697,9 +697,9 @@
         "weight": "350-700 kg (male)"
       },
       "media": {
-        "heroImage": "/images/polar-bear.jpg",
-        "image2": "/images/polar-bear-2.jpg",
-        "video": "/videos/polar-bear.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, polar bear on sea ice in Churchill Canada, extreme environment photography, intimate Arctic perspective, Sony A1 mirrorless, 100-400mm lens, dramatic polar lighting, conservation storytelling, melting ice context, climate change symbol, in the style of Paul Nicklen --ar 3:2 --v 7.0 --style raw",
@@ -722,7 +722,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "Rainforests, Wetlands, Grasslands",
         "diet": "Carnivore",
@@ -730,9 +730,9 @@
         "weight": "56-96 kg (male)"
       },
       "media": {
-        "heroImage": "/images/jaguar.jpg",
-        "image2": "/images/jaguar-2.jpg",
-        "video": "/videos/jaguar.mp4"
+        "heroImage": "",
+        "image2": "",
+        "video": ""
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, jaguar hunting caiman in Pantanal Brazil, dramatic action shot, water explosion, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, wetland foreground, conservation photography, apex predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
