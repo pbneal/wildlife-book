@@ -235,9 +235,9 @@
         "weight": "4,000-7,000 kg"
       },
       "media": {
-        "heroImage": "/images/african-elephant.jpg",
-        "image2": "/images/african-elephant-2.jpg",
-        "video": "/videos/african-elephant.mp4"
+        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1121645033750286359/nx3creationsllc_photorealistic_image_Nikon_D850_14mm_lens_East__cc82838f-8d7c-4147-ac18-ffa41180de7f.png?ex=69ad9797&is=69ac4617&hm=bccaea01560a4262c216aef812f283cbc8b432b0f2c2d6324f057c37cb2f94e6&=&format=webp&quality=lossless&width=2912&height=1632",
+        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1479958467249836226/nx3creationsllc_photorealistic_image_Nikon_D850_14mm_lens_East__07621e8e-d9cd-4ae6-9eaa-1f19e2643707.png?ex=69adee3a&is=69ac9cba&hm=8590cab56b4dd0dc18e1bcde0602fc70a4a0fdab4dd19b4d7f8e352b72b8d387&=&format=webp&quality=lossless&width=2912&height=1632",
+        "video": "https://drive.google.com/file/d/1hehw2GxE3E57LI_zW4tQBYH0iir7dyLL/view?usp=drivesdk"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic African bull elephant with large tusks in Amboseli National Park Kenya, dramatic black and white photography, high contrast, dust particles in golden light, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, elephant fills frame, timeless melancholic mood, fine art conservation photography, dry grassy plain background, Mount Kilimanjaro distant, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -268,9 +268,9 @@
         "weight": "120-190 kg (male)"
       },
       "media": {
-        "heroImage": "/images/lion.jpg",
-        "image2": "/images/lion-2.jpg",
-        "video": "/videos/lion.mp4"
+        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1479956760583475383/nx3creationsllc_photorealistic_wildlife_photography_majestic_ma_2a74e879-3b00-4f66-8e51-c23c14b47581.png?ex=69adeca3&is=69ac9b23&hm=ad1f903d8dc16d082211f63b74c39d2f602c373e2b2c9013eddd1473e64aea07&=&format=webp&quality=lossless&width=2912&height=1632",
+        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1479956786302947459/nx3creationsllc_photorealistic_wildlife_photography_majestic_ma_bf0788a2-0fe6-4e0e-8e8f-beb60b660eba.png?ex=69adecaa&is=69ac9b2a&hm=cf84c02b57bb16869659e591b7f4deb4d73041c4fd720fd590f47eb2eb71f4fc&=&format=webp&quality=lossless&width=2912&height=1632",
+        "video": "https://drive.google.com/file/d/1v4soo0wcOq1yDew7e06-clZrihFmcYmY/view?usp=drivesdk"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, majestic male African lion with full mane in Serengeti Tanzania, dramatic golden hour backlighting, intense predator gaze, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, golden mane glowing in sunset light, National Geographic quality, tall dry grass foreground, conservation photography, intense amber eyes, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -301,9 +301,9 @@
         "weight": "800-1,900 kg"
       },
       "media": {
-        "heroImage": "/images/giraffe.jpg",
-        "image2": "/images/giraffe-2.jpg",
-        "video": "/videos/giraffe.mp4"
+        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1121962656715251783/nx3creationsllc_photorealistic_image_of_a_pair_of_Maasai_Giraff_914018e6-25f3-4001-b095-3c3ef377a7d7.png?ex=69ae16a6&is=69acc526&hm=e7cb364c9feb62fcee8d4b55f7b27cb71aae71b1d455da416d1705d24314579e&=&format=webp&quality=lossless&width=2912&height=1632",
+        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1480013082041520239/nx3creationsllc_photorealistic_environmental_portrait_elegant_M_41cf2d54-23eb-483d-90bc-0f4665d62211.png?ex=69ae2118&is=69accf98&hm=af27f79bf583beaffee31e26676a10020cb36983ee1088e1c89f57970fa3c15f&=&format=webp&quality=lossless&width=2514&height=1676",
+        "video": "https://drive.google.com/file/d/1axGsSH3cIHyb0VTCXageMXJ-joe_4i_W/view?usp=drivesdk"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic environmental portrait, elegant Maasai giraffe in Masai Mara Kenya, environmental storytelling, acacia tree silhouette, perfect natural lighting at dawn, graduated ND filter sky effect, surreal atmospheric perspective, giraffe in landscape context, Canon EOS R5, 100-400mm telephoto zoom, environmental conservation photography, East African savanna, distant mountains, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
@@ -334,9 +334,9 @@
         "weight": "175-450 kg"
       },
       "media": {
-        "heroImage": "/images/zebra.jpg",
-        "image2": "/images/zebra-2.jpg",
-        "video": "/videos/zebra.mp4"
+        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1480039249779753080/nx3creationsllc_photorealistic_wildlife_portrait_zebra_herd_abs_c3339d48-c217-4eb1-8209-ecfd340b1753.png?ex=69ae3976&is=69ace7f6&hm=8bfe05e8ce1ed283cc8667501ec512f8c57294fd1e48ead845d33b594af2a0d1&=&format=webp&quality=lossless&width=1506&height=1884",
+        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1121965870785232906/nx3creationsllc_photorealistic_image_of_a_harram_of_Grants_Zebr_55f10311-7ecc-4afd-a12f-4af03424c923.png?ex=69ae19a4&is=69acc824&hm=dd59742f020f2e6882ac1f8f33b0fe6ff832ffdec5697dea09f2bd329caf6ca2&=&format=webp&quality=lossless&width=2912&height=1632",
+        "video": "https://drive.google.com/file/d/1EsZDBRPoK7k1OelR3lLppPQXDDM3ZyS1/view?usp=drivesdk"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, zebra herd abstract pattern study in Ngorongoro Crater Tanzania, dramatic black and white photography, high contrast, graphic stripes creating visual rhythm, Pentax 67II medium format camera, 200mm lens, timeless composition, fine art photography, dust and golden light, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -367,9 +367,9 @@
         "weight": "21-72 kg"
       },
       "media": {
-        "heroImage": "/images/cheetah.jpg",
-        "image2": "/images/cheetah-2.jpg",
-        "video": "/videos/cheetah.mp4"
+        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1121987357487403079/nx3creationsllc_photorealistic_image_of_a_cheetah_stalking_full_409f438e-2924-4353-881a-6201fc827eb1.png?ex=69ae2da7&is=69acdc27&hm=dfdb22dedf4280b95319024b68661c43a2aeef1b987128faf013c9ac2836222e&=&format=webp&quality=lossless&width=2912&height=1632",
+        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1480018263264985248/nx3creationsllc_photorealistic_wildlife_photography_cheetah_sta_913b5f9a-2036-4ece-ba27-5d5d0d102984.png?ex=69ae25eb&is=69acd46b&hm=f5e83b5c662b7d050266e2ace79fd6c2da6420635a2078f9acdade7dca7ae286&=&format=webp&quality=lossless&width=2912&height=1632",
+        "video": "https://drive.google.com/file/d/1DPI02WZ3TyxuVvXlShnMpwjys5yQksYu/view?usp=drivesdk"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, cheetah stalking prey in Serengeti Tanzania, intense focus and concentration, Canon EOS-1D X Mark III, 600mm f/4 telephoto lens, shallow depth of field, low angle ground perspective, tall golden grass, dramatic side lighting, spotted coat detail, National Geographic quality, predator behavior moment, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -400,7 +400,7 @@
         "weight": "1,300-1,500 kg"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/hippopotamus.jpg",
         "image2": "",
         "video": ""
       },
@@ -433,7 +433,7 @@
         "weight": "20-30 kg"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/african-wild-dog.jpg",
         "image2": "",
         "video": ""
       },
@@ -466,7 +466,7 @@
         "weight": "1,800-2,500 kg"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/white-rhino.jpg",
         "image2": "",
         "video": ""
       },
@@ -499,7 +499,7 @@
         "weight": "180-260 kg (male)"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/bengal-tiger.jpg",
         "image2": "",
         "video": ""
       },
@@ -532,7 +532,7 @@
         "weight": "85-125 kg"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/giant-panda.jpg",
         "image2": "",
         "video": ""
       },
@@ -565,7 +565,7 @@
         "weight": "50-90 kg (male)"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/orangutan.jpg",
         "image2": "",
         "video": ""
       },
@@ -598,7 +598,7 @@
         "weight": "180-360 kg (male)"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/grizzly-bear.jpg",
         "image2": "",
         "video": ""
       },
@@ -631,7 +631,7 @@
         "weight": "3-6.3 kg"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/bald-eagle.jpg",
         "image2": "",
         "video": ""
       },
@@ -664,7 +664,7 @@
         "weight": "40-80 kg (male)"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/gray-wolf.jpg",
         "image2": "",
         "video": ""
       },
@@ -697,7 +697,7 @@
         "weight": "350-700 kg (male)"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/polar-bear.jpg",
         "image2": "",
         "video": ""
       },
@@ -730,7 +730,7 @@
         "weight": "56-96 kg (male)"
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/jaguar.jpg",
         "image2": "",
         "video": ""
       },
@@ -763,7 +763,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/maasai-giraffe.jpg",
         "image2": "",
         "video": ""
       },
@@ -791,7 +791,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/grants-zebra.jpg",
         "image2": "",
         "video": ""
       },
@@ -819,7 +819,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/nile-crocodile.jpg",
         "image2": "",
         "video": ""
       },
@@ -847,7 +847,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/african-buffalo.jpg",
         "image2": "",
         "video": ""
       },
@@ -875,7 +875,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/thompsons-gazelle.jpg",
         "image2": "",
         "video": ""
       },
@@ -903,7 +903,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/olive-baboon.jpg",
         "image2": "",
         "video": ""
       },
@@ -931,7 +931,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/grevys-zebra.jpg",
         "image2": "",
         "video": ""
       },
@@ -959,7 +959,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/nile-monitor.jpg",
         "image2": "",
         "video": ""
       },
@@ -987,7 +987,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/reticulated-giraffe.jpg",
         "image2": "",
         "video": ""
       },
@@ -1015,7 +1015,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/african-grey-parrot.jpg",
         "image2": "",
         "video": ""
       },
@@ -1043,7 +1043,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/serval.jpg",
         "image2": "",
         "video": ""
       },
@@ -1071,7 +1071,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/aardvark.jpg",
         "image2": "",
         "video": ""
       },
@@ -1099,7 +1099,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/spotted-hyena.jpg",
         "image2": "",
         "video": ""
       },
@@ -1127,7 +1127,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/secretary-bird.jpg",
         "image2": "",
         "video": ""
       },
@@ -1155,7 +1155,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/gerenuk.jpg",
         "image2": "",
         "video": ""
       },
@@ -1183,7 +1183,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/african-penguin.jpg",
         "image2": "",
         "video": ""
       },
@@ -1211,7 +1211,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/meerkat.jpg",
         "image2": "",
         "video": ""
       },
@@ -1239,7 +1239,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/southern-ground-hornbill.jpg",
         "image2": "",
         "video": ""
       },
@@ -1267,7 +1267,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/african-fish-eagle.jpg",
         "image2": "",
         "video": ""
       },
@@ -1295,7 +1295,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/black-rhinoceros.jpg",
         "image2": "",
         "video": ""
       },
@@ -1323,7 +1323,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/cape-buffalo.jpg",
         "image2": "",
         "video": ""
       },
@@ -1351,7 +1351,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/aardwolf.jpg",
         "image2": "",
         "video": ""
       },
@@ -1379,7 +1379,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/cape-fur-seal.jpg",
         "image2": "",
         "video": ""
       },
@@ -1407,7 +1407,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/rock-hyrax.jpg",
         "image2": "",
         "video": ""
       },
@@ -1435,7 +1435,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/temmincks-ground-pangolin.jpg",
         "image2": "",
         "video": ""
       },
@@ -1463,7 +1463,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/black-footed-cat.jpg",
         "image2": "",
         "video": ""
       },
@@ -1491,7 +1491,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/cape-porcupine.jpg",
         "image2": "",
         "video": ""
       },
@@ -1519,7 +1519,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/brown-hyaena.jpg",
         "image2": "",
         "video": ""
       },
@@ -1547,7 +1547,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/bat-eared-fox.jpg",
         "image2": "",
         "video": ""
       },
@@ -1575,7 +1575,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/chimpanzee.jpg",
         "image2": "",
         "video": ""
       },
@@ -1603,7 +1603,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/western-lowland-gorilla.jpg",
         "image2": "",
         "video": ""
       },
@@ -1631,7 +1631,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/african-forest-elephant.jpg",
         "image2": "",
         "video": ""
       },
@@ -1659,7 +1659,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/african-rock-python.jpg",
         "image2": "",
         "video": ""
       },
@@ -1687,7 +1687,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/mandrill.jpg",
         "image2": "",
         "video": ""
       },
@@ -1715,7 +1715,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/okapi.jpg",
         "image2": "",
         "video": ""
       },
@@ -1743,7 +1743,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/bongo-antelope.jpg",
         "image2": "",
         "video": ""
       },
@@ -1771,7 +1771,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/bonobo.jpg",
         "image2": "",
         "video": ""
       },
@@ -1799,7 +1799,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/barbary-macaque.jpg",
         "image2": "",
         "video": ""
       },
@@ -1827,7 +1827,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/fennec-fox.jpg",
         "image2": "",
         "video": ""
       },
@@ -1855,7 +1855,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/addax.jpg",
         "image2": "",
         "video": ""
       },
@@ -1883,7 +1883,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/red-crowned-crane.jpg",
         "image2": "",
         "video": ""
       },
@@ -1911,7 +1911,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/siberian-tiger.jpg",
         "image2": "",
         "video": ""
       },
@@ -1939,7 +1939,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/japanese-macaque.jpg",
         "image2": "",
         "video": ""
       },
@@ -1967,7 +1967,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/amur-leopard.jpg",
         "image2": "",
         "video": ""
       },
@@ -1995,7 +1995,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/red-panda.jpg",
         "image2": "",
         "video": ""
       },
@@ -2023,7 +2023,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/sumatran-orangutan.jpg",
         "image2": "",
         "video": ""
       },
@@ -2051,7 +2051,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/malayan-tiger.jpg",
         "image2": "",
         "video": ""
       },
@@ -2079,7 +2079,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/komodo-dragon.jpg",
         "image2": "",
         "video": ""
       },
@@ -2107,7 +2107,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/asian-elephant.jpg",
         "image2": "",
         "video": ""
       },
@@ -2135,7 +2135,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/proboscis-monkey.jpg",
         "image2": "",
         "video": ""
       },
@@ -2163,7 +2163,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/sun-bear.jpg",
         "image2": "",
         "video": ""
       },
@@ -2191,7 +2191,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/sunda-pangolin.jpg",
         "image2": "",
         "video": ""
       },
@@ -2219,7 +2219,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/indian-rhino.jpg",
         "image2": "",
         "video": ""
       },
@@ -2247,7 +2247,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/indian-elephant.jpg",
         "image2": "",
         "video": ""
       },
@@ -2275,7 +2275,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/snow-leopard.jpg",
         "image2": "",
         "video": ""
       },
@@ -2303,7 +2303,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/indian-peafowl.jpg",
         "image2": "",
         "video": ""
       },
@@ -2331,7 +2331,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/asiatic-lion.jpg",
         "image2": "",
         "video": ""
       },
@@ -2359,7 +2359,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/saiga-antelope.jpg",
         "image2": "",
         "video": ""
       },
@@ -2387,7 +2387,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/pallass-cat.jpg",
         "image2": "",
         "video": ""
       },
@@ -2415,7 +2415,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/arabian-oryx.jpg",
         "image2": "",
         "video": ""
       },
@@ -2443,7 +2443,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/persian-leopard.jpg",
         "image2": "",
         "video": ""
       },
@@ -2471,7 +2471,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/american-bison.jpg",
         "image2": "",
         "video": ""
       },
@@ -2499,7 +2499,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/mountain-lion.jpg",
         "image2": "",
         "video": ""
       },
@@ -2527,7 +2527,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/moose.jpg",
         "image2": "",
         "video": ""
       },
@@ -2555,7 +2555,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/california-condor.jpg",
         "image2": "",
         "video": ""
       },
@@ -2583,7 +2583,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/american-black-bear.jpg",
         "image2": "",
         "video": ""
       },
@@ -2611,7 +2611,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/american-alligator.jpg",
         "image2": "",
         "video": ""
       },
@@ -2639,7 +2639,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/american-beaver.jpg",
         "image2": "",
         "video": ""
       },
@@ -2667,7 +2667,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/quetzal.jpg",
         "image2": "",
         "video": ""
       },
@@ -2695,7 +2695,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/amazon-river-dolphin.jpg",
         "image2": "",
         "video": ""
       },
@@ -2723,7 +2723,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/toucan.jpg",
         "image2": "",
         "video": ""
       },
@@ -2751,7 +2751,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/capybara.jpg",
         "image2": "",
         "video": ""
       },
@@ -2779,7 +2779,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/giant-anteater.jpg",
         "image2": "",
         "video": ""
       },
@@ -2807,7 +2807,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/andean-condor.jpg",
         "image2": "",
         "video": ""
       },
@@ -2835,7 +2835,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/vicuna.jpg",
         "image2": "",
         "video": ""
       },
@@ -2863,7 +2863,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/spectacled-bear.jpg",
         "image2": "",
         "video": ""
       },
@@ -2891,7 +2891,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/giant-otter.jpg",
         "image2": "",
         "video": ""
       },
@@ -2919,7 +2919,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/maned-wolf.jpg",
         "image2": "",
         "video": ""
       },
@@ -2947,7 +2947,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/guanaco.jpg",
         "image2": "",
         "video": ""
       },
@@ -2975,7 +2975,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/magellanic-penguin.jpg",
         "image2": "",
         "video": ""
       },
@@ -3003,7 +3003,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/eurasian-lynx.jpg",
         "image2": "",
         "video": ""
       },
@@ -3031,7 +3031,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/european-bison.jpg",
         "image2": "",
         "video": ""
       },
@@ -3059,7 +3059,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/brown-bear-europe.jpg",
         "image2": "",
         "video": ""
       },
@@ -3087,7 +3087,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/iberian-lynx.jpg",
         "image2": "",
         "video": ""
       },
@@ -3115,7 +3115,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/mediterranean-monk-seal.jpg",
         "image2": "",
         "video": ""
       },
@@ -3143,7 +3143,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/reindeer.jpg",
         "image2": "",
         "video": ""
       },
@@ -3171,7 +3171,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/beluga-whale.jpg",
         "image2": "",
         "video": ""
       },
@@ -3199,7 +3199,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/kangaroo.jpg",
         "image2": "",
         "video": ""
       },
@@ -3227,7 +3227,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/koala.jpg",
         "image2": "",
         "video": ""
       },
@@ -3255,7 +3255,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/platypus.jpg",
         "image2": "",
         "video": ""
       },
@@ -3283,7 +3283,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/tasmanian-devil.jpg",
         "image2": "",
         "video": ""
       },
@@ -3311,7 +3311,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/emu.jpg",
         "image2": "",
         "video": ""
       },
@@ -3339,7 +3339,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/quokka.jpg",
         "image2": "",
         "video": ""
       },
@@ -3367,7 +3367,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/wombat.jpg",
         "image2": "",
         "video": ""
       },
@@ -3395,7 +3395,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/dingo.jpg",
         "image2": "",
         "video": ""
       },
@@ -3423,7 +3423,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/cassowary.jpg",
         "image2": "",
         "video": ""
       },
@@ -3451,7 +3451,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/hawaiian-monk-seal.jpg",
         "image2": "",
         "video": ""
       },
@@ -3479,7 +3479,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/emperor-penguin.jpg",
         "image2": "",
         "video": ""
       },
@@ -3507,7 +3507,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/antarctic-fur-seal.jpg",
         "image2": "",
         "video": ""
       },
@@ -3535,7 +3535,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/wandering-albatross.jpg",
         "image2": "",
         "video": ""
       },
@@ -3563,7 +3563,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/gentoo-penguin.jpg",
         "image2": "",
         "video": ""
       },
@@ -3591,7 +3591,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/weddell-seal.jpg",
         "image2": "",
         "video": ""
       },
@@ -3619,7 +3619,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/chinstrap-penguin.jpg",
         "image2": "",
         "video": ""
       },
@@ -3647,7 +3647,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/adelie-penguin.jpg",
         "image2": "",
         "video": ""
       },
@@ -3675,7 +3675,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/crabeater-seal.jpg",
         "image2": "",
         "video": ""
       },
@@ -3703,7 +3703,7 @@
         "weight": ""
       },
       "media": {
-        "heroImage": "",
+        "heroImage": "/images/leopard-seal.jpg",
         "image2": "",
         "video": ""
       },
