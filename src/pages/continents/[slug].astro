@@ -13,12 +13,15 @@ export async function getStaticPaths() {
 const { continent } = Astro.props;
 const continentAnimals = animalsData.animals.filter(a => a.continent === continent.name);
 
-// Helper to get animal image
-const getAnimalImage = (slug: string) => `/images/${slug}.png`;
+// Helper to get animal image - uses media from animals.json
+const getAnimalImage = (animal: any) => {
+  // Use heroImage from media if available, otherwise fallback to slug-based path
+  return animal.media?.heroImage || `/images/${animal.slug}.jpg`;
+};
 
-// Hero images for specific continents
+// Hero images for specific continents - use actual file paths
 const heroImages: Record<string, string> = {
-  'africa': '/images/lion.png',
+  'africa': '/images/lion.jpg',
 };
 
 const heroImage = heroImages[continent.slug];
@@ -63,7 +66,7 @@ const heroImage = heroImages[continent.slug];
         {continentAnimals.map(animal => (
           <StoryCard
             href={`/animals/${animal.slug}`}
-            image={getAnimalImage(animal.slug)}
+            image={getAnimalImage(animal)}
             emoji={animal.emoji}
             title={animal.name}
             subtitle={animal.scientificName}

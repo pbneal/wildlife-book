@@ -28,8 +28,10 @@ export async function getStaticPaths() {
 
 const { subregion, continent, animals } = Astro.props;
 
-// Helper to get animal image
-const getAnimalImage = (slug: string) => `/images/${slug}.png`;
+// Helper to get animal image - uses media from animals.json
+const getAnimalImage = (animal: any) => {
+  return animal.media?.heroImage || `/images/${animal.slug}.jpg`;
+};
 ---
 
 <Layout title={`${subregion.name} | Wildlife`}>
@@ -67,7 +69,7 @@ const getAnimalImage = (slug: string) => `/images/${slug}.png`;
         {animals.map(animal => (
           <StoryCard
             href={`/animals/${animal.slug}`}
-            image={getAnimalImage(animal.slug)}
+            image={getAnimalImage(animal)}
             emoji={animal.emoji}
             title={animal.name}
             subtitle={animal.scientificName}

@@ -6,11 +6,14 @@ import animalsData from '../data/animals.json';
 const sortedContinents = animalsData.continents.sort((a, b) => a.order - b.order);
 const featuredAnimals = animalsData.animals.slice(0, 4);
 
-// Helper to check if image exists (we'll pass the path and let the browser handle 404s)
-const getAnimalImage = (slug: string) => `/images/${slug}.png`;
+// Helper to get animal image - uses media from animals.json
+const getAnimalImage = (animal: any) => {
+  return animal.media?.heroImage || `/images/${animal.slug}.jpg`;
+};
+
 const getContinentImage = (slug: string) => {
   const continentImages: Record<string, string> = {
-    'africa': '/images/lion.png',
+    'africa': '/images/lion.jpg',
   };
   return continentImages[slug];
 };
@@ -53,7 +56,7 @@ const getContinentImage = (slug: string) => {
         {featuredAnimals.map(animal => (
           <StoryCard
             href={`/animals/${animal.slug}`}
-            image={getAnimalImage(animal.slug)}
+            image={getAnimalImage(animal)}
             emoji={animal.emoji}
             title={animal.name}
             subtitle={animal.continent}
