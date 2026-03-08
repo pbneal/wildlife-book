@@ -4,7 +4,7 @@
       "slug": "africa",
       "name": "Africa",
       "order": 1,
-      "emoji": "🦁",
+      "emoji": "\ud83e\udd81",
       "description": "The cradle of wildlife, home to the planet's most iconic megafauna",
       "subregions": [
         {
@@ -46,7 +46,7 @@
       "slug": "asia",
       "name": "Asia",
       "order": 2,
-      "emoji": "🐅",
+      "emoji": "\ud83d\udc05",
       "description": "From the Himalayas to tropical rainforests, home to tigers, pandas, and ancient megafauna",
       "subregions": [
         {
@@ -84,7 +84,7 @@
       "slug": "north-america",
       "name": "North America",
       "order": 3,
-      "emoji": "🦅",
+      "emoji": "\ud83e\udd85",
       "description": "From Arctic tundra to desert Southwest, a land of bears, wolves, and iconic birds",
       "subregions": [
         {
@@ -108,7 +108,7 @@
       "slug": "south-america",
       "name": "South America",
       "order": 4,
-      "emoji": "🦜",
+      "emoji": "\ud83e\udd9c",
       "description": "The Amazon rainforest and Andes mountains harbor unparalleled biodiversity",
       "subregions": [
         {
@@ -140,7 +140,7 @@
       "slug": "europe",
       "name": "Europe",
       "order": 5,
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "description": "Ancient forests and mountain ranges where wildlife is slowly returning",
       "subregions": [
         {
@@ -169,7 +169,7 @@
       "slug": "australia",
       "name": "Australia",
       "order": 6,
-      "emoji": "🦘",
+      "emoji": "\ud83e\udd98",
       "description": "An island continent where marsupials rule and unique wildlife evolved in isolation",
       "subregions": [
         {
@@ -198,7 +198,7 @@
       "slug": "antarctica",
       "name": "Antarctica",
       "order": 7,
-      "emoji": "🐧",
+      "emoji": "\ud83d\udc27",
       "description": "The frozen continent, home to extreme survivors and abundant marine life",
       "subregions": [
         {
@@ -227,7 +227,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "🐘",
+      "emoji": "\ud83d\udc18",
       "stats": {
         "habitat": "Savannah, Forests, Grasslands",
         "diet": "Herbivore",
@@ -260,7 +260,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "🦁",
+      "emoji": "\ud83e\udd81",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Carnivore",
@@ -293,7 +293,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "🦒",
+      "emoji": "\ud83e\udd92",
       "stats": {
         "habitat": "Savannas, Open Woodlands",
         "diet": "Herbivore",
@@ -302,7 +302,7 @@
       },
       "media": {
         "heroImage": "/images/giraffe.jpg",
-        "image2": "/images/giraffe-2.jpg",
+        "image2": "",
         "video": "/videos/giraffe.mp4"
       },
       "midjourneyPrompts": {
@@ -326,7 +326,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "🦓",
+      "emoji": "\ud83e\udd93",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Herbivore",
@@ -350,7 +350,7 @@
         "Can run up to 65 km/h",
         "Part of Great Migration with wildebeest"
       ],
-      "conservation": "Plains zebras remain relatively numerous, but Grévy's zebras number fewer than 2,500 individuals."
+      "conservation": "Plains zebras remain relatively numerous, but Gr\u00e9vy's zebras number fewer than 2,500 individuals."
     },
     {
       "slug": "cheetah",
@@ -359,7 +359,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Carnivore",
@@ -392,7 +392,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "🦛",
+      "emoji": "\ud83e\udd9b",
       "stats": {
         "habitat": "Rivers, Lakes, Wetlands",
         "diet": "Herbivore",
@@ -425,7 +425,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Endangered",
-      "emoji": "🐕",
+      "emoji": "\ud83d\udc15",
       "stats": {
         "habitat": "Savannas, Grasslands",
         "diet": "Carnivore",
@@ -458,7 +458,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Near Threatened",
-      "emoji": "🦏",
+      "emoji": "\ud83e\udd8f",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Herbivore",
@@ -491,7 +491,7 @@
       "continent": "Asia",
       "subregion": "Indian Subcontinent",
       "status": "Endangered",
-      "emoji": "🐅",
+      "emoji": "\ud83d\udc05",
       "stats": {
         "habitat": "Tropical Forests, Mangroves",
         "diet": "Carnivore",
@@ -524,7 +524,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Vulnerable",
-      "emoji": "🐼",
+      "emoji": "\ud83d\udc3c",
       "stats": {
         "habitat": "Temperate Bamboo Forests",
         "diet": "Herbivore (99% bamboo)",
@@ -557,7 +557,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "🦧",
+      "emoji": "\ud83e\udda7",
       "stats": {
         "habitat": "Tropical Rainforests",
         "diet": "Omnivore (mostly fruit)",
@@ -590,7 +590,7 @@
       "continent": "North America",
       "subregion": "Western Mountains",
       "status": "Least Concern",
-      "emoji": "🐻",
+      "emoji": "\ud83d\udc3b",
       "stats": {
         "habitat": "Mountains, Forests, Tundra",
         "diet": "Omnivore",
@@ -623,7 +623,7 @@
       "continent": "North America",
       "subregion": "Northern Forests",
       "status": "Least Concern",
-      "emoji": "🦅",
+      "emoji": "\ud83e\udd85",
       "stats": {
         "habitat": "Coasts, Lakes, Rivers",
         "diet": "Carnivore (primarily fish)",
@@ -656,7 +656,7 @@
       "continent": "North America",
       "subregion": "Northern Forests",
       "status": "Least Concern",
-      "emoji": "🐺",
+      "emoji": "\ud83d\udc3a",
       "stats": {
         "habitat": "Forests, Tundra, Mountains",
         "diet": "Carnivore",
@@ -689,7 +689,7 @@
       "continent": "North America",
       "subregion": "Arctic",
       "status": "Vulnerable",
-      "emoji": "🐻‍❄️",
+      "emoji": "\ud83d\udc3b\u200d\u2744\ufe0f",
       "stats": {
         "habitat": "Sea Ice, Arctic Coasts",
         "diet": "Carnivore (primarily seals)",
@@ -722,7 +722,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Near Threatened",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "Rainforests, Wetlands, Grasslands",
         "diet": "Carnivore",
