@@ -12,27 +12,41 @@ export async function getStaticPaths() {
 const { animal } = Astro.props;
 const continent = animalsData.continents.find(c => c.name === animal.continent);
 
-// Media paths
-const imagePath = animal.media?.heroImage || `/images/${animal.slug}.jpg`;
-const videoPath = animal.media?.video || `/videos/${animal.slug}.mp4`;
+// Media paths - check for multiple extensions
+const heroImage = animal.media?.heroImage;
+const image2 = animal.media?.image2;
+const videoUrl = animal.media?.video;
+
+// Build image paths - try different extensions if not specified
+const getImagePath = (basePath: string) => {
+  if (basePath && basePath.startsWith('http')) return basePath;
+  if (basePath) return basePath;
+  // Return slug without extension - browser will try .jpg, .png, etc
+  return `/images/${animal.slug}`;
+};
+
+const heroImagePath = getImagePath(heroImage);
+const image2Path = image2 ? getImagePath(image2) : null;
 ---
 
 <Layout title={`${animal.name} | Wildlife`}>
   <div class="animal-hero">
     <!-- Video background (if exists) -->
-    <video 
-      class="hero-video" 
-      autoplay 
-      muted 
-      loop 
-      playsinline
-      poster={imagePath}
-    >
-      <source src={videoPath} type="video/mp4" />
-    </video>
+    {videoUrl && (
+      <video 
+        class="hero-video" 
+        autoplay 
+        muted 
+        loop 
+        playsinline
+        poster={heroImagePath}
+      >
+        <source src={videoUrl} type="video/mp4" />
+      </video>
+    )}
     
-    <!-- Image fallback (if video doesn't load or doesn't exist) -->
-    <div class="hero-image" style={`background-image: url('${imagePath}')`}></div>
+    <!-- Hero Image -->
+    <div class="hero-image" style={`background-image: url('${heroImagePath}')`}></div>
     
     <!-- Emoji fallback (if no image) -->
     <div class="hero-emoji-fallback">
@@ -76,9 +90,18 @@ const videoPath = animal.media?.video || `/videos/${animal.slug}.mp4`;
 
   <article class="animal-content">
     <div class="content-wrapper">
-      <!-- Featured Image -->
-      <section class="featured-image-section">
-        <img src={imagePath} alt={animal.name} class="featured-image" />
+      <!-- Two Image Gallery -->
+      <section class="image-gallery">
+        <div class="gallery-grid">
+          <div class="gallery-item main-image">
+            <img src={heroImagePath} alt={`${animal.name} - Hero`} />
+          </div>
+          {image2Path && (
+            <div class="gallery-item secondary-image">
+              <img src={image2Path} alt={`${animal.name} - Secondary`} />
+            </div>
+          )}
+        </div>
       </section>
 
       <section class="description">
@@ -290,15 +313,46 @@ const videoPath = animal.media?.video || `/videos/${animal.slug}.mp4`;
   }
 
   /* Featured Image Section */
-  .featured-image-section {
+  .image-gallery {
     margin-bottom: 3rem;
   }
 
-  .featured-image {
-    width: 100%;
-    height: auto;
-    display: block;
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 1rem;
+  }
+
+  .gallery-item {
+    overflow: hidden;
     border-radius: 4px;
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  .main-image {
+    grid-row: span 2;
+    aspect-ratio: 3/4;
+  }
+
+  .secondary-image {
+    aspect-ratio: 16/9;
+  }
+
+  @media (max-width: 768px) {
+    .gallery-grid {
+      grid-template-columns: 1fr;
+    }
+    
+    .main-image {
+      grid-row: span 1;
+      aspect-ratio: 16/9;
+    }
   }
 
   .description .lead {

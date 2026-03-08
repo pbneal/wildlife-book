@@ -302,7 +302,7 @@
       },
       "media": {
         "heroImage": "/images/giraffe.jpg",
-        "image2": "",
+        "image2": "/images/giraffe-2.jpg",
         "video": "/videos/giraffe.mp4"
       },
       "midjourneyPrompts": {
@@ -334,9 +334,9 @@
         "weight": "175-450 kg"
       },
       "media": {
-        "heroImage": "",
-        "image2": "",
-        "video": ""
+        "heroImage": "/images/zebra.jpg",
+        "image2": "/images/zebra-2.jpg",
+        "video": "/videos/zebra.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, zebra herd abstract pattern study in Ngorongoro Crater Tanzania, dramatic black and white photography, high contrast, graphic stripes creating visual rhythm, Pentax 67II medium format camera, 200mm lens, timeless composition, fine art photography, dust and golden light, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -747,6 +747,2974 @@
         "Solitary apex predator"
       ],
       "conservation": "Near threatened due to habitat loss and conflict with ranchers. Pantanal has highest density."
+    },
+    {
+      "slug": "maasai-giraffe",
+      "name": "Maasai Giraffe",
+      "scientificName": "Giraffa camelopardalis tippelskirchi",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Endangered",
+      "emoji": "🦒",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Maasai Giraffe in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Maasai Giraffe in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Maasai Giraffe in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "grants-zebra",
+      "name": "Grant's Zebra",
+      "scientificName": "Equus quagga boehmi",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Near Threatened",
+      "emoji": "🦓",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Grant's Zebra in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Grant's Zebra in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Grant's Zebra in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "nile-crocodile",
+      "name": "Nile Crocodile",
+      "scientificName": "Crocodylus niloticus",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Least Concern",
+      "emoji": "🐊",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Nile Crocodile in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Nile Crocodile in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Nile Crocodile in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "african-buffalo",
+      "name": "African Buffalo",
+      "scientificName": "Syncerus caffer",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Near Threatened",
+      "emoji": "🐃",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African Buffalo in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African Buffalo in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African Buffalo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "thompsons-gazelle",
+      "name": "Thompson's Gazelle",
+      "scientificName": "Eudorcas thomsonii",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Least Concern",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Thompson's Gazelle in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Thompson's Gazelle in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Thompson's Gazelle in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "olive-baboon",
+      "name": "Olive Baboon",
+      "scientificName": "Papio anubis",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Least Concern",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Olive Baboon in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Olive Baboon in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Olive Baboon in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "grevys-zebra",
+      "name": "Grevy's Zebra",
+      "scientificName": "Equus grevyi",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Endangered",
+      "emoji": "🦓",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Grevy's Zebra in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Grevy's Zebra in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Grevy's Zebra in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "nile-monitor",
+      "name": "Nile Monitor",
+      "scientificName": "Varanus niloticus",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Least Concern",
+      "emoji": "🦎",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Nile Monitor in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Nile Monitor in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Nile Monitor in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "reticulated-giraffe",
+      "name": "Reticulated Giraffe",
+      "scientificName": "Giraffa reticulata",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Endangered",
+      "emoji": "🦒",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Reticulated Giraffe in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Reticulated Giraffe in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Reticulated Giraffe in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "african-grey-parrot",
+      "name": "African Grey Parrot",
+      "scientificName": "Psittacus erithacus",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Endangered",
+      "emoji": "🦜",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African Grey Parrot in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African Grey Parrot in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African Grey Parrot in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "serval",
+      "name": "Serval",
+      "scientificName": "Leptailurus serval",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Least Concern",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Serval in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Serval in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Serval in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "aardvark",
+      "name": "Aardvark",
+      "scientificName": "Orycteropus afer",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Least Concern",
+      "emoji": "🐜",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Aardvark in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Aardvark in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Aardvark in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "spotted-hyena",
+      "name": "Spotted Hyena",
+      "scientificName": "Crocuta crocuta",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Least Concern",
+      "emoji": "🐺",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Spotted Hyena in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Spotted Hyena in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Spotted Hyena in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "secretary-bird",
+      "name": "Secretary Bird",
+      "scientificName": "Sagittarius serpentarius",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Endangered",
+      "emoji": "🦅",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Secretary Bird in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Secretary Bird in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Secretary Bird in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "gerenuk",
+      "name": "Gerenuk",
+      "scientificName": "Litocranius walleri",
+      "continent": "Africa",
+      "subregion": "East Africa",
+      "status": "Near Threatened",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Gerenuk in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Gerenuk in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Gerenuk in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "african-penguin",
+      "name": "African Penguin",
+      "scientificName": "Spheniscus demersus",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Endangered",
+      "emoji": "🐧",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African Penguin in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African Penguin in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "meerkat",
+      "name": "Meerkat",
+      "scientificName": "Suricata suricatta",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Least Concern",
+      "emoji": "🦝",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Meerkat in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Meerkat in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Meerkat in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "southern-ground-hornbill",
+      "name": "Southern Ground Hornbill",
+      "scientificName": "Bucorvus leadbeateri",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Vulnerable",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Southern Ground Hornbill in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Southern Ground Hornbill in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Southern Ground Hornbill in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "african-fish-eagle",
+      "name": "African Fish Eagle",
+      "scientificName": "Haliaeetus vocifer",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Least Concern",
+      "emoji": "🦅",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African Fish Eagle in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African Fish Eagle in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African Fish Eagle in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "black-rhinoceros",
+      "name": "Black Rhinoceros",
+      "scientificName": "Diceros bicornis",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Critically Endangered",
+      "emoji": "🦏",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Black Rhinoceros in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Black Rhinoceros in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Black Rhinoceros in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "cape-buffalo",
+      "name": "Cape Buffalo",
+      "scientificName": "Syncerus caffer caffer",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Near Threatened",
+      "emoji": "🐃",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Cape Buffalo in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Cape Buffalo in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Cape Buffalo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "aardwolf",
+      "name": "Aardwolf",
+      "scientificName": "Proteles cristata",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Least Concern",
+      "emoji": "🦊",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Aardwolf in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Aardwolf in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Aardwolf in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "cape-fur-seal",
+      "name": "Cape Fur Seal",
+      "scientificName": "Arctocephalus pusillus",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Least Concern",
+      "emoji": "🦭",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Cape Fur Seal in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Cape Fur Seal in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Cape Fur Seal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "rock-hyrax",
+      "name": "Rock Hyrax",
+      "scientificName": "Procavia capensis",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Least Concern",
+      "emoji": "🦫",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Rock Hyrax in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Rock Hyrax in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Rock Hyrax in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "temmincks-ground-pangolin",
+      "name": "Temminck's Ground Pangolin",
+      "scientificName": "Smutsia temminckii",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Vulnerable",
+      "emoji": "🦔",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Temminck's Ground Pangolin in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Temminck's Ground Pangolin in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Temminck's Ground Pangolin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "black-footed-cat",
+      "name": "Black-footed Cat",
+      "scientificName": "Felis nigripes",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Vulnerable",
+      "emoji": "🐱",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Black-footed Cat in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Black-footed Cat in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Black-footed Cat in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "cape-porcupine",
+      "name": "Cape Porcupine",
+      "scientificName": "Hystrix africaeaustralis",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Least Concern",
+      "emoji": "🦔",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Cape Porcupine in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Cape Porcupine in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Cape Porcupine in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "brown-hyaena",
+      "name": "Brown Hyaena",
+      "scientificName": "Parahyaena brunnea",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Near Threatened",
+      "emoji": "🐺",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Brown Hyaena in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Brown Hyaena in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Brown Hyaena in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "bat-eared-fox",
+      "name": "Bat-eared Fox",
+      "scientificName": "Otocyon megalotis",
+      "continent": "Africa",
+      "subregion": "Southern Africa",
+      "status": "Least Concern",
+      "emoji": "🦊",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Bat-eared Fox in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Bat-eared Fox in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Bat-eared Fox in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "chimpanzee",
+      "name": "Chimpanzee",
+      "scientificName": "Pan troglodytes",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Endangered",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Chimpanzee in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Chimpanzee in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Chimpanzee in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "western-lowland-gorilla",
+      "name": "Western Lowland Gorilla",
+      "scientificName": "Gorilla gorilla gorilla",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Critically Endangered",
+      "emoji": "🦍",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Western Lowland Gorilla in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Western Lowland Gorilla in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Western Lowland Gorilla in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "african-forest-elephant",
+      "name": "African Forest Elephant",
+      "scientificName": "Loxodonta cyclotis",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Critically Endangered",
+      "emoji": "🐘",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African Forest Elephant in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African Forest Elephant in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African Forest Elephant in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "african-rock-python",
+      "name": "African Rock Python",
+      "scientificName": "Python sebae",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Near Threatened",
+      "emoji": "🐍",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African Rock Python in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African Rock Python in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African Rock Python in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "mandrill",
+      "name": "Mandrill",
+      "scientificName": "Mandrillus sphinx",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Vulnerable",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Mandrill in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Mandrill in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Mandrill in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "okapi",
+      "name": "Okapi",
+      "scientificName": "Okapia johnstoni",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Endangered",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Okapi in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Okapi in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Okapi in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "bongo-antelope",
+      "name": "Bongo Antelope",
+      "scientificName": "Tragelaphus eurycerus",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Near Threatened",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Bongo Antelope in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Bongo Antelope in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Bongo Antelope in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "bonobo",
+      "name": "Bonobo",
+      "scientificName": "Pan paniscus",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Endangered",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Bonobo in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Bonobo in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Bonobo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "barbary-macaque",
+      "name": "Barbary Macaque",
+      "scientificName": "Macaca sylvanus",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Endangered",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Barbary Macaque in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Barbary Macaque in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Barbary Macaque in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "fennec-fox",
+      "name": "Fennec Fox",
+      "scientificName": "Vulpes zerda",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Least Concern",
+      "emoji": "🦊",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Fennec Fox in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Fennec Fox in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Fennec Fox in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "addax",
+      "name": "Addax",
+      "scientificName": "Addax nasomaculatus",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Critically Endangered",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Addax in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Addax in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Addax in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "red-crowned-crane",
+      "name": "Red-crowned Crane",
+      "scientificName": "Grus japonensis",
+      "continent": "Asia",
+      "subregion": "East Asia",
+      "status": "Endangered",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Red-crowned Crane in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Red-crowned Crane in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Red-crowned Crane in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "siberian-tiger",
+      "name": "Siberian Tiger",
+      "scientificName": "Panthera tigris altaica",
+      "continent": "Asia",
+      "subregion": "East Asia",
+      "status": "Endangered",
+      "emoji": "🐅",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Siberian Tiger in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Siberian Tiger in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Siberian Tiger in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "japanese-macaque",
+      "name": "Japanese Macaque",
+      "scientificName": "Macaca fuscata",
+      "continent": "Asia",
+      "subregion": "East Asia",
+      "status": "Least Concern",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Japanese Macaque in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Japanese Macaque in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Japanese Macaque in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "amur-leopard",
+      "name": "Amur Leopard",
+      "scientificName": "Panthera pardus orientalis",
+      "continent": "Asia",
+      "subregion": "East Asia",
+      "status": "Critically Endangered",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Amur Leopard in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Amur Leopard in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Amur Leopard in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "red-panda",
+      "name": "Red Panda",
+      "scientificName": "Ailurus fulgens",
+      "continent": "Asia",
+      "subregion": "East Asia",
+      "status": "Endangered",
+      "emoji": "🐼",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Red Panda in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Red Panda in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Red Panda in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "sumatran-orangutan",
+      "name": "Sumatran Orangutan",
+      "scientificName": "Pongo abelii",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Critically Endangered",
+      "emoji": "🦧",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Sumatran Orangutan in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Sumatran Orangutan in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Sumatran Orangutan in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "malayan-tiger",
+      "name": "Malayan Tiger",
+      "scientificName": "Panthera tigris jacksoni",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Critically Endangered",
+      "emoji": "🐅",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Malayan Tiger in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Malayan Tiger in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Malayan Tiger in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "komodo-dragon",
+      "name": "Komodo Dragon",
+      "scientificName": "Varanus komodoensis",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Endangered",
+      "emoji": "🦎",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Komodo Dragon in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Komodo Dragon in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Komodo Dragon in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "asian-elephant",
+      "name": "Asian Elephant",
+      "scientificName": "Elephas maximus",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Endangered",
+      "emoji": "🐘",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Asian Elephant in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Asian Elephant in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Asian Elephant in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "proboscis-monkey",
+      "name": "Proboscis Monkey",
+      "scientificName": "Nasalis larvatus",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Endangered",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Proboscis Monkey in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Proboscis Monkey in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Proboscis Monkey in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "sun-bear",
+      "name": "Sun Bear",
+      "scientificName": "Helarctos malayanus",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Vulnerable",
+      "emoji": "🐻",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Sun Bear in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Sun Bear in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Sun Bear in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "sunda-pangolin",
+      "name": "Sunda Pangolin",
+      "scientificName": "Manis javanica",
+      "continent": "Asia",
+      "subregion": "Southeast Asia",
+      "status": "Critically Endangered",
+      "emoji": "🦔",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Sunda Pangolin in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Sunda Pangolin in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Sunda Pangolin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "indian-rhino",
+      "name": "Indian Rhino",
+      "scientificName": "Rhinoceros unicornis",
+      "continent": "Asia",
+      "subregion": "South Asia",
+      "status": "Vulnerable",
+      "emoji": "🦏",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Indian Rhino in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Indian Rhino in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Indian Rhino in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "indian-elephant",
+      "name": "Indian Elephant",
+      "scientificName": "Elephas maximus indicus",
+      "continent": "Asia",
+      "subregion": "South Asia",
+      "status": "Endangered",
+      "emoji": "🐘",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Indian Elephant in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Indian Elephant in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Indian Elephant in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "snow-leopard",
+      "name": "Snow Leopard",
+      "scientificName": "Panthera uncia",
+      "continent": "Asia",
+      "subregion": "South Asia",
+      "status": "Vulnerable",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Snow Leopard in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Snow Leopard in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Snow Leopard in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "indian-peafowl",
+      "name": "Indian Peafowl",
+      "scientificName": "Pavo cristatus",
+      "continent": "Asia",
+      "subregion": "South Asia",
+      "status": "Least Concern",
+      "emoji": "🦚",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Indian Peafowl in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Indian Peafowl in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Indian Peafowl in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "asiatic-lion",
+      "name": "Asiatic Lion",
+      "scientificName": "Panthera leo persica",
+      "continent": "Asia",
+      "subregion": "South Asia",
+      "status": "Endangered",
+      "emoji": "🦁",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Asiatic Lion in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Asiatic Lion in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Asiatic Lion in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "saiga-antelope",
+      "name": "Saiga Antelope",
+      "scientificName": "Saiga tatarica",
+      "continent": "Asia",
+      "subregion": "Central Asia",
+      "status": "Critically Endangered",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Saiga Antelope in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Saiga Antelope in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Saiga Antelope in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "pallass-cat",
+      "name": "Pallas's Cat",
+      "scientificName": "Otocolobus manul",
+      "continent": "Asia",
+      "subregion": "Central Asia",
+      "status": "Least Concern",
+      "emoji": "🐱",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Pallas's Cat in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Pallas's Cat in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Pallas's Cat in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "arabian-oryx",
+      "name": "Arabian Oryx",
+      "scientificName": "Oryx leucoryx",
+      "continent": "Asia",
+      "subregion": "West Asia",
+      "status": "Vulnerable",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Arabian Oryx in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Arabian Oryx in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Arabian Oryx in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "persian-leopard",
+      "name": "Persian Leopard",
+      "scientificName": "Panthera pardus saxicolor",
+      "continent": "Asia",
+      "subregion": "West Asia",
+      "status": "Endangered",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Persian Leopard in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Persian Leopard in India, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Persian Leopard in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "american-bison",
+      "name": "American Bison",
+      "scientificName": "Bison bison",
+      "continent": "North America",
+      "subregion": "USA and Canada",
+      "status": "Near Threatened",
+      "emoji": "🦬",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic American Bison in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, American Bison in Yellowstone USA, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountains foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, American Bison in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "mountain-lion",
+      "name": "Mountain Lion",
+      "scientificName": "Puma concolor",
+      "continent": "North America",
+      "subregion": "USA and Canada",
+      "status": "Least Concern",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Mountain Lion in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Mountain Lion in Yellowstone USA, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountains foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Mountain Lion in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "moose",
+      "name": "Moose",
+      "scientificName": "Alces alces",
+      "continent": "North America",
+      "subregion": "USA and Canada",
+      "status": "Least Concern",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Moose in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Moose in Yellowstone USA, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountains foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Moose in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "california-condor",
+      "name": "California Condor",
+      "scientificName": "Gymnogyps californianus",
+      "continent": "North America",
+      "subregion": "USA and Canada",
+      "status": "Critically Endangered",
+      "emoji": "🦅",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic California Condor in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, California Condor in Yellowstone USA, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountains foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, California Condor in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "american-black-bear",
+      "name": "American Black Bear",
+      "scientificName": "Ursus americanus",
+      "continent": "North America",
+      "subregion": "USA and Canada",
+      "status": "Least Concern",
+      "emoji": "🐻",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic American Black Bear in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, American Black Bear in Yellowstone USA, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountains foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, American Black Bear in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "american-alligator",
+      "name": "American Alligator",
+      "scientificName": "Alligator mississippiensis",
+      "continent": "North America",
+      "subregion": "USA and Canada",
+      "status": "Least Concern",
+      "emoji": "🐊",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic American Alligator in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, American Alligator in Yellowstone USA, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountains foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, American Alligator in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "american-beaver",
+      "name": "American Beaver",
+      "scientificName": "Castor canadensis",
+      "continent": "North America",
+      "subregion": "USA and Canada",
+      "status": "Least Concern",
+      "emoji": "🦫",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic American Beaver in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, American Beaver in Yellowstone USA, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountains foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, American Beaver in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "quetzal",
+      "name": "Quetzal",
+      "scientificName": "Pharomachrus mocinno",
+      "continent": "North America",
+      "subregion": "Central America",
+      "status": "Near Threatened",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Quetzal in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Quetzal in Yellowstone USA, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountains foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Quetzal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "amazon-river-dolphin",
+      "name": "Amazon River Dolphin",
+      "scientificName": "Inia geoffrensis",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Endangered",
+      "emoji": "🐬",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Amazon River Dolphin in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Amazon River Dolphin in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Amazon River Dolphin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "toucan",
+      "name": "Toucan",
+      "scientificName": "Ramphastos spp.",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Least Concern",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Toucan in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Toucan in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Toucan in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "capybara",
+      "name": "Capybara",
+      "scientificName": "Hydrochoerus hydrochaeris",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Least Concern",
+      "emoji": "🦫",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Capybara in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Capybara in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Capybara in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "giant-anteater",
+      "name": "Giant Anteater",
+      "scientificName": "Myrmecophaga tridactyla",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Vulnerable",
+      "emoji": "🐜",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Giant Anteater in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Giant Anteater in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Giant Anteater in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "andean-condor",
+      "name": "Andean Condor",
+      "scientificName": "Vultur gryphus",
+      "continent": "South America",
+      "subregion": "Andes Mountains",
+      "status": "Vulnerable",
+      "emoji": "🦅",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Andean Condor in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Andean Condor in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Andean Condor in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "vicuna",
+      "name": "Vicuña",
+      "scientificName": "Vicugna vicugna",
+      "continent": "South America",
+      "subregion": "Andes Mountains",
+      "status": "Least Concern",
+      "emoji": "🦙",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Vicuña in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Vicuña in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Vicuña in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "spectacled-bear",
+      "name": "Spectacled Bear",
+      "scientificName": "Tremarctos ornatus",
+      "continent": "South America",
+      "subregion": "Andes Mountains",
+      "status": "Vulnerable",
+      "emoji": "🐻",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Spectacled Bear in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Spectacled Bear in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Spectacled Bear in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "giant-otter",
+      "name": "Giant Otter",
+      "scientificName": "Pteronura brasiliensis",
+      "continent": "South America",
+      "subregion": "Pantanal",
+      "status": "Endangered",
+      "emoji": "🦦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Giant Otter in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Giant Otter in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Giant Otter in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "maned-wolf",
+      "name": "Maned Wolf",
+      "scientificName": "Chrysocyon brachyurus",
+      "continent": "South America",
+      "subregion": "Pantanal",
+      "status": "Near Threatened",
+      "emoji": "🐺",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Maned Wolf in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Maned Wolf in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Maned Wolf in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "guanaco",
+      "name": "Guanaco",
+      "scientificName": "Lama guanicoe",
+      "continent": "South America",
+      "subregion": "Patagonia",
+      "status": "Least Concern",
+      "emoji": "🦙",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Guanaco in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Guanaco in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Guanaco in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "magellanic-penguin",
+      "name": "Magellanic Penguin",
+      "scientificName": "Spheniscus magellanicus",
+      "continent": "South America",
+      "subregion": "Patagonia",
+      "status": "Near Threatened",
+      "emoji": "🐧",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Magellanic Penguin in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Magellanic Penguin in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Magellanic Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "eurasian-lynx",
+      "name": "Eurasian Lynx",
+      "scientificName": "Lynx lynx",
+      "continent": "Europe",
+      "subregion": "Western Europe",
+      "status": "Least Concern",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Eurasian Lynx in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Eurasian Lynx in Scandinavia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Eurasian Lynx in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "european-bison",
+      "name": "European Bison",
+      "scientificName": "Bison bonasus",
+      "continent": "Europe",
+      "subregion": "Eastern Europe",
+      "status": "Near Threatened",
+      "emoji": "🦬",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic European Bison in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, European Bison in Scandinavia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, European Bison in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "brown-bear-europe",
+      "name": "Brown Bear",
+      "scientificName": "Ursus arctos",
+      "continent": "Europe",
+      "subregion": "Eastern Europe",
+      "status": "Least Concern",
+      "emoji": "🐻",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Brown Bear in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Brown Bear in Scandinavia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Brown Bear in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "iberian-lynx",
+      "name": "Iberian Lynx",
+      "scientificName": "Lynx pardinus",
+      "continent": "Europe",
+      "subregion": "Southern Europe",
+      "status": "Endangered",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Iberian Lynx in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Iberian Lynx in Scandinavia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Iberian Lynx in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "mediterranean-monk-seal",
+      "name": "Mediterranean Monk Seal",
+      "scientificName": "Monachus monachus",
+      "continent": "Europe",
+      "subregion": "Southern Europe",
+      "status": "Endangered",
+      "emoji": "🦭",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Mediterranean Monk Seal in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Mediterranean Monk Seal in Scandinavia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Mediterranean Monk Seal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "reindeer",
+      "name": "Reindeer",
+      "scientificName": "Rangifer tarandus",
+      "continent": "Europe",
+      "subregion": "Northern Europe",
+      "status": "Vulnerable",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Reindeer in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Reindeer in Scandinavia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Reindeer in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "beluga-whale",
+      "name": "Beluga Whale",
+      "scientificName": "Delphinapterus leucas",
+      "continent": "Europe",
+      "subregion": "Northern Europe",
+      "status": "Least Concern",
+      "emoji": "🐋",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Beluga Whale in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Beluga Whale in Scandinavia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Beluga Whale in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "kangaroo",
+      "name": "Kangaroo",
+      "scientificName": "Macropus spp.",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Least Concern",
+      "emoji": "🦘",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Kangaroo in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Kangaroo in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Kangaroo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "koala",
+      "name": "Koala",
+      "scientificName": "Phascolarctos cinereus",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Vulnerable",
+      "emoji": "🐨",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Koala in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Koala in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Koala in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "platypus",
+      "name": "Platypus",
+      "scientificName": "Ornithorhynchus anatinus",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Near Threatened",
+      "emoji": "🦫",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Platypus in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Platypus in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Platypus in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "tasmanian-devil",
+      "name": "Tasmanian Devil",
+      "scientificName": "Sarcophilus harrisii",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Endangered",
+      "emoji": "🦡",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Tasmanian Devil in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Tasmanian Devil in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Tasmanian Devil in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "emu",
+      "name": "Emu",
+      "scientificName": "Dromaius novaehollandiae",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Least Concern",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Emu in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Emu in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Emu in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "quokka",
+      "name": "Quokka",
+      "scientificName": "Setonix brachyurus",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Vulnerable",
+      "emoji": "🦘",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Quokka in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Quokka in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Quokka in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "wombat",
+      "name": "Wombat",
+      "scientificName": "Vombatus ursinus",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Least Concern",
+      "emoji": "🦫",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Wombat in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Wombat in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Wombat in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "dingo",
+      "name": "Dingo",
+      "scientificName": "Canis lupus dingo",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Vulnerable",
+      "emoji": "🐕",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Dingo in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Dingo in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Dingo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "cassowary",
+      "name": "Cassowary",
+      "scientificName": "Casuarius spp.",
+      "continent": "Oceania",
+      "subregion": "Melanesia",
+      "status": "Least Concern",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Cassowary in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Cassowary in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Cassowary in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "hawaiian-monk-seal",
+      "name": "Hawaiian Monk Seal",
+      "scientificName": "Neomonachus schauinslandi",
+      "continent": "Oceania",
+      "subregion": "Polynesia",
+      "status": "Endangered",
+      "emoji": "🦭",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Hawaiian Monk Seal in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Hawaiian Monk Seal in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Hawaiian Monk Seal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "emperor-penguin",
+      "name": "Emperor Penguin",
+      "scientificName": "Aptenodytes forsteri",
+      "continent": "Antarctica",
+      "subregion": "Antarctic Peninsula",
+      "status": "Near Threatened",
+      "emoji": "🐧",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Emperor Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Emperor Penguin in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Emperor Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "antarctic-fur-seal",
+      "name": "Antarctic Fur Seal",
+      "scientificName": "Arctocephalus gazella",
+      "continent": "Antarctica",
+      "subregion": "Antarctic Peninsula",
+      "status": "Least Concern",
+      "emoji": "🦭",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Antarctic Fur Seal in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Antarctic Fur Seal in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Antarctic Fur Seal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "wandering-albatross",
+      "name": "Wandering Albatross",
+      "scientificName": "Diomedea exulans",
+      "continent": "Antarctica",
+      "subregion": "Antarctic Peninsula",
+      "status": "Vulnerable",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Wandering Albatross in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Wandering Albatross in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Wandering Albatross in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "gentoo-penguin",
+      "name": "Gentoo Penguin",
+      "scientificName": "Pygoscelis papua",
+      "continent": "Antarctica",
+      "subregion": "Antarctic Peninsula",
+      "status": "Least Concern",
+      "emoji": "🐧",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Gentoo Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Gentoo Penguin in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Gentoo Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "weddell-seal",
+      "name": "Weddell Seal",
+      "scientificName": "Leptonychotes weddellii",
+      "continent": "Antarctica",
+      "subregion": "Antarctic Peninsula",
+      "status": "Least Concern",
+      "emoji": "🦭",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Weddell Seal in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Weddell Seal in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Weddell Seal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "chinstrap-penguin",
+      "name": "Chinstrap Penguin",
+      "scientificName": "Pygoscelis antarcticus",
+      "continent": "Antarctica",
+      "subregion": "Antarctic Peninsula",
+      "status": "Least Concern",
+      "emoji": "🐧",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Chinstrap Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Chinstrap Penguin in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Chinstrap Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "adelie-penguin",
+      "name": "Adélie Penguin",
+      "scientificName": "Pygoscelis adeliae",
+      "continent": "Antarctica",
+      "subregion": "West Antarctica",
+      "status": "Least Concern",
+      "emoji": "🐧",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Adélie Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Adélie Penguin in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Adélie Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "crabeater-seal",
+      "name": "Crabeater Seal",
+      "scientificName": "Lobodon carcinophaga",
+      "continent": "Antarctica",
+      "subregion": "West Antarctica",
+      "status": "Least Concern",
+      "emoji": "🦭",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Crabeater Seal in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Crabeater Seal in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Crabeater Seal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
+    },
+    {
+      "slug": "leopard-seal",
+      "name": "Leopard Seal",
+      "scientificName": "Hydrurga leptonyx",
+      "continent": "Antarctica",
+      "subregion": "West Antarctica",
+      "status": "Least Concern",
+      "emoji": "🦭",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "",
+        "image2": "",
+        "video": ""
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Leopard Seal in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Leopard Seal in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Leopard Seal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "",
+      "highlights": [],
+      "conservation": ""
     }
   ]
 }
