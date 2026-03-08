@@ -4,7 +4,7 @@
       "slug": "africa",
       "name": "Africa",
       "order": 1,
-      "emoji": "🦁",
+      "emoji": "\ud83e\udd81",
       "description": "The cradle of wildlife, home to the planet's most iconic megafauna",
       "subregions": [
         {
@@ -46,7 +46,7 @@
       "slug": "asia",
       "name": "Asia",
       "order": 2,
-      "emoji": "🐅",
+      "emoji": "\ud83d\udc05",
       "description": "From the Himalayas to tropical rainforests, home to tigers, pandas, and ancient megafauna",
       "subregions": [
         {
@@ -84,7 +84,7 @@
       "slug": "north-america",
       "name": "North America",
       "order": 3,
-      "emoji": "🦅",
+      "emoji": "\ud83e\udd85",
       "description": "From Arctic tundra to desert Southwest, a land of bears, wolves, and iconic birds",
       "subregions": [
         {
@@ -108,7 +108,7 @@
       "slug": "south-america",
       "name": "South America",
       "order": 4,
-      "emoji": "🦜",
+      "emoji": "\ud83e\udd9c",
       "description": "The Amazon rainforest and Andes mountains harbor unparalleled biodiversity",
       "subregions": [
         {
@@ -140,7 +140,7 @@
       "slug": "europe",
       "name": "Europe",
       "order": 5,
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "description": "Ancient forests and mountain ranges where wildlife is slowly returning",
       "subregions": [
         {
@@ -169,7 +169,7 @@
       "slug": "australia",
       "name": "Australia",
       "order": 6,
-      "emoji": "🦘",
+      "emoji": "\ud83e\udd98",
       "description": "An island continent where marsupials rule and unique wildlife evolved in isolation",
       "subregions": [
         {
@@ -198,7 +198,7 @@
       "slug": "antarctica",
       "name": "Antarctica",
       "order": 7,
-      "emoji": "🐧",
+      "emoji": "\ud83d\udc27",
       "description": "The frozen continent, home to extreme survivors and abundant marine life",
       "subregions": [
         {
@@ -227,7 +227,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "🐘",
+      "emoji": "\ud83d\udc18",
       "stats": {
         "habitat": "Savannah, Forests, Grasslands",
         "diet": "Herbivore",
@@ -244,14 +244,45 @@
         "image2": "photorealistic wildlife photography, massive African elephant bull crossing Chobe River Botswana, dramatic golden hour backlighting, water splashing, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, river and wetland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, African elephant herd walking across savanna at sunset, dust clouds rising, golden hour lighting, slow motion, 4K, dramatic music, National Geographic documentary style"
       },
-      "description": "The African elephant is the largest land animal on Earth. These magnificent creatures roam the savannas and forests of sub-Saharan Africa, playing a crucial role in their ecosystems as ecosystem engineers.",
+      "description": "The African elephant (Loxodonta africana) stands as the largest land animal on Earth, commanding the savannas and forests of sub-Saharan Africa with grace and power. These magnificent creatures, weighing between 4,000-7,000 kg and living 60-70 years, play a crucial role as ecosystem engineers\u2014shaping their environment in ways that benefit countless other species. Their intelligence, emotional depth, and complex social structures make them one of the most fascinating animals on our planet.",
       "highlights": [
-        "Largest land animal on Earth",
+        "Largest land animal on Earth, weighing up to 7,000 kg",
         "Matriarchal family groups led by oldest female",
         "Ecosystem engineers that shape their environment",
-        "Can communicate over long distances via infrasound"
+        "Can communicate over long distances via infrasound",
+        "Excellent memory and problem-solving abilities",
+        "Trunk contains over 40,000 muscles"
       ],
-      "conservation": "Classified as Endangered by the IUCN. Major threats include poaching for ivory, habitat loss due to human expansion, and human-elephant conflict."
+      "conservation": "Classified as Endangered by the IUCN Red List. Major threats include poaching for ivory, habitat loss due to human expansion, and human-elephant conflict. Population estimates suggest fewer than 415,000 African elephants remain in the wild, down from millions just a century ago. Conservation efforts focus on anti-poaching patrols, habitat protection, and community-based initiatives that reduce human-elephant conflict.",
+      "seo": {
+        "title": "African Elephant: The Largest Land Animal | Wildlife Conservation",
+        "metaDescription": "Discover the African elephant (Loxodonta africana), the largest land animal on Earth. Learn about their habitat, behavior, conservation status, and why these endangered giants matter to our ecosystem.",
+        "keywords": [
+          "African elephant",
+          "Loxodonta africana",
+          "largest land animal",
+          "elephant conservation",
+          "endangered species",
+          "African wildlife",
+          "elephant habitat",
+          "elephant facts"
+        ],
+        "habitatDetails": "African elephants roam across 37 countries in sub-Saharan Africa, from the savannas of East Africa to the forests of Central and West Africa. They require vast territories with access to water, grasslands for grazing, and forests for browsing. Key populations exist in Kenya, Tanzania, Botswana, Zimbabwe, and South Africa.",
+        "behaviorDetails": "African elephants live in complex matriarchal societies led by the oldest, most experienced female. Family units typically consist of 8-100 individuals related females and their offspring. Males leave the herd at puberty and may live solitarily or in bachelor groups. Elephants display remarkable intelligence, using tools, showing empathy, and mourning their dead.",
+        "dietDetails": "As herbivores, African elephants consume up to 150 kg of vegetation daily, including grasses, leaves, bark, fruits, and roots. Their diet varies seasonally and by habitat. They play a crucial role in seed dispersal, helping maintain forest and savanna ecosystems across Africa.",
+        "threats": [
+          "Poaching for ivory remains the primary threat",
+          "Habitat loss from agricultural expansion",
+          "Human-elephant conflict in populated areas",
+          "Climate change affecting water sources"
+        ],
+        "relatedAnimals": [
+          "african-forest-elephant",
+          "asian-elephant",
+          "white-rhino",
+          "hippopotamus"
+        ]
+      }
     },
     {
       "slug": "lion",
@@ -260,7 +291,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "🦁",
+      "emoji": "\ud83e\udd81",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Carnivore",
@@ -293,7 +324,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "🦒",
+      "emoji": "\ud83e\udd92",
       "stats": {
         "habitat": "Savannas, Open Woodlands",
         "diet": "Herbivore",
@@ -326,7 +357,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "🦓",
+      "emoji": "\ud83e\udd93",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Herbivore",
@@ -350,7 +381,7 @@
         "Can run up to 65 km/h",
         "Part of Great Migration with wildebeest"
       ],
-      "conservation": "Plains zebras remain relatively numerous, but Grévy's zebras number fewer than 2,500 individuals."
+      "conservation": "Plains zebras remain relatively numerous, but Gr\u00e9vy's zebras number fewer than 2,500 individuals."
     },
     {
       "slug": "cheetah",
@@ -359,7 +390,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Carnivore",
@@ -392,7 +423,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "🦛",
+      "emoji": "\ud83e\udd9b",
       "stats": {
         "habitat": "Rivers, Lakes, Wetlands",
         "diet": "Herbivore",
@@ -425,7 +456,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Endangered",
-      "emoji": "🐕",
+      "emoji": "\ud83d\udc15",
       "stats": {
         "habitat": "Savannas, Grasslands",
         "diet": "Carnivore",
@@ -458,7 +489,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Near Threatened",
-      "emoji": "🦏",
+      "emoji": "\ud83e\udd8f",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Herbivore",
@@ -491,7 +522,7 @@
       "continent": "Asia",
       "subregion": "Indian Subcontinent",
       "status": "Endangered",
-      "emoji": "🐅",
+      "emoji": "\ud83d\udc05",
       "stats": {
         "habitat": "Tropical Forests, Mangroves",
         "diet": "Carnivore",
@@ -524,7 +555,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Vulnerable",
-      "emoji": "🐼",
+      "emoji": "\ud83d\udc3c",
       "stats": {
         "habitat": "Temperate Bamboo Forests",
         "diet": "Herbivore (99% bamboo)",
@@ -557,7 +588,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "🦧",
+      "emoji": "\ud83e\udda7",
       "stats": {
         "habitat": "Tropical Rainforests",
         "diet": "Omnivore (mostly fruit)",
@@ -590,7 +621,7 @@
       "continent": "North America",
       "subregion": "Western Mountains",
       "status": "Least Concern",
-      "emoji": "🐻",
+      "emoji": "\ud83d\udc3b",
       "stats": {
         "habitat": "Mountains, Forests, Tundra",
         "diet": "Omnivore",
@@ -623,7 +654,7 @@
       "continent": "North America",
       "subregion": "Northern Forests",
       "status": "Least Concern",
-      "emoji": "🦅",
+      "emoji": "\ud83e\udd85",
       "stats": {
         "habitat": "Coasts, Lakes, Rivers",
         "diet": "Carnivore (primarily fish)",
@@ -656,7 +687,7 @@
       "continent": "North America",
       "subregion": "Northern Forests",
       "status": "Least Concern",
-      "emoji": "🐺",
+      "emoji": "\ud83d\udc3a",
       "stats": {
         "habitat": "Forests, Tundra, Mountains",
         "diet": "Carnivore",
@@ -689,7 +720,7 @@
       "continent": "North America",
       "subregion": "Arctic",
       "status": "Vulnerable",
-      "emoji": "🐻‍❄️",
+      "emoji": "\ud83d\udc3b\u200d\u2744\ufe0f",
       "stats": {
         "habitat": "Sea Ice, Arctic Coasts",
         "diet": "Carnivore (primarily seals)",
@@ -722,7 +753,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Near Threatened",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "Rainforests, Wetlands, Grasslands",
         "diet": "Carnivore",
@@ -755,7 +786,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "🦒",
+      "emoji": "\ud83e\udd92",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -783,7 +814,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "🦓",
+      "emoji": "\ud83e\udd93",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -811,7 +842,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "🐊",
+      "emoji": "\ud83d\udc0a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -839,7 +870,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "🐃",
+      "emoji": "\ud83d\udc03",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -867,7 +898,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -895,7 +926,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "🐵",
+      "emoji": "\ud83d\udc35",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -923,7 +954,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "🦓",
+      "emoji": "\ud83e\udd93",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -951,7 +982,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "🦎",
+      "emoji": "\ud83e\udd8e",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -979,7 +1010,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "🦒",
+      "emoji": "\ud83e\udd92",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1007,7 +1038,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "🦜",
+      "emoji": "\ud83e\udd9c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1035,7 +1066,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1063,7 +1094,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "🐜",
+      "emoji": "\ud83d\udc1c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1091,7 +1122,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "🐺",
+      "emoji": "\ud83d\udc3a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1119,7 +1150,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "🦅",
+      "emoji": "\ud83e\udd85",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1147,7 +1178,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1175,7 +1206,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Endangered",
-      "emoji": "🐧",
+      "emoji": "\ud83d\udc27",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1203,7 +1234,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "🦝",
+      "emoji": "\ud83e\udd9d",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1231,7 +1262,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "🐦",
+      "emoji": "\ud83d\udc26",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1259,7 +1290,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "🦅",
+      "emoji": "\ud83e\udd85",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1287,7 +1318,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Critically Endangered",
-      "emoji": "🦏",
+      "emoji": "\ud83e\udd8f",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1315,7 +1346,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Near Threatened",
-      "emoji": "🐃",
+      "emoji": "\ud83d\udc03",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1343,7 +1374,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "🦊",
+      "emoji": "\ud83e\udd8a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1371,7 +1402,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "🦭",
+      "emoji": "\ud83e\uddad",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1399,7 +1430,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "🦫",
+      "emoji": "\ud83e\uddab",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1427,7 +1458,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "🦔",
+      "emoji": "\ud83e\udd94",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1455,7 +1486,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "🐱",
+      "emoji": "\ud83d\udc31",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1483,7 +1514,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "🦔",
+      "emoji": "\ud83e\udd94",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1511,7 +1542,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Near Threatened",
-      "emoji": "🐺",
+      "emoji": "\ud83d\udc3a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1539,7 +1570,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "🦊",
+      "emoji": "\ud83e\udd8a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1567,7 +1598,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Endangered",
-      "emoji": "🐵",
+      "emoji": "\ud83d\udc35",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1595,7 +1626,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Critically Endangered",
-      "emoji": "🦍",
+      "emoji": "\ud83e\udd8d",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1623,7 +1654,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Critically Endangered",
-      "emoji": "🐘",
+      "emoji": "\ud83d\udc18",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1651,7 +1682,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Near Threatened",
-      "emoji": "🐍",
+      "emoji": "\ud83d\udc0d",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1679,7 +1710,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Vulnerable",
-      "emoji": "🐵",
+      "emoji": "\ud83d\udc35",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1707,7 +1738,7 @@
       "continent": "Africa",
       "subregion": "Central Africa",
       "status": "Endangered",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1735,7 +1766,7 @@
       "continent": "Africa",
       "subregion": "Central Africa",
       "status": "Near Threatened",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1763,7 +1794,7 @@
       "continent": "Africa",
       "subregion": "Central Africa",
       "status": "Endangered",
-      "emoji": "🐵",
+      "emoji": "\ud83d\udc35",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1791,7 +1822,7 @@
       "continent": "Africa",
       "subregion": "North Africa",
       "status": "Endangered",
-      "emoji": "🐵",
+      "emoji": "\ud83d\udc35",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1819,7 +1850,7 @@
       "continent": "Africa",
       "subregion": "North Africa",
       "status": "Least Concern",
-      "emoji": "🦊",
+      "emoji": "\ud83e\udd8a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1847,7 +1878,7 @@
       "continent": "Africa",
       "subregion": "North Africa",
       "status": "Critically Endangered",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1875,7 +1906,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Endangered",
-      "emoji": "🐦",
+      "emoji": "\ud83d\udc26",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1903,7 +1934,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Endangered",
-      "emoji": "🐅",
+      "emoji": "\ud83d\udc05",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1931,7 +1962,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Least Concern",
-      "emoji": "🐵",
+      "emoji": "\ud83d\udc35",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1959,7 +1990,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Critically Endangered",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -1987,7 +2018,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Endangered",
-      "emoji": "🐼",
+      "emoji": "\ud83d\udc3c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2015,7 +2046,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "🦧",
+      "emoji": "\ud83e\udda7",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2043,7 +2074,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "🐅",
+      "emoji": "\ud83d\udc05",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2071,7 +2102,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Endangered",
-      "emoji": "🦎",
+      "emoji": "\ud83e\udd8e",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2099,7 +2130,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Endangered",
-      "emoji": "🐘",
+      "emoji": "\ud83d\udc18",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2127,7 +2158,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Endangered",
-      "emoji": "🐵",
+      "emoji": "\ud83d\udc35",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2155,7 +2186,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Vulnerable",
-      "emoji": "🐻",
+      "emoji": "\ud83d\udc3b",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2183,7 +2214,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "🦔",
+      "emoji": "\ud83e\udd94",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2211,7 +2242,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Vulnerable",
-      "emoji": "🦏",
+      "emoji": "\ud83e\udd8f",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2239,7 +2270,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Endangered",
-      "emoji": "🐘",
+      "emoji": "\ud83d\udc18",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2267,7 +2298,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Vulnerable",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2295,7 +2326,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Least Concern",
-      "emoji": "🦚",
+      "emoji": "\ud83e\udd9a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2323,7 +2354,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Endangered",
-      "emoji": "🦁",
+      "emoji": "\ud83e\udd81",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2351,7 +2382,7 @@
       "continent": "Asia",
       "subregion": "Central Asia",
       "status": "Critically Endangered",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2379,7 +2410,7 @@
       "continent": "Asia",
       "subregion": "Central Asia",
       "status": "Least Concern",
-      "emoji": "🐱",
+      "emoji": "\ud83d\udc31",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2407,7 +2438,7 @@
       "continent": "Asia",
       "subregion": "West Asia",
       "status": "Vulnerable",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2435,7 +2466,7 @@
       "continent": "Asia",
       "subregion": "West Asia",
       "status": "Endangered",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2463,7 +2494,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Near Threatened",
-      "emoji": "🦬",
+      "emoji": "\ud83e\uddac",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2491,7 +2522,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2519,7 +2550,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2547,7 +2578,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Critically Endangered",
-      "emoji": "🦅",
+      "emoji": "\ud83e\udd85",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2575,7 +2606,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "🐻",
+      "emoji": "\ud83d\udc3b",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2603,7 +2634,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "🐊",
+      "emoji": "\ud83d\udc0a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2631,7 +2662,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "🦫",
+      "emoji": "\ud83e\uddab",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2659,7 +2690,7 @@
       "continent": "North America",
       "subregion": "Central America",
       "status": "Near Threatened",
-      "emoji": "🐦",
+      "emoji": "\ud83d\udc26",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2687,7 +2718,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Endangered",
-      "emoji": "🐬",
+      "emoji": "\ud83d\udc2c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2715,7 +2746,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Least Concern",
-      "emoji": "🐦",
+      "emoji": "\ud83d\udc26",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2743,7 +2774,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Least Concern",
-      "emoji": "🦫",
+      "emoji": "\ud83e\uddab",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2771,7 +2802,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Vulnerable",
-      "emoji": "🐜",
+      "emoji": "\ud83d\udc1c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2799,7 +2830,7 @@
       "continent": "South America",
       "subregion": "Andes Mountains",
       "status": "Vulnerable",
-      "emoji": "🦅",
+      "emoji": "\ud83e\udd85",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2822,12 +2853,12 @@
     },
     {
       "slug": "vicuna",
-      "name": "Vicuña",
+      "name": "Vicu\u00f1a",
       "scientificName": "Vicugna vicugna",
       "continent": "South America",
       "subregion": "Andes Mountains",
       "status": "Least Concern",
-      "emoji": "🦙",
+      "emoji": "\ud83e\udd99",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2840,9 +2871,9 @@
         "video": "/videos/vicuna.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, majestic Vicuña in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, Vicuña in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, Vicuña in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, majestic Vicu\u00f1a in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Vicu\u00f1a in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Vicu\u00f1a in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
       "description": "",
       "highlights": [],
@@ -2855,7 +2886,7 @@
       "continent": "South America",
       "subregion": "Andes Mountains",
       "status": "Vulnerable",
-      "emoji": "🐻",
+      "emoji": "\ud83d\udc3b",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2883,7 +2914,7 @@
       "continent": "South America",
       "subregion": "Pantanal",
       "status": "Endangered",
-      "emoji": "🦦",
+      "emoji": "\ud83e\udda6",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2911,7 +2942,7 @@
       "continent": "South America",
       "subregion": "Pantanal",
       "status": "Near Threatened",
-      "emoji": "🐺",
+      "emoji": "\ud83d\udc3a",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2939,7 +2970,7 @@
       "continent": "South America",
       "subregion": "Patagonia",
       "status": "Least Concern",
-      "emoji": "🦙",
+      "emoji": "\ud83e\udd99",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2967,7 +2998,7 @@
       "continent": "South America",
       "subregion": "Patagonia",
       "status": "Near Threatened",
-      "emoji": "🐧",
+      "emoji": "\ud83d\udc27",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2995,7 +3026,7 @@
       "continent": "Europe",
       "subregion": "Western Europe",
       "status": "Least Concern",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3023,7 +3054,7 @@
       "continent": "Europe",
       "subregion": "Eastern Europe",
       "status": "Near Threatened",
-      "emoji": "🦬",
+      "emoji": "\ud83e\uddac",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3051,7 +3082,7 @@
       "continent": "Europe",
       "subregion": "Eastern Europe",
       "status": "Least Concern",
-      "emoji": "🐻",
+      "emoji": "\ud83d\udc3b",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3079,7 +3110,7 @@
       "continent": "Europe",
       "subregion": "Southern Europe",
       "status": "Endangered",
-      "emoji": "🐆",
+      "emoji": "\ud83d\udc06",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3107,7 +3138,7 @@
       "continent": "Europe",
       "subregion": "Southern Europe",
       "status": "Endangered",
-      "emoji": "🦭",
+      "emoji": "\ud83e\uddad",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3135,7 +3166,7 @@
       "continent": "Europe",
       "subregion": "Northern Europe",
       "status": "Vulnerable",
-      "emoji": "🦌",
+      "emoji": "\ud83e\udd8c",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3163,7 +3194,7 @@
       "continent": "Europe",
       "subregion": "Northern Europe",
       "status": "Least Concern",
-      "emoji": "🐋",
+      "emoji": "\ud83d\udc0b",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3191,7 +3222,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Least Concern",
-      "emoji": "🦘",
+      "emoji": "\ud83e\udd98",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3219,7 +3250,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Vulnerable",
-      "emoji": "🐨",
+      "emoji": "\ud83d\udc28",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3247,7 +3278,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Near Threatened",
-      "emoji": "🦫",
+      "emoji": "\ud83e\uddab",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3275,7 +3306,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Endangered",
-      "emoji": "🦡",
+      "emoji": "\ud83e\udda1",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3303,7 +3334,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Least Concern",
-      "emoji": "🐦",
+      "emoji": "\ud83d\udc26",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3331,7 +3362,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Vulnerable",
-      "emoji": "🦘",
+      "emoji": "\ud83e\udd98",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3359,7 +3390,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Least Concern",
-      "emoji": "🦫",
+      "emoji": "\ud83e\uddab",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3387,7 +3418,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Vulnerable",
-      "emoji": "🐕",
+      "emoji": "\ud83d\udc15",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3415,7 +3446,7 @@
       "continent": "Oceania",
       "subregion": "Melanesia",
       "status": "Least Concern",
-      "emoji": "🐦",
+      "emoji": "\ud83d\udc26",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3443,7 +3474,7 @@
       "continent": "Oceania",
       "subregion": "Polynesia",
       "status": "Endangered",
-      "emoji": "🦭",
+      "emoji": "\ud83e\uddad",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3471,7 +3502,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Near Threatened",
-      "emoji": "🐧",
+      "emoji": "\ud83d\udc27",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3499,7 +3530,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Least Concern",
-      "emoji": "🦭",
+      "emoji": "\ud83e\uddad",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3527,7 +3558,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Vulnerable",
-      "emoji": "🐦",
+      "emoji": "\ud83d\udc26",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3555,7 +3586,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Least Concern",
-      "emoji": "🐧",
+      "emoji": "\ud83d\udc27",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3583,7 +3614,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Least Concern",
-      "emoji": "🦭",
+      "emoji": "\ud83e\uddad",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3611,7 +3642,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Least Concern",
-      "emoji": "🐧",
+      "emoji": "\ud83d\udc27",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3634,12 +3665,12 @@
     },
     {
       "slug": "adelie-penguin",
-      "name": "Adélie Penguin",
+      "name": "Ad\u00e9lie Penguin",
       "scientificName": "Pygoscelis adeliae",
       "continent": "Antarctica",
       "subregion": "West Antarctica",
       "status": "Least Concern",
-      "emoji": "🐧",
+      "emoji": "\ud83d\udc27",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3652,9 +3683,9 @@
         "video": "/videos/adelie-penguin.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, majestic Adélie Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, Adélie Penguin in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, Adélie Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, majestic Ad\u00e9lie Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Ad\u00e9lie Penguin in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Ad\u00e9lie Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
       "description": "",
       "highlights": [],
@@ -3667,7 +3698,7 @@
       "continent": "Antarctica",
       "subregion": "West Antarctica",
       "status": "Least Concern",
-      "emoji": "🦭",
+      "emoji": "\ud83e\uddad",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3695,7 +3726,7 @@
       "continent": "Antarctica",
       "subregion": "West Antarctica",
       "status": "Least Concern",
-      "emoji": "🦭",
+      "emoji": "\ud83e\uddad",
       "stats": {
         "habitat": "",
         "diet": "",

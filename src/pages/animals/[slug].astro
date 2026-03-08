@@ -23,6 +23,11 @@ export async function getStaticPaths() {
 const { animal, prevAnimal, nextAnimal } = Astro.props;
 const continent = animalsData.continents.find(c => c.name === animal.continent);
 
+// SEO Data - use enhanced SEO content if available
+const seoTitle = animal.seo?.title || `${animal.name}: ${animal.scientificName} | Wildlife Conservation`;
+const seoDescription = animal.seo?.metaDescription || animal.description;
+const seoKeywords = animal.seo?.keywords?.join(', ') || `${animal.name}, ${animal.scientificName}, wildlife, conservation, ${animal.continent}`;
+
 // Media paths - check for multiple extensions
 const heroImage = animal.media?.heroImage;
 const image2 = animal.media?.image2;
@@ -46,9 +51,43 @@ const getImagePath = (basePath: string) => {
 
 const heroImagePath = getImagePath(heroImage);
 const image2Path = image2 ? getImagePath(image2) : null;
+
+// Check if SEO-enhanced content is available
+const hasSeoContent = !!animal.seo;
 ---
 
-<Layout title={`${animal.name} | Wildlife`}>
+<Layout title={seoTitle}>
+  <!-- SEO Meta Tags -->
+  <meta slot="head" name="description" content={seoDescription} />
+  <meta slot="head" name="keywords" content={seoKeywords} />
+  <meta slot="head" property="og:title" content={seoTitle} />
+  <meta slot="head" property="og:description" content={seoDescription} />
+  <meta slot="head" property="og:image" content={heroImagePath} />
+  <meta slot="head" property="og:type" content="article" />
+  <meta slot="head" name="twitter:card" content="summary_large_image" />
+  <meta slot="head" name="twitter:title" content={seoTitle} />
+  <meta slot="head" name="twitter:description" content={seoDescription} />
+  <meta slot="head" name="twitter:image" content={heroImagePath} />
+  
+  <!-- Schema.org Structured Data for SEO -->
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": animal.name,
+    "description": seoDescription,
+    "image": heroImagePath,
+    "author": {
+      "@type": "Organization",
+      "name": "Wildlife Conservation Photography"
+    },
+    "about": {
+      "@type": "Thing",
+      "name": animal.name,
+      "scientificName": animal.scientificName
+    },
+    "keywords": seoKeywords
+  })} />
+
   <!-- Previous/Next Navigation Arrows -->
   <a href={`/animals/${prevAnimal.slug}`} class="nav-arrow nav-arrow-prev" title={`Previous: ${prevAnimal.name}`}>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
@@ -128,11 +167,11 @@ const image2Path = image2 ? getImagePath(image2) : null;
       <section class="image-gallery">
         <div class="gallery-grid">
           <div class="gallery-item main-image" data-lightbox="true">
-            <img src={heroImagePath} alt={`${animal.name} - Hero`} />
+            <img src={heroImagePath} alt={`${animal.name} - ${animal.continent} Wildlife Photography`} />
           </div>
           {image2Path && (
             <div class="gallery-item secondary-image" data-lightbox="true">
-              <img src={image2Path} alt={`${animal.name} - Secondary`} />
+              <img src={image2Path} alt={`${animal.name} - Conservation Photography`} />
             </div>
           )}
         </div>
@@ -145,10 +184,36 @@ const image2Path = image2 ? getImagePath(image2) : null;
         <div class="lightbox-caption" id="lightbox-caption"></div>
       </div>
 
+      <!-- Main Description -->
       <section class="description">
         <p class="lead">{animal.description}</p>
       </section>
 
+      <!-- SEO-Enhanced Habitat Section (if available) -->
+      {hasSeoContent && animal.seo.habitatDetails && (
+        <section class="habitat-details">
+          <h2>Habitat & Range</h2>
+          <p>{animal.seo.habitatDetails}</p>
+        </section>
+      )}
+
+      <!-- SEO-Enhanced Behavior Section (if available) -->
+      {hasSeoContent && animal.seo.behaviorDetails && (
+        <section class="behavior-details">
+          <h2>Behavior & Social Structure</h2>
+          <p>{animal.seo.behaviorDetails}</p>
+        </section>
+      )}
+
+      <!-- SEO-Enhanced Diet Section (if available) -->
+      {hasSeoContent && animal.seo.dietDetails && (
+        <section class="diet-details">
+          <h2>Diet & Nutrition</h2>
+          <p>{animal.seo.dietDetails}</p>
+        </section>
+      )}
+
+      <!-- Key Facts -->
       <section class="highlights">
         <h2>Key Facts</h2>
         <ul>
@@ -158,10 +223,64 @@ const image2Path = image2 ? getImagePath(image2) : null;
         </ul>
       </section>
 
+      <!-- Conservation Status -->
       <section class="conservation">
-        <h2>Conservation</h2>
+        <h2>Conservation Status</h2>
         <p>{animal.conservation}</p>
+        
+        <!-- SEO-Enhanced Threats (if available) -->
+        {hasSeoContent && animal.seo.threats && (
+          <div class="threats">
+            <h3>Primary Threats</h3>
+            <ul>
+              {animal.seo.threats.map(threat => (
+                <li>{threat}</li>
+              ))}
+            </ul>
+          </div>
+        )}
       </section>
+
+      <!-- Related Animals (if available) -->
+      {hasSeoContent && animal.seo.relatedAnimals && (
+        <section class="related-animals">
+          <h2>Related Species</h2>
+          <div class="related-grid">
+            {animal.seo.relatedAnimals.map(relatedSlug => {
+              const related = animalsData.animals.find(a => a.slug === relatedSlug);
+              return related ? (
+                <a href={`/animals/${related.slug}`} class="related-card">
+                  <span class="related-emoji">{related.emoji}</span>
+                  <span class="related-name">{related.name}</span>
+                </a>
+              ) : null;
+            })}
+          </div>
+        </section>
+      )}
+
+      <!-- FAQ Section for Featured Snippets -->
+      {hasSeoContent && (
+        <section class="faq-section">
+          <h2>Frequently Asked Questions</h2>
+          <div class="faq-item">
+            <h3>How big is an {animal.name}?</h3>
+            <p>{animal.name}s typically weigh {animal.stats.weight} and can be identified by their distinctive features. They are native to {animal.stats.habitat}.</p>
+          </div>
+          <div class="faq-item">
+            <h3>Are {animal.name}s endangered?</h3>
+            <p>The {animal.name} is currently classified as <strong>{animal.status}</strong> by the IUCN Red List. {animal.conservation?.substring(0, 150)}...</p>
+          </div>
+          <div class="faq-item">
+            <h3>What do {animal.name}s eat?</h3>
+            <p>{animal.name}s are {animal.stats.diet?.toLowerCase() || 'omnivores'}. {hasSeoContent && animal.seo.dietDetails ? animal.seo.dietDetails.substring(0, 120) + '...' : `They have adapted to their ${animal.stats.habitat} environment.`}</p>
+          </div>
+          <div class="faq-item">
+            <h3>How long do {animal.name}s live?</h3>
+            <p>In the wild, {animal.name}s typically live for {animal.stats.lifespan}. Their lifespan can vary based on environmental conditions and conservation efforts.</p>
+          </div>
+        </section>
+      )}
     </div>
   </article>
 
@@ -550,8 +669,14 @@ const image2Path = image2 ? getImagePath(image2) : null;
     font-weight: 300;
   }
 
+  /* SEO-Enhanced Sections */
+  .habitat-details h2,
+  .behavior-details h2,
+  .diet-details h2,
   .highlights h2,
-  .conservation h2 {
+  .conservation h2,
+  .related-animals h2,
+  .faq-section h2 {
     font-family: 'Cormorant Garamond', serif;
     font-size: 1.25rem;
     font-weight: 400;
@@ -559,6 +684,14 @@ const image2Path = image2 ? getImagePath(image2) : null;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.8);
+  }
+
+  .habitat-details p,
+  .behavior-details p,
+  .diet-details p {
+    color: rgba(255, 255, 255, 0.45);
+    line-height: 1.8;
+    font-size: 0.95rem;
   }
 
   .highlights ul {
@@ -586,6 +719,122 @@ const image2Path = image2 ? getImagePath(image2) : null;
     color: rgba(255, 255, 255, 0.45);
     line-height: 1.8;
     font-size: 0.95rem;
+  }
+
+  /* Threats Subsection */
+  .threats {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .threats h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .threats ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .threats li {
+    padding: 0.5rem 0;
+    padding-left: 1.25rem;
+    position: relative;
+    color: rgba(255, 255, 255, 0.45);
+    line-height: 1.6;
+    font-size: 0.9rem;
+  }
+
+  .threats li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: rgba(244, 67, 54, 0.6);
+  }
+
+  /* Related Animals Grid */
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+  }
+
+  .related-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem 1rem;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+  }
+
+  .related-card:hover {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 255, 255, 0.1);
+    transform: translateY(-2px);
+  }
+
+  .related-emoji {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .related-name {
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    letter-spacing: 0.05em;
+  }
+
+  /* FAQ Section for Featured Snippets */
+  .faq-section {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+    padding: 2rem;
+    margin-top: 3rem;
+  }
+
+  .faq-item {
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .faq-item:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+  .faq-item h3 {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 0.75rem;
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .faq-item p {
+    color: rgba(255, 255, 255, 0.45);
+    line-height: 1.7;
+    font-size: 0.9rem;
+  }
+
+  .faq-item strong {
+    color: rgba(255, 255, 255, 0.6);
+    font-weight: 500;
   }
 
   .animal-navigation {
@@ -621,6 +870,14 @@ const image2Path = image2 ? getImagePath(image2) : null;
 
     .hero-emoji-fallback span {
       font-size: 35vh;
+    }
+
+    .related-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    .faq-section {
+      padding: 1.5rem;
     }
   }
 </style>
