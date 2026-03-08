@@ -135,6 +135,11 @@ const image2Path = image2 ? getImagePath(image2) : null;
 </Layout>
 
 <style>
+  /* Ensure nav stays visible on animal pages */
+  :global(.main-nav) {
+    z-index: 1000 !important;
+  }
+
   .animal-hero {
     height: 100vh;
     position: relative;
@@ -143,6 +148,7 @@ const image2Path = image2 ? getImagePath(image2) : null;
     justify-content: center;
     overflow: hidden;
     background: #050505;
+    margin-top: 0;
   }
 
   /* Video background */
