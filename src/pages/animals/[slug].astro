@@ -3,13 +3,24 @@ import Layout from '../../layouts/Layout.astro';
 import animalsData from '../../data/animals.json';
 
 export async function getStaticPaths() {
-  return animalsData.animals.map(animal => ({
-    params: { slug: animal.slug },
-    props: { animal },
-  }));
+  const animals = animalsData.animals;
+  return animals.map((animal, index) => {
+    // Find previous and next animals (cycling through all animals)
+    const prevIndex = index === 0 ? animals.length - 1 : index - 1;
+    const nextIndex = index === animals.length - 1 ? 0 : index + 1;
+    
+    return {
+      params: { slug: animal.slug },
+      props: { 
+        animal,
+        prevAnimal: animals[prevIndex],
+        nextAnimal: animals[nextIndex]
+      },
+    };
+  });
 }
 
-const { animal } = Astro.props;
+const { animal, prevAnimal, nextAnimal } = Astro.props;
 const continent = animalsData.continents.find(c => c.name === animal.continent);
 
 // Media paths - check for multiple extensions
@@ -38,6 +49,21 @@ const image2Path = image2 ? getImagePath(image2) : null;
 ---
 
 <Layout title={`${animal.name} | Wildlife`}>
+  <!-- Previous/Next Navigation Arrows -->
+  <a href={`/animals/${prevAnimal.slug}`} class="nav-arrow nav-arrow-prev" title={`Previous: ${prevAnimal.name}`}>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+    </svg>
+    <span class="nav-arrow-label">{prevAnimal.name}</span>
+  </a>
+  
+  <a href={`/animals/${nextAnimal.slug}`} class="nav-arrow nav-arrow-next" title={`Next: ${nextAnimal.name}`}>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+    </svg>
+    <span class="nav-arrow-label">{nextAnimal.name}</span>
+  </a>
+
   <div class={`animal-hero ${processedVideoUrl ? 'has-video' : ''}`}>
     <!-- Video background (if exists) -->
     {processedVideoUrl && (
@@ -153,6 +179,78 @@ const image2Path = image2 ? getImagePath(image2) : null;
   /* Ensure nav stays visible on animal pages */
   :global(.main-nav) {
     z-index: 1000 !important;
+  }
+
+  /* Previous/Next Navigation Arrows */
+  .nav-arrow {
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 1rem;
+    color: rgba(255, 255, 255, 0.4);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(4px);
+    border-radius: 4px;
+  }
+
+  .nav-arrow:hover {
+    color: rgba(255, 255, 255, 0.9);
+    background: rgba(0, 0, 0, 0.6);
+  }
+
+  .nav-arrow-prev {
+    left: 1rem;
+  }
+
+  .nav-arrow-next {
+    right: 1rem;
+    flex-direction: row-reverse;
+  }
+
+  .nav-arrow svg {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+  }
+
+  .nav-arrow-label {
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    max-width: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .nav-arrow:hover .nav-arrow-label {
+    opacity: 1;
+  }
+
+  @media (max-width: 768px) {
+    .nav-arrow {
+      padding: 0.75rem;
+    }
+    
+    .nav-arrow-prev {
+      left: 0.5rem;
+    }
+    
+    .nav-arrow-next {
+      right: 0.5rem;
+    }
+    
+    .nav-arrow-label {
+      display: none;
+    }
   }
 
   .animal-hero {
