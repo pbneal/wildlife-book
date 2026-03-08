@@ -190,18 +190,18 @@ const image2Path = image2 ? getImagePath(image2) : null;
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    padding: 1rem;
-    color: rgba(255, 255, 255, 0.4);
+    padding: 0.75rem;
+    color: rgba(255, 255, 255, 0.35);
     text-decoration: none;
     transition: all 0.3s ease;
-    background: rgba(0, 0, 0, 0.3);
-    backdrop-filter: blur(4px);
-    border-radius: 4px;
+    background: transparent;
+    border-radius: 50%;
   }
 
   .nav-arrow:hover {
-    color: rgba(255, 255, 255, 0.9);
-    background: rgba(0, 0, 0, 0.6);
+    color: rgba(255, 255, 255, 0.95);
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
   }
 
   .nav-arrow-prev {
@@ -214,9 +214,10 @@ const image2Path = image2 ? getImagePath(image2) : null;
   }
 
   .nav-arrow svg {
-    width: 24px;
-    height: 24px;
+    width: 32px;
+    height: 32px;
     flex-shrink: 0;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));
   }
 
   .nav-arrow-label {
