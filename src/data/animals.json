@@ -235,9 +235,9 @@
         "weight": "4,000-7,000 kg"
       },
       "media": {
-        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1121645033750286359/nx3creationsllc_photorealistic_image_Nikon_D850_14mm_lens_East__cc82838f-8d7c-4147-ac18-ffa41180de7f.png?ex=69ad9797&is=69ac4617&hm=bccaea01560a4262c216aef812f283cbc8b432b0f2c2d6324f057c37cb2f94e6&=&format=webp&quality=lossless&width=2912&height=1632",
-        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1479958467249836226/nx3creationsllc_photorealistic_image_Nikon_D850_14mm_lens_East__07621e8e-d9cd-4ae6-9eaa-1f19e2643707.png?ex=69adee3a&is=69ac9cba&hm=8590cab56b4dd0dc18e1bcde0602fc70a4a0fdab4dd19b4d7f8e352b72b8d387&=&format=webp&quality=lossless&width=2912&height=1632",
-        "video": "https://drive.google.com/file/d/1hehw2GxE3E57LI_zW4tQBYH0iir7dyLL/view?usp=drivesdk"
+        "heroImage": "/images/african-elephant.jpg",
+        "image2": "/images/african-elephant-2.jpg",
+        "video": "/videos/african-elephant.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic African bull elephant with large tusks in Amboseli National Park Kenya, dramatic black and white photography, high contrast, dust particles in golden light, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, elephant fills frame, timeless melancholic mood, fine art conservation photography, dry grassy plain background, Mount Kilimanjaro distant, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -268,9 +268,9 @@
         "weight": "120-190 kg (male)"
       },
       "media": {
-        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1479956760583475383/nx3creationsllc_photorealistic_wildlife_photography_majestic_ma_2a74e879-3b00-4f66-8e51-c23c14b47581.png?ex=69adeca3&is=69ac9b23&hm=ad1f903d8dc16d082211f63b74c39d2f602c373e2b2c9013eddd1473e64aea07&=&format=webp&quality=lossless&width=2912&height=1632",
-        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1479956786302947459/nx3creationsllc_photorealistic_wildlife_photography_majestic_ma_bf0788a2-0fe6-4e0e-8e8f-beb60b660eba.png?ex=69adecaa&is=69ac9b2a&hm=cf84c02b57bb16869659e591b7f4deb4d73041c4fd720fd590f47eb2eb71f4fc&=&format=webp&quality=lossless&width=2912&height=1632",
-        "video": "https://drive.google.com/file/d/1v4soo0wcOq1yDew7e06-clZrihFmcYmY/view?usp=drivesdk"
+        "heroImage": "/images/lion.jpg",
+        "image2": "/images/lion-2.jpg",
+        "video": "/videos/lion.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, majestic male African lion with full mane in Serengeti Tanzania, dramatic golden hour backlighting, intense predator gaze, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, golden mane glowing in sunset light, National Geographic quality, tall dry grass foreground, conservation photography, intense amber eyes, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -301,9 +301,9 @@
         "weight": "800-1,900 kg"
       },
       "media": {
-        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1121962656715251783/nx3creationsllc_photorealistic_image_of_a_pair_of_Maasai_Giraff_914018e6-25f3-4001-b095-3c3ef377a7d7.png?ex=69ae16a6&is=69acc526&hm=e7cb364c9feb62fcee8d4b55f7b27cb71aae71b1d455da416d1705d24314579e&=&format=webp&quality=lossless&width=2912&height=1632",
-        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1480013082041520239/nx3creationsllc_photorealistic_environmental_portrait_elegant_M_41cf2d54-23eb-483d-90bc-0f4665d62211.png?ex=69ae2118&is=69accf98&hm=af27f79bf583beaffee31e26676a10020cb36983ee1088e1c89f57970fa3c15f&=&format=webp&quality=lossless&width=2514&height=1676",
-        "video": "https://drive.google.com/file/d/1axGsSH3cIHyb0VTCXageMXJ-joe_4i_W/view?usp=drivesdk"
+        "heroImage": "/images/giraffe.jpg",
+        "image2": "/images/giraffe-2.jpg",
+        "video": "/videos/giraffe.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic environmental portrait, elegant Maasai giraffe in Masai Mara Kenya, environmental storytelling, acacia tree silhouette, perfect natural lighting at dawn, graduated ND filter sky effect, surreal atmospheric perspective, giraffe in landscape context, Canon EOS R5, 100-400mm telephoto zoom, environmental conservation photography, East African savanna, distant mountains, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
@@ -334,9 +334,9 @@
         "weight": "175-450 kg"
       },
       "media": {
-        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1480039249779753080/nx3creationsllc_photorealistic_wildlife_portrait_zebra_herd_abs_c3339d48-c217-4eb1-8209-ecfd340b1753.png?ex=69ae3976&is=69ace7f6&hm=8bfe05e8ce1ed283cc8667501ec512f8c57294fd1e48ead845d33b594af2a0d1&=&format=webp&quality=lossless&width=1506&height=1884",
-        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1121965870785232906/nx3creationsllc_photorealistic_image_of_a_harram_of_Grants_Zebr_55f10311-7ecc-4afd-a12f-4af03424c923.png?ex=69ae19a4&is=69acc824&hm=dd59742f020f2e6882ac1f8f33b0fe6ff832ffdec5697dea09f2bd329caf6ca2&=&format=webp&quality=lossless&width=2912&height=1632",
-        "video": "https://drive.google.com/file/d/1EsZDBRPoK7k1OelR3lLppPQXDDM3ZyS1/view?usp=drivesdk"
+        "heroImage": "/images/zebra.jpg",
+        "image2": "/images/zebra-2.jpg",
+        "video": "/videos/zebra.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, zebra herd abstract pattern study in Ngorongoro Crater Tanzania, dramatic black and white photography, high contrast, graphic stripes creating visual rhythm, Pentax 67II medium format camera, 200mm lens, timeless composition, fine art photography, dust and golden light, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -367,9 +367,9 @@
         "weight": "21-72 kg"
       },
       "media": {
-        "heroImage": "https://media.discordapp.net/attachments/1121549405649121463/1121987357487403079/nx3creationsllc_photorealistic_image_of_a_cheetah_stalking_full_409f438e-2924-4353-881a-6201fc827eb1.png?ex=69ae2da7&is=69acdc27&hm=dfdb22dedf4280b95319024b68661c43a2aeef1b987128faf013c9ac2836222e&=&format=webp&quality=lossless&width=2912&height=1632",
-        "image2": "https://media.discordapp.net/attachments/1121549405649121463/1480018263264985248/nx3creationsllc_photorealistic_wildlife_photography_cheetah_sta_913b5f9a-2036-4ece-ba27-5d5d0d102984.png?ex=69ae25eb&is=69acd46b&hm=f5e83b5c662b7d050266e2ace79fd6c2da6420635a2078f9acdade7dca7ae286&=&format=webp&quality=lossless&width=2912&height=1632",
-        "video": "https://drive.google.com/file/d/1DPI02WZ3TyxuVvXlShnMpwjys5yQksYu/view?usp=drivesdk"
+        "heroImage": "/images/cheetah.jpg",
+        "image2": "/images/cheetah-2.jpg",
+        "video": "/videos/cheetah.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, cheetah stalking prey in Serengeti Tanzania, intense focus and concentration, Canon EOS-1D X Mark III, 600mm f/4 telephoto lens, shallow depth of field, low angle ground perspective, tall golden grass, dramatic side lighting, spotted coat detail, National Geographic quality, predator behavior moment, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -401,8 +401,8 @@
       },
       "media": {
         "heroImage": "/images/hippopotamus.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/hippopotamus-2.jpg",
+        "video": "/videos/hippopotamus.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic environmental portrait, hippopotamus emerging from water at sunset in Ngorongoro Crater Tanzania, water droplets cascading, environmental storytelling, perfect natural lighting, surreal atmospheric perspective, hippo in aquatic context, Canon EOS R5, 70-200mm lens, environmental conservation photography, East African wetland, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
@@ -434,8 +434,8 @@
       },
       "media": {
         "heroImage": "/images/african-wild-dog.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/african-wild-dog-2.jpg",
+        "video": "/videos/african-wild-dog.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, African wild dog pack on hunt in Okavango Delta Botswana, dramatic action, intense predator coordination, Canon EOS-1D X Mark III, 400mm f/2.8 telephoto lens, shallow depth of field, painted coat pattern detail, National Geographic quality, wetland grass foreground, conservation photography, endangered species, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -467,8 +467,8 @@
       },
       "media": {
         "heroImage": "/images/white-rhino.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/white-rhino-2.jpg",
+        "video": "/videos/white-rhino.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, white rhino mother and calf in Kruger National Park South Africa, dramatic black and white photography, high contrast, tender moment, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate composition, timeless protective mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -500,8 +500,8 @@
       },
       "media": {
         "heroImage": "/images/bengal-tiger.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/bengal-tiger-2.jpg",
+        "video": "/videos/bengal-tiger.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, majestic Bengal tiger in Ranthambore India, dramatic golden hour backlighting, intense predator gaze through grass, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, orange and black stripes glowing, National Geographic quality, tall dry grass foreground, conservation photography, intense amber eyes, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -533,8 +533,8 @@
       },
       "media": {
         "heroImage": "/images/giant-panda.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/giant-panda-2.jpg",
+        "video": "/videos/giant-panda.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic environmental portrait, giant panda feeding on bamboo in Sichuan China, environmental storytelling, misty mountain bamboo forest, perfect natural lighting filtering through canopy, Canon EOS R5, 400mm lens, environmental conservation photography, endangered species, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
@@ -566,8 +566,8 @@
       },
       "media": {
         "heroImage": "/images/orangutan.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/orangutan-2.jpg",
+        "video": "/videos/orangutan.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, Bornean orangutan in Tanjung Puting Indonesia, intimate close-up portrait, rainforest atmosphere, diffused natural light, Canon EOS R5, 200mm lens, shallow depth of field, orangutan fills frame, intelligent eyes connection, timeless contemplative mood, fine art conservation photography, critically endangered, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -599,8 +599,8 @@
       },
       "media": {
         "heroImage": "/images/grizzly-bear.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/grizzly-bear-2.jpg",
+        "video": "/videos/grizzly-bear.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, massive grizzly bear catching salmon at Brooks Falls Alaska, dramatic action shot, water splashing, Canon EOS-1D X Mark III, 400mm f/2.8 telephoto lens, shallow depth of field, National Geographic quality, river and forest foreground, conservation photography, powerful predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -632,8 +632,8 @@
       },
       "media": {
         "heroImage": "/images/bald-eagle.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/bald-eagle-2.jpg",
+        "video": "/videos/bald-eagle.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, bald eagle diving for fish in Alaska, dramatic action frozen, wings spread, Canon EOS-1D X Mark III, 600mm f/4 telephoto lens, shallow depth of field, National Geographic quality, water splash foreground, conservation photography, national symbol, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -665,8 +665,8 @@
       },
       "media": {
         "heroImage": "/images/gray-wolf.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/gray-wolf-2.jpg",
+        "video": "/videos/gray-wolf.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, gray wolf pack in Yellowstone Wyoming, dramatic winter backlighting, social predator behavior, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, snowy forest foreground, conservation photography, apex predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -698,8 +698,8 @@
       },
       "media": {
         "heroImage": "/images/polar-bear.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/polar-bear-2.jpg",
+        "video": "/videos/polar-bear.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, polar bear on sea ice in Churchill Canada, extreme environment photography, intimate Arctic perspective, Sony A1 mirrorless, 100-400mm lens, dramatic polar lighting, conservation storytelling, melting ice context, climate change symbol, in the style of Paul Nicklen --ar 3:2 --v 7.0 --style raw",
@@ -731,8 +731,8 @@
       },
       "media": {
         "heroImage": "/images/jaguar.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/jaguar-2.jpg",
+        "video": "/videos/jaguar.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife photography, jaguar hunting caiman in Pantanal Brazil, dramatic action shot, water explosion, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, wetland foreground, conservation photography, apex predator, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
@@ -764,8 +764,8 @@
       },
       "media": {
         "heroImage": "/images/maasai-giraffe.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/maasai-giraffe-2.jpg",
+        "video": "/videos/maasai-giraffe.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Maasai Giraffe in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -792,8 +792,8 @@
       },
       "media": {
         "heroImage": "/images/grants-zebra.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/grants-zebra-2.jpg",
+        "video": "/videos/grants-zebra.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Grant's Zebra in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -820,8 +820,8 @@
       },
       "media": {
         "heroImage": "/images/nile-crocodile.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/nile-crocodile-2.jpg",
+        "video": "/videos/nile-crocodile.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Nile Crocodile in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -848,8 +848,8 @@
       },
       "media": {
         "heroImage": "/images/african-buffalo.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/african-buffalo-2.jpg",
+        "video": "/videos/african-buffalo.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic African Buffalo in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -876,8 +876,8 @@
       },
       "media": {
         "heroImage": "/images/thompsons-gazelle.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/thompsons-gazelle-2.jpg",
+        "video": "/videos/thompsons-gazelle.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Thompson's Gazelle in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -904,8 +904,8 @@
       },
       "media": {
         "heroImage": "/images/olive-baboon.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/olive-baboon-2.jpg",
+        "video": "/videos/olive-baboon.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Olive Baboon in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -932,8 +932,8 @@
       },
       "media": {
         "heroImage": "/images/grevys-zebra.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/grevys-zebra-2.jpg",
+        "video": "/videos/grevys-zebra.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Grevy's Zebra in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -960,8 +960,8 @@
       },
       "media": {
         "heroImage": "/images/nile-monitor.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/nile-monitor-2.jpg",
+        "video": "/videos/nile-monitor.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Nile Monitor in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -988,8 +988,8 @@
       },
       "media": {
         "heroImage": "/images/reticulated-giraffe.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/reticulated-giraffe-2.jpg",
+        "video": "/videos/reticulated-giraffe.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Reticulated Giraffe in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1016,8 +1016,8 @@
       },
       "media": {
         "heroImage": "/images/african-grey-parrot.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/african-grey-parrot-2.jpg",
+        "video": "/videos/african-grey-parrot.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic African Grey Parrot in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1044,8 +1044,8 @@
       },
       "media": {
         "heroImage": "/images/serval.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/serval-2.jpg",
+        "video": "/videos/serval.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Serval in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1072,8 +1072,8 @@
       },
       "media": {
         "heroImage": "/images/aardvark.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/aardvark-2.jpg",
+        "video": "/videos/aardvark.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Aardvark in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1100,8 +1100,8 @@
       },
       "media": {
         "heroImage": "/images/spotted-hyena.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/spotted-hyena-2.jpg",
+        "video": "/videos/spotted-hyena.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Spotted Hyena in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1128,8 +1128,8 @@
       },
       "media": {
         "heroImage": "/images/secretary-bird.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/secretary-bird-2.jpg",
+        "video": "/videos/secretary-bird.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Secretary Bird in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1156,8 +1156,8 @@
       },
       "media": {
         "heroImage": "/images/gerenuk.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/gerenuk-2.jpg",
+        "video": "/videos/gerenuk.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Gerenuk in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1184,8 +1184,8 @@
       },
       "media": {
         "heroImage": "/images/african-penguin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/african-penguin-2.jpg",
+        "video": "/videos/african-penguin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic African Penguin in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1212,8 +1212,8 @@
       },
       "media": {
         "heroImage": "/images/meerkat.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/meerkat-2.jpg",
+        "video": "/videos/meerkat.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Meerkat in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1240,8 +1240,8 @@
       },
       "media": {
         "heroImage": "/images/southern-ground-hornbill.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/southern-ground-hornbill-2.jpg",
+        "video": "/videos/southern-ground-hornbill.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Southern Ground Hornbill in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1268,8 +1268,8 @@
       },
       "media": {
         "heroImage": "/images/african-fish-eagle.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/african-fish-eagle-2.jpg",
+        "video": "/videos/african-fish-eagle.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic African Fish Eagle in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1296,8 +1296,8 @@
       },
       "media": {
         "heroImage": "/images/black-rhinoceros.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/black-rhinoceros-2.jpg",
+        "video": "/videos/black-rhinoceros.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Black Rhinoceros in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1324,8 +1324,8 @@
       },
       "media": {
         "heroImage": "/images/cape-buffalo.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/cape-buffalo-2.jpg",
+        "video": "/videos/cape-buffalo.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Cape Buffalo in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1352,8 +1352,8 @@
       },
       "media": {
         "heroImage": "/images/aardwolf.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/aardwolf-2.jpg",
+        "video": "/videos/aardwolf.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Aardwolf in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1380,8 +1380,8 @@
       },
       "media": {
         "heroImage": "/images/cape-fur-seal.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/cape-fur-seal-2.jpg",
+        "video": "/videos/cape-fur-seal.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Cape Fur Seal in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1408,8 +1408,8 @@
       },
       "media": {
         "heroImage": "/images/rock-hyrax.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/rock-hyrax-2.jpg",
+        "video": "/videos/rock-hyrax.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Rock Hyrax in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1436,8 +1436,8 @@
       },
       "media": {
         "heroImage": "/images/temmincks-ground-pangolin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/temmincks-ground-pangolin-2.jpg",
+        "video": "/videos/temmincks-ground-pangolin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Temminck's Ground Pangolin in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1464,8 +1464,8 @@
       },
       "media": {
         "heroImage": "/images/black-footed-cat.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/black-footed-cat-2.jpg",
+        "video": "/videos/black-footed-cat.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Black-footed Cat in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1492,8 +1492,8 @@
       },
       "media": {
         "heroImage": "/images/cape-porcupine.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/cape-porcupine-2.jpg",
+        "video": "/videos/cape-porcupine.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Cape Porcupine in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1520,8 +1520,8 @@
       },
       "media": {
         "heroImage": "/images/brown-hyaena.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/brown-hyaena-2.jpg",
+        "video": "/videos/brown-hyaena.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Brown Hyaena in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1548,8 +1548,8 @@
       },
       "media": {
         "heroImage": "/images/bat-eared-fox.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/bat-eared-fox-2.jpg",
+        "video": "/videos/bat-eared-fox.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Bat-eared Fox in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1576,8 +1576,8 @@
       },
       "media": {
         "heroImage": "/images/chimpanzee.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/chimpanzee-2.jpg",
+        "video": "/videos/chimpanzee.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Chimpanzee in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1604,8 +1604,8 @@
       },
       "media": {
         "heroImage": "/images/western-lowland-gorilla.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/western-lowland-gorilla-2.jpg",
+        "video": "/videos/western-lowland-gorilla.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Western Lowland Gorilla in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1632,8 +1632,8 @@
       },
       "media": {
         "heroImage": "/images/african-forest-elephant.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/african-forest-elephant-2.jpg",
+        "video": "/videos/african-forest-elephant.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic African Forest Elephant in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1660,8 +1660,8 @@
       },
       "media": {
         "heroImage": "/images/african-rock-python.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/african-rock-python-2.jpg",
+        "video": "/videos/african-rock-python.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic African Rock Python in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1688,8 +1688,8 @@
       },
       "media": {
         "heroImage": "/images/mandrill.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/mandrill-2.jpg",
+        "video": "/videos/mandrill.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Mandrill in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1716,8 +1716,8 @@
       },
       "media": {
         "heroImage": "/images/okapi.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/okapi-2.jpg",
+        "video": "/videos/okapi.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Okapi in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1744,8 +1744,8 @@
       },
       "media": {
         "heroImage": "/images/bongo-antelope.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/bongo-antelope-2.jpg",
+        "video": "/videos/bongo-antelope.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Bongo Antelope in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1772,8 +1772,8 @@
       },
       "media": {
         "heroImage": "/images/bonobo.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/bonobo-2.jpg",
+        "video": "/videos/bonobo.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Bonobo in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1800,8 +1800,8 @@
       },
       "media": {
         "heroImage": "/images/barbary-macaque.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/barbary-macaque-2.jpg",
+        "video": "/videos/barbary-macaque.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Barbary Macaque in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1828,8 +1828,8 @@
       },
       "media": {
         "heroImage": "/images/fennec-fox.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/fennec-fox-2.jpg",
+        "video": "/videos/fennec-fox.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Fennec Fox in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1856,8 +1856,8 @@
       },
       "media": {
         "heroImage": "/images/addax.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/addax-2.jpg",
+        "video": "/videos/addax.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Addax in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1884,8 +1884,8 @@
       },
       "media": {
         "heroImage": "/images/red-crowned-crane.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/red-crowned-crane-2.jpg",
+        "video": "/videos/red-crowned-crane.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Red-crowned Crane in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1912,8 +1912,8 @@
       },
       "media": {
         "heroImage": "/images/siberian-tiger.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/siberian-tiger-2.jpg",
+        "video": "/videos/siberian-tiger.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Siberian Tiger in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1940,8 +1940,8 @@
       },
       "media": {
         "heroImage": "/images/japanese-macaque.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/japanese-macaque-2.jpg",
+        "video": "/videos/japanese-macaque.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Japanese Macaque in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1968,8 +1968,8 @@
       },
       "media": {
         "heroImage": "/images/amur-leopard.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/amur-leopard-2.jpg",
+        "video": "/videos/amur-leopard.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Amur Leopard in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -1996,8 +1996,8 @@
       },
       "media": {
         "heroImage": "/images/red-panda.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/red-panda-2.jpg",
+        "video": "/videos/red-panda.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Red Panda in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2024,8 +2024,8 @@
       },
       "media": {
         "heroImage": "/images/sumatran-orangutan.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/sumatran-orangutan-2.jpg",
+        "video": "/videos/sumatran-orangutan.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Sumatran Orangutan in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2052,8 +2052,8 @@
       },
       "media": {
         "heroImage": "/images/malayan-tiger.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/malayan-tiger-2.jpg",
+        "video": "/videos/malayan-tiger.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Malayan Tiger in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2080,8 +2080,8 @@
       },
       "media": {
         "heroImage": "/images/komodo-dragon.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/komodo-dragon-2.jpg",
+        "video": "/videos/komodo-dragon.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Komodo Dragon in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2108,8 +2108,8 @@
       },
       "media": {
         "heroImage": "/images/asian-elephant.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/asian-elephant-2.jpg",
+        "video": "/videos/asian-elephant.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Asian Elephant in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2136,8 +2136,8 @@
       },
       "media": {
         "heroImage": "/images/proboscis-monkey.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/proboscis-monkey-2.jpg",
+        "video": "/videos/proboscis-monkey.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Proboscis Monkey in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2164,8 +2164,8 @@
       },
       "media": {
         "heroImage": "/images/sun-bear.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/sun-bear-2.jpg",
+        "video": "/videos/sun-bear.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Sun Bear in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2192,8 +2192,8 @@
       },
       "media": {
         "heroImage": "/images/sunda-pangolin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/sunda-pangolin-2.jpg",
+        "video": "/videos/sunda-pangolin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Sunda Pangolin in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2220,8 +2220,8 @@
       },
       "media": {
         "heroImage": "/images/indian-rhino.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/indian-rhino-2.jpg",
+        "video": "/videos/indian-rhino.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Indian Rhino in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2248,8 +2248,8 @@
       },
       "media": {
         "heroImage": "/images/indian-elephant.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/indian-elephant-2.jpg",
+        "video": "/videos/indian-elephant.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Indian Elephant in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2276,8 +2276,8 @@
       },
       "media": {
         "heroImage": "/images/snow-leopard.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/snow-leopard-2.jpg",
+        "video": "/videos/snow-leopard.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Snow Leopard in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2304,8 +2304,8 @@
       },
       "media": {
         "heroImage": "/images/indian-peafowl.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/indian-peafowl-2.jpg",
+        "video": "/videos/indian-peafowl.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Indian Peafowl in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2332,8 +2332,8 @@
       },
       "media": {
         "heroImage": "/images/asiatic-lion.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/asiatic-lion-2.jpg",
+        "video": "/videos/asiatic-lion.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Asiatic Lion in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2360,8 +2360,8 @@
       },
       "media": {
         "heroImage": "/images/saiga-antelope.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/saiga-antelope-2.jpg",
+        "video": "/videos/saiga-antelope.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Saiga Antelope in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2388,8 +2388,8 @@
       },
       "media": {
         "heroImage": "/images/pallass-cat.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/pallass-cat-2.jpg",
+        "video": "/videos/pallass-cat.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Pallas's Cat in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2416,8 +2416,8 @@
       },
       "media": {
         "heroImage": "/images/arabian-oryx.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/arabian-oryx-2.jpg",
+        "video": "/videos/arabian-oryx.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Arabian Oryx in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2444,8 +2444,8 @@
       },
       "media": {
         "heroImage": "/images/persian-leopard.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/persian-leopard-2.jpg",
+        "video": "/videos/persian-leopard.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Persian Leopard in India, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2472,8 +2472,8 @@
       },
       "media": {
         "heroImage": "/images/american-bison.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/american-bison-2.jpg",
+        "video": "/videos/american-bison.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic American Bison in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2500,8 +2500,8 @@
       },
       "media": {
         "heroImage": "/images/mountain-lion.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/mountain-lion-2.jpg",
+        "video": "/videos/mountain-lion.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Mountain Lion in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2528,8 +2528,8 @@
       },
       "media": {
         "heroImage": "/images/moose.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/moose-2.jpg",
+        "video": "/videos/moose.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Moose in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2556,8 +2556,8 @@
       },
       "media": {
         "heroImage": "/images/california-condor.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/california-condor-2.jpg",
+        "video": "/videos/california-condor.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic California Condor in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2584,8 +2584,8 @@
       },
       "media": {
         "heroImage": "/images/american-black-bear.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/american-black-bear-2.jpg",
+        "video": "/videos/american-black-bear.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic American Black Bear in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2612,8 +2612,8 @@
       },
       "media": {
         "heroImage": "/images/american-alligator.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/american-alligator-2.jpg",
+        "video": "/videos/american-alligator.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic American Alligator in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2640,8 +2640,8 @@
       },
       "media": {
         "heroImage": "/images/american-beaver.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/american-beaver-2.jpg",
+        "video": "/videos/american-beaver.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic American Beaver in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2668,8 +2668,8 @@
       },
       "media": {
         "heroImage": "/images/quetzal.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/quetzal-2.jpg",
+        "video": "/videos/quetzal.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Quetzal in Yellowstone USA, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountains background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2696,8 +2696,8 @@
       },
       "media": {
         "heroImage": "/images/amazon-river-dolphin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/amazon-river-dolphin-2.jpg",
+        "video": "/videos/amazon-river-dolphin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Amazon River Dolphin in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2724,8 +2724,8 @@
       },
       "media": {
         "heroImage": "/images/toucan.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/toucan-2.jpg",
+        "video": "/videos/toucan.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Toucan in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2752,8 +2752,8 @@
       },
       "media": {
         "heroImage": "/images/capybara.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/capybara-2.jpg",
+        "video": "/videos/capybara.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Capybara in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2780,8 +2780,8 @@
       },
       "media": {
         "heroImage": "/images/giant-anteater.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/giant-anteater-2.jpg",
+        "video": "/videos/giant-anteater.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Giant Anteater in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2808,8 +2808,8 @@
       },
       "media": {
         "heroImage": "/images/andean-condor.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/andean-condor-2.jpg",
+        "video": "/videos/andean-condor.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Andean Condor in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2836,8 +2836,8 @@
       },
       "media": {
         "heroImage": "/images/vicuna.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/vicuna-2.jpg",
+        "video": "/videos/vicuna.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Vicuña in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2864,8 +2864,8 @@
       },
       "media": {
         "heroImage": "/images/spectacled-bear.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/spectacled-bear-2.jpg",
+        "video": "/videos/spectacled-bear.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Spectacled Bear in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2892,8 +2892,8 @@
       },
       "media": {
         "heroImage": "/images/giant-otter.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/giant-otter-2.jpg",
+        "video": "/videos/giant-otter.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Giant Otter in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2920,8 +2920,8 @@
       },
       "media": {
         "heroImage": "/images/maned-wolf.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/maned-wolf-2.jpg",
+        "video": "/videos/maned-wolf.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Maned Wolf in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2948,8 +2948,8 @@
       },
       "media": {
         "heroImage": "/images/guanaco.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/guanaco-2.jpg",
+        "video": "/videos/guanaco.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Guanaco in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -2976,8 +2976,8 @@
       },
       "media": {
         "heroImage": "/images/magellanic-penguin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/magellanic-penguin-2.jpg",
+        "video": "/videos/magellanic-penguin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Magellanic Penguin in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3004,8 +3004,8 @@
       },
       "media": {
         "heroImage": "/images/eurasian-lynx.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/eurasian-lynx-2.jpg",
+        "video": "/videos/eurasian-lynx.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Eurasian Lynx in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3032,8 +3032,8 @@
       },
       "media": {
         "heroImage": "/images/european-bison.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/european-bison-2.jpg",
+        "video": "/videos/european-bison.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic European Bison in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3060,8 +3060,8 @@
       },
       "media": {
         "heroImage": "/images/brown-bear-europe.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/brown-bear-europe-2.jpg",
+        "video": "/videos/brown-bear-europe.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Brown Bear in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3088,8 +3088,8 @@
       },
       "media": {
         "heroImage": "/images/iberian-lynx.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/iberian-lynx-2.jpg",
+        "video": "/videos/iberian-lynx.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Iberian Lynx in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3116,8 +3116,8 @@
       },
       "media": {
         "heroImage": "/images/mediterranean-monk-seal.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/mediterranean-monk-seal-2.jpg",
+        "video": "/videos/mediterranean-monk-seal.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Mediterranean Monk Seal in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3144,8 +3144,8 @@
       },
       "media": {
         "heroImage": "/images/reindeer.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/reindeer-2.jpg",
+        "video": "/videos/reindeer.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Reindeer in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3172,8 +3172,8 @@
       },
       "media": {
         "heroImage": "/images/beluga-whale.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/beluga-whale-2.jpg",
+        "video": "/videos/beluga-whale.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Beluga Whale in Scandinavia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3200,8 +3200,8 @@
       },
       "media": {
         "heroImage": "/images/kangaroo.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/kangaroo-2.jpg",
+        "video": "/videos/kangaroo.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Kangaroo in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3228,8 +3228,8 @@
       },
       "media": {
         "heroImage": "/images/koala.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/koala-2.jpg",
+        "video": "/videos/koala.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Koala in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3256,8 +3256,8 @@
       },
       "media": {
         "heroImage": "/images/platypus.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/platypus-2.jpg",
+        "video": "/videos/platypus.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Platypus in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3284,8 +3284,8 @@
       },
       "media": {
         "heroImage": "/images/tasmanian-devil.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/tasmanian-devil-2.jpg",
+        "video": "/videos/tasmanian-devil.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Tasmanian Devil in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3312,8 +3312,8 @@
       },
       "media": {
         "heroImage": "/images/emu.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/emu-2.jpg",
+        "video": "/videos/emu.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Emu in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3340,8 +3340,8 @@
       },
       "media": {
         "heroImage": "/images/quokka.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/quokka-2.jpg",
+        "video": "/videos/quokka.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Quokka in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3368,8 +3368,8 @@
       },
       "media": {
         "heroImage": "/images/wombat.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/wombat-2.jpg",
+        "video": "/videos/wombat.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Wombat in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3396,8 +3396,8 @@
       },
       "media": {
         "heroImage": "/images/dingo.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/dingo-2.jpg",
+        "video": "/videos/dingo.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Dingo in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3424,8 +3424,8 @@
       },
       "media": {
         "heroImage": "/images/cassowary.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/cassowary-2.jpg",
+        "video": "/videos/cassowary.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Cassowary in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3452,8 +3452,8 @@
       },
       "media": {
         "heroImage": "/images/hawaiian-monk-seal.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/hawaiian-monk-seal-2.jpg",
+        "video": "/videos/hawaiian-monk-seal.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Hawaiian Monk Seal in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3480,8 +3480,8 @@
       },
       "media": {
         "heroImage": "/images/emperor-penguin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/emperor-penguin-2.jpg",
+        "video": "/videos/emperor-penguin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Emperor Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3508,8 +3508,8 @@
       },
       "media": {
         "heroImage": "/images/antarctic-fur-seal.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/antarctic-fur-seal-2.jpg",
+        "video": "/videos/antarctic-fur-seal.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Antarctic Fur Seal in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3536,8 +3536,8 @@
       },
       "media": {
         "heroImage": "/images/wandering-albatross.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/wandering-albatross-2.jpg",
+        "video": "/videos/wandering-albatross.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Wandering Albatross in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3564,8 +3564,8 @@
       },
       "media": {
         "heroImage": "/images/gentoo-penguin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/gentoo-penguin-2.jpg",
+        "video": "/videos/gentoo-penguin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Gentoo Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3592,8 +3592,8 @@
       },
       "media": {
         "heroImage": "/images/weddell-seal.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/weddell-seal-2.jpg",
+        "video": "/videos/weddell-seal.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Weddell Seal in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3620,8 +3620,8 @@
       },
       "media": {
         "heroImage": "/images/chinstrap-penguin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/chinstrap-penguin-2.jpg",
+        "video": "/videos/chinstrap-penguin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Chinstrap Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3648,8 +3648,8 @@
       },
       "media": {
         "heroImage": "/images/adelie-penguin.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/adelie-penguin-2.jpg",
+        "video": "/videos/adelie-penguin.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Adélie Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3676,8 +3676,8 @@
       },
       "media": {
         "heroImage": "/images/crabeater-seal.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/crabeater-seal-2.jpg",
+        "video": "/videos/crabeater-seal.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Crabeater Seal in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
@@ -3704,8 +3704,8 @@
       },
       "media": {
         "heroImage": "/images/leopard-seal.jpg",
-        "image2": "",
-        "video": ""
+        "image2": "/images/leopard-seal-2.jpg",
+        "video": "/videos/leopard-seal.mp4"
       },
       "midjourneyPrompts": {
         "hero": "photorealistic wildlife portrait, majestic Leopard Seal in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
