@@ -30,7 +30,7 @@ const image2Path = image2 ? getImagePath(image2) : null;
 ---
 
 <Layout title={`${animal.name} | Wildlife`}>
-  <div class="animal-hero">
+  <div class={`animal-hero ${videoUrl ? 'has-video' : ''}`}>
     <!-- Video background (if exists) -->
     {videoUrl && (
       <video 
@@ -45,7 +45,7 @@ const image2Path = image2 ? getImagePath(image2) : null;
       </video>
     )}
     
-    <!-- Hero Image -->
+    <!-- Hero Image (shown when no video) -->
     <div class="hero-image" style={`background-image: url('${heroImagePath}')`}></div>
     
     <!-- Emoji fallback (if no image) -->
@@ -158,7 +158,7 @@ const image2Path = image2 ? getImagePath(image2) : null;
     width: 100%;
     height: 100%;
     object-fit: cover;
-    z-index: 1;
+    z-index: 2;
   }
 
   /* Image background (fallback) */
@@ -167,11 +167,11 @@ const image2Path = image2 ? getImagePath(image2) : null;
     inset: 0;
     background-size: cover;
     background-position: center;
-    z-index: 2;
+    z-index: 1;
   }
 
-  /* Hide image if video is playing */
-  .hero-video:not([src=""]) ~ .hero-image {
+  /* Hide image when video is present */
+  .animal-hero.has-video .hero-image {
     display: none;
   }
 
