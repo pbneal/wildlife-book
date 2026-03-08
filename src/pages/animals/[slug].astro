@@ -17,7 +17,7 @@ const heroImage = animal.media?.heroImage;
 const image2 = animal.media?.image2;
 const videoUrl = animal.media?.video;
 
-// Convert Google Drive URL to direct video URL
+// Convert Google Drive URL to streaming video URL
 function getGoogleDriveVideoUrl(url: string): string {
   if (!url) return '';
   if (!url.includes('drive.google.com')) return url;
@@ -25,8 +25,9 @@ function getGoogleDriveVideoUrl(url: string): string {
   // Extract file ID from Google Drive URL
   const match = url.match(/\/d\/([a-zA-Z0-9_-]+)/);
   if (match && match[1]) {
-    // Return direct download URL
-    return `https://drive.google.com/uc?export=download&id=${match[1]}`;
+    const fileId = match[1];
+    // Use Google Drive's video streaming endpoint
+    return `https://drive.google.com/file/d/${fileId}/preview`;
   }
   return url;
 }
@@ -48,7 +49,14 @@ const image2Path = image2 ? getImagePath(image2) : null;
 <Layout title={`${animal.name} | Wildlife`}>
   <div class={`animal-hero ${processedVideoUrl ? 'has-video' : ''}`}>
     <!-- Video background (if exists) -->
-    {processedVideoUrl && (
+    {processedVideoUrl && processedVideoUrl.includes('drive.google.com') ? (
+      <iframe 
+        class="hero-video"
+        src={processedVideoUrl}
+        allow="autoplay; encrypted-media"
+        allowfullscreen
+      ></iframe>
+    ) : processedVideoUrl ? (
       <video 
         class="hero-video" 
         autoplay 
@@ -59,7 +67,7 @@ const image2Path = image2 ? getImagePath(image2) : null;
       >
         <source src={processedVideoUrl} type="video/mp4" />
       </video>
-    )}
+    ) : null}
     
     <!-- Hero Image (shown when no video) -->
     <div class="hero-image" style={`background-image: url('${heroImagePath}')`}></div>
@@ -175,6 +183,7 @@ const image2Path = image2 ? getImagePath(image2) : null;
     height: 100%;
     object-fit: cover;
     z-index: 2;
+    border: none;
   }
 
   /* Image background (fallback) */
