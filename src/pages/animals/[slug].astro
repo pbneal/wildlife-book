@@ -13,8 +13,8 @@ const { animal } = Astro.props;
 const continent = animalsData.continents.find(c => c.name === animal.continent);
 
 // Media paths
-const imagePath = `/images/${animal.slug}.png`;
-const videoPath = `/images/${animal.slug}.mp4`;
+const imagePath = animal.media?.heroImage || `/images/${animal.slug}.jpg`;
+const videoPath = animal.media?.video || `/videos/${animal.slug}.mp4`;
 ---
 
 <Layout title={`${animal.name} | Wildlife`}>
