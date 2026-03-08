@@ -17,6 +17,22 @@ const heroImage = animal.media?.heroImage;
 const image2 = animal.media?.image2;
 const videoUrl = animal.media?.video;
 
+// Convert Google Drive URL to direct video URL
+function getGoogleDriveVideoUrl(url: string): string {
+  if (!url) return '';
+  if (!url.includes('drive.google.com')) return url;
+  
+  // Extract file ID from Google Drive URL
+  const match = url.match(/\/d\/([a-zA-Z0-9_-]+)/);
+  if (match && match[1]) {
+    // Return direct download URL
+    return `https://drive.google.com/uc?export=download&id=${match[1]}`;
+  }
+  return url;
+}
+
+const processedVideoUrl = getGoogleDriveVideoUrl(videoUrl);
+
 // Build image paths - try different extensions if not specified
 const getImagePath = (basePath: string) => {
   if (basePath && basePath.startsWith('http')) return basePath;
@@ -30,9 +46,9 @@ const image2Path = image2 ? getImagePath(image2) : null;
 ---
 
 <Layout title={`${animal.name} | Wildlife`}>
-  <div class={`animal-hero ${videoUrl ? 'has-video' : ''}`}>
+  <div class={`animal-hero ${processedVideoUrl ? 'has-video' : ''}`}>
     <!-- Video background (if exists) -->
-    {videoUrl && (
+    {processedVideoUrl && (
       <video 
         class="hero-video" 
         autoplay 
@@ -41,7 +57,7 @@ const image2Path = image2 ? getImagePath(image2) : null;
         playsinline
         poster={heroImagePath}
       >
-        <source src={videoUrl} type="video/mp4" />
+        <source src={processedVideoUrl} type="video/mp4" />
       </video>
     )}
     
