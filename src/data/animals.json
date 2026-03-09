@@ -293,10 +293,10 @@
       "status": "Vulnerable",
       "emoji": "\ud83e\udd81",
       "stats": {
-        "habitat": "Grasslands, Savannas",
+        "habitat": "Savannah, Grasslands, Open Woodlands",
         "diet": "Carnivore",
         "lifespan": "10-14 years (wild)",
-        "weight": "120-190 kg (male)"
+        "weight": "120-190 kg (male), 90-130 kg (female)"
       },
       "media": {
         "heroImage": "/images/lion.jpg",
@@ -304,18 +304,49 @@
         "video": "/videos/lion.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife photography, majestic male African lion with full mane in Serengeti Tanzania, dramatic golden hour backlighting, intense predator gaze, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, golden mane glowing in sunset light, National Geographic quality, tall dry grass foreground, conservation photography, intense amber eyes, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife portrait, lion face close-up in Masai Mara Kenya, dramatic black and white photography, high contrast, intense eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, lion fills frame, timeless powerful mood, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, lion pride resting on rocks at sunset, cubs playing, golden hour lighting, slow motion, 4K, dramatic music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, majestic male lion with full mane in golden morning light, intense amber eyes, close-up composition, dramatic side lighting, fine art photography, Canon EOS R5, 500mm f/4 lens, shallow depth of field, dust particles in air, Masai Mara Kenya, National Geographic quality --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, lion pride resting on rocky outcrop kopje at sunset, Serengeti Tanzania, dramatic golden hour lighting, wide angle environmental portrait, Canon EOS-1D X Mark III, 70-200mm lens, epic landscape with wildlife, conservation photography --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, lioness hunting in tall grass, slow motion pounce, dramatic savanna sunset, 4K, BBC Planet Earth style"
       },
-      "description": "The lion has long been celebrated as the 'King of Beasts' and remains one of Africa's most iconic predators.",
+      "description": "The lion (Panthera leo) reigns as one of Africa's most iconic predators, embodying strength, majesty, and the raw power of the wild. As the only truly social cat, lions live in prides that showcase complex cooperative behaviors rarely seen among felines. These magnificent hunters, with males weighing up to 190 kg, dominate the savannas and grasslands of sub-Saharan Africa. Their distinctive roars, audible from 8 kilometers away, and their regal bearing have earned them the title 'King of Beasts' across human cultures for millennia.",
       "highlights": [
-        "Only truly social cat, living in prides",
-        "Female lions do majority of hunting",
-        "Male's mane signals health and vigor",
-        "Can sleep up to 20 hours per day"
+        "Only truly social cat, living in prides of up to 30 individuals",
+        "Male's roar can be heard up to 8 kilometers away",
+        "Females do 85-90% of the hunting for the pride",
+        "Can run at speeds up to 80 km/h in short bursts",
+        "Sleep 16-20 hours per day, most active at dawn and dusk",
+        "Critical apex predator maintaining ecosystem balance"
       ],
-      "conservation": "Populations have declined by approximately 50% in the past 20 years. Major threats include habitat loss, human-wildlife conflict, and prey depletion."
+      "conservation": "Classified as Vulnerable by the IUCN Red List. African lion populations have declined by approximately 43% over the past two decades, with fewer than 25,000 individuals remaining in the wild. Primary threats include human-wildlife conflict, habitat loss and fragmentation, prey depletion due to poaching, and retaliatory killings by livestock owners. Conservation efforts focus on community-based programs, anti-poaching initiatives, and creating wildlife corridors to connect fragmented habitats.",
+      "seo": {
+        "title": "Lion: King of the African Savannah | Wildlife Conservation",
+        "metaDescription": "Discover the African lion (Panthera leo), the iconic apex predator of the savannah. Learn about pride dynamics, hunting behavior, conservation challenges, and why lion populations are vulnerable.",
+        "keywords": [
+          "African lion",
+          "Panthera leo",
+          "lion pride",
+          "apex predator",
+          "vulnerable species",
+          "African wildlife",
+          "lion conservation",
+          "savannah predator"
+        ],
+        "habitatDetails": "Lions inhabit the savannas, grasslands, and open woodlands of sub-Saharan Africa, with the strongest populations found in East Africa and Southern Africa. They require large territories with sufficient prey density\u2014typically 8-100 square kilometers depending on prey availability. Key strongholds include the Serengeti-Mara ecosystem, Kruger National Park, and the Okavango Delta. Lions avoid dense rainforest and desert interiors but thrive in edge habitats where woodland meets open plains.",
+        "behaviorDetails": "Lions are unique among cats for their social structure. Prides typically consist of 2-3 related adult males, 5-10 related females, and their cubs. Females remain in their birth pride for life, while males leave at 2-3 years to form coalitions and eventually take over new prides. Cooperative hunting allows lions to bring down large prey like buffalo and giraffe. Complex social bonds include communal nursing, synchronized estrus, and group territorial defense marked by roaring and scent-marking.",
+        "dietDetails": "As obligate carnivores, lions primarily hunt large ungulates including wildebeest, zebra, buffalo, and various antelope species. A single lion can consume up to 15 kg of meat in one feeding, though they average 5-7 kg daily. Females do most hunting, using cooperative strategies to surround and ambush prey. Lions also scavenge when opportunity arises, often stealing kills from hyenas and other predators. Their presence helps regulate prey populations and maintain ecosystem health.",
+        "threats": [
+          "Human-wildlife conflict and retaliatory killings",
+          "Habitat loss and fragmentation from agriculture",
+          "Prey depletion due to illegal bushmeat poaching",
+          "Trophy hunting in some range countries",
+          "Disease transmission from domestic animals"
+        ],
+        "relatedAnimals": [
+          "cheetah",
+          "leopard",
+          "african-elephant"
+        ]
+      }
     },
     {
       "slug": "giraffe",
