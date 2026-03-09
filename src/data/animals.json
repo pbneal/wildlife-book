@@ -350,17 +350,17 @@
     },
     {
       "slug": "giraffe",
-      "name": "Giraffe",
-      "scientificName": "Giraffa camelopardalis",
+      "name": "Maasai Giraffe",
+      "scientificName": "Giraffa tippelskirchi",
       "continent": "Africa",
       "subregion": "East Africa",
-      "status": "Vulnerable",
+      "status": "Endangered",
       "emoji": "\ud83e\udd92",
       "stats": {
-        "habitat": "Savannas, Open Woodlands",
+        "habitat": "Savannahs, Open Woodlands",
         "diet": "Herbivore",
-        "lifespan": "20-25 years",
-        "weight": "800-1,900 kg"
+        "lifespan": "25-30 years",
+        "weight": "800-1,900 kg (male), 550-1,180 kg (female)"
       },
       "media": {
         "heroImage": "/images/giraffe.jpg",
@@ -369,31 +369,62 @@
       },
       "midjourneyPrompts": {
         "hero": "photorealistic environmental portrait, elegant Maasai giraffe in Masai Mara Kenya, environmental storytelling, acacia tree silhouette, perfect natural lighting at dawn, graduated ND filter sky effect, surreal atmospheric perspective, giraffe in landscape context, Canon EOS R5, 100-400mm telephoto zoom, environmental conservation photography, East African savanna, distant mountains, in the style of Frans Lanting --ar 3:2 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife portrait, giraffe head and neck close-up against blue sky, dramatic lighting, detailed pattern, studio-like composition, Canon EOS R5, 200mm lens, intimate close-up, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, giraffe walking through acacia trees at sunset, long neck silhouette, golden hour lighting, slow motion, 4K, peaceful music, National Geographic documentary style"
+        "image2": "photorealistic wildlife portrait, Maasai giraffe head and neck close-up showing distinctive irregular polygonal patches, dramatic lighting, detailed pattern like oak leaves, studio-like composition, Canon EOS R5, 200mm lens, intimate close-up, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Maasai giraffe walking through acacia trees at sunset, long neck silhouette, golden hour lighting, slow motion, 4K, peaceful music, National Geographic documentary style"
       },
-      "description": "The giraffe is the world's tallest mammal, with legs alone often taller than most humans.",
+      "description": "The Maasai giraffe (Giraffa tippelskirchi), also known as the Kilimanjaro giraffe, stands as the tallest terrestrial animal on Earth and the largest subspecies of giraffe. Native to East Africa, these magnificent creatures can reach heights of up to 5.5 meters (18 feet) for males, with their distinctive irregular, star-like patch patterns setting them apart from other giraffe subspecies. Their towering presence across the Kenyan and Tanzanian savannas represents one of nature's most remarkable evolutionary adaptations, allowing them to browse vegetation inaccessible to all other herbivores.",
       "highlights": [
-        "World's tallest mammal",
-        "Heart weighs up to 11 kg to pump blood to brain",
-        "Prehensile tongue is 45cm long",
-        "Pattern is unique as human fingerprint"
+        "Tallest terrestrial animal, reaching up to 5.5 meters in height",
+        "Distinctive irregular, vine-leaf shaped patches unique to subspecies",
+        "Heart weighs up to 11 kg to pump blood to brain against gravity",
+        "Prehensile tongue extends up to 50 cm, specially adapted for thorny acacia",
+        "Requires only 5-30 minutes of sleep per day, often standing",
+        "Neck contains same number of vertebrae as humans (7), but each up to 25 cm long"
       ],
-      "conservation": "Populations have declined by 40% in 30 years. Silent extinction threatens these iconic animals."
+      "conservation": "Classified as Endangered by the IUCN Red List. The Maasai giraffe population has declined by over 50% in recent decades, with fewer than 35,000 individuals remaining in the wild. Once abundant across East Africa, they now occupy less than 10% of their historic range. Primary threats include habitat loss and fragmentation from agricultural expansion, poaching for meat and hides, and human-wildlife conflict. Conservation efforts focus on anti-poaching patrols, habitat protection in key areas like the Masai Mara and Serengeti ecosystems, and community-based conservation initiatives that promote coexistence between giraffes and local pastoral communities.",
+      "seo": {
+        "title": "Maasai Giraffe: Tallest Animal on Earth | Wildlife Conservation",
+        "metaDescription": "Discover the Maasai giraffe (Giraffa tippelskirchi), the tallest terrestrial animal. Learn about their unique biology, East African habitat, and why this endangered subspecies needs urgent conservation.",
+        "keywords": [
+          "Maasai giraffe",
+          "Giraffa tippelskirchi",
+          "tallest animal",
+          "Kilimanjaro giraffe",
+          "endangered species",
+          "East African wildlife",
+          "giraffe conservation",
+          "savanna herbivore"
+        ],
+        "habitatDetails": "Maasai giraffes inhabit the savannas, open woodlands, and grasslands of East Africa, primarily in Kenya and Tanzania. They favor areas with abundant acacia trees, their primary food source, and require large home ranges of 50-500 square kilometers depending on resource availability. Key populations exist in the Masai Mara-Serengeti ecosystem, Amboseli National Park, Tsavo Conservation Area, and Ruaha National Park. Their distribution closely follows the availability of acacia woodlands and open browsing areas.",
+        "behaviorDetails": "Maasai giraffes are primarily solitary or found in loose, open herds with fluid membership. Unlike many social ungulates, they do not form tight family groups. Males establish dominance through 'necking'\u2014swinging their necks at each other in ritualized combat. Females give birth standing up, resulting in a dramatic 2-meter drop for newborn calves. These calves can stand within 30 minutes and run within 10 hours. Giraffes communicate through infrasound below human hearing range and use body language extensively.",
+        "dietDetails": "As specialized browsers, Maasai giraffes feed almost exclusively on acacia leaves, twigs, and bark, though they consume over 100 plant species. Their 50 cm prehensile tongue is specially adapted with thick, tough papillae to grasp and strip leaves from thorny branches. They can consume up to 34 kg of vegetation daily and obtain most of their moisture from food, allowing them to go days without drinking. Their height gives them access to food sources unavailable to other herbivores, reducing competition.",
+        "threats": [
+          "Habitat loss and fragmentation from agricultural expansion",
+          "Poaching for meat, hides, and tails (used as status symbols)",
+          "Human-wildlife conflict in populated areas",
+          "Drought and climate change affecting food sources",
+          "Lack of genetic diversity in isolated populations"
+        ],
+        "relatedAnimals": [
+          "african-elephant",
+          "zebra",
+          "lion"
+        ]
+      }
     },
     {
       "slug": "zebra",
-      "name": "Zebra",
-      "scientificName": "Equus quagga",
+      "name": "Grant's Zebra",
+      "scientificName": "Equus quagga boehmi",
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
       "emoji": "\ud83e\udd93",
       "stats": {
-        "habitat": "Grasslands, Savannas",
+        "habitat": "Savannahs, Grasslands",
         "diet": "Herbivore",
         "lifespan": "20-30 years",
-        "weight": "175-450 kg"
+        "weight": "220-450 kg"
       },
       "media": {
         "heroImage": "/images/zebra.jpg",
@@ -401,29 +432,60 @@
         "video": "/videos/zebra.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, zebra herd abstract pattern study in Ngorongoro Crater Tanzania, dramatic black and white photography, high contrast, graphic stripes creating visual rhythm, Pentax 67II medium format camera, 200mm lens, timeless composition, fine art photography, dust and golden light, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, zebra drinking at waterhole at sunset, reflection in water, dramatic golden hour lighting, Canon EOS R5, 400mm lens, National Geographic quality, African savanna, conservation photography --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, zebra herd running across plains, dust flying, motion blur, dramatic lighting, slow motion, 4K, intense music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, Grant's zebra herd abstract pattern study in Ngorongoro Crater Tanzania, dramatic black and white photography, high contrast, graphic stripes creating visual rhythm, distinct shadow stripes characteristic of subspecies, Pentax 67II medium format camera, 200mm lens, timeless composition, fine art photography, dust and golden light, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Grant's zebra drinking at waterhole at sunset, reflection in water, dramatic golden hour lighting, Canon EOS R5, 400mm lens, National Geographic quality, African savanna, conservation photography --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Grant's zebra herd running across Serengeti plains, dust flying, motion blur, dramatic lighting, slow motion, 4K, intense music, National Geographic documentary style"
       },
-      "description": "Zebras are among Africa's most distinctive animals, their black-and-white stripes creating patterns as unique as human fingerprints.",
+      "description": "Grant's zebra (Equus quagga boehmi) represents the most widespread and recognizable subspecies of plains zebra, distinguished by its narrow, closely spaced stripes that extend unbroken across the belly. Native to East Africa's iconic savannas, these striking equids form one of the most visually spectacular components of the region's wildlife. Their distinctive black-and-white patterns serve multiple evolutionary purposes, from confusing predators to repelling biting insects. As a keystone species of the Serengeti-Mara ecosystem, Grant's zebras participate in one of the world's largest wildlife migrations alongside wildebeest and gazelles.",
       "highlights": [
-        "Each zebra has unique stripe pattern",
-        "Stripes confuse biting flies",
-        "Can run up to 65 km/h",
-        "Part of Great Migration with wildebeest"
+        "Most widespread subspecies of plains zebra",
+        "Unique stripe pattern acts as individual fingerprint",
+        "Stripes create optical illusion that confuses predators during chase",
+        "Research shows stripes help repel biting tsetse flies",
+        "Can run at speeds up to 65 km/h to escape predators",
+        "Forms part of Great Migration with 1.5+ million wildebeest"
       ],
-      "conservation": "Plains zebras remain relatively numerous, but Gr\u00e9vy's zebras number fewer than 2,500 individuals."
+      "conservation": "Classified as Near Threatened by the IUCN Red List. Grant's zebra populations have declined significantly in recent decades due to habitat loss, hunting for skins, and human-wildlife conflict. While still relatively abundant in protected areas like the Serengeti and Masai Mara, their range has contracted considerably outside these strongholds. Conservation efforts focus on maintaining habitat connectivity between protected areas, anti-poaching measures, and community-based programs that reduce conflict with livestock grazing.",
+      "seo": {
+        "title": "Grant's Zebra: Icon of the African Plains | Wildlife Conservation",
+        "metaDescription": "Discover Grant's zebra (Equus quagga boehmi), the most widespread plains zebra subspecies. Learn about their unique stripes, Great Migration role, and near threatened conservation status.",
+        "keywords": [
+          "Grant's zebra",
+          "Equus quagga boehmi",
+          "plains zebra",
+          "Great Migration",
+          "near threatened",
+          "African wildlife",
+          "Serengeti",
+          "zebra stripes"
+        ],
+        "habitatDetails": "Grant's zebras inhabit the savannas and grasslands of East Africa, with their range centered on the Serengeti-Mara ecosystem spanning Tanzania and Kenya. They prefer open plains and grasslands with access to water sources, avoiding dense woodland. Their habitat requirements overlap extensively with wildebeest, facilitating the mixed-species migrations. Key strongholds include Serengeti National Park, Ngorongoro Conservation Area, Masai Mara National Reserve, and Tsavo ecosystem. They have been extirpated from much of their historic range outside these protected areas.",
+        "behaviorDetails": "Grant's zebras are highly social animals living in stable family groups consisting of a single stallion, several mares, and their offspring. These harems maintain strong bonds and occupy exclusive home ranges. Bachelor males form loose associations until able to challenge established stallions. Zebras communicate through a complex repertoire of vocalizations, ear positions, and tail movements. Their famous stripes serve social purposes\u2014individuals recognize each other by pattern. They also form mutualistic relationships with wildebeest during migration, benefiting from the latter's superior ability to detect predators.",
+        "dietDetails": "As grazers, Grant's zebras primarily feed on grasses, consuming up to 8 kg of vegetation daily. Their digestive system allows them to process coarse, low-quality grasses that many other herbivores cannot digest, reducing competition. During the wet season, they prefer fresh green grasses, while in the dry season they rely on tougher, more fibrous vegetation. They require daily access to water and typically drink at least once per day. Their grazing behavior helps maintain grassland ecosystems by preventing any single grass species from dominating.",
+        "threats": [
+          "Habitat loss and fragmentation from agriculture and settlement",
+          "Hunting for skins and bushmeat",
+          "Human-wildlife conflict with livestock grazing",
+          "Competition with domestic livestock for water and forage",
+          "Drought and climate change affecting food and water availability"
+        ],
+        "relatedAnimals": [
+          "giraffe",
+          "african-elephant",
+          "lion"
+        ]
+      }
     },
     {
       "slug": "cheetah",
       "name": "Cheetah",
       "scientificName": "Acinonyx jubatus",
       "continent": "Africa",
-      "subregion": "Southern Africa",
+      "subregion": "East Africa",
       "status": "Vulnerable",
       "emoji": "\ud83d\udc06",
       "stats": {
-        "habitat": "Grasslands, Savannas",
+        "habitat": "Savannahs, Grasslands, Open Plains",
         "diet": "Carnivore",
         "lifespan": "10-12 years (wild)",
         "weight": "21-72 kg"
@@ -438,14 +500,46 @@
         "image2": "photorealistic wildlife photography, cheetah in full sprint, motion blur effect, dust flying, African savanna, professional wildlife action photography, golden hour, dynamic composition, speed and power, National Geographic style --ar 3:2 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, cheetah chasing prey at full speed, slow motion capture of running, dust clouds, intense action, 4K, dramatic music, National Geographic documentary style"
       },
-      "description": "The cheetah is the world's fastest land animal, capable of reaching speeds up to 70 mph in mere seconds.",
+      "description": "The cheetah (Acinonyx jubatus) stands as the world's fastest land animal, a specialized speed machine built for explosive acceleration and high-velocity pursuit. Capable of reaching speeds up to 112 km/h (70 mph) in mere seconds, these elegant predators represent the pinnacle of evolutionary adaptation for cursorial hunting. Unlike other big cats, cheetahs hunt primarily during daylight hours, relying on exceptional eyesight to spot prey from elevated vantage points. Their distinctive tear marks running from eyes to mouth reduce glare and enhance focus during high-speed chases. With fewer than 7,100 individuals remaining in the wild, the cheetah faces an uncertain future despite its remarkable adaptations.",
       "highlights": [
-        "Fastest land animal (70 mph)",
-        "Can accelerate 0-60 mph in 3 seconds",
-        "Non-retractable claws grip like cleats",
-        "50% hunting success rate"
+        "Fastest land animal, reaching speeds up to 112 km/h (70 mph)",
+        "Can accelerate from 0-100 km/h in under 3 seconds",
+        "Non-retractable claws act like cleats for traction during pursuit",
+        "Achieves hunting success rate of 40-50%, highest among big cats",
+        "Distinctive 'tear marks' reduce sun glare during daytime hunting",
+        "Flexible spine and long tail provide stability during high-speed turns"
       ],
-      "conservation": "Only 7,100 remain in the wild. Namibia hosts the world's largest population."
+      "conservation": "Classified as Vulnerable by the IUCN Red List, though some scientists argue for Endangered status. With fewer than 7,100 individuals remaining across Africa and a small Iranian population, cheetahs have disappeared from over 90% of their historic range. East Africa hosts significant populations, particularly in the Serengeti-Mara ecosystem. Primary threats include habitat loss, human-wildlife conflict, prey depletion, and genetic bottleneck reducing population diversity. Conservation efforts focus on protecting remaining habitat, mitigating conflict with livestock farmers, and maintaining prey populations in key strongholds.",
+      "seo": {
+        "title": "Cheetah: World's Fastest Land Animal | Wildlife Conservation",
+        "metaDescription": "Discover the cheetah (Acinonyx jubatus), the world's fastest land animal capable of 112 km/h. Learn about their unique hunting adaptations, vulnerable status, and conservation challenges.",
+        "keywords": [
+          "cheetah",
+          "Acinonyx jubatus",
+          "fastest land animal",
+          "vulnerable species",
+          "African predator",
+          "cheetah conservation",
+          "Serengeti wildlife",
+          "cursorial hunter"
+        ],
+        "habitatDetails": "Cheetahs inhabit the open savannas, grasslands, and semi-arid plains of sub-Saharan Africa, with a small remnant population in Iran. They require large home ranges with abundant prey and minimal tree cover that would obstruct their high-speed pursuits. East African strongholds include the Serengeti-Mara ecosystem, Ruaha National Park, and Tsavo Conservation Area. Unlike other big cats, cheetahs avoid dense woodland and forest, preferring areas where they can use elevated termite mounds or rocks as lookout points to spot prey across open terrain.",
+        "behaviorDetails": "Cheetahs are primarily solitary animals, with females raising cubs alone and males forming small coalitions, usually of brothers. They are unique among big cats for hunting during daylight hours, typically early morning and late afternoon. Their hunting technique involves stalking to within 100 meters of prey, then exploding into a high-speed pursuit lasting 20-30 seconds. After a successful kill, they must eat quickly before larger predators like lions and hyenas steal their catch. Cheetahs communicate through various vocalizations including chirps, purrs, and hisses, but cannot roar like other big cats.",
+        "dietDetails": "As specialized carnivores, cheetahs primarily hunt medium-sized ungulates weighing 20-60 kg, with Thomson's gazelle being their preferred prey in East Africa. They also take impala, springbok, and young wildebeest. Unlike other predators, cheetahs rarely scavenge and depend entirely on fresh kills. A single adult requires approximately 3-4 kg of meat daily. Their hunting strategy relies on sight rather than smell, using elevated positions to scan for prey before stalking and sprinting. The high energy cost of their hunting style means they need to rest frequently between attempts.",
+        "threats": [
+          "Habitat loss and fragmentation reducing hunting grounds",
+          "Human-wildlife conflict with livestock farmers",
+          "Prey depletion from bushmeat poaching",
+          "Competition with larger predators (lions, hyenas) for kills",
+          "Genetic bottleneck reducing disease resistance",
+          "Illegal wildlife trade for exotic pets"
+        ],
+        "relatedAnimals": [
+          "lion",
+          "leopard",
+          "thomsons-gazelle"
+        ]
+      }
     },
     {
       "slug": "hippopotamus",
@@ -459,7 +553,7 @@
         "habitat": "Rivers, Lakes, Wetlands",
         "diet": "Herbivore",
         "lifespan": "40-50 years",
-        "weight": "1,300-1,500 kg"
+        "weight": "1,300-1,500 kg (male), 1,300-1,400 kg (female)"
       },
       "media": {
         "heroImage": "/images/hippopotamus.jpg",
@@ -471,14 +565,45 @@
         "image2": "photorealistic wildlife photography, hippo yawning showing massive teeth, aggressive display, dramatic lighting, Canon EOS R5, 400mm lens, National Geographic quality, African river, conservation photography --ar 4:5 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, hippos in river at sunset, water ripples, steam rising, territorial displays, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The hippopotamus is Africa's most dangerous large animal. Despite their comical appearance, these massive herbivores command respect.",
+      "description": "The hippopotamus (Hippopotamus amphibius) stands as one of Africa's most formidable and misunderstood animals. Despite their seemingly docile, almost comical appearance, hippos rank among the continent's most dangerous mammals, responsible for an estimated 500 human deaths annually. These massive semi-aquatic herbivores, second only to elephants in land mammal size, spend their days submerged in rivers and lakes to protect their sensitive skin from the harsh African sun. At night, they emerge to graze on land, consuming up to 40 kg of grass. Their territorial nature, combined with surprising speed on land (up to 30 km/h) and water, makes them unpredictable and potentially deadly.",
       "highlights": [
-        "Africa's most dangerous animal",
-        "Can run 30 km/h on land",
-        "Spend 16 hours per day in water",
-        "Territorial and fiercely protective"
+        "Third largest land mammal after elephants and rhinos",
+        "Responsible for approximately 500 human deaths annually in Africa",
+        "Can run at 30 km/h on land despite bulky appearance",
+        "Spend up to 16 hours per day submerged in water",
+        "Secrete natural sunscreen (blood sweat) that turns red in sunlight",
+        "Can hold breath underwater for up to 5 minutes"
       ],
-      "conservation": "Significant decline due to habitat loss and poaching for ivory (canine teeth)."
+      "conservation": "Classified as Vulnerable by the IUCN Red List. Hippopotamus populations have declined by 20% over the past two decades, with fewer than 130,000 individuals remaining in the wild. Once abundant across sub-Saharan Africa, they have disappeared from much of their historic range due to habitat loss, human-wildlife conflict, and illegal hunting for meat and ivory (canine teeth). East African strongholds include the Serengeti-Mara ecosystem, Ruaha National Park, and the Kafue Flats. Conservation efforts focus on protecting wetland habitats and mitigating human-hippo conflict in agricultural areas.",
+      "seo": {
+        "title": "Hippopotamus: Africa's Deadliest Large Animal | Wildlife",
+        "metaDescription": "Discover the hippopotamus (Hippopotamus amphibius), Africa's most dangerous large animal. Learn about their semi-aquatic lifestyle, territorial behavior, and vulnerable conservation status.",
+        "keywords": [
+          "hippopotamus",
+          "Hippopotamus amphibius",
+          "hippo",
+          "Africa's deadliest animal",
+          "vulnerable species",
+          "East African wildlife",
+          "semi-aquatic mammal",
+          "hippo conservation"
+        ],
+        "habitatDetails": "Hippos inhabit rivers, lakes, swamps, and wetlands throughout sub-Saharan Africa where permanent water sources exist. In East Africa, major populations occur in the Mara River, Lake Victoria, Lake Tanganyika, and numerous smaller water bodies. They require water deep enough to submerge completely (at least 1.5 meters) and nearby grasslands for nighttime grazing. Their range extends up to 10 km from water sources depending on food availability. During droughts, they may be forced to congregate in remaining water sources, leading to increased aggression and conflict.",
+        "behaviorDetails": "Hippos live in social groups called pods or bloats, typically consisting of 10-30 individuals dominated by a single territorial male. These groups establish specific territories in stretches of water, which males aggressively defend against rivals. During the day, hippos remain almost entirely submerged, surfacing every 3-5 minutes to breathe while sleeping. At dusk, they emerge to graze on land, following established paths to feeding areas. They are surprisingly vocal animals, communicating through honks, grunts, and wheezes that carry across water surfaces. Despite their bulk, they are graceful swimmers and can walk along river bottoms.",
+        "dietDetails": "As grazers, hippos feed exclusively on grasses and aquatic vegetation, consuming approximately 40 kg of plant matter nightly. Despite their semi-aquatic lifestyle, they rarely feed in water, preferring to graze on land during nighttime foraging expeditions. Their specialized digestive system, featuring a three-chambered stomach, efficiently processes coarse grasses. They typically graze within 10 km of their daytime water refuge, returning to the same spots each morning. This grazing behavior significantly impacts riverbank vegetation and creates pathways used by other animals.",
+        "threats": [
+          "Habitat loss and degradation of wetlands",
+          "Human-wildlife conflict in agricultural areas",
+          "Illegal hunting for meat and ivory (canine teeth)",
+          "Drought and climate change affecting water sources",
+          "Water pollution and development of waterways"
+        ],
+        "relatedAnimals": [
+          "nile-crocodile",
+          "african-elephant",
+          "african-buffalo"
+        ]
+      }
     },
     {
       "slug": "african-wild-dog",
@@ -875,10 +1000,10 @@
       "status": "Least Concern",
       "emoji": "\ud83d\udc0a",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Rivers, Lakes, Wetlands",
+        "diet": "Carnivore",
+        "lifespan": "70-100 years",
+        "weight": "225-750 kg (males larger)"
       },
       "media": {
         "heroImage": "/images/nile-crocodile.jpg",
@@ -886,13 +1011,49 @@
         "video": "/videos/nile-crocodile.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, majestic Nile Crocodile in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, Nile Crocodile in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, Nile Crocodile in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, massive Nile crocodile half-submerged in Mara River Kenya, textured scales glistening, powerful jaws visible, intense reptilian eyes, dramatic side lighting, fine art photography, Canon EOS R5, 100-400mm lens, shallow depth of field, river and savanna background, conservation photography, in the style of Frans Lanting --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Nile crocodile basking on riverbank with mouth agape thermoregulating, dramatic golden hour lighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, East African river landscape, conservation photography --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Nile crocodile explosive attack at water surface, wildebeest crossing Mara River during migration, slow motion splash, dramatic action, 4K, intense music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Nile crocodile (Crocodylus niloticus) ranks as Africa's largest freshwater predator and one of the continent's most formidable hunters. These ancient reptiles, virtually unchanged for millions of years, can reach lengths exceeding 5 meters and weigh up to 750 kg. Found throughout sub-Saharan Africa's waterways, they are apex predators capable of taking down prey as large as buffalo and wildebeest. Their explosive ambush attacks from water, combined with the infamous 'death roll' technique, make them one of nature's most efficient killing machines. Despite their fearsome reputation, Nile crocodiles play a crucial ecological role and have remarkable maternal instincts rarely seen in reptiles.",
+      "highlights": [
+        "Africa's largest freshwater predator, reaching over 5 meters in length",
+        "Powerful bite force of approximately 5,000 psi, strongest of any animal",
+        "Can hold breath underwater for up to 2 hours while resting",
+        "Remarkable maternal care: females guard nests and transport hatchlings in mouth",
+        "Responsible for hundreds of human deaths annually across Africa",
+        "Can survive months between large meals due to slow metabolism"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, though populations vary significantly across their range. Nile crocodiles were heavily hunted for their skins in the mid-20th century, leading to dramatic population declines and local extinctions. Legal protection and sustainable use programs have allowed recovery in many areas. East African populations remain relatively stable in protected areas like the Serengeti-Mara ecosystem, where they play a vital role in the annual wildebeest migration by preying on crossing animals. Human-crocodile conflict remains an ongoing challenge in populated areas.",
+      "seo": {
+        "title": "Nile Crocodile: Africa's Largest Freshwater Predator | Wildlife",
+        "metaDescription": "Discover the Nile crocodile (Crocodylus niloticus), Africa's largest freshwater predator. Learn about their hunting techniques, powerful bite force, and ecological role in East African waterways.",
+        "keywords": [
+          "Nile crocodile",
+          "Crocodylus niloticus",
+          "African crocodile",
+          "freshwater predator",
+          "apex predator",
+          "East African wildlife",
+          "Mara River",
+          "crocodile conservation"
+        ],
+        "habitatDetails": "Nile crocodiles inhabit virtually every major river, lake, and wetland across sub-Saharan Africa. In East Africa, they are found in the Mara River, Lake Victoria, Lake Tanganyika, and numerous smaller water bodies. They prefer slow-moving or still freshwater but can tolerate brackish conditions and have been found in coastal estuaries. These reptiles require basking sites for thermoregulation and nesting sites with suitable soil for digging holes. Their distribution closely follows permanent water sources, making them particularly abundant in the Serengeti-Mara ecosystem where the annual wildebeest migration provides seasonal feeding opportunities.",
+        "behaviorDetails": "Nile crocodiles are primarily ambush predators, spending much of their day motionless in water or basking on shorelines with mouths agape to regulate body temperature. They are surprisingly social, establishing dominance hierarchies at basking sites and feeding locations. During the dry season, they excavate deep burrows in riverbanks for shelter. Females display remarkable parental care for reptiles, guarding nests for approximately 90 days, assisting hatchlings to emerge, and transporting them to water in their mouths. They communicate through various vocalizations, including infrasound below human hearing range.",
+        "dietDetails": "As apex predators, Nile crocodiles consume virtually any animal they can overpower, from fish and birds to large mammals including zebra, wildebeest, buffalo, and even young hippos. Their hunting strategy relies on patience and explosive power, launching surprise attacks from water with incredible speed. The famous 'death roll'\u2014rapid spinning while gripping prey\u2014tears manageable pieces from large animals. During the Serengeti wildebeest migration, crocodiles gorge on crossing animals, sometimes taking multiple kills in a single day. They can survive extended periods between large meals due to their efficient metabolism and ability to store energy.",
+        "threats": [
+          "Human-wildlife conflict and retaliatory killings",
+          "Illegal hunting for skins and meat in some regions",
+          "Habitat loss and degradation of wetlands",
+          "Water pollution affecting prey populations",
+          "Entanglement in fishing nets and gear"
+        ],
+        "relatedAnimals": [
+          "hippopotamus",
+          "african-elephant",
+          "zebra"
+        ]
+      }
     },
     {
       "slug": "african-buffalo",
@@ -903,10 +1064,10 @@
       "status": "Near Threatened",
       "emoji": "\ud83d\udc03",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannahs, Grasslands, Floodplains",
+        "diet": "Herbivore",
+        "lifespan": "15-25 years",
+        "weight": "500-900 kg (male), 400-700 kg (female)"
       },
       "media": {
         "heroImage": "/images/african-buffalo.jpg",
@@ -914,27 +1075,63 @@
         "video": "/videos/african-buffalo.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, majestic African Buffalo in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, African Buffalo in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, African Buffalo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, massive African buffalo bull with heavy curved horns in Masai Mara Kenya, dramatic side lighting, dust and golden light, fine art photography, Canon EOS R5, 500mm f/4 lens, shallow depth of field, savanna background, conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African buffalo herd crossing plains at sunset, dramatic golden hour lighting, dust clouds, Canon EOS-1D X Mark III, 70-200mm lens, environmental portrait, National Geographic quality, East African savanna, conservation photography --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African buffalo herd moving across Serengeti plains, dramatic sunset, dust flying, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The African buffalo (Syncerus caffer), often called Cape buffalo, ranks among Africa's most formidable and unpredictable animals. These massive bovines, with their distinctive curved horns that can span over a meter, form an essential component of the 'Big Five' and represent one of the continent's most dangerous animals when wounded or threatened. Unlike their domesticated cousins, African buffalo have never been successfully tamed, retaining fierce wild instincts and complex social structures. Their reputation for cunning and vengeful behavior toward hunters has earned them legendary status among African wildlife. As keystone herbivores, they shape ecosystems through grazing and serve as primary prey for lions across their range.",
+      "highlights": [
+        "One of Africa's 'Big Five' game animals",
+        "Horns form distinctive 'boss' shield on mature males",
+        "Considered most dangerous to hunters when wounded",
+        "Live in large herds of up to 1,000 individuals",
+        "Have excellent memory and known to ambush predators",
+        "Strong herd defense: will rescue calves from lions"
+      ],
+      "conservation": "Classified as Near Threatened by the IUCN Red List. African buffalo populations have declined significantly from historic levels due to habitat loss, hunting pressure, and disease transmission from domestic cattle. Rinderpest epidemics historically devastated populations. East African strongholds include the Serengeti-Mara ecosystem, Ruaha National Park, and Katavi National Park. Current estimates suggest approximately 400,000 individuals remain across Africa. Conservation efforts focus on maintaining habitat connectivity, controlling disease, and protecting key populations in protected areas.",
+      "seo": {
+        "title": "African Buffalo: Africa's Most Dangerous Bovine | Wildlife",
+        "metaDescription": "Discover the African buffalo (Syncerus caffer), one of the Big Five and Africa's most formidable bovine. Learn about their social structure, defensive behavior, and near threatened status.",
+        "keywords": [
+          "African buffalo",
+          "Syncerus caffer",
+          "Cape buffalo",
+          "Big Five",
+          "near threatened",
+          "African wildlife",
+          "buffalo conservation",
+          "dangerous animals"
+        ],
+        "habitatDetails": "African buffalo inhabit savannas, grasslands, and floodplains across sub-Saharan Africa, requiring access to permanent water sources and grazing areas. In East Africa, they are found in diverse habitats from the Serengeti plains to montane forests. They prefer areas with dense cover for refuge during the day, emerging to graze in open areas during cooler hours. Their range extends from sea level to 4,000 meters elevation. Unlike many African herbivores, buffalo do not migrate seasonally, instead establishing home ranges around reliable water sources. Habitat loss and fragmentation pose significant threats to their long-term survival.",
+        "behaviorDetails": "African buffalo display complex social structures, forming large herds of females, calves, and subadults led by dominant females. Mature males typically form bachelor groups or live solitarily. These herds demonstrate remarkable cooperative defense, forming protective circles around calves when threatened and actively charging predators to rescue herd members. Buffalo are known for their intelligence and memory\u2014wounded individuals have been documented ambushing hunters hours or days after being shot. They communicate through various vocalizations and maintain strict dominance hierarchies established through pushing contests using their massive horns.",
+        "dietDetails": "As grazers, African buffalo consume primarily grasses, though they will browse on shrubs and herbs when grass is scarce. An adult buffalo consumes approximately 15-20 kg of vegetation daily. Their broad, muscular muzzle and row-cropping teeth are specially adapted for grazing coarse, tough grasses that other herbivores avoid. They typically feed during early morning and late afternoon, resting in shade during the heat of the day. Their grazing behavior significantly impacts grassland ecosystems, helping maintain open areas and creating grazing lawns that benefit other herbivores.",
+        "threats": [
+          "Habitat loss and fragmentation from agriculture",
+          "Disease transmission from domestic cattle (bovine tuberculosis)",
+          "Illegal hunting for meat and trophies",
+          "Human-wildlife conflict in populated areas",
+          "Drought and climate change affecting food and water"
+        ],
+        "relatedAnimals": [
+          "lion",
+          "african-elephant",
+          "zebra"
+        ]
+      }
     },
     {
       "slug": "thompsons-gazelle",
-      "name": "Thompson's Gazelle",
+      "name": "Thomson's Gazelle",
       "scientificName": "Eudorcas thomsonii",
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
       "emoji": "\ud83e\udd8c",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannahs, Grasslands, Open Plains",
+        "diet": "Herbivore",
+        "lifespan": "10-15 years",
+        "weight": "15-35 kg"
       },
       "media": {
         "heroImage": "/images/thompsons-gazelle.jpg",
@@ -942,13 +1139,49 @@
         "video": "/videos/thompsons-gazelle.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, majestic Thompson's Gazelle in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, Thompson's Gazelle in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, Thompson's Gazelle in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, Thomson's gazelle in classic alert pose, distinctive black side stripe visible, Masai Mara Kenya, dramatic golden hour backlighting, rim lighting on elegant horns, Canon EOS R5, 500mm f/4 lens, shallow depth of field, savanna grass background, conservation photography, in the style of Beverly Joubert --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Thomson's gazelle pronking (stotting) display jump, all four legs off ground, dramatic action freeze, Serengeti Tanzania, Canon EOS-1D X Mark III, 400mm lens, National Geographic quality, dust and golden light, conservation photography --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Thomson's gazelle herd grazing on Serengeti plains, fawns playing, golden hour lighting, slow motion, 4K, peaceful music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "Thomson's gazelle (Eudorcas thomsonii), affectionately known as 'Tommies,' represents one of East Africa's most abundant and iconic antelopes. These elegant, petite grazers, weighing just 15-35 kg, are instantly recognizable by the distinctive black stripe running along their flank and their habit of pronking\u2014an energetic jumping display when threatened. As the preferred prey of cheetahs and a key participant in the Serengeti-Mara migration, they embody the delicate balance between predator and prey that defines African savanna ecosystems. Their remarkable speed and agility, combined with keen senses, have made them one of the most successful small antelope species in East Africa.",
+      "highlights": [
+        "Most abundant gazelle in East Africa with over 500,000 individuals",
+        "Distinctive black side stripe distinguishes them from Grant's gazelle",
+        "Famous 'pronking' display: jumping high with stiff legs when threatened",
+        "Can reach speeds up to 80 km/h in short bursts",
+        "Primary prey of cheetahs, forming crucial link in food chain",
+        "Fawns can run within minutes of birth to escape predators"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, though populations have declined from historic levels. Thomson's gazelles remain abundant in protected areas, particularly the Serengeti-Mara ecosystem where over 100,000 individuals participate in the annual migration. Their success stems from high reproductive rates and adaptability to grassland habitats. However, outside protected areas, they face habitat loss from agricultural expansion and competition with livestock. Their reliance on open plains makes them vulnerable to habitat fragmentation. Conservation efforts focus on maintaining grassland connectivity and protecting migration corridors.",
+      "seo": {
+        "title": "Thomson's Gazelle: East Africa's Graceful Antelope | Wildlife",
+        "metaDescription": "Discover Thomson's gazelle (Eudorcas thomsonii), East Africa's most abundant antelope. Learn about their distinctive pronking behavior, role in the Serengeti migration, and cheetah predation.",
+        "keywords": [
+          "Thomson's gazelle",
+          "Eudorcas thomsonii",
+          "Tommies",
+          "East African antelope",
+          "least concern",
+          "Serengeti migration",
+          "pronking behavior",
+          "cheetah prey"
+        ],
+        "habitatDetails": "Thomson's gazelles inhabit the open savannas, grasslands, and plains of East Africa, showing strong preference for short-grass habitats. Their range centers on the Serengeti-Mara ecosystem spanning Tanzania and Kenya, with additional populations in central and southern Kenya. They avoid dense woodland and forest, requiring open areas where they can spot predators and utilize their speed. During the wet season, they follow grazing lawns maintained by larger herbivores, while in the dry season they concentrate near permanent water sources. Their habitat requirements overlap extensively with cheetah hunting grounds.",
+        "behaviorDetails": "Thomson's gazelles form mixed herds of females, young, and bachelor males, typically numbering 10-100 individuals though aggregations of thousands occur during migration. Adult males establish territories marked by dung middens and engage in ritualized horn clashes to defend breeding rights. Their famous 'pronking' behavior\u2014jumping vertically with stiff legs\u2014serves multiple purposes: signaling fitness to predators, communicating alarm to other gazelles, and displaying vigor during courtship. They are most active during early morning and late afternoon, resting during the heat of the day. Their vigilance and speed make them challenging prey despite their small size.",
+        "dietDetails": "As selective grazers, Thomson's gazelles feed primarily on fresh, green grasses and herbs, requiring high-quality forage due to their small body size. Unlike larger herbivores, they cannot digest coarse, dry grasses effectively and must maintain access to nutritious vegetation. They typically feed in areas recently grazed by wildebeest and zebras, taking advantage of nutritious grass regrowth. They require regular access to water and typically drink daily when possible. Their feeding ecology makes them dependent on productive grasslands and vulnerable to drought conditions.",
+        "threats": [
+          "Habitat loss from agricultural expansion",
+          "Competition with domestic livestock for grazing",
+          "Fragmentation of grassland habitats",
+          "Drought and climate change affecting food quality",
+          "High predation pressure, particularly from cheetahs"
+        ],
+        "relatedAnimals": [
+          "cheetah",
+          "zebra",
+          "lion"
+        ]
+      }
     },
     {
       "slug": "olive-baboon",
@@ -959,10 +1192,10 @@
       "status": "Least Concern",
       "emoji": "\ud83d\udc35",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannahs, Forests, Mountains",
+        "diet": "Omnivore",
+        "lifespan": "25-30 years",
+        "weight": "13-27 kg (male), 10-15 kg (female)"
       },
       "media": {
         "heroImage": "/images/olive-baboon.jpg",
@@ -970,13 +1203,49 @@
         "video": "/videos/olive-baboon.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, majestic Olive Baboon in Serengeti Tanzania, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, Olive Baboon in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, Olive Baboon in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, dominant male olive baboon with distinctive mane and striking eyes, Amboseli Kenya, dramatic side lighting, fine art photography, Canon EOS R5, 300mm lens, shallow depth of field, savanna background, conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, olive baboon troop foraging on savanna, social interaction visible, dramatic golden hour lighting, Canon EOS-1D X Mark III, 200mm lens, environmental portrait, National Geographic quality, East African landscape, conservation photography --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, olive baboon troop moving through acacia woodland, infants riding mothers, social grooming, golden hour lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The olive baboon (Papio anubis), also known as the Anubis baboon, represents one of Africa's most adaptable and widespread primates. These highly intelligent, social monkeys inhabit diverse environments across East Africa, from savannas to forests and even mountainous regions. With their distinctive dog-like muzzles, close-set eyes, and olive-green tinted coats, they form complex societies characterized by intricate social hierarchies and cooperative behaviors. As opportunistic omnivores, they display remarkable foraging intelligence, using tools and solving problems to access food. Their adaptability has allowed them to thrive in human-modified landscapes, though this often brings them into conflict with farmers and communities.",
+      "highlights": [
+        "Most widespread baboon species across Africa",
+        "Live in large troops of up to 150 individuals",
+        "Complex social hierarchy with dominant male leaders",
+        "Highly intelligent: use tools and solve problems",
+        "Opportunistic omnivores eating over 200 food types",
+        "Infants ride on mother's back for first 6 months"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List due to their wide distribution and adaptability. Olive baboons remain abundant across East Africa, with populations estimated in the hundreds of thousands. Their ability to thrive in diverse habitats, including human-modified landscapes, has buffered them from many threats affecting other primates. However, they face persecution as crop raiders in agricultural areas, and habitat loss in some regions affects local populations. In protected areas like the Serengeti-Mara ecosystem, Amboseli, and Tsavo, they maintain stable populations. Conservation focuses on mitigating human-wildlife conflict rather than species protection.",
+      "seo": {
+        "title": "Olive Baboon: Africa's Adaptable Primate | Wildlife Conservation",
+        "metaDescription": "Discover the olive baboon (Papio anubis), one of Africa's most intelligent and adaptable primates. Learn about their complex social structures, tool use, and omnivorous diet.",
+        "keywords": [
+          "olive baboon",
+          "Papio anubis",
+          "Anubis baboon",
+          "African primate",
+          "least concern",
+          "intelligent animals",
+          "social primates",
+          "East African wildlife"
+        ],
+        "habitatDetails": "Olive baboons demonstrate remarkable habitat flexibility, inhabiting savannas, grasslands, forests, and mountainous regions across sub-Saharan Africa. In East Africa, they are found from sea level to 3,000 meters elevation, including the Serengeti plains, Amboseli basin, and Ethiopian highlands. They require access to water, sleeping cliffs or trees for nighttime refuge, and diverse food sources. Unlike many primates, they have successfully adapted to human-modified landscapes, often found near agricultural areas, tourist facilities, and even urban edges. Their adaptability stems from generalist feeding habits and social flexibility.",
+        "behaviorDetails": "Olive baboons live in large multi-male, multi-female troops averaging 30-80 individuals, though groups of 150+ occur. Strict dominance hierarchies govern both male and female social relationships, with rank determining access to food, mates, and grooming partners. Males typically leave their birth troop at maturity and transfer between groups, while females remain lifelong members of their natal troop. They display sophisticated social behaviors including reconciliation after conflicts, coalition formation, and cooperative infant care. Communication involves complex vocalizations, facial expressions, and body postures. They are diurnal, foraging during the day and sleeping in trees or on cliffs at night for protection from predators.",
+        "dietDetails": "As opportunistic omnivores, olive baboons consume over 200 different food types including grasses, seeds, fruits, leaves, insects, small mammals, birds, and eggs. Their diet varies seasonally and by habitat, with savanna populations eating more grasses and roots while forest populations focus on fruits and insects. They are skilled foragers, digging for roots and tubers, stripping bark, and using tools to access difficult foods. Near human settlements, they readily exploit crops, garbage, and handouts, leading to conflict. Their diverse diet and foraging intelligence contribute significantly to their ecological success and adaptability across varied environments.",
+        "threats": [
+          "Human-wildlife conflict and persecution as crop raiders",
+          "Habitat loss in some regions",
+          "Hunting for bushmeat in some areas",
+          "Capture for illegal pet trade",
+          "Disease transmission from humans and domestic animals"
+        ],
+        "relatedAnimals": [
+          "african-elephant",
+          "lion",
+          "giraffe"
+        ]
+      }
     },
     {
       "slug": "grevys-zebra",
