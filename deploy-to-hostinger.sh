@@ -30,8 +30,9 @@ if [ -d "$DEPLOY_DIR" ]; then
     mv "$DEPLOY_DIR" "${DEPLOY_DIR}.backup.$(date +%Y%m%d_%H%M%S)"
 fi
 
-# Copy dist folder to web root
-cp -r "$REPO_DIR/dist" "$DEPLOY_DIR"
+# Copy dist folder CONTENTS to web root (not the dist folder itself)
+mkdir -p "$DEPLOY_DIR"
+cp -r "$REPO_DIR/dist/"* "$DEPLOY_DIR/"
 
 echo "✅ Deploy complete!"
 echo "🌐 Site folder: /mydrive/wildlife-book-website"
