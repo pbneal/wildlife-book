@@ -667,14 +667,31 @@
         "image2": "photorealistic wildlife photography, white rhino grazing at sunset, dramatic golden hour lighting, Canon EOS R5, 400mm lens, National Geographic quality, conservation photography --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, white rhino mother and calf walking across savanna, protective behavior, golden hour, slow motion, 4K, peaceful music, National Geographic documentary style"
       },
-      "description": "The white rhino is the second largest land mammal. Despite their name, they are not white but gray. 'White' comes from the Afrikaans word 'wyd' meaning wide, referring to their wide mouths.",
+      "description": "The white rhinoceros (Ceratotherium simum) stands as the second largest land mammal on Earth, surpassed only by the African elephant. Despite their misleading name, white rhinos are not white at all\u2014they share the same gray coloration as their black rhino cousins. The name 'white' is actually a misinterpretation of the Afrikaans word 'wyd,' meaning 'wide,' referring to their characteristically broad, square-shaped mouths perfectly adapted for grazing. Native to the grasslands and savannas of southern Africa, these magnificent creatures can weigh up to 2,500 kg and live for 40-50 years. Unlike the more solitary black rhino, white rhinos are relatively social animals, often found in small groups. Their recovery from the brink of extinction represents one of conservation's greatest success stories, though they remain under constant threat from poaching.",
       "highlights": [
-        "Second largest land mammal",
-        "Square-lipped grazer",
-        "Social compared to black rhino",
-        "Conservation success story"
+        "Second largest land mammal, weighing up to 2,500 kg",
+        "Square-lipped mouth specialized for grazing grasses",
+        "Name comes from Afrikaans 'wyd' (wide), not color",
+        "More social than black rhinos, often seen in groups",
+        "Recovered from fewer than 100 individuals to over 18,000 today",
+        "Can run surprisingly fast at 40-50 km/h despite their size"
       ],
-      "conservation": "Southern white rhinos recovered from near extinction. Northern white rhino functionally extinct with only 2 females remaining."
+      "conservation": "The southern white rhino represents one of conservation's most remarkable success stories. By the late 19th century, hunting had reduced their numbers to fewer than 100 individuals in a single South African population. Through intensive protection and translocation efforts, their population has grown to approximately 18,000 animals today. However, they remain Near Threatened on the IUCN Red List due to escalating poaching pressure\u2014over 1,000 rhinos are killed annually for their horns. The northern white rhino subspecies is functionally extinct, with only two females remaining (Najin and Fatu at Ol Pejeta Conservancy, Kenya). Scientists are attempting to use assisted reproduction and stem cell technology to save the subspecies.",
+      "habitatDetails": "White rhinos inhabit the grasslands and savannas of southern Africa, with the largest populations in South Africa, Namibia, Zimbabwe, and Kenya. They require extensive territories with access to water, wallowing holes, and abundant grazing. Unlike black rhinos that browse on bushes and trees, white rhinos are pure grazers, feeding almost exclusively on grasses. They spend their days grazing and resting, often seeking shade during the hottest hours.",
+      "behavior": "White rhinos are the most social of all rhino species, with females often found in small groups called 'crashes' consisting of mothers and their offspring. Adult males are more solitary and territorial, marking their ranges with dung piles and spray-urine. They have relatively poor eyesight but excellent hearing and sense of smell. When threatened, they can charge at speeds up to 50 km/h. Despite their fearsome reputation, they are generally docile animals unless provoked or protecting calves.",
+      "dietDetails": "White rhinos are specialized grazers with wide, square-shaped mouths perfectly adapted for cropping grasses close to the ground. They consume vast quantities of grass daily\u2014up to 120 pounds (54 kg) per day. Their grazing behavior helps maintain grassland ecosystems, preventing areas from becoming overgrown and benefiting other herbivores. They drink daily when water is available and are most active during early morning and late afternoon.",
+      "threats": [
+        "Poaching for horns - over 1,000 killed annually",
+        "Habitat loss from agricultural expansion",
+        "Human-wildlife conflict in populated areas",
+        "Limited genetic diversity in recovered populations"
+      ],
+      "relatedAnimals": [
+        "black-rhinoceros",
+        "african-elephant",
+        "hippopotamus",
+        "african-buffalo"
+      ]
     },
     {
       "slug": "bengal-tiger",
@@ -1261,10 +1278,10 @@
       "status": "Endangered",
       "emoji": "\ud83e\udd93",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannas, Grasslands, Semi-arid Bushlands",
+        "diet": "Herbivore",
+        "lifespan": "20-25 years",
+        "weight": "350-450 kg"
       },
       "media": {
         "heroImage": "/images/grevys-zebra.jpg",
@@ -1276,9 +1293,32 @@
         "image2": "photorealistic wildlife photography, Grevy's Zebra in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Grevy's Zebra in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Grevy's zebra (Equus grevyi) stands as the largest and most endangered of all wild equids, representing a unique evolutionary lineage that diverged from other zebras over a million years ago. Named after French President Jules Gr\u00e9vy, who received one as a diplomatic gift from Menelik II of Ethiopia in 1882, these magnificent animals are immediately distinguishable from their plains zebra cousins by their larger size, narrower and more numerous stripes, large rounded ears resembling a mule's, and striking white underbellies. Once abundant across the Horn of Africa, Grevy's zebras have suffered catastrophic population declines and now cling to survival in the arid grasslands and savannas of northern Kenya and southern Ethiopia. Their specialized adaptations to semi-arid environments, including efficient water conservation and the ability to survive five days without drinking, make them uniquely suited to their harsh homeland but also vulnerable to habitat degradation and competition with pastoral livestock.",
+      "highlights": [
+        "Largest wild equid species, significantly bigger than plains zebras",
+        "Narrow, closely spaced stripes with pure white underbelly",
+        "Large rounded ears adapted for detecting predators in open landscapes",
+        "Can survive up to 5 days without water in arid environments",
+        "Males defend large territories up to 10 square kilometers",
+        "Population declined from 15,000 in the 1970s to fewer than 2,500 today"
+      ],
+      "conservation": "Listed as Endangered on the IUCN Red List, Grevy's zebra has experienced one of the most dramatic population crashes of any African mammal. From an estimated 15,000 animals in the 1970s, their numbers plummeted to fewer than 2,500 individuals today, with only about 2,000 mature adults remaining. Primary threats include habitat loss and degradation from livestock grazing, competition with domestic animals for water and forage, hunting for their magnificent skins, and political instability in their range. Conservation efforts led by the Grevy's Zebra Trust and Kenya Wildlife Service focus on community-based stewardship, predator-proof livestock enclosures (bomas), and restoring degraded rangelands through holistic grazing management.",
+      "habitatDetails": "Grevy's zebras inhabit the semi-arid grasslands and savannas of northern Kenya and southern Ethiopia, including the Samburu, Buffalo Springs, and Lewa Wildlife Conservancy areas. Unlike plains zebras that require more water, Grevy's zebras are adapted to arid environments and can be found in areas receiving as little as 300mm of annual rainfall. They prefer open grasslands with scattered acacia trees and access to permanent water sources, though they can travel long distances between water holes.",
+      "behavior": "Grevy's zebras have a unique social structure distinct from other zebra species. Adult males are highly territorial, establishing and defending large territories of 2-10 square kilometers through dung middens, scent marking, and vocalizations. Females and their young form loose, fluid groups that move freely between male territories. Unlike plains zebras, Grevy's do not form permanent harems. Their large ears provide excellent hearing for detecting predators like lions and hyenas across the open landscape. They communicate through a variety of vocalizations including loud braying calls.",
+      "dietDetails": "Grevy's zebras are grazers that feed primarily on coarse grasses, but they are more selective feeders than plains zebras and will also browse on leaves, bark, and fruit when available. Their specialized digestive system allows them to extract maximum nutrition from low-quality forage. They typically drink daily when water is available but can survive up to five days without water by utilizing metabolic water production and efficient water conservation. This adaptation allows them to inhabit drier areas than other equids.",
+      "threats": [
+        "Habitat degradation from overgrazing by livestock",
+        "Competition with pastoral cattle and goats for water",
+        "Hunting for skins (historically, now reduced)",
+        "Political instability and lack of law enforcement",
+        "Predation by lions and hyenas (natural but exacerbated by small populations)"
+      ],
+      "relatedAnimals": [
+        "zebra",
+        "african-elephant",
+        "lion",
+        "cheetah"
+      ]
     },
     {
       "slug": "nile-monitor",
