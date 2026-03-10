@@ -9,19 +9,12 @@ echo "=============================="
 
 # Configuration
 REPO_URL="https://github.com/pbneal/wildlife-book.git"
-REPO_DIR="$HOME/wildlife-book"
 DEPLOY_DIR="$HOME/wildlife-book-website"
+TEMP_DIR="/tmp/wildlife-book-deploy"
 
-# Check if repo exists
-if [ -d "$REPO_DIR/.git" ]; then
-    echo "📥 Updating existing repo..."
-    cd "$REPO_DIR"
-    git pull origin main
-else
-    echo "📥 Cloning fresh repo..."
-    git clone "$REPO_URL" "$REPO_DIR"
-    cd "$REPO_DIR"
-fi
+echo "📥 Cloning fresh repo..."
+rm -rf "$TEMP_DIR"
+git clone "$REPO_URL" "$TEMP_DIR"
 
 echo "🚀 Deploying to web server..."
 if [ -d "$DEPLOY_DIR" ]; then
@@ -30,13 +23,15 @@ if [ -d "$DEPLOY_DIR" ]; then
     mv "$DEPLOY_DIR" "${DEPLOY_DIR}.backup.$(date +%Y%m%d_%H%M%S)"
 fi
 
-# Copy dist folder CONTENTS to web root (not the dist folder itself)
+# Copy dist folder contents to deploy directory
 mkdir -p "$DEPLOY_DIR"
-cp -r "$REPO_DIR/dist"/* "$DEPLOY_DIR/"
+cp -r "$TEMP_DIR/dist/"* "$DEPLOY_DIR/"
+
+# Clean up temp
+rm -rf "$TEMP_DIR"
 
 echo "✅ Deploy complete!"
-echo "🌐 Site folder: /mydrive/wildlife-book-website"
+echo "🌐 Site folder: $DEPLOY_DIR"
 echo ""
-echo "To revert if needed:"
-echo "  rm -rf $DEPLOY_DIR"
-echo "  mv ${DEPLOY_DIR}.backup.* $DEPLOY_DIR"
+echo "Files deployed:"
+ls -la "$DEPLOY_DIR" | head -10
