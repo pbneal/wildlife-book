@@ -1,5 +1,5 @@
 # build output
-dist/
+# dist/  # Uncommented - we want to deploy built files
 # generated types
 .astro/
 
