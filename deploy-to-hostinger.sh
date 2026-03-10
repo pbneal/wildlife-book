@@ -10,7 +10,7 @@ echo "=============================="
 # Configuration
 REPO_URL="https://github.com/pbneal/wildlife-book.git"
 REPO_DIR="$HOME/wildlife-book"
-DEPLOY_DIR="/var/www/html/wildlife"
+DEPLOY_DIR="/mydrive/wildlife-book-website"
 
 # Check if repo exists
 if [ -d "$REPO_DIR/.git" ]; then
@@ -34,7 +34,7 @@ fi
 cp -r "$REPO_DIR/dist" "$DEPLOY_DIR"
 
 echo "✅ Deploy complete!"
-echo "🌐 Site live at: https://nx3creations.com/wildlife/"
+echo "🌐 Site folder: /mydrive/wildlife-book-website"
 echo ""
 echo "To revert if needed:"
 echo "  rm -rf $DEPLOY_DIR"
