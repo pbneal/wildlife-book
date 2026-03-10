@@ -629,14 +629,19 @@
         "image2": "photorealistic wildlife portrait, African wild dog face close-up, colorful coat pattern, intense eyes, Canon EOS R5, 400mm lens, National Geographic quality, conservation photography --ar 4:5 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, African wild dog pack hunting, coordinated chase, dramatic action, slow motion, 4K, intense music, National Geographic documentary style"
       },
-      "description": "The African wild dog is one of the world's most endangered mammals. These highly social predators are known for their distinctive coat patterns and cooperative hunting.",
+      "description": "The African wild dog (Lycaon pictus), also called the painted dog or Cape hunting dog, is a wild canine native to sub-Saharan Africa. It is the largest wild canine in Africa and the only extant member of the genus Lycaon. With their colorful, patchy coat; large bat-like ears; and a bushy tail with a white tip, no two wild dogs are marked exactly the same, making it easy to identify individuals. They are specialized hunters of terrestrial ungulates with a success rate of 60-90% - the highest among African carnivores.",
       "highlights": [
-        "Most successful hunters (80% success rate)",
-        "Highly social pack animals",
-        "Each has unique coat pattern",
-        "Can run 66 km/h"
+        "Success rate of 60-90% - highest among African carnivores",
+        "Each dog has a unique coat pattern - no two are alike",
+        "Only 6,600 adults remain in 39 subpopulations",
+        "Live in packs with complex social structures",
+        "Can run at speeds up to 66 km/h (41 mph)",
+        "Allow their young to feed first at kills"
       ],
-      "conservation": "Only about 6,600 remain. Major threats include habitat fragmentation, human conflict, and disease from domestic dogs."
+      "conservation": "Listed as Endangered on the IUCN Red List since 1990. Only an estimated 6,600 adults (including 1,400 mature individuals) remain in 39 subpopulations. Major threats include habitat fragmentation, human-wildlife conflict (shooting and poisoning by farmers), and disease transmission from domestic dogs. Larger populations have a higher chance of recovery from disease outbreaks. Conservation efforts focus on protecting habitat, reducing human-wildlife conflict, and disease management.",
+      "habitatDetails": "African wild dogs are found mostly in arid zones and savannas of East and southern Africa. They can also be found in woodland, scrublands and mountainous habitats if there is prey available. They require large territories to roam and hunt, often covering 20-50 km per day.",
+      "behavior": "African wild dogs are highly social animals that live in packs typically consisting of 6-20 individuals, though larger packs have been observed. They have a unique social structure where the dominant female is the only one to breed, and the entire pack helps care for the pups. They communicate through various vocalizations including a distinctive 'hoo' call. Unlike many other predators, they allow their young to feed first at kills.",
+      "dietDetails": "African wild dogs are hypercarnivores specialized in hunting medium-sized antelopes such as impalas, gazelles, and kudus. They hunt cooperatively in packs, using endurance running to wear down prey. Their hunting success rate of 60-90% is the highest among African carnivores, compared to lions at 30% and hyenas at 25%."
     },
     {
       "slug": "white-rhino",
