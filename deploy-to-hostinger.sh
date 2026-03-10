@@ -32,7 +32,7 @@ fi
 
 # Copy dist folder CONTENTS to web root (not the dist folder itself)
 mkdir -p "$DEPLOY_DIR"
-cp -r "$REPO_DIR/dist/"* "$DEPLOY_DIR/"
+cp -r "$REPO_DIR/dist"/* "$DEPLOY_DIR/"
 
 echo "✅ Deploy complete!"
 echo "🌐 Site folder: /mydrive/wildlife-book-website"
