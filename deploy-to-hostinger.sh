@@ -10,7 +10,7 @@ echo "=============================="
 # Configuration
 REPO_URL="https://github.com/pbneal/wildlife-book.git"
 REPO_DIR="$HOME/wildlife-book"
-DEPLOY_DIR="/mydrive/wildlife-book-website"
+DEPLOY_DIR="$HOME/wildlife-book-website"
 
 # Check if repo exists
 if [ -d "$REPO_DIR/.git" ]; then
