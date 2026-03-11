@@ -48,14 +48,12 @@ function findImageFile(imagePath: string): string {
   // If it's a full URL, return as-is
   if (imagePath?.startsWith('http')) return imagePath;
   
-  // If path already has extension, return as-is
-  if (imagePath?.match(/\.(jpg|jpeg|png|webp|gif)$/i)) return imagePath;
-  
-  // Try to find the file with different extensions
+  // Get the base name without extension
   const publicDir = path.join(process.cwd(), 'public');
-  const baseName = imagePath || `/images/${animal.slug}`;
+  const baseName = imagePath?.replace(/\.(jpg|jpeg|png|webp|gif)$/i, '') || `/images/${animal.slug}`;
   const extensions = ['.jpg', '.jpeg', '.png', '.webp'];
   
+  // Try to find the file with different extensions
   for (const ext of extensions) {
     const fullPath = path.join(publicDir, baseName + ext);
     if (fs.existsSync(fullPath)) {
@@ -63,8 +61,8 @@ function findImageFile(imagePath: string): string {
     }
   }
   
-  // Fallback to .jpg if not found
-  return baseName + '.jpg';
+  // Fallback to original path if specified, otherwise .jpg
+  return imagePath || baseName + '.jpg';
 }
 
 // Build image paths with correct extensions
