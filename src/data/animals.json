@@ -556,8 +556,8 @@
         "weight": "1,300-1,500 kg (male), 1,300-1,400 kg (female)"
       },
       "media": {
-        "heroImage": "/images/hippopotamus.jpg",
-        "image2": "/images/hippopotamus-2.jpg",
+        "heroImage": "/images/hippopotamus.png",
+        "image2": "/images/hippopotamus-2.png",
         "video": "/videos/hippopotamus.mp4"
       },
       "midjourneyPrompts": {
