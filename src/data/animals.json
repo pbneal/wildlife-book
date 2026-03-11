@@ -244,7 +244,7 @@
         "image2": "photorealistic wildlife photography, massive African elephant bull crossing Chobe River Botswana, dramatic golden hour backlighting, water splashing, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, river and wetland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, African elephant herd walking across savanna at sunset, dust clouds rising, golden hour lighting, slow motion, 4K, dramatic music, National Geographic documentary style"
       },
-      "description": "The African elephant (Loxodonta africana) stands as the largest land animal on Earth, commanding the savannas and forests of sub-Saharan Africa with grace and power. These magnificent creatures, weighing between 4,000-7,000 kg and living 60-70 years, play a crucial role as ecosystem engineers—shaping their environment in ways that benefit countless other species. Their intelligence, emotional depth, and complex social structures make them one of the most fascinating animals on our planet.",
+      "description": "The African elephant (Loxodonta africana) is the largest land mammal on Earth and one of Africa's most iconic species, playing a crucial role in shaping the continent's ecosystems. These magnificent creatures can reach heights of up to 4 meters at the shoulder and weigh as much as 6,350 kg, with their distinctive large ears that help regulate body temperature in the hot African climate. African elephants are highly intelligent and social animals, living in complex matriarchal family groups led by the oldest female. Their remarkable memory allows them to remember water sources and navigate vast territories over decades. As ecosystem engineers, elephants create water holes used by other animals, disperse seeds through their dung, and clear pathways in dense vegetation. Their trunks contain over 40,000 muscles and serve multiple functions including breathing, smelling, touching, and grasping. Unfortunately, these gentle giants face severe threats from poaching for ivory and habitat loss, making conservation efforts critical for their survival.",
       "highlights": [
         "Largest land animal on Earth, weighing up to 7,000 kg",
         "Matriarchal family groups led by oldest female",
@@ -4614,6 +4614,766 @@
       "description": "",
       "highlights": [],
       "conservation": ""
+    },
+    {
+      "slug": "african-manatee",
+      "name": "African Manatee",
+      "scientificName": "Trichechus senegalensis",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Vulnerable",
+      "emoji": "🐋",
+      "stats": {
+        "habitat": "Coastal waters, rivers, estuaries",
+        "diet": "Herbivore - aquatic plants",
+        "lifespan": "50-60 years",
+        "weight": "300-500 kg"
+      },
+      "media": {
+        "heroImage": "/images/african-manatee.jpg",
+        "image2": "/images/african-manatee-2.jpg",
+        "video": "/videos/african-manatee.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African Manatee in West African river, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, river background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African Manatee in West African coastal waters, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mangrove foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African Manatee in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The African manatee (Trichechus senegalensis), also known as the West African manatee, is one of the most elusive and endangered marine mammals on the African continent. These gentle giants inhabit coastal waters, rivers, and estuaries along the western coast of Africa, from Senegal to Angola. Often called 'sea cows,' African manatees are fully aquatic herbivores that can grow up to 4.5 meters in length and weigh over 500 kg. Unlike their Florida cousins, African manatees have adapted to both freshwater and saltwater environments, venturing far up rivers and into lagoons. Their slow, graceful movements and peaceful nature have made them vulnerable to hunting, as their meat is highly prized in many West African communities. These remarkable creatures can hold their breath for up to 20 minutes while grazing on aquatic vegetation, and their unique evolutionary history connects them to elephant ancestors that returned to the sea millions of years ago.",
+      "highlights": [
+        "Can hold breath for up to 20 minutes while feeding underwater",
+        "Evolutionarily related to elephants - shared ancestor 60 million years ago",
+        "Fully aquatic - never leaves the water like some other manatee species",
+        "Can grow up to 4.5 meters long and weigh over 500 kg",
+        "Vital ecosystem engineers - their grazing maintains aquatic plant communities",
+        "Known to migrate seasonally following food sources in river systems"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN with declining populations throughout their range. African manatees face severe threats from hunting for bushmeat, accidental capture in fishing nets, and habitat destruction from dam construction and water pollution. Their slow reproductive rate - females give birth only every 2-5 years - makes population recovery difficult. In some countries, traditional beliefs offer protection, as manatees are considered sacred or reincarnated ancestors. Conservation efforts focus on community education, establishing protected areas, and reducing accidental mortality in fishing gear. International trade is prohibited under CITES Appendix I.",
+      "relatedAnimals": [
+        "west-indian-manatee",
+        "amazonian-manatee",
+        "dugong"
+      ]
+    },
+    {
+      "slug": "pygmy-hippopotamus",
+      "name": "Pygmy Hippopotamus",
+      "scientificName": "Choeropsis liberiensis",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Endangered",
+      "emoji": "🦛",
+      "stats": {
+        "habitat": "Lowland forests, swamps, rivers",
+        "diet": "Herbivore - ferns, grasses, fruits",
+        "lifespan": "30-50 years",
+        "weight": "180-275 kg"
+      },
+      "media": {
+        "heroImage": "/images/pygmy-hippopotamus.jpg",
+        "image2": "/images/pygmy-hippopotamus-2.jpg",
+        "video": "/videos/pygmy-hippopotamus.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Pygmy Hippopotamus in West African rainforest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest stream background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Pygmy Hippopotamus in West African swamp, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, vegetation foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Pygmy Hippopotamus in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The pygmy hippopotamus (Choeropsis liberiensis) is a rare and elusive forest dweller that represents one of Africa's most endangered large mammals. Unlike their larger cousins, pygmy hippos are solitary, secretive creatures that inhabit the dense lowland forests and swamps of West Africa, primarily in Liberia, Sierra Leone, Guinea, and Ivory Coast. Weighing only 180-275 kg - less than a quarter the size of common hippos - these miniature marvels have evolved distinct adaptations for forest life, including proportionally longer legs and smaller heads that allow them to navigate through thick vegetation. Pygmy hippos are semi-aquatic but spend much more time on land than common hippos, following narrow trails through the forest to reach streams and pools where they feed on aquatic vegetation. Their nocturnal habits and remote habitat make them incredibly difficult to study, and much of their behavior remains a mystery to science.",
+      "highlights": [
+        "Less than a quarter the size of common hippos - weighs only 180-275 kg",
+        "Solitary and secretive - unlike social common hippos",
+        "Proportionally longer legs adapted for forest navigation",
+        "Nocturnal habits make them rarely seen in the wild",
+        "Can close nostrils and ears underwater like larger hippos",
+        "Less than 3,000 remain in the wild - critically endangered"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with rapidly declining populations. Pygmy hippos face catastrophic threats from deforestation for logging and agriculture, hunting for bushmeat, and human encroachment into their forest habitat. Their restricted range in West Africa makes them particularly vulnerable. Civil unrest in Liberia, their primary stronghold, has hampered conservation efforts. Captive breeding programs exist in zoos worldwide, but reintroduction faces significant challenges. Conservation priorities include protecting remaining forest habitat, anti-poaching patrols, and community-based conservation initiatives that provide alternative livelihoods to local communities.",
+      "relatedAnimals": [
+        "hippopotamus",
+        "common-warthog",
+        "bushpig"
+      ]
+    },
+    {
+      "slug": "red-river-hog",
+      "name": "Red River Hog",
+      "scientificName": "Potamochoerus porcus",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Least Concern",
+      "emoji": "🐗",
+      "stats": {
+        "habitat": "Rainforests, swamps, savannas",
+        "diet": "Omnivore - roots, fruits, small animals",
+        "lifespan": "15-20 years",
+        "weight": "45-115 kg"
+      },
+      "media": {
+        "heroImage": "/images/red-river-hog.jpg",
+        "image2": "/images/red-river-hog-2.jpg",
+        "video": "/videos/red-river-hog.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Red River Hog in West African rainforest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Red River Hog family in West African forest clearing, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, vegetation foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Red River Hog in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The red river hog (Potamochoerus porcus) is Africa's most colorful and striking wild pig species, a vibrant inhabitant of West Africa's rainforests and swamps that looks like it was painted by an artist. These medium-sized pigs are instantly recognizable by their russet-red coats, distinctive white facial markings, and prominent ear tufts that give them an almost comical appearance. Males sport impressive facial warts and small tusks that curve upward, while both sexes have a characteristic white dorsal stripe that runs from head to tail. Red river hogs are highly social animals that live in groups of 6-20 individuals, led by a dominant male. They are remarkably vocal, communicating through a variety of grunts, squeals, and alarm barks. Despite their striking appearance, these intelligent pigs are primarily nocturnal and can be surprisingly elusive in their forest habitat.",
+      "highlights": [
+        "Most colorful wild pig in Africa with vibrant russet-red coat",
+        "Distinctive white facial markings and prominent ear tufts",
+        "Highly social - live in groups of 6-20 individuals",
+        "Remarkably vocal with variety of grunts, squeals, and alarm barks",
+        "Excellent swimmers - often found in swampy areas",
+        "Omnivorous diet includes roots, fruits, and even small animals"
+      ],
+      "conservation": "Listed as Least Concern overall, though populations are declining in some areas. Red river hogs face threats from habitat loss due to deforestation, hunting for bushmeat, and persecution as crop pests. Their adaptability allows them to thrive in some human-modified habitats, and they can be significant agricultural pests in farming areas. In some regions, they are important prey for leopards and other large predators. Sustainable hunting management and habitat protection are key conservation priorities. Their wide distribution across West and Central Africa provides some buffer against local extinctions.",
+      "relatedAnimals": [
+        "common-warthog",
+        "bushpig",
+        "giant-forest-hog"
+      ]
+    },
+    {
+      "slug": "diana-monkey",
+      "name": "Diana Monkey",
+      "scientificName": "Cercopithecus diana",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Endangered",
+      "emoji": "🐒",
+      "stats": {
+        "habitat": "Primary rainforests, riparian forests",
+        "diet": "Omnivore - fruits, leaves, insects",
+        "lifespan": "20-25 years",
+        "weight": "4-7 kg"
+      },
+      "media": {
+        "heroImage": "/images/diana-monkey.jpg",
+        "image2": "/images/diana-monkey-2.jpg",
+        "video": "/videos/diana-monkey.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Diana Monkey in West African rainforest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest canopy background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Diana Monkey troop in West African forest, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, canopy foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Diana Monkey in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Diana monkey (Cercopithecus diana) is one of West Africa's most beautiful and endangered primates, an arboreal masterpiece adorned with a striking color palette that includes a white brow, russet back, and black limbs. Named after the Roman goddess of hunting due to the crescent-shaped white brow band that resembles a bow, these medium-sized monkeys are found only in the primary rainforests of Sierra Leone, Liberia, Guinea, and Ivory Coast. Diana monkeys are highly arboreal, spending nearly their entire lives in the forest canopy, rarely descending to the ground. They live in small family groups of 5-15 individuals with a single dominant male. Their complex vocal repertoire includes specific alarm calls for different predators - eagles, leopards, and snakes - that trigger different escape responses from the group. These intelligent primates play crucial roles as seed dispersers in their forest ecosystem.",
+      "highlights": [
+        "Named after Roman goddess Diana due to crescent-shaped white brow",
+        "Striking coloration - white brow, russet back, black limbs",
+        "Highly arboreal - rarely descends from forest canopy",
+        "Specific alarm calls for different predators (eagles, leopards, snakes)",
+        "Live in small family groups of 5-15 with single dominant male",
+        "Important seed dispersers maintaining forest diversity"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with rapidly declining populations. Diana monkeys face severe threats from habitat loss due to logging and agricultural conversion, hunting for bushmeat, and capture for the pet trade. Their dependence on primary rainforest makes them particularly vulnerable to deforestation. Small, isolated populations are at risk of local extinction. The ongoing civil unrest in parts of their range has hampered conservation efforts. Protected areas like Taï National Park in Ivory Coast provide crucial strongholds. Conservation priorities include habitat protection, anti-poaching measures, and community education programs.",
+      "relatedAnimals": [
+        "campbells-monkey",
+        "lesser-spot-nosed-monkey",
+        "patas-monkey"
+      ]
+    },
+    {
+      "slug": "white-bellied-pangolin",
+      "name": "White-bellied Pangolin",
+      "scientificName": "Phataginus tricuspis",
+      "continent": "Africa",
+      "subregion": "West Africa",
+      "status": "Endangered",
+      "emoji": "🦔",
+      "stats": {
+        "habitat": "Tropical forests, savannas",
+        "diet": "Insectivore - ants and termites",
+        "lifespan": "15-20 years",
+        "weight": "1-3 kg"
+      },
+      "media": {
+        "heroImage": "/images/white-bellied-pangolin.jpg",
+        "image2": "/images/white-bellied-pangolin-2.jpg",
+        "video": "/videos/white-bellied-pangolin.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic White-bellied Pangolin in West African forest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, tree background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, White-bellied Pangolin climbing tree in West African forest, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, White-bellied Pangolin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The white-bellied pangolin (Phataginus tricuspis), also known as the tree pangolin, is one of Africa's most threatened and least understood mammals, a small, arboreal species that spends its entire life in the forest canopy. Unlike their ground-dwelling cousins, white-bellied pangolins are expert climbers with prehensile tails that can grip branches with remarkable strength. These solitary, nocturnal insectivores are covered in overlapping scales made of keratin - the same material as human fingernails - that provide protection from predators. When threatened, they roll into a tight ball, presenting an impenetrable armor of sharp scales. A single white-bellied pangolin can consume up to 70 million ants and termites annually using its extraordinarily long, sticky tongue that extends deep into insect nests. Their specialized diet makes them ecologically important controllers of forest insect populations, but also makes them vulnerable to habitat loss.",
+      "highlights": [
+        "Expert tree climber with prehensile tail for gripping branches",
+        "Can consume 70 million ants/termites annually using sticky tongue",
+        "Scales made of keratin - same material as human fingernails",
+        "Rolls into tight ball when threatened - impenetrable armor",
+        "No teeth - food ground in muscular stomach with swallowed stones",
+        "Spends entire life in forest canopy - rarely descends to ground"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with catastrophic population declines. White-bellied pangolins are among the world's most trafficked mammals, with their scales highly valued in traditional Asian medicine despite no proven medicinal properties. Habitat loss from deforestation, hunting for bushmeat, and electrocution on electric fences pose additional threats. Their slow reproductive rate and solitary nature make population recovery extremely difficult. International trade is prohibited under CITES Appendix I. Conservation efforts focus on anti-poaching patrols, reducing demand for pangolin products, and protecting remaining forest habitat. Much remains unknown about their ecology due to their elusive nature.",
+      "relatedAnimals": [
+        "temmincks-ground-pangolin",
+        "giant-pangolin",
+        "black-bellied-pangolin"
+      ]
+    },
+    {
+      "slug": "dromedary-camel",
+      "name": "Dromedary Camel",
+      "scientificName": "Camelus dromedarius",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Domesticated",
+      "emoji": "🐪",
+      "stats": {
+        "habitat": "Deserts, arid regions",
+        "diet": "Herbivore - desert vegetation",
+        "lifespan": "40-50 years",
+        "weight": "400-600 kg"
+      },
+      "media": {
+        "heroImage": "/images/dromedary-camel.jpg",
+        "image2": "/images/dromedary-camel-2.jpg",
+        "video": "/videos/dromedary-camel.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Dromedary Camel in Sahara Desert, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, sand dunes background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Dromedary Camel caravan in Sahara Desert, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, desert foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Dromedary Camel in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The dromedary camel (Camelus dromedarius), also known as the Arabian camel, is the ultimate desert survivor and has been humanity's most valuable companion in arid regions for over 4,000 years. These magnificent one-humped ungulates are perfectly adapted to life in the harsh deserts of North Africa, the Middle East, and the Horn of Africa. Contrary to popular belief, camels do not store water in their humps - the hump is actually a fat reserve that can sustain them for weeks without food. Dromedaries can drink up to 100 liters of water in just 10 minutes and can survive losing up to 30% of their body weight in water without ill effects. Their remarkable adaptations include nostrils that can close against blowing sand, long eyelashes and bushy eyebrows for eye protection, and wide, padded feet that spread on soft sand. These 'ships of the desert' have enabled trade and travel across some of the world's most inhospitable terrain.",
+      "highlights": [
+        "Can drink 100 liters of water in just 10 minutes",
+        "Hump stores fat (not water) - can sustain for weeks without food",
+        "Can survive losing 30% of body weight in water",
+        "Nostrils close completely to keep out blowing sand",
+        "Body temperature fluctuates 3-6°C to conserve water",
+        "Domesticated for over 4,000 years - vital to desert civilizations"
+      ],
+      "conservation": "Listed as Not Evaluated by the IUCN as they are domesticated animals. Wild dromedaries are extinct; all current populations are domesticated or feral. Estimates suggest over 15 million dromedaries exist across Africa and the Middle East. They remain economically vital to millions of people for transport, milk, meat, and wool. Feral populations in Australia, descended from imported animals, have become invasive pests. Conservation concerns focus on maintaining genetic diversity in domestic populations and managing feral populations humanely.",
+      "relatedAnimals": [
+        "bactrian-camel",
+        "llama",
+        "alpaca"
+      ]
+    },
+    {
+      "slug": "sand-cat",
+      "name": "Sand Cat",
+      "scientificName": "Felis margarita",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Least Concern",
+      "emoji": "🐱",
+      "stats": {
+        "habitat": "Deserts, sandy areas",
+        "diet": "Carnivore - rodents, birds, reptiles",
+        "lifespan": "13-15 years",
+        "weight": "1.5-3.5 kg"
+      },
+      "media": {
+        "heroImage": "/images/sand-cat.jpg",
+        "image2": "/images/sand-cat-2.jpg",
+        "video": "/videos/sand-cat.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Sand Cat in Sahara Desert, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, sand dunes background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Sand Cat hunting in Sahara Desert at night, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, desert foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Sand Cat in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The sand cat (Felis margarita), also known as the sand dune cat, is one of the world's most elusive and specialized small cats, perfectly adapted to life in the harsh deserts of North Africa and the Middle East. These small, stocky felines have evolved remarkable adaptations for desert survival, including thick fur on their paw pads that protects against hot sand and provides traction, and large ears that help dissipate heat. Unlike most cats, sand cats can survive without free water, obtaining all necessary moisture from their prey. Their pale, sandy-colored coats provide perfect camouflage in desert environments, while their large eyes and enhanced night vision make them formidable nocturnal hunters. Sand cats are incredibly difficult to study in the wild due to their elusive nature and remote habitat, and much of their behavior remains a mystery to science.",
+      "highlights": [
+        "Can survive without drinking water - gets all moisture from prey",
+        "Thick fur on paw pads protects against hot sand and provides traction",
+        "Large ears help dissipate heat in desert environments",
+        "Pale sandy coat provides perfect desert camouflage",
+        "Excellent diggers - can dig burrows to escape extreme temperatures",
+        "One of the least studied wild cats due to elusive nature"
+      ],
+      "conservation": "Listed as Least Concern overall, though populations are declining in some regions. Sand cats face threats from habitat degradation due to human activities, hunting for the pet trade, and predation by domestic dogs. Their remote desert habitat provides some protection, but expanding human settlement and resource extraction pose growing threats. Much remains unknown about their population status due to their elusive nature. Conservation efforts focus on protecting desert ecosystems and reducing illegal wildlife trade.",
+      "relatedAnimals": [
+        "black-footed-cat",
+        "wildcat",
+        "jungle-cat"
+      ]
+    },
+    {
+      "slug": "dorcas-gazelle",
+      "name": "Dorcas Gazelle",
+      "scientificName": "Gazella dorcas",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Vulnerable",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "Deserts, semi-deserts",
+        "diet": "Herbivore - desert plants, acacia leaves",
+        "lifespan": "12-15 years",
+        "weight": "15-25 kg"
+      },
+      "media": {
+        "heroImage": "/images/dorcas-gazelle.jpg",
+        "image2": "/images/dorcas-gazelle-2.jpg",
+        "video": "/videos/dorcas-gazelle.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Dorcas Gazelle in Sahara Desert, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, desert background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Dorcas Gazelle herd in Sahara Desert, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, desert foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Dorcas Gazelle in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Dorcas gazelle (Gazella dorcas) is a small, graceful antelope that has mastered the art of desert survival across the vast Sahara and Arabian deserts. These elegant creatures are perfectly adapted to some of the world's most arid environments, capable of surviving indefinitely without drinking water by obtaining all necessary moisture from the desert vegetation they consume. Dorcas gazelles are remarkably efficient at water conservation, producing highly concentrated urine and dry feces to minimize water loss. Their pale, sandy-colored coats provide excellent camouflage against desert backgrounds, while their large eyes provide exceptional vision for detecting predators. Unlike many desert animals, Dorcas gazelles are primarily diurnal, feeding during the cooler morning and evening hours and resting in shade during the intense midday heat.",
+      "highlights": [
+        "Can survive without drinking water - gets all moisture from plants",
+        "Highly efficient water conservation - concentrated urine and dry feces",
+        "Pale coat provides excellent desert camouflage",
+        "Primarily diurnal - active during cooler parts of day",
+        "Can reach speeds of 80 km/h to escape predators",
+        "Live in small herds of 5-20 individuals"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN with declining populations throughout their range. Dorcas gazelles face severe threats from habitat loss, overhunting for meat and sport, and competition with livestock. Their once-abundant populations have been drastically reduced across North Africa. Uncontrolled hunting with modern vehicles and firearms has been particularly devastating. Conservation efforts focus on protected areas, hunting regulations, and reintroduction programs in suitable habitat.",
+      "relatedAnimals": [
+        "addax",
+        "fennec-fox",
+        "dromedary-camel"
+      ]
+    },
+    {
+      "slug": "striped-hyena",
+      "name": "Striped Hyena",
+      "scientificName": "Hyaena hyaena",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Near Threatened",
+      "emoji": "🦴",
+      "stats": {
+        "habitat": "Semi-deserts, scrublands, grasslands",
+        "diet": "Omnivore - scavenger, also hunts small prey",
+        "lifespan": "12-15 years",
+        "weight": "22-55 kg"
+      },
+      "media": {
+        "heroImage": "/images/striped-hyena.jpg",
+        "image2": "/images/striped-hyena-2.jpg",
+        "video": "/videos/striped-hyena.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Striped Hyena in North African scrubland, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, scrubland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Striped Hyena at night in North Africa, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, scrubland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Striped Hyena in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The striped hyena (Hyaena hyaena) is the smallest and most widely distributed of the three hyena species, a solitary, nocturnal scavenger found across North Africa, the Middle East, and South Asia. Unlike their spotted cousins, striped hyenas are primarily solitary and avoid human contact, making them one of the least studied large carnivores. They are easily distinguished by their distinctive striped coat pattern, prominent mane that can be raised when threatened, and relatively long, pointed ears. Striped hyenas are highly adaptable omnivores with an incredibly diverse diet that includes carrion, small mammals, birds, insects, fruits, and even human refuse. They play important ecological roles as scavengers, helping to clean up carcasses and control disease. Despite their shy nature, striped hyenas feature prominently in Middle Eastern and Asian folklore, often associated with magic and supernatural powers.",
+      "highlights": [
+        "Most widely distributed hyena species - found across three continents",
+        "Distinctive striped coat and prominent mane that raises when threatened",
+        "Highly diverse omnivorous diet - one of the least specialized carnivores",
+        "Primarily solitary - unlike social spotted hyenas",
+        "Can digest bones, horns, and even teeth",
+        "Featured prominently in Middle Eastern folklore and mythology"
+      ],
+      "conservation": "Listed as Near Threatened by the IUCN with declining populations. Striped hyenas face threats from habitat loss, persecution by humans who view them as pests or competitors for livestock, and poisoning. Their shy nature makes them vulnerable to human disturbance. In some regions, they are hunted for body parts used in traditional medicine. Conservation efforts focus on reducing human-wildlife conflict, protecting habitat, and education to change negative perceptions.",
+      "relatedAnimals": [
+        "spotted-hyena",
+        "brown-hyaena",
+        "aardwolf"
+      ]
+    },
+    {
+      "slug": "caracal",
+      "name": "Caracal",
+      "scientificName": "Caracal caracal",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Least Concern",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "Savannas, woodlands, semi-deserts",
+        "diet": "Carnivore - small mammals, birds",
+        "lifespan": "12-17 years",
+        "weight": "8-19 kg"
+      },
+      "media": {
+        "heroImage": "/images/caracal.jpg",
+        "image2": "/images/caracal-2.jpg",
+        "video": "/videos/caracal.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Caracal in North African savanna, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Caracal hunting bird in North Africa, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Caracal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The caracal (Caracal caracal) is a medium-sized wild cat renowned for its extraordinary hunting abilities and distinctive appearance, particularly its long, tufted black ears that give it an elegant, almost regal appearance. These remarkable predators are found across Africa, the Middle East, and Central Asia, with North African populations representing some of the most magnificent specimens. Caracals are famous for their incredible leaping ability - they can jump up to 3 meters vertically to catch birds in mid-flight, and have been known to bring down prey twice their size. Their powerful hind legs and flexible spine make them among the most athletic of all wild cats. Despite their fierce hunting prowess, caracals are generally solitary and elusive, avoiding human contact. Their name comes from the Turkish word 'karakulak' meaning 'black ear,' referring to their most distinctive feature.",
+      "highlights": [
+        "Can jump 3 meters vertically to catch birds in mid-flight",
+        "Distinctive long black ear tufts - source of their name",
+        "Can bring down prey twice their body size",
+        "Extremely athletic with powerful hind legs",
+        "Solitary and elusive - rarely seen by humans",
+        "Name comes from Turkish 'karakulak' meaning 'black ear'"
+      ],
+      "conservation": "Listed as Least Concern overall, though populations are declining in some regions. Caracals face threats from habitat loss, persecution by farmers protecting livestock, and hunting for their skins. Their wide distribution provides some buffer against local extinctions. In some regions, they are considered pests and killed indiscriminately. Conservation efforts focus on reducing human-wildlife conflict and protecting habitat corridors.",
+      "relatedAnimals": [
+        "serval",
+        "african-golden-cat",
+        "wildcat"
+      ]
+    },
+    {
+      "slug": "egyptian-cobra",
+      "name": "Egyptian Cobra",
+      "scientificName": "Naja haje",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Least Concern",
+      "emoji": "🐍",
+      "stats": {
+        "habitat": "Savannas, semi-deserts, agricultural areas",
+        "diet": "Carnivore - toads, small mammals, birds",
+        "lifespan": "20-25 years",
+        "weight": "1-2 kg"
+      },
+      "media": {
+        "heroImage": "/images/egyptian-cobra.jpg",
+        "image2": "/images/egyptian-cobra-2.jpg",
+        "video": "/videos/egyptian-cobra.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Egyptian Cobra in North African savanna, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, savanna background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Egyptian Cobra with hood spread in defensive posture, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Egyptian Cobra in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Egyptian cobra (Naja haje) is one of Africa's most iconic and feared snakes, a large, highly venomous species that has played a significant role in human culture and mythology for thousands of years. These impressive serpents can grow up to 2.5 meters in length and are recognized by their large, impressive hood that they spread when threatened. Unlike the Indian cobra, Egyptian cobras do not have a distinctive hood mark. They are found throughout North Africa and the Middle East, inhabiting a wide range of habitats from savannas to semi-deserts and even agricultural areas. Egyptian cobras are primarily nocturnal hunters, preying on toads, small mammals, birds, and other snakes. Their venom is highly potent, containing both neurotoxins and cytotoxins, and a bite can be fatal to humans without prompt medical treatment. In ancient Egypt, the cobra was revered as a symbol of royalty and divine authority.",
+      "highlights": [
+        "Can grow up to 2.5 meters - one of Africa's largest cobras",
+        "Highly venomous with potent neurotoxins and cytotoxins",
+        "Spreads impressive hood when threatened",
+        "Nocturnal hunter - preys on toads, mammals, birds, other snakes",
+        "Sacred symbol in ancient Egyptian culture and royalty",
+        "Can spit venom accurately at threats up to 3 meters away"
+      ],
+      "conservation": "Listed as Least Concern due to wide distribution and adaptability. Egyptian cobras face localized threats from habitat loss, persecution by humans, and collection for the pet trade and venom extraction. Their ability to thrive in agricultural areas sometimes brings them into conflict with humans. In some regions, they are killed on sight due to fear. Conservation efforts focus on education to reduce unnecessary killing and protecting natural habitats.",
+      "relatedAnimals": [
+        "black-mamba",
+        "puff-adder",
+        "african-rock-python"
+      ]
+    },
+    {
+      "slug": "nubian-ibex",
+      "name": "Nubian Ibex",
+      "scientificName": "Capra nubiana",
+      "continent": "Africa",
+      "subregion": "North Africa",
+      "status": "Vulnerable",
+      "emoji": "🐐",
+      "stats": {
+        "habitat": "Mountainous deserts, rocky areas",
+        "diet": "Herbivore - grasses, leaves, shrubs",
+        "lifespan": "15-17 years",
+        "weight": "25-70 kg"
+      },
+      "media": {
+        "heroImage": "/images/nubian-ibex.jpg",
+        "image2": "/images/nubian-ibex-2.jpg",
+        "video": "/videos/nubian-ibex.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Nubian Ibex in North African mountains, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountain background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Nubian Ibex on cliff face in North Africa, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountain foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Nubian Ibex in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Nubian ibex (Capra nubiana) is a magnificent desert-dwelling mountain goat that has mastered the art of survival in some of the world's most arid and rugged terrain. These impressive ungulates are found in the mountainous deserts of North Africa and the Middle East, where they navigate sheer cliff faces with remarkable agility. Males are particularly striking, with massive, backward-curving horns that can reach over 1 meter in length, while females have smaller, straighter horns. Nubian ibexes are perfectly adapted to desert mountain life, with light-colored coats that reflect heat and specialized hooves that grip rocky surfaces. They can survive for long periods without water, obtaining moisture from the desert vegetation they consume. Their incredible climbing abilities allow them to escape predators and access vegetation inaccessible to other herbivores.",
+      "highlights": [
+        "Males have massive backward-curving horns up to 1 meter long",
+        "Expert climbers - navigate sheer cliff faces with ease",
+        "Can survive long periods without free water",
+        "Light-colored coat reflects heat in desert environments",
+        "Specialized hooves grip rocky surfaces",
+        "Found in some of the world's most arid mountain regions"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN with declining populations. Nubian ibexes face severe threats from habitat loss, overhunting for meat and trophies, and competition with domestic livestock. Their restricted mountain habitat makes them vulnerable to local extinctions. In some countries, only small, isolated populations remain. Conservation efforts focus on protected areas, hunting regulations, and reintroduction programs. The species has cultural and historical significance, appearing in ancient rock art throughout their range.",
+      "relatedAnimals": [
+        "addax",
+        "dorcas-gazelle",
+        "fennec-fox"
+      ]
+    },
+    {
+      "slug": "western-gorilla",
+      "name": "Western Gorilla",
+      "scientificName": "Gorilla gorilla",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Critically Endangered",
+      "emoji": "🦍",
+      "stats": {
+        "habitat": "Lowland rainforests, swamp forests",
+        "diet": "Herbivore - fruits, leaves, stems",
+        "lifespan": "35-40 years",
+        "weight": "140-270 kg"
+      },
+      "media": {
+        "heroImage": "/images/western-gorilla.jpg",
+        "image2": "/images/western-gorilla-2.jpg",
+        "video": "/videos/western-gorilla.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Western Gorilla in Central African rainforest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Western Gorilla silverback in Central African forest, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Western Gorilla in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The western gorilla (Gorilla gorilla) is the most widespread and numerous of the two gorilla species, though it remains critically endangered due to catastrophic population declines. These magnificent great apes are found in the lowland rainforests and swamp forests of Central and West Africa, with two recognized subspecies: the western lowland gorilla and the Cross River gorilla. Western gorillas are slightly smaller than their mountain cousins but share the same impressive strength and intelligence. Adult males, known as silverbacks due to the distinctive saddle of gray hair on their backs, can weigh up to 270 kg and stand 1.8 meters tall when upright. They live in stable family groups led by a dominant silverback, consisting of multiple females and their offspring. Western gorillas are primarily herbivorous, spending much of their day foraging for fruits, leaves, and stems, and play crucial roles as seed dispersers in their forest ecosystem.",
+      "highlights": [
+        "Largest great ape in Africa - males can reach 270 kg",
+        "Silverback males lead stable family groups of 5-30 individuals",
+        "Share 98% of DNA with humans - among our closest relatives",
+        "Crucial seed dispersers maintaining forest diversity",
+        "Highly intelligent - use tools and display complex emotions",
+        "Two subspecies: western lowland and critically endangered Cross River"
+      ],
+      "conservation": "Listed as Critically Endangered by the IUCN with catastrophic population declines of over 80% in three generations. Western gorillas face severe threats from habitat loss due to logging and agriculture, devastating Ebola virus outbreaks, and bushmeat hunting. The Cross River gorilla subspecies numbers fewer than 300 individuals. Conservation efforts focus on anti-poaching patrols, habitat protection, Ebola research, and community-based conservation programs. International trade is prohibited under CITES Appendix I.",
+      "relatedAnimals": [
+        "western-lowland-gorilla",
+        "mountain-gorilla",
+        "bonobo"
+      ]
+    },
+    {
+      "slug": "giant-forest-hog",
+      "name": "Giant Forest Hog",
+      "scientificName": "Hylochoerus meinertzhageni",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Least Concern",
+      "emoji": "🐗",
+      "stats": {
+        "habitat": "Rainforests, forest clearings",
+        "diet": "Omnivore - grasses, roots, carrion",
+        "lifespan": "15-20 years",
+        "weight": "100-275 kg"
+      },
+      "media": {
+        "heroImage": "/images/giant-forest-hog.jpg",
+        "image2": "/images/giant-forest-hog-2.jpg",
+        "video": "/videos/giant-forest-hog.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Giant Forest Hog in Central African rainforest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Giant Forest Hog family in Central African forest clearing, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Giant Forest Hog in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The giant forest hog (Hylochoerus meinertzhageni) is the largest wild pig species in Africa and one of the most impressive and rarely seen mammals on the continent. These massive swine can weigh up to 275 kg and are found only in the dense rainforests of Central and East Africa. Named after British naturalist Richard Meinertzhagen, who first described them scientifically in 1904, giant forest hogs are characterized by their huge size, shaggy black coats, and distinctive white facial markings. Unlike most wild pigs, they are primarily grazers rather than rooters, feeding on grasses and herbs in forest clearings. They live in family groups of up to 20 individuals and are known for their aggressive defense of their territory. Despite their formidable appearance and size, they are shy and elusive, making them one of Africa's least studied large mammals.",
+      "highlights": [
+        "Largest wild pig in Africa - can weigh up to 275 kg",
+        "Shaggy black coat with distinctive white facial markings",
+        "Primarily grazers - feed on grasses rather than rooting",
+        "Live in family groups of up to 20 individuals",
+        "Known for aggressive territorial defense",
+        "One of Africa's least studied large mammals due to elusive nature"
+      ],
+      "conservation": "Listed as Least Concern overall, though populations are declining in some regions. Giant forest hogs face threats from habitat loss due to deforestation, hunting for bushmeat, and predation by leopards and lions. Their dependence on forest clearings makes them vulnerable to habitat changes. In some areas, they are significant crop pests. Conservation efforts focus on habitat protection and sustainable hunting management. Much remains unknown about their ecology due to their remote forest habitat.",
+      "relatedAnimals": [
+        "red-river-hog",
+        "common-warthog",
+        "bushpig"
+      ]
+    },
+    {
+      "slug": "red-colobus-monkey",
+      "name": "Red Colobus Monkey",
+      "scientificName": "Piliocolobus badius",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Endangered",
+      "emoji": "🐒",
+      "stats": {
+        "habitat": "Rainforests, riparian forests",
+        "diet": "Herbivore - leaves, fruits, seeds",
+        "lifespan": "20-25 years",
+        "weight": "5-11 kg"
+      },
+      "media": {
+        "heroImage": "/images/red-colobus-monkey.jpg",
+        "image2": "/images/red-colobus-monkey-2.jpg",
+        "video": "/videos/red-colobus-monkey.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Red Colobus Monkey in Central African rainforest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Red Colobus Monkey troop in Central African forest canopy, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Red Colobus Monkey in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The red colobus monkey (Piliocolobus badius) is one of Africa's most threatened primate groups, with multiple species and subspecies facing severe population declines across Central and East Africa. These striking arboreal monkeys are easily recognized by their vibrant red, black, and white coats, long tails, and distinctive lack of thumbs - a unique adaptation among primates. Red colobus monkeys are highly specialized leaf-eaters with complex digestive systems that ferment plant material, allowing them to extract nutrients from tough, mature leaves that other monkeys cannot digest. They live in large social groups of 20-80 individuals and play crucial roles in forest ecology as seed dispersers and prey for crowned eagles and chimpanzees. Their loud, distinctive calls echo through the forest canopy, serving as communication within groups and territorial warnings to neighboring troops.",
+      "highlights": [
+        "Lack thumbs - unique adaptation among primates for brachiation",
+        "Specialized leaf-eaters with complex fermenting digestive system",
+        "Vibrant red, black, and white coat patterns",
+        "Live in large social groups of 20-80 individuals",
+        "Major prey for crowned eagles and chimpanzees",
+        "Multiple species facing severe population declines"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with many subspecies Critically Endangered. Red colobus monkeys face catastrophic threats from habitat loss due to logging and agriculture, hunting for bushmeat, and predation. Their specialized diet makes them vulnerable to forest degradation. Some populations have declined by over 50% in recent decades. Conservation efforts focus on protecting remaining forest habitat, anti-poaching measures, and research to better understand their complex ecology. They are considered indicator species for forest health.",
+      "relatedAnimals": [
+        "black-and-white-colobus",
+        "olive-baboon",
+        "diana-monkey"
+      ]
+    },
+    {
+      "slug": "drill",
+      "name": "Drill",
+      "scientificName": "Mandrillus leucophaeus",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Endangered",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "Rainforests, forest-savanna mosaic",
+        "diet": "Omnivore - fruits, seeds, small animals",
+        "lifespan": "28-30 years",
+        "weight": "15-30 kg"
+      },
+      "media": {
+        "heroImage": "/images/drill.jpg",
+        "image2": "/images/drill-2.jpg",
+        "video": "/videos/drill.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Drill in Central African rainforest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Drill troop in Central African forest, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Drill in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The drill (Mandrillus leucophaeus) is one of Africa's most endangered primates and the less famous cousin of the mandrill, sharing the same genus but distinguished by its more subdued coloration and different facial markings. These large, short-tailed monkeys are found only in the Cross-Sanaga rivers region of Central Africa, primarily in Cameroon and Nigeria. Drills are sexually dimorphic, with males being significantly larger and displaying distinctive pink and blue facial coloring, while females are smaller with black faces. They live in large social groups called 'hordes' that can number over 100 individuals, though they often break into smaller foraging units during the day. Drills are primarily terrestrial foragers, spending much of their time on the forest floor searching for fruits, seeds, and small animals, making them particularly vulnerable to hunting and habitat fragmentation.",
+      "highlights": [
+        "Less famous cousin of mandrill - same genus, different appearance",
+        "Found only in Cross-Sanaga rivers region - extremely limited range",
+        "Live in large 'hordes' of over 100 individuals",
+        "Males display distinctive pink and blue facial coloring",
+        "Primarily terrestrial - forage on forest floor",
+        "One of Africa's most endangered primates"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with rapidly declining populations. Drills face severe threats from habitat loss due to logging and agriculture, intensive hunting for bushmeat, and human encroachment. Their limited range makes them particularly vulnerable to local extinction. The Cross River National Park in Nigeria provides crucial protection. Captive breeding programs exist but face challenges. Conservation efforts focus on protecting remaining habitat, anti-poaching measures, and community education programs.",
+      "relatedAnimals": [
+        "mandrill",
+        "olive-baboon",
+        "western-lowland-gorilla"
+      ]
+    },
+    {
+      "slug": "african-golden-cat",
+      "name": "African Golden Cat",
+      "scientificName": "Caracal aurata",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Vulnerable",
+      "emoji": "🐱",
+      "stats": {
+        "habitat": "Tropical rainforests",
+        "diet": "Carnivore - small mammals, birds",
+        "lifespan": "12-15 years",
+        "weight": "5-16 kg"
+      },
+      "media": {
+        "heroImage": "/images/african-golden-cat.jpg",
+        "image2": "/images/african-golden-cat-2.jpg",
+        "video": "/videos/african-golden-cat.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic African Golden Cat in Central African rainforest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, African Golden Cat hunting in Central African forest, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, African Golden Cat in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The African golden cat (Caracal aurata) is one of Africa's most elusive and poorly understood wild cats, a secretive forest dweller that has earned the nickname 'the leopard's brother' due to its similar habits and appearance. These medium-sized cats are found only in the dense tropical rainforests of Central and West Africa, where they are rarely seen by humans. African golden cats display remarkable color variation, ranging from golden-brown to gray to melanistic (black), with some individuals showing spotted patterns. They are highly arboreal, spending much of their time in trees hunting birds and small mammals, but also hunt on the forest floor. Their large eyes provide excellent night vision for nocturnal hunting. Due to their secretive nature and remote habitat, much of their ecology remains a mystery, and they are among the least studied African carnivores.",
+      "highlights": [
+        "One of Africa's most elusive and poorly understood wild cats",
+        "Remarkable color variation - golden, gray, or melanistic black",
+        "Highly arboreal - spend much time hunting in trees",
+        "Called 'leopard's brother' due to similar habits",
+        "Large eyes provide excellent night vision",
+        "Among the least studied African carnivores"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN with declining populations. African golden cats face threats from habitat loss due to deforestation, hunting for bushmeat and skins, and human encroachment. Their dependence on primary rainforest makes them particularly vulnerable. Camera trap studies are revealing more about their ecology, but much remains unknown. Conservation efforts focus on protecting forest habitat and reducing hunting pressure. They serve as indicator species for forest ecosystem health.",
+      "relatedAnimals": [
+        "serval",
+        "caracal",
+        "leopard"
+      ]
+    },
+    {
+      "slug": "sitatunga",
+      "name": "Sitatunga",
+      "scientificName": "Tragelaphus spekii",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Least Concern",
+      "emoji": "🦌",
+      "stats": {
+        "habitat": "Swamp forests, marshlands",
+        "diet": "Herbivore - aquatic plants, grasses",
+        "lifespan": "15-20 years",
+        "weight": "50-125 kg"
+      },
+      "media": {
+        "heroImage": "/images/sitatunga.jpg",
+        "image2": "/images/sitatunga-2.jpg",
+        "video": "/videos/sitatunga.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Sitatunga in Central African swamp forest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, swamp background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Sitatunga wading through Central African marsh, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, wetland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Sitatunga in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The sitatunga (Tragelaphus spekii) is Africa's most aquatic antelope, a remarkable swamp specialist that has evolved extraordinary adaptations for life in flooded forests and marshlands. These medium-sized antelopes are found in the swamp forests and wetlands of Central and East Africa, where they are perfectly at home in water up to their shoulders. Sitatungas have evolved several unique adaptations for their aquatic lifestyle, including long, splayed hooves that prevent sinking in mud, water-resistant coats, and the ability to swim and even submerge completely to escape predators. Males have distinctive spiral horns and dark brown coats, while females are reddish-brown and hornless. They are primarily browsers, feeding on aquatic vegetation, leaves, and grasses. Their shy, elusive nature and inaccessible habitat make them one of Africa's least seen antelopes.",
+      "highlights": [
+        "Africa's most aquatic antelope - perfectly adapted to swamps",
+        "Long splayed hooves prevent sinking in mud",
+        "Can swim and submerge completely to escape predators",
+        "Water-resistant coat repels moisture",
+        "Shy and elusive - rarely seen due to inaccessible habitat",
+        "Males have distinctive spiral horns"
+      ],
+      "conservation": "Listed as Least Concern overall, though populations are declining in some regions. Sitatungas face threats from habitat loss due to wetland drainage and conversion to agriculture, hunting for bushmeat, and human encroachment. Their specialized swamp habitat makes them vulnerable to environmental changes. In some areas, they are significant crop pests in rice paddies. Conservation efforts focus on protecting wetland ecosystems and sustainable hunting management. They are important indicators of wetland health.",
+      "relatedAnimals": [
+        "bongo-antelope",
+        "bushbuck",
+        "nyala"
+      ]
+    },
+    {
+      "slug": "giant-pangolin",
+      "name": "Giant Pangolin",
+      "scientificName": "Smutsia gigantea",
+      "continent": "Africa",
+      "subregion": "Central Africa",
+      "status": "Endangered",
+      "emoji": "🦔",
+      "stats": {
+        "habitat": "Tropical forests, savannas",
+        "diet": "Insectivore - ants and termites",
+        "lifespan": "20 years",
+        "weight": "30-35 kg"
+      },
+      "media": {
+        "heroImage": "/images/giant-pangolin.jpg",
+        "image2": "/images/giant-pangolin-2.jpg",
+        "video": "/videos/giant-pangolin.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Giant Pangolin in Central African forest, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Giant Pangolin climbing tree in Central Africa, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Giant Pangolin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The giant pangolin (Smutsia gigantea) is the largest of all eight pangolin species, a magnificent armored mammal that can reach lengths of over 1.4 meters and weigh up to 35 kg. These impressive creatures are found in the forests and savannas of Central and West Africa, where they are both terrestrial and arboreal, capable of climbing trees despite their massive size. Like all pangolins, giants are covered in overlapping scales made of keratin - the same material as human fingernails - that provide protection from predators. When threatened, they roll into an impenetrable ball that even lions cannot penetrate. A single giant pangolin can consume up to 70 million ants and termites annually using its extraordinarily long, sticky tongue that can extend up to 40 cm. Their massive claws allow them to tear open termite mounds and ant nests with ease. Despite their armor, they are gentle creatures that cannot defend themselves against human poachers.",
+      "highlights": [
+        "Largest pangolin species - can reach 1.4 meters and 35 kg",
+        "Both terrestrial and arboreal - can climb trees despite size",
+        "Can consume 70 million ants/termites annually",
+        "Tongue can extend up to 40 cm into insect nests",
+        "Massive claws tear open termite mounds with ease",
+        "Rolls into impenetrable ball when threatened"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with catastrophic population declines. Giant pangolins face severe threats from illegal wildlife trafficking - their scales are highly valued in traditional Asian medicine despite no proven medicinal properties. Habitat loss from deforestation, hunting for bushmeat, and electrocution on electric fences also pose significant threats. Their slow reproductive rate makes recovery extremely difficult. International trade is prohibited under CITES Appendix I. Conservation efforts focus on anti-poaching patrols, reducing demand for pangolin products, and protecting forest habitat.",
+      "relatedAnimals": [
+        "temmincks-ground-pangolin",
+        "white-bellied-pangolin",
+        "white-bellied-pangolin"
+      ]
     }
   ]
 }
