@@ -4,7 +4,7 @@
       "slug": "africa",
       "name": "Africa",
       "order": 1,
-      "emoji": "\ud83e\udd81",
+      "emoji": "🦁",
       "description": "The cradle of wildlife, home to the planet's most iconic megafauna",
       "subregions": [
         {
@@ -46,7 +46,7 @@
       "slug": "asia",
       "name": "Asia",
       "order": 2,
-      "emoji": "\ud83d\udc05",
+      "emoji": "🐅",
       "description": "From the Himalayas to tropical rainforests, home to tigers, pandas, and ancient megafauna",
       "subregions": [
         {
@@ -84,7 +84,7 @@
       "slug": "north-america",
       "name": "North America",
       "order": 3,
-      "emoji": "\ud83e\udd85",
+      "emoji": "🦅",
       "description": "From Arctic tundra to desert Southwest, a land of bears, wolves, and iconic birds",
       "subregions": [
         {
@@ -108,7 +108,7 @@
       "slug": "south-america",
       "name": "South America",
       "order": 4,
-      "emoji": "\ud83e\udd9c",
+      "emoji": "🦜",
       "description": "The Amazon rainforest and Andes mountains harbor unparalleled biodiversity",
       "subregions": [
         {
@@ -140,7 +140,7 @@
       "slug": "europe",
       "name": "Europe",
       "order": 5,
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "description": "Ancient forests and mountain ranges where wildlife is slowly returning",
       "subregions": [
         {
@@ -169,7 +169,7 @@
       "slug": "australia",
       "name": "Australia",
       "order": 6,
-      "emoji": "\ud83e\udd98",
+      "emoji": "🦘",
       "description": "An island continent where marsupials rule and unique wildlife evolved in isolation",
       "subregions": [
         {
@@ -198,7 +198,7 @@
       "slug": "antarctica",
       "name": "Antarctica",
       "order": 7,
-      "emoji": "\ud83d\udc27",
+      "emoji": "🐧",
       "description": "The frozen continent, home to extreme survivors and abundant marine life",
       "subregions": [
         {
@@ -227,7 +227,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "\ud83d\udc18",
+      "emoji": "🐘",
       "stats": {
         "habitat": "Savannah, Forests, Grasslands",
         "diet": "Herbivore",
@@ -244,7 +244,7 @@
         "image2": "photorealistic wildlife photography, massive African elephant bull crossing Chobe River Botswana, dramatic golden hour backlighting, water splashing, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, river and wetland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, African elephant herd walking across savanna at sunset, dust clouds rising, golden hour lighting, slow motion, 4K, dramatic music, National Geographic documentary style"
       },
-      "description": "The African elephant (Loxodonta africana) stands as the largest land animal on Earth, commanding the savannas and forests of sub-Saharan Africa with grace and power. These magnificent creatures, weighing between 4,000-7,000 kg and living 60-70 years, play a crucial role as ecosystem engineers\u2014shaping their environment in ways that benefit countless other species. Their intelligence, emotional depth, and complex social structures make them one of the most fascinating animals on our planet.",
+      "description": "The African elephant (Loxodonta africana) stands as the largest land animal on Earth, commanding the savannas and forests of sub-Saharan Africa with grace and power. These magnificent creatures, weighing between 4,000-7,000 kg and living 60-70 years, play a crucial role as ecosystem engineers—shaping their environment in ways that benefit countless other species. Their intelligence, emotional depth, and complex social structures make them one of the most fascinating animals on our planet.",
       "highlights": [
         "Largest land animal on Earth, weighing up to 7,000 kg",
         "Matriarchal family groups led by oldest female",
@@ -291,7 +291,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd81",
+      "emoji": "🦁",
       "stats": {
         "habitat": "Savannah, Grasslands, Open Woodlands",
         "diet": "Carnivore",
@@ -331,7 +331,7 @@
           "lion conservation",
           "savannah predator"
         ],
-        "habitatDetails": "Lions inhabit the savannas, grasslands, and open woodlands of sub-Saharan Africa, with the strongest populations found in East Africa and Southern Africa. They require large territories with sufficient prey density\u2014typically 8-100 square kilometers depending on prey availability. Key strongholds include the Serengeti-Mara ecosystem, Kruger National Park, and the Okavango Delta. Lions avoid dense rainforest and desert interiors but thrive in edge habitats where woodland meets open plains.",
+        "habitatDetails": "Lions inhabit the savannas, grasslands, and open woodlands of sub-Saharan Africa, with the strongest populations found in East Africa and Southern Africa. They require large territories with sufficient prey density—typically 8-100 square kilometers depending on prey availability. Key strongholds include the Serengeti-Mara ecosystem, Kruger National Park, and the Okavango Delta. Lions avoid dense rainforest and desert interiors but thrive in edge habitats where woodland meets open plains.",
         "behaviorDetails": "Lions are unique among cats for their social structure. Prides typically consist of 2-3 related adult males, 5-10 related females, and their cubs. Females remain in their birth pride for life, while males leave at 2-3 years to form coalitions and eventually take over new prides. Cooperative hunting allows lions to bring down large prey like buffalo and giraffe. Complex social bonds include communal nursing, synchronized estrus, and group territorial defense marked by roaring and scent-marking.",
         "dietDetails": "As obligate carnivores, lions primarily hunt large ungulates including wildebeest, zebra, buffalo, and various antelope species. A single lion can consume up to 15 kg of meat in one feeding, though they average 5-7 kg daily. Females do most hunting, using cooperative strategies to surround and ambush prey. Lions also scavenge when opportunity arises, often stealing kills from hyenas and other predators. Their presence helps regulate prey populations and maintain ecosystem health.",
         "threats": [
@@ -355,7 +355,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "\ud83e\udd92",
+      "emoji": "🦒",
       "stats": {
         "habitat": "Savannahs, Open Woodlands",
         "diet": "Herbivore",
@@ -396,7 +396,7 @@
           "savanna herbivore"
         ],
         "habitatDetails": "Maasai giraffes inhabit the savannas, open woodlands, and grasslands of East Africa, primarily in Kenya and Tanzania. They favor areas with abundant acacia trees, their primary food source, and require large home ranges of 50-500 square kilometers depending on resource availability. Key populations exist in the Masai Mara-Serengeti ecosystem, Amboseli National Park, Tsavo Conservation Area, and Ruaha National Park. Their distribution closely follows the availability of acacia woodlands and open browsing areas.",
-        "behaviorDetails": "Maasai giraffes are primarily solitary or found in loose, open herds with fluid membership. Unlike many social ungulates, they do not form tight family groups. Males establish dominance through 'necking'\u2014swinging their necks at each other in ritualized combat. Females give birth standing up, resulting in a dramatic 2-meter drop for newborn calves. These calves can stand within 30 minutes and run within 10 hours. Giraffes communicate through infrasound below human hearing range and use body language extensively.",
+        "behaviorDetails": "Maasai giraffes are primarily solitary or found in loose, open herds with fluid membership. Unlike many social ungulates, they do not form tight family groups. Males establish dominance through 'necking'—swinging their necks at each other in ritualized combat. Females give birth standing up, resulting in a dramatic 2-meter drop for newborn calves. These calves can stand within 30 minutes and run within 10 hours. Giraffes communicate through infrasound below human hearing range and use body language extensively.",
         "dietDetails": "As specialized browsers, Maasai giraffes feed almost exclusively on acacia leaves, twigs, and bark, though they consume over 100 plant species. Their 50 cm prehensile tongue is specially adapted with thick, tough papillae to grasp and strip leaves from thorny branches. They can consume up to 34 kg of vegetation daily and obtain most of their moisture from food, allowing them to go days without drinking. Their height gives them access to food sources unavailable to other herbivores, reducing competition.",
         "threats": [
           "Habitat loss and fragmentation from agricultural expansion",
@@ -419,7 +419,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83e\udd93",
+      "emoji": "🦓",
       "stats": {
         "habitat": "Savannahs, Grasslands",
         "diet": "Herbivore",
@@ -460,7 +460,7 @@
           "zebra stripes"
         ],
         "habitatDetails": "Grant's zebras inhabit the savannas and grasslands of East Africa, with their range centered on the Serengeti-Mara ecosystem spanning Tanzania and Kenya. They prefer open plains and grasslands with access to water sources, avoiding dense woodland. Their habitat requirements overlap extensively with wildebeest, facilitating the mixed-species migrations. Key strongholds include Serengeti National Park, Ngorongoro Conservation Area, Masai Mara National Reserve, and Tsavo ecosystem. They have been extirpated from much of their historic range outside these protected areas.",
-        "behaviorDetails": "Grant's zebras are highly social animals living in stable family groups consisting of a single stallion, several mares, and their offspring. These harems maintain strong bonds and occupy exclusive home ranges. Bachelor males form loose associations until able to challenge established stallions. Zebras communicate through a complex repertoire of vocalizations, ear positions, and tail movements. Their famous stripes serve social purposes\u2014individuals recognize each other by pattern. They also form mutualistic relationships with wildebeest during migration, benefiting from the latter's superior ability to detect predators.",
+        "behaviorDetails": "Grant's zebras are highly social animals living in stable family groups consisting of a single stallion, several mares, and their offspring. These harems maintain strong bonds and occupy exclusive home ranges. Bachelor males form loose associations until able to challenge established stallions. Zebras communicate through a complex repertoire of vocalizations, ear positions, and tail movements. Their famous stripes serve social purposes—individuals recognize each other by pattern. They also form mutualistic relationships with wildebeest during migration, benefiting from the latter's superior ability to detect predators.",
         "dietDetails": "As grazers, Grant's zebras primarily feed on grasses, consuming up to 8 kg of vegetation daily. Their digestive system allows them to process coarse, low-quality grasses that many other herbivores cannot digest, reducing competition. During the wet season, they prefer fresh green grasses, while in the dry season they rely on tougher, more fibrous vegetation. They require daily access to water and typically drink at least once per day. Their grazing behavior helps maintain grassland ecosystems by preventing any single grass species from dominating.",
         "threats": [
           "Habitat loss and fragmentation from agriculture and settlement",
@@ -483,7 +483,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "Savannahs, Grasslands, Open Plains",
         "diet": "Carnivore",
@@ -548,7 +548,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd9b",
+      "emoji": "🦛",
       "stats": {
         "habitat": "Rivers, Lakes, Wetlands",
         "diet": "Herbivore",
@@ -612,7 +612,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Endangered",
-      "emoji": "\ud83d\udc15",
+      "emoji": "🐕",
       "stats": {
         "habitat": "Savannas, Grasslands",
         "diet": "Carnivore",
@@ -650,7 +650,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83e\udd8f",
+      "emoji": "🦏",
       "stats": {
         "habitat": "Grasslands, Savannas",
         "diet": "Herbivore",
@@ -667,7 +667,7 @@
         "image2": "photorealistic wildlife photography, white rhino grazing at sunset, dramatic golden hour lighting, Canon EOS R5, 400mm lens, National Geographic quality, conservation photography --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, white rhino mother and calf walking across savanna, protective behavior, golden hour, slow motion, 4K, peaceful music, National Geographic documentary style"
       },
-      "description": "The white rhinoceros (Ceratotherium simum) stands as the second largest land mammal on Earth, surpassed only by the African elephant. Despite their misleading name, white rhinos are not white at all\u2014they share the same gray coloration as their black rhino cousins. The name 'white' is actually a misinterpretation of the Afrikaans word 'wyd,' meaning 'wide,' referring to their characteristically broad, square-shaped mouths perfectly adapted for grazing. Native to the grasslands and savannas of southern Africa, these magnificent creatures can weigh up to 2,500 kg and live for 40-50 years. Unlike the more solitary black rhino, white rhinos are relatively social animals, often found in small groups. Their recovery from the brink of extinction represents one of conservation's greatest success stories, though they remain under constant threat from poaching.",
+      "description": "The white rhinoceros (Ceratotherium simum) stands as the second largest land mammal on Earth, surpassed only by the African elephant. Despite their misleading name, white rhinos are not white at all—they share the same gray coloration as their black rhino cousins. The name 'white' is actually a misinterpretation of the Afrikaans word 'wyd,' meaning 'wide,' referring to their characteristically broad, square-shaped mouths perfectly adapted for grazing. Native to the grasslands and savannas of southern Africa, these magnificent creatures can weigh up to 2,500 kg and live for 40-50 years. Unlike the more solitary black rhino, white rhinos are relatively social animals, often found in small groups. Their recovery from the brink of extinction represents one of conservation's greatest success stories, though they remain under constant threat from poaching.",
       "highlights": [
         "Second largest land mammal, weighing up to 2,500 kg",
         "Square-lipped mouth specialized for grazing grasses",
@@ -676,10 +676,10 @@
         "Recovered from fewer than 100 individuals to over 18,000 today",
         "Can run surprisingly fast at 40-50 km/h despite their size"
       ],
-      "conservation": "The southern white rhino represents one of conservation's most remarkable success stories. By the late 19th century, hunting had reduced their numbers to fewer than 100 individuals in a single South African population. Through intensive protection and translocation efforts, their population has grown to approximately 18,000 animals today. However, they remain Near Threatened on the IUCN Red List due to escalating poaching pressure\u2014over 1,000 rhinos are killed annually for their horns. The northern white rhino subspecies is functionally extinct, with only two females remaining (Najin and Fatu at Ol Pejeta Conservancy, Kenya). Scientists are attempting to use assisted reproduction and stem cell technology to save the subspecies.",
+      "conservation": "The southern white rhino represents one of conservation's most remarkable success stories. By the late 19th century, hunting had reduced their numbers to fewer than 100 individuals in a single South African population. Through intensive protection and translocation efforts, their population has grown to approximately 18,000 animals today. However, they remain Near Threatened on the IUCN Red List due to escalating poaching pressure—over 1,000 rhinos are killed annually for their horns. The northern white rhino subspecies is functionally extinct, with only two females remaining (Najin and Fatu at Ol Pejeta Conservancy, Kenya). Scientists are attempting to use assisted reproduction and stem cell technology to save the subspecies.",
       "habitatDetails": "White rhinos inhabit the grasslands and savannas of southern Africa, with the largest populations in South Africa, Namibia, Zimbabwe, and Kenya. They require extensive territories with access to water, wallowing holes, and abundant grazing. Unlike black rhinos that browse on bushes and trees, white rhinos are pure grazers, feeding almost exclusively on grasses. They spend their days grazing and resting, often seeking shade during the hottest hours.",
       "behavior": "White rhinos are the most social of all rhino species, with females often found in small groups called 'crashes' consisting of mothers and their offspring. Adult males are more solitary and territorial, marking their ranges with dung piles and spray-urine. They have relatively poor eyesight but excellent hearing and sense of smell. When threatened, they can charge at speeds up to 50 km/h. Despite their fearsome reputation, they are generally docile animals unless provoked or protecting calves.",
-      "dietDetails": "White rhinos are specialized grazers with wide, square-shaped mouths perfectly adapted for cropping grasses close to the ground. They consume vast quantities of grass daily\u2014up to 120 pounds (54 kg) per day. Their grazing behavior helps maintain grassland ecosystems, preventing areas from becoming overgrown and benefiting other herbivores. They drink daily when water is available and are most active during early morning and late afternoon.",
+      "dietDetails": "White rhinos are specialized grazers with wide, square-shaped mouths perfectly adapted for cropping grasses close to the ground. They consume vast quantities of grass daily—up to 120 pounds (54 kg) per day. Their grazing behavior helps maintain grassland ecosystems, preventing areas from becoming overgrown and benefiting other herbivores. They drink daily when water is available and are most active during early morning and late afternoon.",
       "threats": [
         "Poaching for horns - over 1,000 killed annually",
         "Habitat loss from agricultural expansion",
@@ -700,7 +700,7 @@
       "continent": "Asia",
       "subregion": "Indian Subcontinent",
       "status": "Endangered",
-      "emoji": "\ud83d\udc05",
+      "emoji": "🐅",
       "stats": {
         "habitat": "Tropical Forests, Mangroves",
         "diet": "Carnivore",
@@ -733,7 +733,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc3c",
+      "emoji": "🐼",
       "stats": {
         "habitat": "Temperate Bamboo Forests",
         "diet": "Herbivore (99% bamboo)",
@@ -766,7 +766,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udda7",
+      "emoji": "🦧",
       "stats": {
         "habitat": "Tropical Rainforests",
         "diet": "Omnivore (mostly fruit)",
@@ -799,7 +799,7 @@
       "continent": "North America",
       "subregion": "Western Mountains",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc3b",
+      "emoji": "🐻",
       "stats": {
         "habitat": "Mountains, Forests, Tundra",
         "diet": "Omnivore",
@@ -832,7 +832,7 @@
       "continent": "North America",
       "subregion": "Northern Forests",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd85",
+      "emoji": "🦅",
       "stats": {
         "habitat": "Coasts, Lakes, Rivers",
         "diet": "Carnivore (primarily fish)",
@@ -865,7 +865,7 @@
       "continent": "North America",
       "subregion": "Northern Forests",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc3a",
+      "emoji": "🐺",
       "stats": {
         "habitat": "Forests, Tundra, Mountains",
         "diet": "Carnivore",
@@ -898,7 +898,7 @@
       "continent": "North America",
       "subregion": "Arctic",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc3b\u200d\u2744\ufe0f",
+      "emoji": "🐻‍❄️",
       "stats": {
         "habitat": "Sea Ice, Arctic Coasts",
         "diet": "Carnivore (primarily seals)",
@@ -931,7 +931,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "Rainforests, Wetlands, Grasslands",
         "diet": "Carnivore",
@@ -964,12 +964,12 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "\ud83e\udd92",
+      "emoji": "🦒",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannas, open woodlands",
+        "diet": "Herbivore - acacia leaves, twigs, bark",
+        "lifespan": "25-30 years",
+        "weight": "800-1,900 kg"
       },
       "media": {
         "heroImage": "/images/maasai-giraffe.jpg",
@@ -981,9 +981,16 @@
         "image2": "photorealistic wildlife photography, Maasai Giraffe in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Maasai Giraffe in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Maasai giraffe (Giraffa camelopardalis tippelskirchi), also known as the Kilimanjaro giraffe, is the largest subspecies of giraffe and one of the most iconic animals of East Africa. Found primarily in Kenya and Tanzania, these magnificent creatures are distinguished by their irregular, jagged, star-like patches that range in color from dark chocolate to nearly black, separated by cream-colored lines. The Maasai giraffe's unique coat pattern is like a fingerprint - no two individuals have identical markings. These gentle giants can reach heights of up to 5.5 meters, making them the tallest land animals on Earth. Despite their towering stature, Maasai giraffes are peaceful herbivores that spend up to 20 hours a day feeding on acacia leaves, using their 45cm prehensile tongues to navigate around thorns. Their distinctive appearance and graceful presence make them a symbol of African wildlife.",
+      "highlights": [
+        "Largest giraffe subspecies - males can reach 5.5 meters tall",
+        "Unique jagged, star-like coat pattern - like a fingerprint for each individual",
+        "45cm prehensile tongue navigates acacia thorns with precision",
+        "Can survive on just 30 minutes of sleep per day",
+        "Hearts weigh up to 11kg to pump blood to their brains",
+        "Only need to drink every few days - get most water from leaves"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with approximately 35,000 individuals remaining. Maasai giraffes have declined by over 50% in the past 30 years due to habitat loss, poaching for their hides and meat, and human-wildlife conflict. Their range has been severely fragmented by agricultural expansion. Conservation efforts focus on anti-poaching patrols, community-based conservation programs, and protecting critical habitat corridors in Kenya and Tanzania."
     },
     {
       "slug": "grants-zebra",
@@ -992,12 +999,12 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83e\udd93",
+      "emoji": "🦓",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Grasslands, savannas, open woodlands",
+        "diet": "Herbivore - grasses, leaves, bark",
+        "lifespan": "20-30 years",
+        "weight": "175-450 kg"
       },
       "media": {
         "heroImage": "/images/grants-zebra.jpg",
@@ -1009,9 +1016,16 @@
         "image2": "photorealistic wildlife photography, Grant's Zebra in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Grant's Zebra in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "Grant's zebra (Equus quagga boehmi) is the smallest of the six zebra subspecies and one of the most widespread and recognizable animals of East Africa. Named after British explorer James Augustus Grant, these striking equids are distinguished by their bold, wide black and white stripes that extend unbroken across their bellies - a feature that distinguishes them from other zebra species. Each Grant's zebra has a unique stripe pattern, much like human fingerprints. These highly social animals live in family groups led by a dominant stallion and are famous for their annual migrations across the Serengeti-Mara ecosystem, where hundreds of thousands move together in one of nature's greatest spectacles. Their stripes serve multiple purposes: confusing predators during group flight, regulating body temperature, and deterring biting flies.",
+      "highlights": [
+        "Smallest zebra subspecies - more numerous than other zebra species",
+        "Stripes extend across belly - unlike mountain zebras",
+        "Each individual has unique stripe pattern like fingerprints",
+        "Participate in massive annual migrations across Serengeti",
+        "Can run up to 65 km/h to escape predators",
+        "Live in complex social groups with strong family bonds"
+      ],
+      "conservation": "Listed as Near Threatened by the IUCN. Grant's zebra populations have declined significantly due to habitat loss, hunting for their skins, and competition with livestock. While still relatively abundant compared to other zebra species, their numbers are decreasing. The Serengeti-Mara ecosystem supports the largest remaining populations. Conservation efforts focus on protecting migration corridors, reducing poaching, and managing human-wildlife conflict in agricultural areas."
     },
     {
       "slug": "nile-crocodile",
@@ -1020,7 +1034,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc0a",
+      "emoji": "🐊",
       "stats": {
         "habitat": "Rivers, Lakes, Wetlands",
         "diet": "Carnivore",
@@ -1062,7 +1076,7 @@
         ],
         "habitatDetails": "Nile crocodiles inhabit virtually every major river, lake, and wetland across sub-Saharan Africa. In East Africa, they are found in the Mara River, Lake Victoria, Lake Tanganyika, and numerous smaller water bodies. They prefer slow-moving or still freshwater but can tolerate brackish conditions and have been found in coastal estuaries. These reptiles require basking sites for thermoregulation and nesting sites with suitable soil for digging holes. Their distribution closely follows permanent water sources, making them particularly abundant in the Serengeti-Mara ecosystem where the annual wildebeest migration provides seasonal feeding opportunities.",
         "behaviorDetails": "Nile crocodiles are primarily ambush predators, spending much of their day motionless in water or basking on shorelines with mouths agape to regulate body temperature. They are surprisingly social, establishing dominance hierarchies at basking sites and feeding locations. During the dry season, they excavate deep burrows in riverbanks for shelter. Females display remarkable parental care for reptiles, guarding nests for approximately 90 days, assisting hatchlings to emerge, and transporting them to water in their mouths. They communicate through various vocalizations, including infrasound below human hearing range.",
-        "dietDetails": "As apex predators, Nile crocodiles consume virtually any animal they can overpower, from fish and birds to large mammals including zebra, wildebeest, buffalo, and even young hippos. Their hunting strategy relies on patience and explosive power, launching surprise attacks from water with incredible speed. The famous 'death roll'\u2014rapid spinning while gripping prey\u2014tears manageable pieces from large animals. During the Serengeti wildebeest migration, crocodiles gorge on crossing animals, sometimes taking multiple kills in a single day. They can survive extended periods between large meals due to their efficient metabolism and ability to store energy.",
+        "dietDetails": "As apex predators, Nile crocodiles consume virtually any animal they can overpower, from fish and birds to large mammals including zebra, wildebeest, buffalo, and even young hippos. Their hunting strategy relies on patience and explosive power, launching surprise attacks from water with incredible speed. The famous 'death roll'—rapid spinning while gripping prey—tears manageable pieces from large animals. During the Serengeti wildebeest migration, crocodiles gorge on crossing animals, sometimes taking multiple kills in a single day. They can survive extended periods between large meals due to their efficient metabolism and ability to store energy.",
         "threats": [
           "Human-wildlife conflict and retaliatory killings",
           "Illegal hunting for skins and meat in some regions",
@@ -1084,7 +1098,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc03",
+      "emoji": "🐃",
       "stats": {
         "habitat": "Savannahs, Grasslands, Floodplains",
         "diet": "Herbivore",
@@ -1125,7 +1139,7 @@
           "dangerous animals"
         ],
         "habitatDetails": "African buffalo inhabit savannas, grasslands, and floodplains across sub-Saharan Africa, requiring access to permanent water sources and grazing areas. In East Africa, they are found in diverse habitats from the Serengeti plains to montane forests. They prefer areas with dense cover for refuge during the day, emerging to graze in open areas during cooler hours. Their range extends from sea level to 4,000 meters elevation. Unlike many African herbivores, buffalo do not migrate seasonally, instead establishing home ranges around reliable water sources. Habitat loss and fragmentation pose significant threats to their long-term survival.",
-        "behaviorDetails": "African buffalo display complex social structures, forming large herds of females, calves, and subadults led by dominant females. Mature males typically form bachelor groups or live solitarily. These herds demonstrate remarkable cooperative defense, forming protective circles around calves when threatened and actively charging predators to rescue herd members. Buffalo are known for their intelligence and memory\u2014wounded individuals have been documented ambushing hunters hours or days after being shot. They communicate through various vocalizations and maintain strict dominance hierarchies established through pushing contests using their massive horns.",
+        "behaviorDetails": "African buffalo display complex social structures, forming large herds of females, calves, and subadults led by dominant females. Mature males typically form bachelor groups or live solitarily. These herds demonstrate remarkable cooperative defense, forming protective circles around calves when threatened and actively charging predators to rescue herd members. Buffalo are known for their intelligence and memory—wounded individuals have been documented ambushing hunters hours or days after being shot. They communicate through various vocalizations and maintain strict dominance hierarchies established through pushing contests using their massive horns.",
         "dietDetails": "As grazers, African buffalo consume primarily grasses, though they will browse on shrubs and herbs when grass is scarce. An adult buffalo consumes approximately 15-20 kg of vegetation daily. Their broad, muscular muzzle and row-cropping teeth are specially adapted for grazing coarse, tough grasses that other herbivores avoid. They typically feed during early morning and late afternoon, resting in shade during the heat of the day. Their grazing behavior significantly impacts grassland ecosystems, helping maintain open areas and creating grazing lawns that benefit other herbivores.",
         "threats": [
           "Habitat loss and fragmentation from agriculture",
@@ -1148,7 +1162,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
         "habitat": "Savannahs, Grasslands, Open Plains",
         "diet": "Herbivore",
@@ -1165,7 +1179,7 @@
         "image2": "photorealistic wildlife photography, Thomson's gazelle pronking (stotting) display jump, all four legs off ground, dramatic action freeze, Serengeti Tanzania, Canon EOS-1D X Mark III, 400mm lens, National Geographic quality, dust and golden light, conservation photography --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Thomson's gazelle herd grazing on Serengeti plains, fawns playing, golden hour lighting, slow motion, 4K, peaceful music, National Geographic documentary style"
       },
-      "description": "Thomson's gazelle (Eudorcas thomsonii), affectionately known as 'Tommies,' represents one of East Africa's most abundant and iconic antelopes. These elegant, petite grazers, weighing just 15-35 kg, are instantly recognizable by the distinctive black stripe running along their flank and their habit of pronking\u2014an energetic jumping display when threatened. As the preferred prey of cheetahs and a key participant in the Serengeti-Mara migration, they embody the delicate balance between predator and prey that defines African savanna ecosystems. Their remarkable speed and agility, combined with keen senses, have made them one of the most successful small antelope species in East Africa.",
+      "description": "Thomson's gazelle (Eudorcas thomsonii), affectionately known as 'Tommies,' represents one of East Africa's most abundant and iconic antelopes. These elegant, petite grazers, weighing just 15-35 kg, are instantly recognizable by the distinctive black stripe running along their flank and their habit of pronking—an energetic jumping display when threatened. As the preferred prey of cheetahs and a key participant in the Serengeti-Mara migration, they embody the delicate balance between predator and prey that defines African savanna ecosystems. Their remarkable speed and agility, combined with keen senses, have made them one of the most successful small antelope species in East Africa.",
       "highlights": [
         "Most abundant gazelle in East Africa with over 500,000 individuals",
         "Distinctive black side stripe distinguishes them from Grant's gazelle",
@@ -1189,7 +1203,7 @@
           "cheetah prey"
         ],
         "habitatDetails": "Thomson's gazelles inhabit the open savannas, grasslands, and plains of East Africa, showing strong preference for short-grass habitats. Their range centers on the Serengeti-Mara ecosystem spanning Tanzania and Kenya, with additional populations in central and southern Kenya. They avoid dense woodland and forest, requiring open areas where they can spot predators and utilize their speed. During the wet season, they follow grazing lawns maintained by larger herbivores, while in the dry season they concentrate near permanent water sources. Their habitat requirements overlap extensively with cheetah hunting grounds.",
-        "behaviorDetails": "Thomson's gazelles form mixed herds of females, young, and bachelor males, typically numbering 10-100 individuals though aggregations of thousands occur during migration. Adult males establish territories marked by dung middens and engage in ritualized horn clashes to defend breeding rights. Their famous 'pronking' behavior\u2014jumping vertically with stiff legs\u2014serves multiple purposes: signaling fitness to predators, communicating alarm to other gazelles, and displaying vigor during courtship. They are most active during early morning and late afternoon, resting during the heat of the day. Their vigilance and speed make them challenging prey despite their small size.",
+        "behaviorDetails": "Thomson's gazelles form mixed herds of females, young, and bachelor males, typically numbering 10-100 individuals though aggregations of thousands occur during migration. Adult males establish territories marked by dung middens and engage in ritualized horn clashes to defend breeding rights. Their famous 'pronking' behavior—jumping vertically with stiff legs—serves multiple purposes: signaling fitness to predators, communicating alarm to other gazelles, and displaying vigor during courtship. They are most active during early morning and late afternoon, resting during the heat of the day. Their vigilance and speed make them challenging prey despite their small size.",
         "dietDetails": "As selective grazers, Thomson's gazelles feed primarily on fresh, green grasses and herbs, requiring high-quality forage due to their small body size. Unlike larger herbivores, they cannot digest coarse, dry grasses effectively and must maintain access to nutritious vegetation. They typically feed in areas recently grazed by wildebeest and zebras, taking advantage of nutritious grass regrowth. They require regular access to water and typically drink daily when possible. Their feeding ecology makes them dependent on productive grasslands and vulnerable to drought conditions.",
         "threats": [
           "Habitat loss from agricultural expansion",
@@ -1212,7 +1226,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc35",
+      "emoji": "🐵",
       "stats": {
         "habitat": "Savannahs, Forests, Mountains",
         "diet": "Omnivore",
@@ -1276,7 +1290,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "\ud83e\udd93",
+      "emoji": "🦓",
       "stats": {
         "habitat": "Savannas, Grasslands, Semi-arid Bushlands",
         "diet": "Herbivore",
@@ -1293,7 +1307,7 @@
         "image2": "photorealistic wildlife photography, Grevy's Zebra in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Grevy's Zebra in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The Grevy's zebra (Equus grevyi) stands as the largest and most endangered of all wild equids, representing a unique evolutionary lineage that diverged from other zebras over a million years ago. Named after French President Jules Gr\u00e9vy, who received one as a diplomatic gift from Menelik II of Ethiopia in 1882, these magnificent animals are immediately distinguishable from their plains zebra cousins by their larger size, narrower and more numerous stripes, large rounded ears resembling a mule's, and striking white underbellies. Once abundant across the Horn of Africa, Grevy's zebras have suffered catastrophic population declines and now cling to survival in the arid grasslands and savannas of northern Kenya and southern Ethiopia. Their specialized adaptations to semi-arid environments, including efficient water conservation and the ability to survive five days without drinking, make them uniquely suited to their harsh homeland but also vulnerable to habitat degradation and competition with pastoral livestock.",
+      "description": "The Grevy's zebra (Equus grevyi) stands as the largest and most endangered of all wild equids, representing a unique evolutionary lineage that diverged from other zebras over a million years ago. Named after French President Jules Grévy, who received one as a diplomatic gift from Menelik II of Ethiopia in 1882, these magnificent animals are immediately distinguishable from their plains zebra cousins by their larger size, narrower and more numerous stripes, large rounded ears resembling a mule's, and striking white underbellies. Once abundant across the Horn of Africa, Grevy's zebras have suffered catastrophic population declines and now cling to survival in the arid grasslands and savannas of northern Kenya and southern Ethiopia. Their specialized adaptations to semi-arid environments, including efficient water conservation and the ability to survive five days without drinking, make them uniquely suited to their harsh homeland but also vulnerable to habitat degradation and competition with pastoral livestock.",
       "highlights": [
         "Largest wild equid species, significantly bigger than plains zebras",
         "Narrow, closely spaced stripes with pure white underbelly",
@@ -1327,7 +1341,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd8e",
+      "emoji": "🦎",
       "stats": {
         "habitat": "Rivers, Lakes, Wetlands, Savannas",
         "diet": "Carnivore",
@@ -1377,7 +1391,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "\ud83e\udd92",
+      "emoji": "🦒",
       "stats": {
         "habitat": "Savannas, Open Woodlands",
         "diet": "Herbivore",
@@ -1394,7 +1408,7 @@
         "image2": "photorealistic wildlife photography, Reticulated Giraffe in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Reticulated Giraffe in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The reticulated giraffe (Giraffa reticulata), also known as the Somali giraffe, is one of the most visually striking mammals on Earth, distinguished by its complex coat pattern of rich chestnut-brown patches separated by a network of bright white lines that create a stunning polygonal, net-like appearance\u2014hence the name 'reticulated.' Native to the Horn of Africa, particularly northern Kenya, southern Ethiopia, and Somalia, these magnificent animals represent one of four distinct giraffe species recently recognized by scientists. Slightly smaller than their Masai giraffe cousins, reticulated giraffes nonetheless reach impressive heights of up to 5.2 meters (17 feet) for males. Their populations have declined by over 50% in the past three decades, making them one of the most endangered giraffe species and a conservation priority.",
+      "description": "The reticulated giraffe (Giraffa reticulata), also known as the Somali giraffe, is one of the most visually striking mammals on Earth, distinguished by its complex coat pattern of rich chestnut-brown patches separated by a network of bright white lines that create a stunning polygonal, net-like appearance—hence the name 'reticulated.' Native to the Horn of Africa, particularly northern Kenya, southern Ethiopia, and Somalia, these magnificent animals represent one of four distinct giraffe species recently recognized by scientists. Slightly smaller than their Masai giraffe cousins, reticulated giraffes nonetheless reach impressive heights of up to 5.2 meters (17 feet) for males. Their populations have declined by over 50% in the past three decades, making them one of the most endangered giraffe species and a conservation priority.",
       "highlights": [
         "Most distinctive coat pattern of all giraffe species",
         "Polygonal liver-colored patches separated by bright white lines",
@@ -1403,9 +1417,9 @@
         "One of four distinct giraffe species",
         "Long prehensile tongue (up to 45 cm) for grasping leaves"
       ],
-      "conservation": "The reticulated giraffe is currently listed as Endangered on the IUCN Red List, with fewer than 16,000 individuals remaining in the wild\u2014a shocking decline from approximately 36,000 just three decades ago. This represents an 80% population decrease since the 1990s. Primary threats include habitat loss and fragmentation from agricultural expansion, poaching for meat, hides, and tails (used as fly whisks and status symbols), and civil unrest in their range. Conservation efforts led by the Giraffe Conservation Foundation and local partners focus on anti-poaching patrols, community education, and translocating animals to establish new populations in secure areas.",
+      "conservation": "The reticulated giraffe is currently listed as Endangered on the IUCN Red List, with fewer than 16,000 individuals remaining in the wild—a shocking decline from approximately 36,000 just three decades ago. This represents an 80% population decrease since the 1990s. Primary threats include habitat loss and fragmentation from agricultural expansion, poaching for meat, hides, and tails (used as fly whisks and status symbols), and civil unrest in their range. Conservation efforts led by the Giraffe Conservation Foundation and local partners focus on anti-poaching patrols, community education, and translocating animals to establish new populations in secure areas.",
       "habitatDetails": "Reticulated giraffes inhabit the arid savannas and open woodlands of the Horn of Africa, with their core range in northern Kenya's Samburu, Buffalo Springs, and Lewa Wildlife Conservancy areas, extending into southern Ethiopia and Somalia. They prefer areas with abundant acacia trees, their primary food source, and require access to water, though they can go several days without drinking. Their habitat is characterized by hot, dry conditions with seasonal rainfall patterns.",
-      "behavior": "Reticulated giraffes are social animals that live in loose, open groups without rigid social hierarchies. Unlike many ungulates, their group composition changes frequently, with individuals freely associating and disassociating. Males establish dominance through 'necking'\u2014swinging their powerful necks at each other in combat that can be surprisingly violent. They are primarily active during early morning and late afternoon, spending the hottest hours resting in shade. Their excellent eyesight allows them to spot predators from great distances across the open savanna.",
+      "behavior": "Reticulated giraffes are social animals that live in loose, open groups without rigid social hierarchies. Unlike many ungulates, their group composition changes frequently, with individuals freely associating and disassociating. Males establish dominance through 'necking'—swinging their powerful necks at each other in combat that can be surprisingly violent. They are primarily active during early morning and late afternoon, spending the hottest hours resting in shade. Their excellent eyesight allows them to spot predators from great distances across the open savanna.",
       "dietDetails": "Reticulated giraffes are browsers that feed almost exclusively on acacia leaves, flowers, and fruits. Their 45-centimeter (18-inch) prehensile tongues are specially adapted to grasp branches and strip leaves while avoiding acacia thorns. They consume approximately 34 kg (75 pounds) of vegetation daily. Their height allows them to access food sources unavailable to other herbivores, reducing competition. They obtain most of their water from the vegetation they eat and only need to drink every few days, which is advantageous in their arid habitat.",
       "threats": [
         "Habitat loss from agricultural expansion",
@@ -1428,7 +1442,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "\ud83e\udd9c",
+      "emoji": "🦜",
       "stats": {
         "habitat": "Rainforests, Savanna Woodlands, Mangroves",
         "diet": "Herbivore (seeds, nuts, fruit)",
@@ -1455,7 +1469,7 @@
         "Up to 21% of wild population captured annually for pet trade"
       ],
       "conservation": "The African grey parrot is listed as Endangered on the IUCN Red List, with populations declining catastrophically across their range. Between 1982 and 2014, over 1.3 million wild African greys were legally exported, with countless more captured illegally. Ghana has lost 90-99% of its wild population. Primary threats include the illegal pet trade (the largest threat), habitat loss from deforestation, and local hunting for bushmeat and traditional medicine. In 2016, CITES Appendix I listing banned international commercial trade, but illegal trafficking continues. Conservation efforts focus on anti-trafficking enforcement, habitat protection, and community education.",
-      "habitatDetails": "African grey parrots inhabit the dense rainforests, forest edges, savanna woodlands, and mangrove forests of West and Central Africa, ranging from C\u00f4te d'Ivoire east to Kenya and Tanzania. They are most abundant in primary rainforest canopy but adapt to secondary growth and cultivated areas. They require large, intact forest areas with tall trees for nesting and roosting. Their range includes countries like Ghana, Cameroon, Democratic Republic of Congo, and Uganda, though populations are disappearing rapidly in many areas.",
+      "habitatDetails": "African grey parrots inhabit the dense rainforests, forest edges, savanna woodlands, and mangrove forests of West and Central Africa, ranging from Côte d'Ivoire east to Kenya and Tanzania. They are most abundant in primary rainforest canopy but adapt to secondary growth and cultivated areas. They require large, intact forest areas with tall trees for nesting and roosting. Their range includes countries like Ghana, Cameroon, Democratic Republic of Congo, and Uganda, though populations are disappearing rapidly in many areas.",
       "behavior": "African grey parrots are highly social birds that live in large, noisy flocks of up to 10,000 individuals at roosting sites, breaking into smaller groups during the day to forage. They are cautious and secretive in the wild, making them challenging to study. Their famous vocal abilities serve multiple purposes in nature, including maintaining flock cohesion, identifying individuals, and warning of predators. They form strong pair bonds and engage in elaborate mutual preening. In captivity, they require extensive mental stimulation and social interaction to prevent psychological distress.",
       "dietDetails": "In the wild, African grey parrots are primarily frugivorous, feeding on a diverse diet of fruits, nuts, seeds, berries, and blossoms. They are particularly fond of oil palm fruits and have been observed eating clay from riverbanks, possibly to neutralize toxins in their diet or supplement minerals. Their strong, curved beaks are perfectly adapted for cracking hard nuts and seeds. They sometimes raid agricultural crops, particularly maize and millet, which brings them into conflict with farmers.",
       "threats": [
@@ -1478,7 +1492,7 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "Grasslands, Wetlands, Savannas",
         "diet": "Carnivore",
@@ -1529,12 +1543,12 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc1c",
+      "emoji": "🐜",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannas, grasslands, woodlands",
+        "diet": "Insectivore - ants and termites",
+        "lifespan": "18-23 years",
+        "weight": "60-80 kg"
       },
       "media": {
         "heroImage": "/images/aardvark.jpg",
@@ -1546,9 +1560,16 @@
         "image2": "photorealistic wildlife photography, Aardvark in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Aardvark in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The aardvark (Orycteropus afer) is one of Africa's most peculiar and fascinating creatures, a true evolutionary oddity that occupies its own unique order, Tubulidentata. Despite its name meaning 'earth pig' in Afrikaans, this nocturnal mammal is not related to pigs at all. With its long snout, rabbit-like ears, and powerful digging claws, the aardvark is perfectly adapted for its specialized diet of ants and termites. Using its sticky, foot-long tongue, an aardvark can consume up to 50,000 insects in a single night. These solitary animals are master excavators, creating extensive burrow systems that provide shelter for countless other species when abandoned. Their exceptional sense of smell allows them to locate termite mounds from miles away, making them one of nature's most efficient pest controllers.",
+      "highlights": [
+        "Can eat up to 50,000 termites in a single night using its 30cm sticky tongue",
+        "Occupies its own unique taxonomic order - Tubulidentata",
+        "Exceptional digger - can burrow 2 feet in 15 seconds to escape predators",
+        "Creates burrow systems used by over 20 other animal species",
+        "Excellent swimmer despite its terrestrial lifestyle",
+        "Has more teeth than any other African mammal - up to 20 cylindrical teeth"
+      ],
+      "conservation": "Listed as Least Concern by the IUCN, though populations are declining in some regions due to habitat loss and hunting. Aardvarks face threats from agricultural expansion, which reduces their termite food sources, and from being hunted for bushmeat in some areas. Their slow reproductive rate makes them vulnerable to population declines. Conservation efforts focus on habitat preservation and reducing human-wildlife conflict in agricultural areas."
     },
     {
       "slug": "spotted-hyena",
@@ -1557,12 +1578,12 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc3a",
+      "emoji": "🐺",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannas, grasslands, open woodlands",
+        "diet": "Carnivore - hunts and scavenges",
+        "lifespan": "12-25 years",
+        "weight": "40-82 kg"
       },
       "media": {
         "heroImage": "/images/spotted-hyena.jpg",
@@ -1574,9 +1595,16 @@
         "image2": "photorealistic wildlife photography, Spotted Hyena in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Spotted Hyena in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The spotted hyena (Crocuta crocuta) is Africa's most successful large predator, despite suffering from centuries of misconception and negative stereotypes. These highly intelligent social carnivores live in complex matriarchal clans that can number up to 80 individuals, dominated by females who are significantly larger and more aggressive than males. With the most powerful bite force relative to body size of any mammal, spotted hyenas can crush elephant bones to access nutrient-rich marrow. Contrary to their scavenger reputation, they actually kill 95% of their food through cooperative hunting. Their distinctive 'laugh' vocalizations serve as complex communication signals within the clan, conveying individual identity, excitement levels, and social status.",
+      "highlights": [
+        "Most powerful mammalian bite force - can crush elephant femur bones",
+        "Live in complex matriarchal societies led by dominant females",
+        "Hunt cooperatively with 60-90% success rate - higher than lions",
+        "Exceptional problem-solving intelligence comparable to primates",
+        "Distinctive 'laugh' vocalizations convey complex social information",
+        "Females are 10% larger than males and dominate all social interactions"
+      ],
+      "conservation": "Listed as Least Concern overall, but populations are declining outside protected areas. Spotted hyenas face persecution from humans who view them as pests or competitors for livestock. Habitat loss and fragmentation pose significant threats. They are often killed in retaliation for livestock predation, despite rarely attacking domestic animals. Conservation efforts focus on education to change negative perceptions and implementing livestock protection programs that reduce human-wildlife conflict."
     },
     {
       "slug": "secretary-bird",
@@ -1585,12 +1613,12 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Endangered",
-      "emoji": "\ud83e\udd85",
+      "emoji": "🦅",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Open grasslands, savannas",
+        "diet": "Carnivore - snakes, rodents, insects",
+        "lifespan": "10-15 years",
+        "weight": "2.3-4.3 kg"
       },
       "media": {
         "heroImage": "/images/secretary-bird.jpg",
@@ -1602,9 +1630,16 @@
         "image2": "photorealistic wildlife photography, Secretary Bird in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Secretary Bird in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The secretary bird (Sagittarius serpentarius) is one of Africa's most distinctive and elegant raptors, instantly recognizable by its long legs, dramatic black crest feathers, and exceptional height of up to 1.3 meters. Unlike most birds of prey, this terrestrial hunter spends up to 90% of its day on foot, striding gracefully through grasslands on legs that appear almost stilt-like. Their name derives from the Arabic 'saqr-et-tair' (hunter bird) or possibly from the 19th-century secretaries who wore quill pens behind their ears. These remarkable birds are specialist snake hunters, using their powerful legs to stomp on prey with forces up to five times their body weight. A single secretary bird can cover up to 30 kilometers daily in search of prey, making them one of Africa's most efficient ground predators.",
+      "highlights": [
+        "Can deliver stomping kicks with force 5x their body weight to kill prey",
+        "Specialist snake hunter - immune to cobra and adder venom",
+        "Exceptional height of 1.3m makes them one of the world's tallest raptors",
+        "Can cover 30km daily walking through grasslands hunting on foot",
+        "Mate for life and perform spectacular aerial courtship displays",
+        "Long eyelashes protect their eyes while hunting in tall grass"
+      ],
+      "conservation": "Listed as Endangered by the IUCN due to rapid population declines of 80% over three generations. Secretary birds face severe threats from habitat loss due to agricultural expansion, pesticide poisoning from contaminated prey, and collisions with power lines and fences. Their specialized grassland habitat is disappearing across Africa. Conservation efforts focus on habitat protection, reducing pesticide use in agricultural areas, and implementing wildlife-friendly fencing practices."
     },
     {
       "slug": "gerenuk",
@@ -1613,12 +1648,12 @@
       "continent": "Africa",
       "subregion": "East Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Dry bushland, acacia woodland",
+        "diet": "Herbivore - leaves, shoots, fruits",
+        "lifespan": "8-13 years",
+        "weight": "28-52 kg"
       },
       "media": {
         "heroImage": "/images/gerenuk.jpg",
@@ -1630,9 +1665,16 @@
         "image2": "photorealistic wildlife photography, Gerenuk in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Gerenuk in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The gerenuk (Litocranius walleri), whose name means 'giraffe-necked' in Somali, is one of East Africa's most elegant and specialized antelopes. These slender, long-necked browsers have evolved a unique feeding strategy that sets them apart from other antelopes - they can stand completely upright on their hind legs, using their front legs to pull down branches and access vegetation up to 2 meters high. This remarkable adaptation allows them to exploit food sources unavailable to other herbivores. Gerenuks are perfectly adapted to arid environments and can survive their entire lives without drinking water, obtaining all necessary moisture from the leaves, shoots, and fruits they consume. Their large eyes and ears provide excellent predator detection in the open bushland habitats they prefer.",
+      "highlights": [
+        "Can stand upright on hind legs to reach vegetation 2 meters high",
+        "Never need to drink water - gets all moisture from food",
+        "Distinctive long neck allows browsing at heights other antelopes cannot reach",
+        "Males have S-shaped horns while females are hornless",
+        "Extremely quiet and elusive - known as 'silent browsers'",
+        "Can survive in extremely arid environments with minimal resources"
+      ],
+      "conservation": "Listed as Near Threatened by the IUCN due to declining populations. Gerenuks face threats from habitat loss due to agricultural expansion, hunting for bushmeat, and competition with livestock. Their specialized browsing habits make them vulnerable to habitat degradation. Small, isolated populations are at risk of local extinction. Conservation efforts focus on protecting remaining habitat corridors and reducing hunting pressure in their range."
     },
     {
       "slug": "african-penguin",
@@ -1641,7 +1683,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Endangered",
-      "emoji": "\ud83d\udc27",
+      "emoji": "🐧",
       "stats": {
         "habitat": "Coastal Islands, Rocky Shores",
         "diet": "Carnivore (fish, squid)",
@@ -1658,7 +1700,7 @@
         "image2": "photorealistic wildlife photography, African Penguin in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, African Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The African penguin (Spheniscus demersus), also known as the jackass penguin or black-footed penguin, is the only penguin species that breeds on the African continent. These charismatic seabirds are famous for their distinctive braying call that sounds remarkably like a donkey's hee-haw, giving them their alternative name. Standing about 60-70 cm tall, they sport the classic tuxedo-like black and white plumage that provides countershading camouflage in the water\u2014black backs blend with the ocean depths when viewed from above, while white bellies match the bright surface when seen from below. Once numbering in the millions, African penguins have suffered catastrophic population declines and are now classified as Critically Endangered, with fewer than 10,000 breeding pairs remaining in the wild.",
+      "description": "The African penguin (Spheniscus demersus), also known as the jackass penguin or black-footed penguin, is the only penguin species that breeds on the African continent. These charismatic seabirds are famous for their distinctive braying call that sounds remarkably like a donkey's hee-haw, giving them their alternative name. Standing about 60-70 cm tall, they sport the classic tuxedo-like black and white plumage that provides countershading camouflage in the water—black backs blend with the ocean depths when viewed from above, while white bellies match the bright surface when seen from below. Once numbering in the millions, African penguins have suffered catastrophic population declines and are now classified as Critically Endangered, with fewer than 10,000 breeding pairs remaining in the wild.",
       "highlights": [
         "Only penguin species native to Africa",
         "Called 'jackass penguin' for their donkey-like braying call",
@@ -1667,7 +1709,7 @@
         "Population declined 95% since the early 1900s",
         "Each penguin has unique spot pattern like fingerprints"
       ],
-      "conservation": "The African penguin is classified as Critically Endangered on the IUCN Red List, representing one of the most dramatic population crashes of any seabird. From an estimated 1.5-3 million individuals in the early 1900s, numbers have plummeted to fewer than 20,000 breeding pairs today\u2014a decline of over 95%. Primary threats include commercial fishing depleting their prey (sardines and anchovies), oil spills, habitat disturbance, and climate change shifting fish stocks away from breeding colonies. Major conservation efforts include establishing marine protected areas, rescue and rehabilitation programs, and artificial nest boxes to provide safe breeding sites.",
+      "conservation": "The African penguin is classified as Critically Endangered on the IUCN Red List, representing one of the most dramatic population crashes of any seabird. From an estimated 1.5-3 million individuals in the early 1900s, numbers have plummeted to fewer than 20,000 breeding pairs today—a decline of over 95%. Primary threats include commercial fishing depleting their prey (sardines and anchovies), oil spills, habitat disturbance, and climate change shifting fish stocks away from breeding colonies. Major conservation efforts include establishing marine protected areas, rescue and rehabilitation programs, and artificial nest boxes to provide safe breeding sites.",
       "habitatDetails": "African penguins breed on 24 islands and three mainland sites along the southwestern coast of Africa, from Namibia to Port Elizabeth, South Africa. They prefer offshore islands with rocky terrain and minimal vegetation, though some colonies have established on mainland beaches where predators are controlled. They require access to cold, nutrient-rich waters of the Benguela Current where fish are abundant. Major colonies include Dyer Island, Stony Point, Boulders Beach (famous for tourist viewing), and Robben Island.",
       "behavior": "African penguins are highly social birds that live in large colonies ranging from hundreds to thousands of individuals. They are monogamous and often mate for life, returning to the same nesting site year after year. They are excellent swimmers, using their wings as flippers to 'fly' through the water at speeds up to 20 km/h. They hunt cooperatively in groups, herding schools of fish. On land, they waddle with a distinctive gait but can also hop over rocks and steep terrain. They preen extensively to maintain waterproof plumage.",
       "dietDetails": "African penguins are pursuit divers that feed primarily on small pelagic fish, particularly sardines and anchovies, supplemented with squid and crustaceans. They typically hunt within 20-30 km of their breeding colonies, though they can travel much farther when food is scarce. Dives usually last 2-3 minutes but can extend to over 5 minutes. They swallow fish whole, head-first. Competition with commercial fishing fleets for the same prey species is a major factor in their decline.",
@@ -1691,7 +1733,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd9d",
+      "emoji": "🦝",
       "stats": {
         "habitat": "Deserts, Savannas, Open Plains",
         "diet": "Carnivore (insects, scorpions, small vertebrates)",
@@ -1741,7 +1783,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc26",
+      "emoji": "🐦",
       "stats": {
         "habitat": "Savannas, Grasslands, Woodlands",
         "diet": "Omnivore (insects, small animals, fruit)",
@@ -1767,7 +1809,7 @@
         "Hunt cooperatively in family groups like wolves",
         "Only 1,500 breeding groups remain in South Africa"
       ],
-      "conservation": "The southern ground hornbill is classified as Vulnerable globally but Endangered in South Africa, where only approximately 1,500 breeding groups remain\u2014a decline of over 70% in the past century. They are already extinct in 70% of their former South African range. Primary threats include habitat loss from agriculture and development, secondary poisoning from predator control programs, electrocution on fence posts, persecution for breaking windows (they attack their reflection), and slow reproductive rate (raise only one chick every 6-9 years). Intensive conservation efforts including captive breeding, reintroduction programs, and artificial nest boxes are underway.",
+      "conservation": "The southern ground hornbill is classified as Vulnerable globally but Endangered in South Africa, where only approximately 1,500 breeding groups remain—a decline of over 70% in the past century. They are already extinct in 70% of their former South African range. Primary threats include habitat loss from agriculture and development, secondary poisoning from predator control programs, electrocution on fence posts, persecution for breaking windows (they attack their reflection), and slow reproductive rate (raise only one chick every 6-9 years). Intensive conservation efforts including captive breeding, reintroduction programs, and artificial nest boxes are underway.",
       "habitatDetails": "Southern ground hornbills inhabit savannas, grasslands, and open woodlands of sub-Saharan Africa, from southern Kenya and Uganda south to South Africa. They require large territories of 25-100 square kilometers with short grass for foraging and large trees for roosting and nesting. They are absent from dense forest and true desert. In South Africa, they are now largely restricted to protected areas such as Kruger National Park and Associated Private Nature Reserves. They are sensitive to habitat fragmentation and require extensive undisturbed areas.",
       "behavior": "Southern ground hornbills are highly social, cooperative breeders that live in family groups of 2-11 individuals, typically consisting of a dominant breeding pair and several helpers (usually offspring from previous years). They are primarily terrestrial, spending up to 70% of their time on the ground walking and hunting. They are apex predators that hunt cooperatively like wolves, surrounding and flushing prey. Their deep booming territorial calls, produced by inflating their throat sacs, serve to maintain group cohesion and defend territories. They are slow breeders, with females laying only one or two eggs every 6-9 years.",
       "dietDetails": "Southern ground hornbills are opportunistic omnivores and apex terrestrial predators that consume a diverse diet including insects (particularly grasshoppers and beetles), snails, frogs, snakes, lizards, tortoises, hares, mongooses, and other small mammals up to the size of hares. They also eat fruit, seeds, and occasionally carrion. They forage by walking slowly through grasslands in groups, using their sharp eyesight to spot prey, which they capture with precise strikes of their powerful bills. They are known to follow ungulate herds and even wildfires to catch fleeing animals.",
@@ -1792,7 +1834,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd85",
+      "emoji": "🦅",
       "stats": {
         "habitat": "Lakes, Rivers, Wetlands, Coastal Lagoons",
         "diet": "Carnivore (primarily fish)",
@@ -1809,7 +1851,7 @@
         "image2": "photorealistic wildlife photography, African Fish Eagle in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, African Fish Eagle in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The African fish eagle (Haliaeetus vocifer) is one of the most iconic and recognizable birds of Africa, its haunting, far-carrying call serving as the definitive sound of the continent's waterways. Often called 'the voice of Africa,' this magnificent raptor is the national bird of four nations\u2014Zambia, Zimbabwe, Namibia, and South Sudan\u2014and appears on numerous flags, coats of arms, and currencies. With their striking plumage of snowy white heads, chestnut-brown bodies, and powerful black wings, African fish eagles are perfectly adapted predators of freshwater habitats. They are remarkably efficient hunters, snatching fish from the water's surface with deadly precision using their specially adapted talons. Their dramatic hunting displays and distinctive calls make them one of Africa's most photographed and beloved birds.",
+      "description": "The African fish eagle (Haliaeetus vocifer) is one of the most iconic and recognizable birds of Africa, its haunting, far-carrying call serving as the definitive sound of the continent's waterways. Often called 'the voice of Africa,' this magnificent raptor is the national bird of four nations—Zambia, Zimbabwe, Namibia, and South Sudan—and appears on numerous flags, coats of arms, and currencies. With their striking plumage of snowy white heads, chestnut-brown bodies, and powerful black wings, African fish eagles are perfectly adapted predators of freshwater habitats. They are remarkably efficient hunters, snatching fish from the water's surface with deadly precision using their specially adapted talons. Their dramatic hunting displays and distinctive calls make them one of Africa's most photographed and beloved birds.",
       "highlights": [
         "National bird of Zambia, Zimbabwe, Namibia, and South Sudan",
         "Famous haunting call known as 'the voice of Africa'",
@@ -1820,8 +1862,8 @@
       ],
       "conservation": "The African fish eagle is currently listed as Least Concern by the IUCN due to its wide distribution across sub-Saharan Africa and relatively stable populations. However, localized declines are occurring in areas of intensive fishing pressure, wetland degradation, and pollution. They are vulnerable to bioaccumulation of toxins in fish, particularly pesticides and heavy metals. Habitat loss from wetland drainage, deforestation along waterways, and disturbance at nesting sites pose threats. In some areas, they are persecuted by fish farmers. Climate change affecting water levels in lakes and rivers may impact future populations.",
       "habitatDetails": "African fish eagles inhabit virtually every type of freshwater habitat across sub-Saharan Africa, including large lakes (Victoria, Malawi, Tanganyika), rivers, wetlands, swamps, estuaries, and coastal lagoons. They require extensive water bodies with abundant fish populations and tall trees for nesting and perching. Their range extends from Senegal and Sudan south to South Africa, wherever suitable freshwater habitats exist. They are most abundant in East and Southern Africa around the Great Lakes and major river systems.",
-      "behavior": "African fish eagles are solitary hunters that spend much of their day perched conspicuously on dead trees overlooking water, scanning for prey. They are powerful fliers and will soar on thermals when not hunting. They are highly territorial, with pairs defending their fishing grounds year-round through dramatic aerial displays and vocalizations. Their famous call\u2014a loud, ringing 'weee-ah hyo-hyo-hyo-hyo'\u2014serves to proclaim territory and maintain pair bonds. They are kleptoparasitic, often stealing fish from other birds like kingfishers and herons.",
-      "dietDetails": "As their name suggests, African fish eagles are specialized piscivores, with fish making up 90% of their diet. They catch fish by swooping down and snatching them from the water's surface with their specially adapted talons\u2014sharp spicules on the soles of their feet help grip slippery prey. They primarily hunt fish weighing 200-500 grams but can handle fish up to 1 kg or even larger by dragging them to shore. They also eat waterfowl, small mammals, reptiles, and carrion. They typically eat smaller fish in flight or perched in trees, tearing pieces with their hooked beaks.",
+      "behavior": "African fish eagles are solitary hunters that spend much of their day perched conspicuously on dead trees overlooking water, scanning for prey. They are powerful fliers and will soar on thermals when not hunting. They are highly territorial, with pairs defending their fishing grounds year-round through dramatic aerial displays and vocalizations. Their famous call—a loud, ringing 'weee-ah hyo-hyo-hyo-hyo'—serves to proclaim territory and maintain pair bonds. They are kleptoparasitic, often stealing fish from other birds like kingfishers and herons.",
+      "dietDetails": "As their name suggests, African fish eagles are specialized piscivores, with fish making up 90% of their diet. They catch fish by swooping down and snatching them from the water's surface with their specially adapted talons—sharp spicules on the soles of their feet help grip slippery prey. They primarily hunt fish weighing 200-500 grams but can handle fish up to 1 kg or even larger by dragging them to shore. They also eat waterfowl, small mammals, reptiles, and carrion. They typically eat smaller fish in flight or perched in trees, tearing pieces with their hooked beaks.",
       "threats": [
         "Overfishing reducing prey availability",
         "Wetland degradation and drainage",
@@ -1843,7 +1885,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udd8f",
+      "emoji": "🦏",
       "stats": {
         "habitat": "Savannas, Woodlands, Deserts, Mountains",
         "diet": "Herbivore (browse on leaves, branches)",
@@ -1860,7 +1902,7 @@
         "image2": "photorealistic wildlife photography, Black Rhinoceros in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Black Rhinoceros in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The black rhinoceros (Diceros bicornis) is one of Africa's most iconic and critically endangered megafauna, despite the fact that they are not actually black\u2014the name distinguishes them from the 'white' rhino, with both species being gray in color. Smaller but more aggressive than their white rhino cousins, black rhinos are browsers rather than grazers, using their distinctive hooked upper lip to grasp leaves and branches. Once the most numerous rhino species in Africa with hundreds of thousands roaming the continent, catastrophic poaching has reduced their numbers by over 97% since the 1960s. Today, fewer than 6,000 black rhinos remain in the wild, making them one of the world's most endangered large mammals and a symbol of the poaching crisis threatening Africa's wildlife.",
+      "description": "The black rhinoceros (Diceros bicornis) is one of Africa's most iconic and critically endangered megafauna, despite the fact that they are not actually black—the name distinguishes them from the 'white' rhino, with both species being gray in color. Smaller but more aggressive than their white rhino cousins, black rhinos are browsers rather than grazers, using their distinctive hooked upper lip to grasp leaves and branches. Once the most numerous rhino species in Africa with hundreds of thousands roaming the continent, catastrophic poaching has reduced their numbers by over 97% since the 1960s. Today, fewer than 6,000 black rhinos remain in the wild, making them one of the world's most endangered large mammals and a symbol of the poaching crisis threatening Africa's wildlife.",
       "highlights": [
         "Not actually black - both black and white rhinos are gray",
         "Hooked upper lip for grasping leaves and branches",
@@ -1871,7 +1913,7 @@
       ],
       "conservation": "The black rhino is classified as Critically Endangered on the IUCN Red List, representing one of the most dramatic population collapses of any mammal. From an estimated 70,000 individuals in the late 1960s, relentless poaching reduced their numbers to just 2,410 by 1995. Thanks to intensive conservation efforts, populations have recovered to approximately 5,600 today, but they remain under severe threat. Three subspecies have been driven to extinction in the past 150 years. Anti-poaching units, translocation programs, dehorning operations, and community-based conservation are critical to their survival.",
       "habitatDetails": "Black rhinos inhabit a wider range of habitats than white rhinos, including tropical and subtropical grasslands, savannas, woodlands, forests, deserts, and even mountainous areas up to 3,000 meters elevation. They are found across East, Central, and Southern Africa, with strongholds in Namibia, South Africa, Kenya, and Zimbabwe. Unlike white rhinos, they are browsers and can survive in more arid, thickly vegetated areas. They require access to water and thick cover for hiding during the day, emerging to feed in the cooler hours of morning and evening.",
-      "behavior": "Black rhinos are famously aggressive and unpredictable, charging at perceived threats including vehicles, trees, and termite mounds. This behavior stems from their poor eyesight\u2014they often charge first and investigate later. They are primarily solitary animals, with the only stable social unit being a mother and her calf. Males are highly territorial, marking their ranges with dung piles and spraying urine. They are most active during early morning and late afternoon, resting in thick cover during the heat of the day. Despite their reputation, they are generally shy animals that prefer to avoid confrontation.",
+      "behavior": "Black rhinos are famously aggressive and unpredictable, charging at perceived threats including vehicles, trees, and termite mounds. This behavior stems from their poor eyesight—they often charge first and investigate later. They are primarily solitary animals, with the only stable social unit being a mother and her calf. Males are highly territorial, marking their ranges with dung piles and spraying urine. They are most active during early morning and late afternoon, resting in thick cover during the heat of the day. Despite their reputation, they are generally shy animals that prefer to avoid confrontation.",
       "dietDetails": "Black rhinos are browsers that feed on a diverse array of woody vegetation including leaves, twigs, branches, bark, and fruit from bushes and trees. Their prehensile, hooked upper lip allows them to grasp and pull branches, an adaptation that distinguishes them from the square-lipped white rhino. They consume over 200 different plant species and are important ecosystem engineers, shaping vegetation structure through their browsing. They typically drink daily when water is available but can survive several days without drinking in arid areas.",
       "threats": [
         "Poaching for horns (primary threat - 3 rhinos killed daily)",
@@ -1893,7 +1935,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc03",
+      "emoji": "🐃",
       "stats": {
         "habitat": "Savannas, Grasslands, Floodplains",
         "diet": "Herbivore (grasses)",
@@ -1910,7 +1952,7 @@
         "image2": "photorealistic wildlife photography, Cape Buffalo in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Cape Buffalo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The Cape buffalo (Syncerus caffer caffer), also known as the African buffalo or simply buffalo, is one of Africa's most formidable and dangerous animals, responsible for killing more big game hunters than any other animal on the continent. These massive bovines are legendary for their unpredictable nature, cunning intelligence, and fierce defense of herd members\u2014particularly wounded individuals who are protected by the entire group. With their distinctive curved horns that form a continuous bone shield across the forehead called a 'boss,' Cape buffalo are instantly recognizable and deeply respected across Africa. They form the core of the famous 'Big Five' and represent one of the most successful large herbivores on the continent, having survived where other species have declined. Their complex social structures and cooperative defense strategies make them one of the most fascinating animals to observe in the wild.",
+      "description": "The Cape buffalo (Syncerus caffer caffer), also known as the African buffalo or simply buffalo, is one of Africa's most formidable and dangerous animals, responsible for killing more big game hunters than any other animal on the continent. These massive bovines are legendary for their unpredictable nature, cunning intelligence, and fierce defense of herd members—particularly wounded individuals who are protected by the entire group. With their distinctive curved horns that form a continuous bone shield across the forehead called a 'boss,' Cape buffalo are instantly recognizable and deeply respected across Africa. They form the core of the famous 'Big Five' and represent one of the most successful large herbivores on the continent, having survived where other species have declined. Their complex social structures and cooperative defense strategies make them one of the most fascinating animals to observe in the wild.",
       "highlights": [
         "Most dangerous animal to hunters in Africa",
         "Horns form continuous 'boss' shield across forehead",
@@ -1921,7 +1963,7 @@
       ],
       "conservation": "The Cape buffalo is currently listed as Near Threatened by the IUCN, with populations declining across much of their range. While they remain numerous in protected areas, they have disappeared from many unprotected regions due to habitat loss, hunting, and disease transmission from domestic cattle. Rinderpest historically devastated populations in the late 1800s. Today, bovine tuberculosis and corridor disease from cattle pose significant threats. Habitat fragmentation isolates populations and limits genetic exchange. They remain well-protected in major reserves like Kruger National Park and the Serengeti.",
       "habitatDetails": "Cape buffalo inhabit savannas, grasslands, floodplains, and swamps across sub-Saharan Africa, from Senegal and Ethiopia south to South Africa. They require daily access to water and are rarely found far from permanent water sources. They prefer areas with dense cover for resting during the day and open grasslands for grazing at night. Their range has contracted significantly, with populations now largely restricted to protected areas and game reserves. Major strongholds include Kruger National Park, Okavango Delta, and Serengeti ecosystem.",
-      "behavior": "Cape buffalo are highly social animals that live in herds ranging from a few dozen to over 1,000 individuals, typically organized around related females and their offspring. Males form bachelor groups or become solitary 'dagga boys' when past breeding age. They are most active at night and during early morning and late afternoon, resting in shade during the heat of the day. Their cooperative defense is legendary\u2014when threatened, adults form a protective circle with calves in the center, and they will actively rescue captured herd members. They have excellent memories and are known to ambush hunters who previously wounded them.",
+      "behavior": "Cape buffalo are highly social animals that live in herds ranging from a few dozen to over 1,000 individuals, typically organized around related females and their offspring. Males form bachelor groups or become solitary 'dagga boys' when past breeding age. They are most active at night and during early morning and late afternoon, resting in shade during the heat of the day. Their cooperative defense is legendary—when threatened, adults form a protective circle with calves in the center, and they will actively rescue captured herd members. They have excellent memories and are known to ambush hunters who previously wounded them.",
       "dietDetails": "Cape buffalo are grazers that feed primarily on tall, coarse grasses that many other herbivores avoid. They use their wide, square muzzles to crop grass close to the ground. They require large quantities of food daily and spend 8-10 hours grazing, mostly at night. They drink daily, often visiting water holes in the early morning and late afternoon. Their grazing behavior helps maintain grassland ecosystems and creates grazing lawns that benefit other species. They occasionally browse on leaves and shoots when grass is scarce.",
       "threats": [
         "Habitat loss and fragmentation",
@@ -1944,7 +1986,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd8a",
+      "emoji": "🦊",
       "stats": {
         "habitat": "Grasslands, Savannas, Open Plains",
         "diet": "Insectivore (termites)",
@@ -1994,12 +2036,12 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddad",
+      "emoji": "🦭",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Coastal waters, rocky islands",
+        "diet": "Carnivore - fish, squid, crustaceans",
+        "lifespan": "20-25 years",
+        "weight": "25-360 kg (sexually dimorphic)"
       },
       "media": {
         "heroImage": "/images/cape-fur-seal.jpg",
@@ -2011,9 +2053,16 @@
         "image2": "photorealistic wildlife photography, Cape Fur Seal in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Cape Fur Seal in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Cape fur seal (Arctocephalus pusillus pusillus), also known as the South African fur seal, is the largest and most robust fur seal species in the world. These charismatic marine mammals are renowned for their dense, luxurious fur coats that once drove them to the brink of extinction through intensive hunting. Today, colonies along the southern African coast represent one of conservation's great success stories, with populations exceeding 2 million individuals. Cape fur seals are exceptional divers, capable of reaching depths of 200 meters and holding their breath for over 7 minutes while hunting fish and squid. Their colonies are among the noisiest and most chaotic wildlife spectacles in Africa, with thousands of seals barking, jostling, and engaging in playful behavior on rocky shores.",
+      "highlights": [
+        "Largest fur seal species - males can reach 2.3m and 360kg",
+        "Exceptional divers - can reach 200m depth and hold breath 7+ minutes",
+        "Dense fur coat has 200,000+ hairs per square centimeter",
+        "Population recovered to over 2 million after near-extinction",
+        "Can swim up to 80km daily searching for food",
+        "Live in massive colonies with complex social hierarchies"
+      ],
+      "conservation": "Listed as Least Concern due to successful population recovery. Cape fur seals were hunted extensively for their fur and oil, reducing populations to just a few hundred thousand by the early 20th century. Legal protection and the decline of the fur trade allowed remarkable recovery. Current threats include entanglement in fishing gear, illegal hunting, and food scarcity due to overfishing. Climate change impacts on fish stocks pose emerging concerns."
     },
     {
       "slug": "rock-hyrax",
@@ -2022,7 +2071,7 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddab",
+      "emoji": "🦫",
       "stats": {
         "habitat": "Rocky Outcrops, Cliffs, Boulders",
         "diet": "Herbivore (grasses, leaves, bark)",
@@ -2039,7 +2088,7 @@
         "image2": "photorealistic wildlife photography, Rock Hyrax in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Rock Hyrax in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The rock hyrax (Procavia capensis), also known as the dassie or rock rabbit, is one of nature's most surprising evolutionary stories\u2014a small, guinea pig-sized mammal that is actually the closest living relative to elephants and manatees. These charming creatures inhabit rocky outcrops, cliffs, and boulder fields across sub-Saharan Africa and the Middle East, living in colonies that can number up to 80 individuals. With their rounded bodies, short ears, and no visible tail, rock hyraxes look like oversized rodents but share deep evolutionary connections with Earth's largest land animals. They are famous for their complex vocalizations, including a distinctive high-pitched territorial call that sounds like a loud scream, and for their habit of basking in the sun on rocks\u2014a behavior essential for thermoregulation.",
+      "description": "The rock hyrax (Procavia capensis), also known as the dassie or rock rabbit, is one of nature's most surprising evolutionary stories—a small, guinea pig-sized mammal that is actually the closest living relative to elephants and manatees. These charming creatures inhabit rocky outcrops, cliffs, and boulder fields across sub-Saharan Africa and the Middle East, living in colonies that can number up to 80 individuals. With their rounded bodies, short ears, and no visible tail, rock hyraxes look like oversized rodents but share deep evolutionary connections with Earth's largest land animals. They are famous for their complex vocalizations, including a distinctive high-pitched territorial call that sounds like a loud scream, and for their habit of basking in the sun on rocks—a behavior essential for thermoregulation.",
       "highlights": [
         "Closest living relative to elephants and manatees",
         "Shares ancestry with elephants despite tiny size",
@@ -2050,7 +2099,7 @@
       ],
       "conservation": "The rock hyrax is currently listed as Least Concern by the IUCN due to its wide distribution and adaptability. They are abundant throughout their range and can thrive in human-modified landscapes, including urban areas where rocky habitat exists. However, local populations are vulnerable to habitat destruction when rocky outcrops are quarried or developed. They are sometimes hunted for bushmeat and their skins, which are used to make traditional drums. In some areas, they are considered agricultural pests when they raid crops. Overall, they remain common and well-adapted to their specialized niche.",
       "habitatDetails": "Rock hyraxes are found wherever suitable rocky terrain exists across sub-Saharan Africa and into the Middle East, including Arabia and Lebanon. They require rock crevices, boulder fields, cliffs, or rocky outcrops (kopjes) that provide shelter from predators and extreme temperatures. They are absent from areas without rocky substrate, even if vegetation is suitable. Major populations exist in the Serengeti kopjes, Drakensberg Mountains, and Cape Fold Mountains. They are highly adaptable and can live from sea level to over 4,000 meters elevation.",
-      "behavior": "Rock hyraxes are highly social animals that live in colonies structured around a dominant male, several females, and their offspring, with subordinate males living on the periphery. They spend mornings and late afternoons foraging, while midday is spent basking on rocks to raise their body temperature\u2014they have difficulty maintaining constant body heat due to their small size. They have excellent spatial memory and use designated latrine areas. When threatened, they emit high-pitched alarm calls and retreat into rock crevices. They are agile climbers, capable of scaling near-vertical rock faces.",
+      "behavior": "Rock hyraxes are highly social animals that live in colonies structured around a dominant male, several females, and their offspring, with subordinate males living on the periphery. They spend mornings and late afternoons foraging, while midday is spent basking on rocks to raise their body temperature—they have difficulty maintaining constant body heat due to their small size. They have excellent spatial memory and use designated latrine areas. When threatened, they emit high-pitched alarm calls and retreat into rock crevices. They are agile climbers, capable of scaling near-vertical rock faces.",
       "dietDetails": "Rock hyraxes are browsers and grazers that feed on a wide variety of vegetation including grasses, leaves, twigs, bark, fruit, and berries. They have a specialized digestive system with a complex, multi-chambered stomach that allows them to break down tough plant material through bacterial fermentation. They feed primarily in the early morning and late afternoon, often returning to the same feeding sites. They do not drink free water regularly, obtaining most moisture from their food. Their efficient kidneys allow them to survive in arid environments.",
       "threats": [
         "Habitat loss from quarrying and rock removal",
@@ -2072,12 +2121,12 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd94",
+      "emoji": "🦔",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannas, woodlands, grasslands",
+        "diet": "Insectivore - ants and termites",
+        "lifespan": "20 years",
+        "weight": "7-18 kg"
       },
       "media": {
         "heroImage": "/images/temmincks-ground-pangolin.jpg",
@@ -2089,9 +2138,16 @@
         "image2": "photorealistic wildlife photography, Temminck's Ground Pangolin in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Temminck's Ground Pangolin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Temminck's ground pangolin (Smutsia temminckii) is one of Africa's most extraordinary and endangered mammals, a creature that seems to belong to another era entirely. Covered in overlapping scales made of keratin - the same material as human fingernails - these solitary, nocturnal insectivores are the world's most trafficked mammals. When threatened, they roll into an impenetrable ball, protected by razor-sharp scales that can cut predators. A single pangolin can consume up to 70 million ants and termites annually using its extraordinarily long, sticky tongue that extends deep into insect mounds. Their shy, elusive nature and nocturnal habits make them rarely seen, even in areas where they are relatively common. Despite their armor, they are gentle creatures that cannot defend themselves against human poachers.",
+      "highlights": [
+        "World's most trafficked mammal - scales prized in traditional medicine",
+        "Can consume 70 million ants/termites annually using 40cm sticky tongue",
+        "Scales made of keratin - same material as human fingernails",
+        "Rolls into impenetrable ball when threatened - even lions cannot open",
+        "No teeth - food is ground up in muscular stomach with swallowed stones",
+        "Can close ears and nostrils to protect from insect bites"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN, though populations are declining rapidly. Pangolins face catastrophic threats from illegal wildlife trafficking - their scales are highly valued in traditional Asian medicine, despite having no proven medicinal properties. Habitat loss and electrocution on electric fences also pose significant threats. Conservation efforts focus on anti-poaching patrols, reducing demand for pangolin products, and rehabilitating confiscated individuals."
     },
     {
       "slug": "black-footed-cat",
@@ -2100,12 +2156,12 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc31",
+      "emoji": "🐱",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Arid savannas, grasslands, deserts",
+        "diet": "Carnivore - rodents, birds, reptiles",
+        "lifespan": "10-13 years",
+        "weight": "1-2.5 kg"
       },
       "media": {
         "heroImage": "/images/black-footed-cat.jpg",
@@ -2117,9 +2173,16 @@
         "image2": "photorealistic wildlife photography, Black-footed Cat in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Black-footed Cat in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The black-footed cat (Felis nigripes) is Africa's smallest wild feline and one of the world's most efficient hunters, despite weighing just 1-2.5 kg. These tiny, spotted cats are found only in the arid regions of southern Africa, where they have evolved remarkable adaptations for desert survival. Despite their diminutive size, black-footed cats are fierce predators with hunting success rates of 60% - higher than any other wild cat, including lions. They can catch birds in mid-flight and have been known to kill prey up to 300% of their own body weight. Their large eyes and exceptional hearing make them formidable nocturnal hunters. These elusive cats are rarely seen and remain one of Africa's least understood predators.",
+      "highlights": [
+        "World's smallest wild cat - weighs only 1-2.5 kg",
+        "Most successful hunter among wild cats - 60% hunting success rate",
+        "Can catch birds in mid-flight and kill prey 3x their size",
+        "Named for black soles on their feet - unique among African cats",
+        "Can survive without drinking water - gets moisture from prey",
+        "Exceptional hearing - can locate prey underground"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN due to small, fragmented populations. Black-footed cats face threats from habitat loss due to agriculture, poisoning from rodent control programs, and predation by domestic dogs. Their specialized arid habitat is increasingly threatened by climate change. Low genetic diversity in isolated populations poses long-term risks. Conservation efforts focus on habitat protection, reducing poisoning incidents, and research to better understand their ecology."
     },
     {
       "slug": "cape-porcupine",
@@ -2128,12 +2191,12 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd94",
+      "emoji": "🦔",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Savannas, grasslands, forests, rocky areas",
+        "diet": "Herbivore - roots, bark, fruits, bulbs",
+        "lifespan": "12-15 years",
+        "weight": "10-30 kg"
       },
       "media": {
         "heroImage": "/images/cape-porcupine.jpg",
@@ -2145,9 +2208,16 @@
         "image2": "photorealistic wildlife photography, Cape Porcupine in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Cape Porcupine in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Cape porcupine (Hystrix africaeaustralis) is the largest rodent in Africa and the world's largest porcupine species, a formidable herbivore armed with an impressive defense system. These nocturnal animals are covered in long, sharp quills that can reach 50 cm in length and are actually modified hairs made of keratin. When threatened, they raise their quills to appear larger and can charge backward at predators, driving quills deep into attackers. Contrary to popular belief, they cannot shoot their quills. Cape porcupines are monogamous and form lifelong pair bonds, sharing parental duties and maintaining elaborate burrow systems. Their powerful digging claws allow them to excavate extensive burrows, and their ever-growing incisors can gnaw through almost anything, including wood, bones, and even car tires.",
+      "highlights": [
+        "World's largest porcupine - can weigh up to 30 kg",
+        "Quills can reach 50cm and are modified hairs made of keratin",
+        "Monogamous - form lifelong pair bonds and share parental care",
+        "Can gnaw through wood, bones, and even car tires",
+        "Powerful diggers - create extensive underground burrow systems",
+        "Cannot shoot quills - must make contact to embed them"
+      ],
+      "conservation": "Listed as Least Concern due to wide distribution and adaptability. Cape porcupines are generally resilient to human disturbance and can thrive in agricultural areas. However, they face persecution as crop pests and are hunted for bushmeat in some regions. Their slow reproductive rate makes populations vulnerable to overhunting. Vehicle collisions pose threats in developed areas. Conservation efforts focus on reducing human-wildlife conflict and sustainable hunting practices."
     },
     {
       "slug": "brown-hyaena",
@@ -2156,12 +2226,12 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc3a",
+      "emoji": "🐺",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Deserts, semi-deserts, arid savannas",
+        "diet": "Scavenger - also hunts small prey",
+        "lifespan": "12-15 years",
+        "weight": "34-72 kg"
       },
       "media": {
         "heroImage": "/images/brown-hyaena.jpg",
@@ -2173,9 +2243,16 @@
         "image2": "photorealistic wildlife photography, Brown Hyaena in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Brown Hyaena in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The brown hyaena (Parahyaena brunnea) is the rarest and most elusive of Africa's three hyaena species, a shy, solitary scavenger that haunts the deserts and semi-deserts of southern Africa. Unlike their spotted cousins, brown hyaenas are primarily nocturnal and avoid human contact, making them one of the least studied large carnivores on the continent. Their shaggy, dark brown coats and powerful forequarters give them a distinctive, almost bear-like appearance. These remarkable animals can survive in some of the world's most arid environments, traveling up to 35 km nightly in search of food. Brown hyaenas are primarily scavengers, using their exceptional sense of smell to locate carcasses from miles away, but they also hunt small prey and are known to cache excess food in vegetation for later consumption.",
+      "highlights": [
+        "Rarest hyaena species - fewer than 10,000 remain in the wild",
+        "Can survive in extremely arid environments with minimal water",
+        "Travel up to 35km nightly searching for food",
+        "Exceptional sense of smell - can detect carcasses from 2km away",
+        "Cache food in vegetation - rare behavior among carnivores",
+        "Shaggy coat provides insulation against extreme desert temperatures"
+      ],
+      "conservation": "Listed as Near Threatened by the IUCN with declining populations. Brown hyaenas face severe threats from habitat loss, persecution by farmers who mistakenly view them as livestock predators, and poisoning. Their low population density and slow reproductive rate make recovery difficult. Much of their range falls outside protected areas. Conservation efforts focus on reducing persecution through education, protecting critical habitat corridors, and research to better understand their ecological needs."
     },
     {
       "slug": "bat-eared-fox",
@@ -2184,12 +2261,12 @@
       "continent": "Africa",
       "subregion": "Southern Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd8a",
+      "emoji": "🦊",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Short grasslands, open savannas",
+        "diet": "Insectivore - termites, beetle larvae",
+        "lifespan": "13 years",
+        "weight": "3-5.5 kg"
       },
       "media": {
         "heroImage": "/images/bat-eared-fox.jpg",
@@ -2201,9 +2278,16 @@
         "image2": "photorealistic wildlife photography, Bat-eared Fox in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Bat-eared Fox in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The bat-eared fox (Otocyon megalotis) is one of Africa's most endearing and specialized canids, instantly recognizable by its enormous ears that can reach 13 cm in length - proportionally the largest of any canid species. These charming, social foxes are specialist termite and beetle larvae feeders, with teeth specially adapted for crushing insect exoskeletons unlike any other fox. Their massive ears serve multiple purposes: they provide exceptional hearing for detecting insects underground, help regulate body temperature in hot climates, and make them utterly adorable. Bat-eared foxes live in tight family groups and display remarkable parental care, with males often taking primary responsibility for guarding and grooming pups. Their specialized diet makes them ecologically important controllers of harvester termite populations.",
+      "highlights": [
+        "Largest ears relative to body size of any canid - up to 13cm",
+        "Specialist insect feeder - teeth adapted for crushing exoskeletons",
+        "Can eat up to 1.15 million termites per year",
+        "Exceptional hearing - can detect insects moving underground",
+        "Males provide most parental care - unusual among canids",
+        "Ears help regulate body temperature in hot African climates"
+      ],
+      "conservation": "Listed as Least Concern due to relatively stable populations. Bat-eared foxes face localized threats from habitat loss, hunting for skins, and poisoning campaigns targeting other predators. Their specialized diet makes them vulnerable to pesticide use that reduces insect populations. Disease outbreaks can significantly impact local populations. Conservation efforts focus on protecting grassland habitats and reducing indiscriminate predator control programs."
     },
     {
       "slug": "chimpanzee",
@@ -2212,7 +2296,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Endangered",
-      "emoji": "\ud83d\udc35",
+      "emoji": "🐵",
       "stats": {
         "habitat": "Tropical Forests, Woodlands, Savannas",
         "diet": "Omnivore (fruit, leaves, insects, meat)",
@@ -2238,8 +2322,8 @@
         "Can learn sign language and communicate with humans",
         "Express emotions including laughter, grief, and empathy"
       ],
-      "conservation": "The chimpanzee is classified as Endangered on the IUCN Red List, with all four subspecies facing severe threats. Population estimates suggest fewer than 300,000 remain in the wild, down from over 1 million a century ago\u2014a decline of over 80%. Primary threats include habitat destruction from logging and agricultural expansion, hunting for bushmeat (the greatest threat), illegal pet trade capturing infants after killing mothers, and disease transmission from humans including Ebola. Conservation efforts include anti-poaching patrols, community education, sanctuaries for rescued orphans, and habitat protection.",
-      "habitatDetails": "Chimpanzees inhabit tropical rainforests, forest-savanna mosaics, and montane forests across 21 countries in equatorial Africa, from Senegal in the west to Tanzania in the east. They require dense forest cover for nesting and fruit availability, but can adapt to forest edges and fragmented habitats. Major populations exist in the Congo Basin, Uganda, Tanzania (Gombe and Mahale), and C\u00f4te d'Ivoire. They are absent from true desert and high-altitude areas above 3,000 meters. Habitat fragmentation isolates populations and limits gene flow.",
+      "conservation": "The chimpanzee is classified as Endangered on the IUCN Red List, with all four subspecies facing severe threats. Population estimates suggest fewer than 300,000 remain in the wild, down from over 1 million a century ago—a decline of over 80%. Primary threats include habitat destruction from logging and agricultural expansion, hunting for bushmeat (the greatest threat), illegal pet trade capturing infants after killing mothers, and disease transmission from humans including Ebola. Conservation efforts include anti-poaching patrols, community education, sanctuaries for rescued orphans, and habitat protection.",
+      "habitatDetails": "Chimpanzees inhabit tropical rainforests, forest-savanna mosaics, and montane forests across 21 countries in equatorial Africa, from Senegal in the west to Tanzania in the east. They require dense forest cover for nesting and fruit availability, but can adapt to forest edges and fragmented habitats. Major populations exist in the Congo Basin, Uganda, Tanzania (Gombe and Mahale), and Côte d'Ivoire. They are absent from true desert and high-altitude areas above 3,000 meters. Habitat fragmentation isolates populations and limits gene flow.",
       "behavior": "Chimpanzees live in large, fluid communities called 'fission-fusion' societies where members split into smaller foraging parties during the day and reunite at night. They form complex social bonds, political alliances, and dominance hierarchies. They are highly territorial and males patrol boundaries, sometimes engaging in lethal intergroup violence. They use over 30 distinct vocalizations and gestures to communicate. They fashion tools from sticks, stones, and leaves for various purposes. They engage in warfare, reconciliation, adoption of orphans, and even medicinal plant use.",
       "dietDetails": "Chimpanzees are omnivorous frugivores, with fruit comprising 50-70% of their diet supplemented with leaves, seeds, flowers, bark, resin, insects (especially termites and ants), and meat. They hunt cooperatively, primarily targeting colobus monkeys, which provide important protein and social bonding. They use tools to extract termites, crack hard nuts, and collect honey. Their diet varies seasonally based on fruit availability. They have been observed sharing meat strategically to build social alliances.",
       "threats": [
@@ -2263,7 +2347,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udd8d",
+      "emoji": "🦍",
       "stats": {
         "habitat": "Tropical Rainforests, Swamp Forests",
         "diet": "Herbivore (leaves, fruit, shoots)",
@@ -2280,7 +2364,7 @@
         "image2": "photorealistic wildlife photography, Western Lowland Gorilla in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Western Lowland Gorilla in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The western lowland gorilla (Gorilla gorilla gorilla) is the smallest of the four gorilla subspecies but the most numerous, inhabiting the dense tropical rainforests and swamp forests of Central and West Africa. These magnificent great apes are characterized by their silverback males\u2014mature adults with distinctive silver-gray saddles on their backs who lead family groups with quiet authority. Western lowland gorillas are remarkably gentle giants, spending their days foraging for vegetation, caring for their young, and resting in the forest canopy. They are incredibly intelligent, using tools, displaying individual personalities, and mourning their dead. Despite being the most widespread gorilla subspecies, they are critically endangered due to devastating population declines from Ebola, habitat loss, and poaching, with numbers having fallen by over 60% in the past 25 years.",
+      "description": "The western lowland gorilla (Gorilla gorilla gorilla) is the smallest of the four gorilla subspecies but the most numerous, inhabiting the dense tropical rainforests and swamp forests of Central and West Africa. These magnificent great apes are characterized by their silverback males—mature adults with distinctive silver-gray saddles on their backs who lead family groups with quiet authority. Western lowland gorillas are remarkably gentle giants, spending their days foraging for vegetation, caring for their young, and resting in the forest canopy. They are incredibly intelligent, using tools, displaying individual personalities, and mourning their dead. Despite being the most widespread gorilla subspecies, they are critically endangered due to devastating population declines from Ebola, habitat loss, and poaching, with numbers having fallen by over 60% in the past 25 years.",
       "highlights": [
         "Smallest but most numerous gorilla subspecies",
         "Silverback males lead family groups of up to 30 individuals",
@@ -2290,7 +2374,7 @@
         "Population declined 60%+ in 25 years from Ebola and poaching"
       ],
       "conservation": "The western lowland gorilla is classified as Critically Endangered on the IUCN Red List, with populations having declined by over 60% in the past 25 years. Current estimates suggest fewer than 100,000 individuals remain, though accurate counting is difficult due to their dense forest habitat. Primary threats include Ebola virus (which killed an estimated 5,000 gorillas in one outbreak), habitat destruction from logging and mining, poaching for bushmeat, and illegal pet trade. Conservation efforts include anti-poaching patrols, Ebola research, community-based protection, and international captive breeding programs.",
-      "habitatDetails": "Western lowland gorillas inhabit the dense tropical rainforests, swamp forests, and forest-savanna mosaics of Central and West Africa, including Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of Congo, and Angola. They prefer areas with abundant fruit trees and dense ground vegetation. Major populations exist in Odzala-Kokoua National Park (Congo), Lop\u00e9 National Park (Gabon), and Dzanga-Sangha Special Reserve (Central African Republic). They are adapted to living in swamp forests where other great apes cannot survive.",
+      "habitatDetails": "Western lowland gorillas inhabit the dense tropical rainforests, swamp forests, and forest-savanna mosaics of Central and West Africa, including Cameroon, Central African Republic, Equatorial Guinea, Gabon, Republic of Congo, and Angola. They prefer areas with abundant fruit trees and dense ground vegetation. Major populations exist in Odzala-Kokoua National Park (Congo), Lopé National Park (Gabon), and Dzanga-Sangha Special Reserve (Central African Republic). They are adapted to living in swamp forests where other great apes cannot survive.",
       "behavior": "Western lowland gorillas live in family groups led by a dominant silverback male, typically consisting of multiple adult females, their offspring, and occasionally subordinate males. They are diurnal, spending mornings and afternoons foraging and resting during midday heat. They build new nests every night, either on the ground or in trees. Contrary to their fierce reputation, they are gentle and non-aggressive unless threatened. They communicate through over 25 distinct vocalizations, body postures, and facial expressions. Play behavior is common among juveniles and important for social development.",
       "dietDetails": "Western lowland gorillas are primarily folivorous-frugivorous, with their diet consisting of leaves, stems, shoots, fruit, bark, and occasionally insects (termites and ants). Fruit can comprise up to 70% of their diet when available. They are important seed dispersers, swallowing seeds whole and depositing them throughout their range, helping maintain forest diversity. They rarely drink water, obtaining moisture from their food. Their specialized digestive system with large colons allows them to break down tough plant fiber through bacterial fermentation.",
       "threats": [
@@ -2314,7 +2398,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Critically Endangered",
-      "emoji": "\ud83d\udc18",
+      "emoji": "🐘",
       "stats": {
         "habitat": "Tropical Rainforests",
         "diet": "Herbivore (leaves, fruit, bark)",
@@ -2340,7 +2424,7 @@
         "Lost 80%+ of population in past decade from poaching",
         "Slower reproduction than savanna elephants (longer pregnancy)"
       ],
-      "conservation": "The African forest elephant is classified as Critically Endangered on the IUCN Red List, representing one of the most rapid population collapses of any mammal. Numbers have declined by over 80% in the past decade alone, with fewer than 100,000 individuals remaining. Primary threats include ivory poaching (their straighter tusks are preferred by carvers), habitat destruction from logging and mining, and human-elephant conflict. Their slow reproductive rate\u2014longer gestation and intervals between births\u2014makes population recovery extremely difficult. Urgent anti-poaching efforts and habitat protection are critical.",
+      "conservation": "The African forest elephant is classified as Critically Endangered on the IUCN Red List, representing one of the most rapid population collapses of any mammal. Numbers have declined by over 80% in the past decade alone, with fewer than 100,000 individuals remaining. Primary threats include ivory poaching (their straighter tusks are preferred by carvers), habitat destruction from logging and mining, and human-elephant conflict. Their slow reproductive rate—longer gestation and intervals between births—makes population recovery extremely difficult. Urgent anti-poaching efforts and habitat protection are critical.",
       "habitatDetails": "African forest elephants inhabit the dense tropical rainforests of Central and West Africa, including the Congo Basin, which contains the majority of the remaining population. They range from Guinea and Sierra Leone east to the Democratic Republic of Congo and south to northern Angola. They require extensive intact forest with abundant fruit trees and mineral-rich clearings called 'bais' where they gather to socialize and obtain minerals. Major populations exist in Gabon, Republic of Congo, and Cameroon. They are rarely seen due to dense vegetation, making population monitoring challenging.",
       "behavior": "Forest elephants live in smaller family groups than savanna elephants, typically consisting of a mother and her offspring, occasionally joining larger aggregations at forest clearings. They are more elusive and quieter than their savanna cousins, communicating through low-frequency rumbles that travel long distances through forest. They maintain extensive trail networks through the forest and are excellent swimmers, crossing rivers regularly. They display remarkable intelligence, problem-solving abilities, and complex social bonds. Their behavior is less studied due to the difficulty of observing them in dense forest.",
       "dietDetails": "Forest elephants are primarily frugivorous browsers, with fruit comprising up to 80% of their diet when available. They consume a diverse array of forest vegetation including leaves, bark, shoots, and aquatic plants. They are the most important seed dispersers in African rainforests, swallowing large seeds whole and depositing them kilometers away in their dung, facilitating forest regeneration. They visit mineral-rich forest clearings (bais) to obtain essential nutrients not available in their plant diet. Their feeding creates trails and clearings that benefit other forest species.",
@@ -2364,7 +2448,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc0d",
+      "emoji": "🐍",
       "stats": {
         "habitat": "Savannas, Forests, Rivers, Lakes",
         "diet": "Carnivore (mammals, birds, reptiles)",
@@ -2414,7 +2498,7 @@
       "continent": "Africa",
       "subregion": "West Africa",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc35",
+      "emoji": "🐵",
       "stats": {
         "habitat": "Tropical Rainforests",
         "diet": "Omnivore (fruit, insects, small animals)",
@@ -2431,7 +2515,7 @@
         "image2": "photorealistic wildlife photography, Mandrill in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Mandrill in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "The mandrill (Mandrillus sphinx) is instantly recognizable as the world's most colorful mammal, with males displaying spectacularly vivid facial markings of scarlet red and cobalt blue, bright yellow beards, and rainbow-colored rumps that serve as social signals and indicators of health and dominance. These large, powerful Old World monkeys are the largest monkeys in the world, with males weighing up to 36 kg and possessing formidable canine teeth that can exceed 5 cm in length. Native to the rainforests of Central Africa, mandrills live in massive social groups called 'hordes' that can number over 1,300 individuals\u2014the largest social groups of any primate except humans. Despite their fearsome appearance and impressive weaponry, mandrills are primarily frugivorous and generally shy, spending most of their time foraging on the forest floor.",
+      "description": "The mandrill (Mandrillus sphinx) is instantly recognizable as the world's most colorful mammal, with males displaying spectacularly vivid facial markings of scarlet red and cobalt blue, bright yellow beards, and rainbow-colored rumps that serve as social signals and indicators of health and dominance. These large, powerful Old World monkeys are the largest monkeys in the world, with males weighing up to 36 kg and possessing formidable canine teeth that can exceed 5 cm in length. Native to the rainforests of Central Africa, mandrills live in massive social groups called 'hordes' that can number over 1,300 individuals—the largest social groups of any primate except humans. Despite their fearsome appearance and impressive weaponry, mandrills are primarily frugivorous and generally shy, spending most of their time foraging on the forest floor.",
       "highlights": [
         "World's most colorful mammal with vivid red and blue face",
         "Largest monkey species in the world",
@@ -2441,7 +2525,7 @@
         "Spend most of time foraging on forest floor"
       ],
       "conservation": "The mandrill is classified as Vulnerable on the IUCN Red List, with populations declining due to habitat destruction and hunting. They have already disappeared from much of their historic range and are now primarily restricted to protected areas in Gabon, Cameroon, and Equatorial Guinea. Primary threats include deforestation from logging and agriculture, bushmeat hunting (they are prized targets due to their size), and Ebola virus. Their large group size makes them vulnerable to mass hunting events. Conservation efforts focus on protected area management and anti-poaching patrols.",
-      "habitatDetails": "Mandrills inhabit tropical rainforests, particularly mature forests with dense understory, in Central Africa. Their range is limited to southwestern Cameroon, western Gabon, Equatorial Guinea, and southwestern Congo. They require extensive forest areas with abundant fruit trees and access to water. Major populations exist in Lop\u00e9 National Park (Gabon) and Dja Faunal Reserve (Cameroon). They are primarily terrestrial but sleep in trees at night. Their range has contracted significantly due to habitat loss and hunting pressure.",
+      "habitatDetails": "Mandrills inhabit tropical rainforests, particularly mature forests with dense understory, in Central Africa. Their range is limited to southwestern Cameroon, western Gabon, Equatorial Guinea, and southwestern Congo. They require extensive forest areas with abundant fruit trees and access to water. Major populations exist in Lopé National Park (Gabon) and Dja Faunal Reserve (Cameroon). They are primarily terrestrial but sleep in trees at night. Their range has contracted significantly due to habitat loss and hunting pressure.",
       "behavior": "Mandrills are highly social primates that live in enormous groups called 'hordes' that can exceed 1,300 individuals, though they may split into smaller foraging parties during the day. Groups contain multiple adult males, many females, and offspring. They are primarily terrestrial, foraging on the forest floor for up to 80% of their active time, but climb trees to sleep and escape predators. Males display dominance through colorful facial markings, which become more vivid with higher testosterone levels. They communicate through various vocalizations, facial expressions, and body postures.",
       "dietDetails": "Mandrills are omnivorous frugivores, with fruit comprising 50-70% of their diet. They consume over 100 different plant species, showing strong preferences for certain fruits. They supplement their diet with seeds, leaves, bark, mushrooms, insects (especially ants and termites), and occasionally small vertebrates including other monkeys. They forage primarily on the forest floor, using their cheek pouches to store food. They play an important ecological role as seed dispersers. Their diverse diet helps them survive seasonal fruit shortages.",
       "threats": [
@@ -2464,12 +2548,12 @@
       "continent": "Africa",
       "subregion": "Central Africa",
       "status": "Endangered",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Dense tropical rainforests",
+        "diet": "Herbivore - leaves, buds, grasses, fungi",
+        "lifespan": "20-30 years",
+        "weight": "200-300 kg"
       },
       "media": {
         "heroImage": "/images/okapi.jpg",
@@ -2481,9 +2565,16 @@
         "image2": "photorealistic wildlife photography, Okapi in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Okapi in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The okapi (Okapia johnstoni) is one of the world's most extraordinary and elusive mammals, a living fossil that remained unknown to science until 1901. These forest giraffes, with their zebra-striped legs and horse-like bodies, are found only in the dense rainforests of the Democratic Republic of Congo. Despite their striking appearance, okapis are incredibly secretive and difficult to observe in the wild. They are the only living relatives of giraffes, sharing the same long, prehensile tongue that can reach 46 cm to strip leaves from branches. Okapis are solitary animals that communicate through infrasound - low-frequency calls below human hearing range. Their striped pattern provides perfect camouflage in the dappled light of the rainforest understory, breaking up their outline among the shadows and vegetation.",
+      "highlights": [
+        "Only living relative of giraffes - discovered by science in 1901",
+        "Tongue can reach 46cm and is prehensile for grasping leaves",
+        "Communicate through infrasound - below human hearing range",
+        "Zebra-striped legs provide camouflage in forest understory",
+        "Found only in Democratic Republic of Congo rainforests",
+        "Can lick their own eyelids and clean their ears with their tongue"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with declining populations. Okapis face severe threats from habitat loss due to logging and human settlement, bushmeat hunting, and civil unrest in their range. The Okapi Wildlife Reserve, a UNESCO World Heritage Site, provides primary protection. Mining operations and illegal armed groups pose ongoing threats. Conservation efforts focus on anti-poaching patrols, community education, and maintaining the integrity of protected areas."
     },
     {
       "slug": "bongo-antelope",
@@ -2492,12 +2583,12 @@
       "continent": "Africa",
       "subregion": "Central Africa",
       "status": "Near Threatened",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Dense tropical rainforests, forest clearings",
+        "diet": "Herbivore - leaves, bark, grasses, fruits",
+        "lifespan": "19 years",
+        "weight": "210-405 kg"
       },
       "media": {
         "heroImage": "/images/bongo-antelope.jpg",
@@ -2509,9 +2600,16 @@
         "image2": "photorealistic wildlife photography, Bongo Antelope in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Bongo Antelope in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The bongo (Tragelaphus eurycerus) is the largest and most spectacular forest antelope in Africa, a shy, elusive creature that haunts the dense rainforests of Central and West Africa. These magnificent animals are instantly recognizable by their rich chestnut-red coats adorned with striking white vertical stripes and long, spiraled horns that can reach 100 cm in males. Bongos are perfectly adapted to life in dense vegetation, with large ears for detecting predators and a sleek body that allows them to navigate through thick undergrowth. They are primarily nocturnal, emerging from the forest depths at night to visit mineral licks and feed on leaves, bark, and grasses. Their shy nature and dense forest habitat make them one of Africa's least seen large mammals, despite their impressive size of up to 400 kg.",
+      "highlights": [
+        "Largest forest antelope in Africa - can reach 400kg",
+        "Males have spectacular spiraled horns up to 100cm long",
+        "Distinctive chestnut-red coat with white vertical stripes",
+        "Extremely shy and elusive - one of Africa's least seen mammals",
+        "Require mineral licks in their diet - travel to specific sites",
+        "Excellent hearing - large ears rotate independently to detect predators"
+      ],
+      "conservation": "Listed as Near Threatened by the IUCN with declining populations. The western subspecies is Critically Endangered. Bongos face severe threats from habitat loss due to logging, hunting for bushmeat and trophies, and human encroachment. Their dependence on forest clearings and mineral licks makes them vulnerable. The eastern mountain bongo is critically endangered with fewer than 100 individuals. Conservation efforts focus on protecting forest habitat, anti-poaching measures, and captive breeding programs."
     },
     {
       "slug": "bonobo",
@@ -2520,12 +2618,12 @@
       "continent": "Africa",
       "subregion": "Central Africa",
       "status": "Endangered",
-      "emoji": "\ud83d\udc35",
+      "emoji": "🐵",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Tropical rainforests, swamp forests",
+        "diet": "Omnivore - fruits, leaves, seeds, small animals",
+        "lifespan": "40-50 years",
+        "weight": "34-60 kg"
       },
       "media": {
         "heroImage": "/images/bonobo.jpg",
@@ -2537,9 +2635,16 @@
         "image2": "photorealistic wildlife photography, Bonobo in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Bonobo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The bonobo (Pan paniscus), often called the pygmy chimpanzee, is one of humanity's closest living relatives, sharing 98.7% of our DNA. These remarkable great apes are found only in the dense rainforests south of the Congo River in the Democratic Republic of Congo. Bonobos are famous for their peaceful, matriarchal societies where conflicts are resolved through affectionate behavior rather than aggression - a stark contrast to their chimpanzee cousins. They are highly intelligent, using tools, communicating through complex vocalizations, and demonstrating empathy and altruism. Bonobos are more gracile than chimpanzees, with longer limbs, smaller heads, and distinctive black faces that retain a youthful appearance throughout life. Their diet is remarkably diverse, including over 100 different plant species, and they play a crucial role as seed dispersers in their forest ecosystem.",
+      "highlights": [
+        "Share 98.7% of DNA with humans - one of our closest relatives",
+        "Live in peaceful matriarchal societies with female leadership",
+        "Resolve conflicts through affection rather than aggression",
+        "Use over 100 different plant species in their diverse diet",
+        "Highly intelligent - use tools and demonstrate empathy",
+        "Retain youthful black facial coloration throughout life"
+      ],
+      "conservation": "Listed as Endangered by the IUCN with rapidly declining populations. Bonobos face catastrophic threats from habitat loss due to logging and agriculture, bushmeat hunting, and civil unrest in their range. Their restricted range in the Congo Basin makes them particularly vulnerable. Estimates suggest only 10,000-20,000 remain in the wild. Conservation efforts focus on protecting forest habitat, anti-poaching patrols, community-based conservation, and supporting sanctuaries for orphaned bonobos."
     },
     {
       "slug": "barbary-macaque",
@@ -2548,7 +2653,7 @@
       "continent": "Africa",
       "subregion": "North Africa",
       "status": "Endangered",
-      "emoji": "\ud83d\udc35",
+      "emoji": "🐵",
       "stats": {
         "habitat": "Cedar Forests, Mountains, Rocky Cliffs",
         "diet": "Omnivore (plants, insects, small animals)",
@@ -2574,9 +2679,9 @@
         "Thick fur helps survive cold mountain winters",
         "Fewer than 8,000 remain in fragmented populations"
       ],
-      "conservation": "The Barbary macaque is classified as Endangered on the IUCN Red List, with fewer than 8,000 individuals remaining in the wild\u2014a decline of over 50% in the past 24 years. They have disappeared from Tunisia and are nearly extinct in Algeria, with the majority of the remaining population in Morocco's Middle Atlas and Rif Mountains. Primary threats include habitat destruction from logging and agriculture, illegal pet trade capturing infants (after killing mothers), persecution by farmers, and climate change affecting food availability. Conservation efforts include anti-poaching patrols, habitat restoration, and education programs to reduce human-macaque conflict.",
+      "conservation": "The Barbary macaque is classified as Endangered on the IUCN Red List, with fewer than 8,000 individuals remaining in the wild—a decline of over 50% in the past 24 years. They have disappeared from Tunisia and are nearly extinct in Algeria, with the majority of the remaining population in Morocco's Middle Atlas and Rif Mountains. Primary threats include habitat destruction from logging and agriculture, illegal pet trade capturing infants (after killing mothers), persecution by farmers, and climate change affecting food availability. Conservation efforts include anti-poaching patrols, habitat restoration, and education programs to reduce human-macaque conflict.",
       "habitatDetails": "Barbary macaques inhabit cedar and oak forests, scrublands, and rocky cliffs of North Africa's Atlas Mountains and the Rock of Gibraltar. In Morocco, they are found in the Middle Atlas, High Atlas, and Rif Mountains at elevations between 400 and 2,300 meters. They require areas with cliffs or steep terrain for refuge and sleeping sites. They are adapted to cold winters with snow and hot summers. The Gibraltar population, introduced centuries ago (possibly by Moors or British), survives in a managed, provisioned population that serves as an important conservation safety net.",
-      "behavior": "Barbary macaques are highly social primates that live in multi-male, multi-female groups ranging from 10 to 100 individuals. They are unique among macaques for their tolerant social structure with less rigid dominance hierarchies. Most remarkably, adult males actively participate in infant care, carrying, grooming, and protecting young\u2014a behavior that strengthens social bonds and may reduce aggression. They are primarily terrestrial, foraging on the ground but sleeping in trees or on cliffs. They communicate through various vocalizations, facial expressions, and body postures. They are diurnal, spending their days foraging and socializing.",
+      "behavior": "Barbary macaques are highly social primates that live in multi-male, multi-female groups ranging from 10 to 100 individuals. They are unique among macaques for their tolerant social structure with less rigid dominance hierarchies. Most remarkably, adult males actively participate in infant care, carrying, grooming, and protecting young—a behavior that strengthens social bonds and may reduce aggression. They are primarily terrestrial, foraging on the ground but sleeping in trees or on cliffs. They communicate through various vocalizations, facial expressions, and body postures. They are diurnal, spending their days foraging and socializing.",
       "dietDetails": "Barbary macaques are opportunistic omnivores with a varied diet that changes seasonally. They consume leaves, grasses, roots, bark, fruits, seeds, flowers, fungi, insects, and occasionally small vertebrates. In cedar forests, they heavily rely on cedar bark and cones, especially in winter when other food is scarce. They raid agricultural crops including apples, walnuts, and cereals, bringing them into conflict with farmers. In Gibraltar, they receive supplementary food from humans, though this creates behavioral problems. They forage primarily on the ground but climb trees to access food and escape predators.",
       "threats": [
         "Illegal pet trade (infants captured after mothers killed)",
@@ -2599,12 +2704,12 @@
       "continent": "Africa",
       "subregion": "North Africa",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd8a",
+      "emoji": "🦊",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Sahara Desert, arid regions",
+        "diet": "Omnivore - insects, small mammals, birds, fruit",
+        "lifespan": "10-14 years",
+        "weight": "0.7-1.6 kg"
       },
       "media": {
         "heroImage": "/images/fennec-fox.jpg",
@@ -2616,9 +2721,16 @@
         "image2": "photorealistic wildlife photography, Fennec Fox in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Fennec Fox in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The fennec fox (Vulpes zerda) is the world's smallest canid and one of nature's most remarkable desert survivors, perfectly adapted to the harsh Sahara and North African deserts. These tiny foxes, weighing just 0.7-1.6 kg, are instantly recognizable by their enormous ears that can reach 15 cm in length - the largest ear-to-body ratio of any canid. Their oversized ears serve as natural air conditioners, radiating heat to keep them cool in scorching desert temperatures. Fennec foxes are nocturnal, spending hot days in cool underground dens and emerging at night to hunt insects, small mammals, and birds. They can survive indefinitely without free water, obtaining all necessary moisture from their food. Their thick, cream-colored fur provides insulation against both heat and cold desert nights.",
+      "highlights": [
+        "World's smallest canid - weighs only 0.7-1.6 kg",
+        "Largest ears relative to body size - up to 15cm long",
+        "Can survive without drinking water - gets all moisture from food",
+        "Ears act as natural air conditioning - radiate heat to stay cool",
+        "Thick fur insulates against both desert heat and cold nights",
+        "Can dig burrows up to 120 square meters with multiple entrances"
+      ],
+      "conservation": "Listed as Least Concern overall, though populations are declining in some areas. Fennec foxes face threats from habitat loss due to human settlement expansion, hunting for the pet trade, and trapping for fur. Their cute appearance makes them popular in the exotic pet trade, which drives illegal capture. Conservation efforts focus on protecting desert ecosystems and reducing illegal wildlife trade."
     },
     {
       "slug": "addax",
@@ -2627,12 +2739,12 @@
       "continent": "Africa",
       "subregion": "North Africa",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Sahara Desert, arid regions",
+        "diet": "Herbivore - desert grasses, leaves, tubers",
+        "lifespan": "19-25 years",
+        "weight": "60-125 kg"
       },
       "media": {
         "heroImage": "/images/addax.jpg",
@@ -2644,9 +2756,16 @@
         "image2": "photorealistic wildlife photography, Addax in Serengeti Tanzania, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, savanna foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Addax in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The addax (Addax nasomaculatus), also known as the white antelope or screwhorn antelope, is one of the world's most critically endangered large mammals and a true desert specialist. These magnificent white antelopes are perfectly adapted to life in the Sahara, with coats that change from dark brown in winter to nearly white in summer to reflect heat. Their most distinctive feature is their long, spiraled horns that can reach 120 cm in males. Addax can survive almost indefinitely without drinking water, obtaining all moisture from the desert vegetation they consume. Their broad, splayed hooves act like snowshoes, preventing them from sinking into soft sand. Once abundant across the Sahara, addax have been driven to the brink of extinction by hunting and habitat loss, with fewer than 100 individuals remaining in the wild.",
+      "highlights": [
+        "Critically endangered - fewer than 100 remain in the wild",
+        "Can survive without drinking water - gets all moisture from plants",
+        "Coat changes color seasonally - dark in winter, white in summer",
+        "Spiraled horns can reach 120cm in males",
+        "Broad hooves act like snowshoes on soft sand",
+        "Can tolerate body temperatures up to 46°C without overheating"
+      ],
+      "conservation": "Listed as Critically Endangered by the IUCN - one of the world's most threatened antelopes. Addax have been hunted to near-extinction for their meat and hides. Habitat loss due to oil exploration and desertification has eliminated most of their range. The last wild populations cling to survival in remote desert areas of Niger and Chad. Intensive captive breeding programs exist, but reintroduction efforts face significant challenges. Conservation efforts focus on protecting remaining wild populations and expanding captive breeding for future reintroduction."
     },
     {
       "slug": "red-crowned-crane",
@@ -2655,7 +2774,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Endangered",
-      "emoji": "\ud83d\udc26",
+      "emoji": "🐦",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2683,7 +2802,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Endangered",
-      "emoji": "\ud83d\udc05",
+      "emoji": "🐅",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2711,7 +2830,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc35",
+      "emoji": "🐵",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2739,7 +2858,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Critically Endangered",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2767,7 +2886,7 @@
       "continent": "Asia",
       "subregion": "East Asia",
       "status": "Endangered",
-      "emoji": "\ud83d\udc3c",
+      "emoji": "🐼",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2795,7 +2914,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udda7",
+      "emoji": "🦧",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2823,7 +2942,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "\ud83d\udc05",
+      "emoji": "🐅",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2851,7 +2970,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Endangered",
-      "emoji": "\ud83e\udd8e",
+      "emoji": "🦎",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2879,7 +2998,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Endangered",
-      "emoji": "\ud83d\udc18",
+      "emoji": "🐘",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2907,7 +3026,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Endangered",
-      "emoji": "\ud83d\udc35",
+      "emoji": "🐵",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2935,7 +3054,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc3b",
+      "emoji": "🐻",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2963,7 +3082,7 @@
       "continent": "Asia",
       "subregion": "Southeast Asia",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udd94",
+      "emoji": "🦔",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -2991,7 +3110,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd8f",
+      "emoji": "🦏",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3019,7 +3138,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Endangered",
-      "emoji": "\ud83d\udc18",
+      "emoji": "🐘",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3047,7 +3166,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3075,7 +3194,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd9a",
+      "emoji": "🦚",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3103,7 +3222,7 @@
       "continent": "Asia",
       "subregion": "South Asia",
       "status": "Endangered",
-      "emoji": "\ud83e\udd81",
+      "emoji": "🦁",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3131,7 +3250,7 @@
       "continent": "Asia",
       "subregion": "Central Asia",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3159,7 +3278,7 @@
       "continent": "Asia",
       "subregion": "Central Asia",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc31",
+      "emoji": "🐱",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3187,7 +3306,7 @@
       "continent": "Asia",
       "subregion": "West Asia",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3215,7 +3334,7 @@
       "continent": "Asia",
       "subregion": "West Asia",
       "status": "Endangered",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3243,7 +3362,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Near Threatened",
-      "emoji": "\ud83e\uddac",
+      "emoji": "🦬",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3271,7 +3390,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3299,7 +3418,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3327,7 +3446,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Critically Endangered",
-      "emoji": "\ud83e\udd85",
+      "emoji": "🦅",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3355,7 +3474,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc3b",
+      "emoji": "🐻",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3383,7 +3502,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc0a",
+      "emoji": "🐊",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3411,7 +3530,7 @@
       "continent": "North America",
       "subregion": "USA and Canada",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddab",
+      "emoji": "🦫",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3439,7 +3558,7 @@
       "continent": "North America",
       "subregion": "Central America",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc26",
+      "emoji": "🐦",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3467,7 +3586,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Endangered",
-      "emoji": "\ud83d\udc2c",
+      "emoji": "🐬",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3495,7 +3614,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc26",
+      "emoji": "🐦",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3523,7 +3642,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddab",
+      "emoji": "🦫",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3551,7 +3670,7 @@
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc1c",
+      "emoji": "🐜",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3579,7 +3698,7 @@
       "continent": "South America",
       "subregion": "Andes Mountains",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd85",
+      "emoji": "🦅",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3602,12 +3721,12 @@
     },
     {
       "slug": "vicuna",
-      "name": "Vicu\u00f1a",
+      "name": "Vicuña",
       "scientificName": "Vicugna vicugna",
       "continent": "South America",
       "subregion": "Andes Mountains",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd99",
+      "emoji": "🦙",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3620,9 +3739,9 @@
         "video": "/videos/vicuna.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, majestic Vicu\u00f1a in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, Vicu\u00f1a in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, Vicu\u00f1a in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, majestic Vicuña in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Vicuña in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Vicuña in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
       "description": "",
       "highlights": [],
@@ -3635,7 +3754,7 @@
       "continent": "South America",
       "subregion": "Andes Mountains",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc3b",
+      "emoji": "🐻",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3663,7 +3782,7 @@
       "continent": "South America",
       "subregion": "Pantanal",
       "status": "Endangered",
-      "emoji": "\ud83e\udda6",
+      "emoji": "🦦",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3691,7 +3810,7 @@
       "continent": "South America",
       "subregion": "Pantanal",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc3a",
+      "emoji": "🐺",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3719,7 +3838,7 @@
       "continent": "South America",
       "subregion": "Patagonia",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd99",
+      "emoji": "🦙",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3747,7 +3866,7 @@
       "continent": "South America",
       "subregion": "Patagonia",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc27",
+      "emoji": "🐧",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3775,7 +3894,7 @@
       "continent": "Europe",
       "subregion": "Western Europe",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3803,7 +3922,7 @@
       "continent": "Europe",
       "subregion": "Eastern Europe",
       "status": "Near Threatened",
-      "emoji": "\ud83e\uddac",
+      "emoji": "🦬",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3831,7 +3950,7 @@
       "continent": "Europe",
       "subregion": "Eastern Europe",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc3b",
+      "emoji": "🐻",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3859,7 +3978,7 @@
       "continent": "Europe",
       "subregion": "Southern Europe",
       "status": "Endangered",
-      "emoji": "\ud83d\udc06",
+      "emoji": "🐆",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3887,7 +4006,7 @@
       "continent": "Europe",
       "subregion": "Southern Europe",
       "status": "Endangered",
-      "emoji": "\ud83e\uddad",
+      "emoji": "🦭",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3915,7 +4034,7 @@
       "continent": "Europe",
       "subregion": "Northern Europe",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd8c",
+      "emoji": "🦌",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3943,7 +4062,7 @@
       "continent": "Europe",
       "subregion": "Northern Europe",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc0b",
+      "emoji": "🐋",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3971,7 +4090,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Least Concern",
-      "emoji": "\ud83e\udd98",
+      "emoji": "🦘",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -3999,7 +4118,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc28",
+      "emoji": "🐨",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4027,7 +4146,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Near Threatened",
-      "emoji": "\ud83e\uddab",
+      "emoji": "🦫",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4055,7 +4174,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Endangered",
-      "emoji": "\ud83e\udda1",
+      "emoji": "🦡",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4083,7 +4202,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc26",
+      "emoji": "🐦",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4111,7 +4230,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Vulnerable",
-      "emoji": "\ud83e\udd98",
+      "emoji": "🦘",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4139,7 +4258,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddab",
+      "emoji": "🦫",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4167,7 +4286,7 @@
       "continent": "Oceania",
       "subregion": "Australia",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc15",
+      "emoji": "🐕",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4195,7 +4314,7 @@
       "continent": "Oceania",
       "subregion": "Melanesia",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc26",
+      "emoji": "🐦",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4223,7 +4342,7 @@
       "continent": "Oceania",
       "subregion": "Polynesia",
       "status": "Endangered",
-      "emoji": "\ud83e\uddad",
+      "emoji": "🦭",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4251,7 +4370,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Near Threatened",
-      "emoji": "\ud83d\udc27",
+      "emoji": "🐧",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4279,7 +4398,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddad",
+      "emoji": "🦭",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4307,7 +4426,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Vulnerable",
-      "emoji": "\ud83d\udc26",
+      "emoji": "🐦",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4335,7 +4454,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc27",
+      "emoji": "🐧",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4363,7 +4482,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddad",
+      "emoji": "🦭",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4391,7 +4510,7 @@
       "continent": "Antarctica",
       "subregion": "Antarctic Peninsula",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc27",
+      "emoji": "🐧",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4414,12 +4533,12 @@
     },
     {
       "slug": "adelie-penguin",
-      "name": "Ad\u00e9lie Penguin",
+      "name": "Adélie Penguin",
       "scientificName": "Pygoscelis adeliae",
       "continent": "Antarctica",
       "subregion": "West Antarctica",
       "status": "Least Concern",
-      "emoji": "\ud83d\udc27",
+      "emoji": "🐧",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4432,9 +4551,9 @@
         "video": "/videos/adelie-penguin.mp4"
       },
       "midjourneyPrompts": {
-        "hero": "photorealistic wildlife portrait, majestic Ad\u00e9lie Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
-        "image2": "photorealistic wildlife photography, Ad\u00e9lie Penguin in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
-        "video": "cinematic wildlife footage, Ad\u00e9lie Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+        "hero": "photorealistic wildlife portrait, majestic Adélie Penguin in Antarctic Peninsula, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, ice background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Adélie Penguin in Antarctic Peninsula, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, ice foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Adélie Penguin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
       "description": "",
       "highlights": [],
@@ -4447,7 +4566,7 @@
       "continent": "Antarctica",
       "subregion": "West Antarctica",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddad",
+      "emoji": "🦭",
       "stats": {
         "habitat": "",
         "diet": "",
@@ -4475,7 +4594,7 @@
       "continent": "Antarctica",
       "subregion": "West Antarctica",
       "status": "Least Concern",
-      "emoji": "\ud83e\uddad",
+      "emoji": "🦭",
       "stats": {
         "habitat": "",
         "diet": "",
