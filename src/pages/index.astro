@@ -2,20 +2,46 @@
 import Layout from '../layouts/Layout.astro';
 import StoryCard from '../components/StoryCard.astro';
 import animalsData from '../data/animals.json';
+import fs from 'fs';
+import path from 'path';
 
 const sortedContinents = animalsData.continents.sort((a, b) => a.order - b.order);
 const featuredAnimals = animalsData.animals.slice(0, 4);
 
+// Helper to find actual image file with correct extension
+function findImageFile(imagePath: string): string {
+  if (imagePath?.startsWith('http')) return imagePath;
+  if (imagePath?.match(/\.(jpg|jpeg|png|webp|gif)$/i)) return imagePath;
+  
+  const publicDir = path.join(process.cwd(), 'public');
+  const baseName = imagePath;
+  const extensions = ['.jpg', '.jpeg', '.png', '.webp'];
+  
+  for (const ext of extensions) {
+    const fullPath = path.join(publicDir, baseName + ext);
+    if (fs.existsSync(fullPath)) {
+      return baseName + ext;
+    }
+  }
+  
+  return baseName + '.jpg';
+}
+
 // Helper to get animal image - uses media from animals.json
 const getAnimalImage = (animal: any) => {
-  return animal.media?.heroImage || `/images/${animal.slug}.jpg`;
+  const heroImage = animal.media?.heroImage;
+  if (heroImage) {
+    return findImageFile(heroImage);
+  }
+  return findImageFile(`/images/${animal.slug}`);
 };
 
 const getContinentImage = (slug: string) => {
   const continentImages: Record<string, string> = {
-    'africa': '/images/lion.jpg',
+    'africa': '/images/lion',
   };
-  return continentImages[slug];
+  const basePath = continentImages[slug];
+  return basePath ? findImageFile(basePath) : null;
 };
 ---
 

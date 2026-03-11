@@ -1,6 +1,8 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import animalsData from '../../data/animals.json';
+import fs from 'fs';
+import path from 'path';
 
 export async function getStaticPaths() {
   const animals = animalsData.animals;
@@ -41,16 +43,33 @@ function getVideoUrl(slug: string, externalUrl: string): string {
 
 const processedVideoUrl = getVideoUrl(animal.slug, videoUrl);
 
-// Build image paths - try different extensions if not specified
-const getImagePath = (basePath: string) => {
-  if (basePath && basePath.startsWith('http')) return basePath;
-  if (basePath) return basePath;
-  // Return slug without extension - browser will try .jpg, .png, etc
-  return `/images/${animal.slug}`;
-};
+// Helper to find actual image file with correct extension
+function findImageFile(imagePath: string): string {
+  // If it's a full URL, return as-is
+  if (imagePath?.startsWith('http')) return imagePath;
+  
+  // If path already has extension, return as-is
+  if (imagePath?.match(/\.(jpg|jpeg|png|webp|gif)$/i)) return imagePath;
+  
+  // Try to find the file with different extensions
+  const publicDir = path.join(process.cwd(), 'public');
+  const baseName = imagePath || `/images/${animal.slug}`;
+  const extensions = ['.jpg', '.jpeg', '.png', '.webp'];
+  
+  for (const ext of extensions) {
+    const fullPath = path.join(publicDir, baseName + ext);
+    if (fs.existsSync(fullPath)) {
+      return baseName + ext;
+    }
+  }
+  
+  // Fallback to .jpg if not found
+  return baseName + '.jpg';
+}
 
-const heroImagePath = getImagePath(heroImage);
-const image2Path = image2 ? getImagePath(image2) : null;
+// Build image paths with correct extensions
+const heroImagePath = findImageFile(heroImage);
+const image2Path = image2 ? findImageFile(image2) : null;
 
 // Check if SEO-enhanced content is available
 const hasSeoContent = !!animal.seo;

@@ -2,6 +2,8 @@
 import Layout from '../../layouts/Layout.astro';
 import StoryCard from '../../components/StoryCard.astro';
 import animalsData from '../../data/animals.json';
+import fs from 'fs';
+import path from 'path';
 
 export async function getStaticPaths() {
   return animalsData.continents.map(continent => ({
@@ -13,18 +15,40 @@ export async function getStaticPaths() {
 const { continent } = Astro.props;
 const continentAnimals = animalsData.animals.filter(a => a.continent === continent.name);
 
+// Helper to find actual image file with correct extension
+function findImageFile(imagePath: string): string {
+  if (imagePath?.startsWith('http')) return imagePath;
+  if (imagePath?.match(/\.(jpg|jpeg|png|webp|gif)$/i)) return imagePath;
+  
+  const publicDir = path.join(process.cwd(), 'public');
+  const baseName = imagePath;
+  const extensions = ['.jpg', '.jpeg', '.png', '.webp'];
+  
+  for (const ext of extensions) {
+    const fullPath = path.join(publicDir, baseName + ext);
+    if (fs.existsSync(fullPath)) {
+      return baseName + ext;
+    }
+  }
+  
+  return baseName + '.jpg';
+}
+
 // Helper to get animal image - uses media from animals.json
 const getAnimalImage = (animal: any) => {
-  // Use heroImage from media if available, otherwise fallback to slug-based path
-  return animal.media?.heroImage || `/images/${animal.slug}.jpg`;
+  const heroImage = animal.media?.heroImage;
+  if (heroImage) {
+    return findImageFile(heroImage);
+  }
+  return findImageFile(`/images/${animal.slug}`);
 };
 
 // Hero images for specific continents - use actual file paths
 const heroImages: Record<string, string> = {
-  'africa': '/images/lion.jpg',
+  'africa': '/images/lion',
 };
 
-const heroImage = heroImages[continent.slug];
+const heroImage = heroImages[continent.slug] ? findImageFile(heroImages[continent.slug]) : null;
 ---
 
 <Layout title={`${continent.name} | Wildlife`}>
