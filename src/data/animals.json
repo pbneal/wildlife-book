@@ -948,14 +948,21 @@
         "image2": "photorealistic wildlife portrait, jaguar face close-up in Amazon Brazil, dramatic black and white photography, high contrast, intense eyes, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, jaguar fills frame, timeless powerful mood, fine art conservation photography, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, jaguar stalking and hunting caiman, dramatic water action, slow motion, 4K, intense music, National Geographic documentary style"
       },
-      "description": "The jaguar is the largest cat in the Americas and the third largest in the world. Known for their powerful bite that can pierce turtle shells.",
+      "description": "The jaguar (Panthera onca) stands as the largest cat in the Americas and the third largest big cat in the world, reigning supreme as the apex predator of the Amazon Rainforest. These magnificent felines possess the most powerful bite force of any cat relative to their size, capable of crushing turtle shells and piercing the skulls of their prey with a single lethal bite. Unlike other big cats that typically kill by suffocation, jaguars employ a unique killing method called the 'piercing bite,' delivering a fatal blow directly to the brain or spinal cord. Their distinctive rosette-patterned coats, larger and more spaced than a leopard's spots, provide perfect camouflage in the dappled light of the rainforest canopy. Jaguars are remarkably adaptable hunters, equally at home in dense jungle, grasslands, and wetlands, and are excellent swimmers who actively hunt caiman and fish in rivers and lakes. As obligate carnivores, they play a crucial role in maintaining the ecological balance of their habitat by controlling populations of herbivores and smaller predators.",
       "highlights": [
-        "Largest cat in Americas",
-        "Most powerful bite of all big cats",
-        "Excellent swimmers",
-        "Solitary apex predator"
+        "Largest cat in the Americas, weighing up to 96 kg",
+        "Most powerful bite force of any big cat - can pierce turtle shells and skulls",
+        "Excellent swimmers who actively hunt in rivers and lakes",
+        "Distinctive rosette coat pattern provides perfect rainforest camouflage",
+        "Solitary apex predators with territories spanning 25-150 square kilometers",
+        "Critical keystone species for Amazon ecosystem balance"
       ],
-      "conservation": "Near threatened due to habitat loss and conflict with ranchers. Pantanal has highest density."
+      "conservation": "Classified as Near Threatened by the IUCN Red List, jaguar populations have declined by 20-25% over the past three generations. An estimated 64,000 individuals remain across their range, with the Amazon Basin hosting the largest contiguous population. Primary threats include habitat loss from deforestation, human-wildlife conflict with cattle ranchers, and poaching for their beautiful pelts. The Pantanal wetlands harbor the highest density of jaguars anywhere in the world. Conservation efforts focus on establishing wildlife corridors connecting fragmented habitats, compensating ranchers for livestock losses, and protecting critical jaguar strongholds across the Amazon basin.",
+      "seo": {
+        "title": "Jaguar: Amazon's Apex Predator | Wildlife Conservation Guide",
+        "metaDescription": "Discover the jaguar (Panthera onca), the largest cat in the Americas. Learn about their powerful bite, Amazon Rainforest habitat, and near threatened conservation status.",
+        "keywords": ["jaguar", "Panthera onca", "Amazon Rainforest jaguar", "largest cat Americas", "apex predator", "near threatened species", "jaguar conservation", "Amazon wildlife"]
+      }
     },
     {
       "slug": "maasai-giraffe",
@@ -3610,16 +3617,16 @@
     {
       "slug": "toucan",
       "name": "Toucan",
-      "scientificName": "Ramphastos spp.",
+      "scientificName": "Ramphastos toco",
       "continent": "South America",
       "subregion": "Amazon Rainforest",
       "status": "Least Concern",
       "emoji": "🐦",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Tropical Rainforests, Forest Canopy",
+        "diet": "Omnivore - Fruit, Insects, Eggs",
+        "lifespan": "20-26 years",
+        "weight": "500-876 g"
       },
       "media": {
         "heroImage": "/images/toucan.jpg",
@@ -3631,9 +3638,21 @@
         "image2": "photorealistic wildlife photography, Toucan in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Toucan in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The toucan, most notably the Toco toucan (Ramphastos toco), stands as one of the most recognizable and iconic birds of the Amazon Rainforest, instantly identifiable by its extraordinarily large, colorful bill that can measure up to one-third of the bird's total body length. Despite its imposing size, the bill is remarkably lightweight due to its honeycomb-like internal structure of keratin struts. These vibrant birds play a crucial ecological role as seed dispersers, consuming up to 100 different fruit species and spreading seeds throughout the forest via their droppings. Toucans are highly social creatures, typically found in small flocks of 3-12 individuals that forage together through the rainforest canopy. Their distinctive croaking calls echo through the jungle, serving as communication between group members. The bright colors of their bills serve multiple purposes including thermoregulation, mate attraction, and intimidating potential predators.",
+      "highlights": [
+        "Iconic oversized bill can reach 20 cm long but weighs only 20% of total body weight",
+        "Bill has honeycomb internal structure for strength with minimal weight",
+        "Consume over 100 different fruit species as primary seed dispersers",
+        "Highly social birds living in flocks of 3-12 individuals",
+        "Use their bills for thermoregulation - blood flow helps cool the body",
+        "Can fly gracefully despite large bill, maneuvering through dense canopy"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, toucans remain relatively abundant throughout the Amazon Basin. However, several species face increasing pressure from habitat loss due to deforestation and the illegal pet trade. The Toco toucan, being the largest and most recognizable species, is particularly sought after for the exotic bird market. Additionally, climate change is affecting fruit availability in some regions, potentially impacting toucan populations. Conservation efforts focus on protecting rainforest habitats and enforcing laws against illegal wildlife trade. These birds serve as important indicator species for forest health, making their protection vital for overall Amazon ecosystem conservation.",
+      "seo": {
+        "title": "Toucan: Amazon's Colorful Icon | Rainforest Bird Guide",
+        "metaDescription": "Discover the toucan (Ramphastos toco), the iconic Amazon bird with the oversized colorful bill. Learn about their rainforest habitat, diet, and ecological importance.",
+        "keywords": ["toucan", "Ramphastos toco", "Toco toucan", "Amazon bird", "rainforest wildlife", "seed disperser", "colorful beak", "Amazon Rainforest birds"]
+      }
     },
     {
       "slug": "capybara",
@@ -3644,10 +3663,10 @@
       "status": "Least Concern",
       "emoji": "🦫",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Rivers, Lakes, Marshes, Grasslands",
+        "diet": "Herbivore - Grasses, Aquatic Plants",
+        "lifespan": "8-12 years (wild)",
+        "weight": "35-66 kg"
       },
       "media": {
         "heroImage": "/images/capybara.jpg",
@@ -3659,9 +3678,21 @@
         "image2": "photorealistic wildlife photography, Capybara in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Capybara in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The capybara (Hydrochoerus hydrochaeris) holds the distinction of being the largest rodent in the world, resembling an oversized guinea pig with a gentle, sociable disposition. These remarkable semi-aquatic mammals can weigh up to 66 kg and measure 1.3 meters in length, making them true giants among their rodent relatives. Native to the wetlands and grasslands of South America, capybaras are perfectly adapted to an aquatic lifestyle with webbed feet for swimming and the ability to hold their breath underwater for up to five minutes. They are highly social animals, living in groups of 10-30 individuals that provide protection against predators like jaguars, caimans, and anacondas. Capybaras are crepuscular, meaning they are most active during dawn and dusk, spending their days wallowing in mud or water to regulate body temperature and protect their sensitive skin from the harsh tropical sun. Their gentle nature has made them surprisingly tolerant of other species, often seen with birds perching on their backs.",
+      "highlights": [
+        "World's largest rodent, weighing up to 66 kg",
+        "Highly social animals living in groups of 10-30 individuals",
+        "Can hold breath underwater for up to 5 minutes",
+        "Webbed feet make them excellent swimmers",
+        "Spend much of day wallowing in water to regulate body temperature",
+        "Gentle nature allows symbiotic relationships with birds and other animals"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, capybaras remain abundant throughout their range in South America. Their adaptability to various habitats, including human-modified landscapes like cattle ranches and agricultural areas, has helped maintain stable populations. However, they face hunting pressure for their meat and hides in some regions, and habitat loss from wetland drainage poses localized threats. In some areas, capybaras are considered agricultural pests due to their appetite for crops like sugarcane and rice. Conservation efforts focus on sustainable management practices and protecting critical wetland habitats. Their role as ecosystem engineers, creating wallows used by other species, makes their conservation important for overall biodiversity.",
+      "seo": {
+        "title": "Capybara: World's Largest Rodent | Amazon Wildlife Guide",
+        "metaDescription": "Discover the capybara (Hydrochoerus hydrochaeris), the world's largest rodent. Learn about their aquatic lifestyle, social behavior, and Amazon Rainforest habitat.",
+        "keywords": ["capybara", "Hydrochoerus hydrochaeris", "world's largest rodent", "Amazon rodent", "semi-aquatic mammal", "Amazon wildlife", "capybara facts", "rainforest animals"]
+      }
     },
     {
       "slug": "giant-anteater",
@@ -3715,9 +3746,16 @@
         "image2": "photorealistic wildlife photography, Andean Condor in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Andean Condor in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Andean Condor (Vultur gryphus) stands as one of the most magnificent birds on Earth and the largest flying land bird in the Western Hemisphere. With an extraordinary wingspan reaching up to 3.3 meters (10.8 feet), these ancient soaring birds have patrolled the skies above South America's Andes Mountains for millions of years. Their distinctive black plumage contrasts dramatically with white wing feathers and a bare, reddish-pink head that changes color with emotional states. Andean Condors are masterful gliders, using thermal air currents to soar for hours without flapping their wings, covering vast distances while searching for carrion. These sacred birds hold deep cultural significance for indigenous Andean peoples, who have revered them as symbols of power, health, and connection to the spirit world for thousands of years. Today, they remain a flagship species for Andean conservation, representing the wild, untamed spirit of the world's longest mountain range.",
+      "highlights": [
+        "Largest wingspan of any land bird in the Western Hemisphere - up to 3.3 meters",
+        "Can soar for hours without flapping wings using thermal air currents",
+        "Lives 70+ years in captivity, among the longest-lived birds",
+        "Sacred symbol in Andean indigenous cultures for millennia",
+        "Bare head adapts color from pink to deep red based on emotional state",
+        "Can travel over 200 kilometers in a single day searching for food"
+      ],
+      "conservation": "The Andean Condor is currently listed as Vulnerable by the IUCN, with populations declining across their range due to human activities. Primary threats include poisoning from carcasses laced with pesticides targeting predators, lead poisoning from ingesting bullet fragments in hunted animals, habitat loss, and collisions with power lines. Their slow reproductive rate—raising only one chick every 2-3 years—makes population recovery challenging. Conservation efforts include captive breeding programs, anti-poisoning education for farmers, and removing power lines from critical habitats. Countries like Chile, Argentina, Peru, and Bolivia have established protected areas and national recovery plans."
     },
     {
       "slug": "vicuna",
@@ -3743,9 +3781,16 @@
         "image2": "photorealistic wildlife photography, Vicuña in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Vicuña in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Vicuña (Vicugna vicugna) is the smallest and most graceful member of the camel family, a living treasure of the Andes Mountains that produces the finest and most expensive natural fiber in the world. Standing just 75-85 centimeters at the shoulder, these delicate creatures roam the high-altitude grasslands and plains of the Andes at elevations between 3,200 and 4,800 meters. Their soft, tawny coats provide insulation against extreme temperature fluctuations, while their specialized blood cells maximize oxygen uptake in thin mountain air. Vicuñas have been revered by Andean civilizations for thousands of years—so sacred that only Inca royalty could wear garments woven from their golden fleece. After facing near-extinction from hunting, vicuñas have made a remarkable recovery through community-based conservation, becoming a model for sustainable wildlife management in South America.",
+      "highlights": [
+        "Produces the finest natural fiber in the world - 12-14 microns in diameter",
+        "Specialized hemoglobin captures oxygen efficiently at high altitudes",
+        "Can survive at elevations up to 5,800 meters above sea level",
+        "Sacred to Inca civilization - only royalty could wear vicuña garments",
+        "Recovered from just 6,000 individuals in 1960s to over 350,000 today",
+        "Live in family groups with one dominant male and several females"
+      ],
+      "conservation": "The Vicuña is currently listed as Least Concern by the IUCN, representing one of conservation's great success stories. By the 1960s, uncontrolled hunting for their precious fleece reduced populations to approximately 6,000 animals. International protection through CITES Appendix I and community-based management programs in Peru, Bolivia, Chile, and Argentina enabled remarkable recovery to over 350,000 individuals today. Sustainable use programs allow indigenous communities to harvest fiber from live animals through traditional chaccu roundups, creating economic incentives for conservation while preserving cultural traditions."
     },
     {
       "slug": "spectacled-bear",
@@ -3771,23 +3816,30 @@
         "image2": "photorealistic wildlife photography, Spectacled Bear in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Spectacled Bear in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Spectacled Bear (Tremarctos ornatus), also known as the Andean bear, is South America's only native bear species and the last surviving member of the short-faced bear subfamily that once roamed across the Americas. Named for the distinctive cream-colored facial markings that encircle their eyes like eyeglasses, these elusive bears inhabit the cloud forests and high-altitude grasslands of the Andes Mountains from Venezuela to Bolivia. Unlike their northern cousins, spectacled bears are primarily herbivorous, with up to 95% of their diet consisting of fruits, bromeliads, and tough mountain vegetation. They play a crucial ecological role as seed dispersers, helping maintain the health of Andean forests. Despite their gentle nature and preference for remote habitats, these bears face mounting threats from habitat fragmentation and human encroachment, making them a conservation priority across their range.",
+      "highlights": [
+        "Only bear species native to South America",
+        "Last surviving member of the ancient short-faced bear subfamily",
+        "Distinctive cream-colored 'spectacle' markings around eyes",
+        "95% vegetarian diet - feeds mainly on fruits and bromeliads",
+        "Excellent climbers - often build nests in trees to feed and rest",
+        "Inspiration for Paddington Bear, who came from 'darkest Peru'"
+      ],
+      "conservation": "The Spectacled Bear is currently listed as Vulnerable by the IUCN, with populations declining due to habitat loss and fragmentation. Primary threats include agricultural expansion, road construction fragmenting forests, and human-wildlife conflict when bears raid crops. Deforestation in the Andes has reduced their habitat by over 30% in the past three decades. Conservation efforts focus on establishing protected corridors connecting fragmented habitats, community education programs, and compensation schemes for farmers who experience crop damage. International cooperation between Andean nations is essential for protecting this iconic species across its transboundary range."
     },
     {
       "slug": "giant-otter",
       "name": "Giant Otter",
       "scientificName": "Pteronura brasiliensis",
       "continent": "South America",
-      "subregion": "Pantanal",
+      "subregion": "Amazon Rainforest",
       "status": "Endangered",
       "emoji": "🦦",
       "stats": {
-        "habitat": "",
-        "diet": "",
-        "lifespan": "",
-        "weight": ""
+        "habitat": "Rivers, Lakes, Wetlands",
+        "diet": "Carnivore - Fish, Crustaceans",
+        "lifespan": "8-10 years (wild)",
+        "weight": "22-32 kg"
       },
       "media": {
         "heroImage": "/images/giant-otter.jpg",
@@ -3799,9 +3851,21 @@
         "image2": "photorealistic wildlife photography, Giant Otter in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Giant Otter in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The giant otter (Pteronura brasiliensis) ranks as the largest otter species in the world and one of the most charismatic predators of the Amazon Rainforest. These remarkable semi-aquatic mammals can reach lengths of up to 1.8 meters (6 feet) and are often called 'river wolves' due to their social behavior and pack-hunting strategies. Unlike most otter species that are solitary, giant otters live in close-knit family groups of 3-10 individuals, working cooperatively to hunt fish and defend their territories against caimans and jaguars. Their dense, water-repellent fur, once prized by the fur trade, displays a distinctive pattern of cream-colored throat patches that are unique to each individual, much like human fingerprints. Giant otters are apex predators in Amazonian waterways, consuming up to 4 kg of fish daily and playing a vital role in maintaining healthy aquatic ecosystems. Their incredible intelligence is evident in their complex vocal repertoire of nine distinct calls used for communication within the group.",
+      "highlights": [
+        "Largest otter species in the world, reaching up to 1.8 meters long",
+        "Highly social animals living in family groups of 3-10 individuals",
+        "Unique cream-colored throat patches that identify each individual",
+        "Consume up to 4 kg of fish daily as apex aquatic predators",
+        "Possess nine distinct vocal calls for complex communication",
+        "Can swim at speeds up to 15 km/h when hunting"
+      ],
+      "conservation": "Classified as Endangered by the IUCN Red List, giant otter populations have declined by over 50% in the past three generations. Once abundant throughout the Amazon Basin, they were hunted to near extinction for their valuable pelts during the 20th century fur trade. Today, only 1,000-5,000 individuals remain across their fragmented range. Primary threats include habitat degradation from mining and dam construction, water pollution from agricultural runoff and mercury contamination from gold mining, and human persecution by fishermen who view them as competitors. Conservation efforts focus on protecting critical riverine habitats, establishing anti-poaching patrols, and educating local communities about the ecological importance of these apex predators.",
+      "seo": {
+        "title": "Giant Otter: Amazon's River Wolf | Endangered Species Guide",
+        "metaDescription": "Discover the giant otter (Pteronura brasiliensis), the world's largest otter species. Learn about their social behavior, Amazon habitat, and endangered conservation status.",
+        "keywords": ["giant otter", "Pteronura brasiliensis", "Amazon otter", "river wolf", "endangered species", "Amazon wildlife", "otter conservation", "aquatic predator"]
+      }
     },
     {
       "slug": "maned-wolf",
@@ -3836,7 +3900,7 @@
       "name": "Guanaco",
       "scientificName": "Lama guanicoe",
       "continent": "South America",
-      "subregion": "Patagonia",
+      "subregion": "Andes Mountains",
       "status": "Least Concern",
       "emoji": "🦙",
       "stats": {
@@ -3855,9 +3919,191 @@
         "image2": "photorealistic wildlife photography, Guanaco in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Guanaco in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Guanaco (Lama guanicoe) is the wild ancestor of the domestic llama and one of the most iconic animals of the Andes Mountains. These elegant camelids have roamed the high-altitude grasslands and rugged mountain slopes of South America for thousands of years, adapting perfectly to the harsh conditions of the Andean highlands. Standing up to 1.2 meters at the shoulder, guanacos possess a slender, graceful build with long legs and necks, covered in thick, warm coats that range from reddish-brown to cinnamon. Their large, expressive eyes and gentle demeanor belie their remarkable toughness—these animals can survive at elevations exceeding 4,000 meters where oxygen is scarce and temperatures plummet. Guanacos live in family groups or larger herds, communicating through a variety of vocalizations including their distinctive alarm call that gives them their name. As the primary prey of pumas in the Andes, they play a vital role in the mountain ecosystem.",
+      "highlights": [
+        "Wild ancestor of the domestic llama - never successfully domesticated",
+        "Can survive at elevations up to 4,000 meters in the Andes",
+        "Produces exceptionally fine fiber - second only to vicuña in quality",
+        "Lives in family groups with a dominant male, females, and offspring",
+        "Can run at speeds up to 56 km/h to escape predators",
+        "Name comes from their distinctive alarm call 'guanaco-guanaco'"
+      ],
+      "conservation": "The Guanaco is currently listed as Least Concern by the IUCN, though populations have declined significantly from historical numbers. Approximately 500,000-600,000 guanacos remain across their range in Peru, Bolivia, Chile, and Argentina. Primary threats include habitat loss from livestock grazing competition, hunting, and climate change affecting high-altitude grasslands. In Chile's Tierra del Fuego, introduced beavers have destroyed critical riparian habitat. Conservation efforts focus on sustainable management, protected area establishment, and controlling illegal hunting. Guanacos represent an important potential alternative to cattle in arid Andean regions, offering sustainable fiber production without environmental degradation."
+    },
+    {
+      "slug": "puma-andes",
+      "name": "Puma",
+      "scientificName": "Puma concolor",
+      "continent": "South America",
+      "subregion": "Andes Mountains",
+      "status": "Least Concern",
+      "emoji": "🐆",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/puma-andes.jpg",
+        "image2": "/images/puma-andes-2.jpg",
+        "video": "/videos/puma-andes.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Puma in Andes Mountains Peru, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, mountain background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Puma in Andes Mountains Peru, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, mountain foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Puma in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Puma (Puma concolor), also known as the cougar or mountain lion, reigns as the apex predator of the Andes Mountains. These magnificent cats possess the greatest geographic range of any large terrestrial mammal in the Western Hemisphere, but the Andean population represents one of the most specialized and impressive adaptations. In the high-altitude grasslands and rugged mountain terrain of the Andes, pumas have evolved to hunt guanacos and vicuñas, often at elevations exceeding 4,000 meters. Their powerful limbs, exceptional agility, and stealthy nature make them perfectly suited for ambushing prey in rocky terrain. Andean pumas typically display a tawny or grayish coat that blends seamlessly with the mountain landscape. As solitary hunters, they require vast territories—sometimes spanning over 100 square kilometers—to find sufficient prey in these challenging environments. Their presence indicates healthy ecosystems and abundant prey populations.",
+      "highlights": [
+        "Largest wild cat in the Andes and apex predator of the region",
+        "Can leap up to 5.5 meters horizontally and 1.8 meters vertically",
+        "Exceptional adaptability - thrives from sea level to 5,800 meters elevation",
+        "Primary prey includes guanacos, vicuñas, and domestic livestock",
+        "Territories can exceed 100 square kilometers in Andean grasslands",
+        "Most widespread large carnivore in the Western Hemisphere"
+      ],
+      "conservation": "The Puma is currently listed as Least Concern by the IUCN globally, though Andean populations face unique challenges. While adaptable, pumas in the Andes suffer from habitat fragmentation, prey depletion due to livestock competition, and retaliatory killings by farmers protecting sheep and cattle. As human settlement expands into high-altitude grasslands, human-puma conflict intensifies. Conservation efforts focus on implementing livestock protection measures like guard dogs and night enclosures, establishing wildlife corridors between protected areas, and educating communities about puma ecology. These apex predators play a crucial role in maintaining healthy Andean ecosystems by regulating prey populations."
+    },
+    {
+      "slug": "andean-cock-of-the-rock",
+      "name": "Andean Cock-of-the-rock",
+      "scientificName": "Rupicola peruvianus",
+      "continent": "South America",
+      "subregion": "Andes Mountains",
+      "status": "Least Concern",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/andean-cock-of-the-rock.jpg",
+        "image2": "/images/andean-cock-of-the-rock-2.jpg",
+        "video": "/videos/andean-cock-of-the-rock.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Andean Cock-of-the-rock in Andes Mountains Peru, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, cloud forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Andean Cock-of-the-rock in Andes Mountains Peru, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, cloud forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Andean Cock-of-the-rock in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Andean Cock-of-the-rock (Rupicola peruvianus) stands as one of the most visually spectacular birds in the world and the national bird of Peru. Males display an extraordinary fan-shaped crest and brilliant orange-red plumage that seems to glow against the misty green backdrop of Andean cloud forests. These medium-sized passerines inhabit the humid montane forests along the eastern slopes of the Andes from Venezuela to Bolivia, typically between 500 and 2,400 meters elevation. Males are famous for their elaborate communal courtship displays called leks, where they gather at dawn to perform competitive dances, bowing, jumping, and vocalizing to attract females. Their strange croaking calls echo through the forest canopy during breeding season. Beyond their aesthetic value, these birds play an important ecological role as seed dispersers for many fruiting trees in Andean forests.",
+      "highlights": [
+        "National bird of Peru and one of the world's most spectacular birds",
+        "Males display brilliant orange-red plumage with a large fan-shaped crest",
+        "Performs elaborate communal courtship dances at dawn in leks",
+        "Inhabits humid cloud forests on eastern slopes of the Andes",
+        "Important seed disperser for many Andean forest tree species",
+        "Males spend up to 90% of their time at lek sites during breeding season"
+      ],
+      "conservation": "The Andean Cock-of-the-rock is currently listed as Least Concern by the IUCN, though populations are declining in some areas. Primary threats include deforestation of cloud forest habitat for agriculture, logging, and human settlement. Climate change poses a long-term threat as rising temperatures push cloud forests to higher elevations. The species depends on intact forest corridors for movement between fragmented habitats. Conservation efforts focus on protecting remaining cloud forest ecosystems, establishing biological corridors, and promoting ecotourism that values these spectacular birds as flagship species for Andean forest conservation."
+    },
+    {
+      "slug": "mountain-tapir",
+      "name": "Mountain Tapir",
+      "scientificName": "Tapirus pinchaque",
+      "continent": "South America",
+      "subregion": "Andes Mountains",
+      "status": "Endangered",
+      "emoji": "🦛",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/mountain-tapir.jpg",
+        "image2": "/images/mountain-tapir-2.jpg",
+        "video": "/videos/mountain-tapir.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Mountain Tapir in Andes Mountains Colombia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, cloud forest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Mountain Tapir in Andes Mountains Colombia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, cloud forest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Mountain Tapir in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Mountain Tapir (Tapirus pinchaque) is the smallest and most endangered of the four living tapir species, a living fossil that has remained virtually unchanged for millions of years. These shy, solitary mammals inhabit the high-altitude cloud forests and páramo grasslands of the Andes Mountains in Colombia, Ecuador, and northern Peru, typically between 2,000 and 4,300 meters elevation. Their thick, woolly coats—dark brown to black with distinctive white-fringed ears and lips—provide insulation against the cold, wet conditions of their mountain habitat. Mountain tapirs possess a flexible proboscis formed from their upper lip and nose, which they use to grasp leaves, twigs, and fruits. As the largest herbivores in the high Andes, they play a crucial ecological role as seed dispersers and forest gardeners, consuming hundreds of plant species and spreading seeds across the landscape through their droppings.",
+      "highlights": [
+        "Smallest and most endangered of the four living tapir species",
+        "Thick woolly coat provides insulation at high elevations up to 4,300 meters",
+        "Flexible proboscis used to grasp vegetation while feeding",
+        "Crucial seed disperser - can consume and spread seeds from over 100 plant species",
+        "Solitary and primarily nocturnal, making them difficult to observe",
+        "Ancient lineage - tapirs have changed little in appearance for 20 million years"
+      ],
+      "conservation": "The Mountain Tapir is currently listed as Endangered by the IUCN, with fewer than 2,500 mature individuals remaining across their restricted range. Primary threats include habitat loss from agricultural expansion, cattle ranching, and road construction fragmenting cloud forests. Hunting for meat and hides, though illegal, continues in remote areas. Climate change threatens to push their specialized habitat to even higher elevations where suitable vegetation may not exist. Conservation efforts focus on establishing protected areas in the northern Andes, creating biological corridors between fragmented populations, and community education programs. The species serves as a flagship for cloud forest conservation in Colombia and Ecuador."
+    },
+    {
+      "slug": "andean-flamingo",
+      "name": "Andean Flamingo",
+      "scientificName": "Phoenicoparrus andinus",
+      "continent": "South America",
+      "subregion": "Andes Mountains",
+      "status": "Vulnerable",
+      "emoji": "🦩",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/andean-flamingo.jpg",
+        "image2": "/images/andean-flamingo-2.jpg",
+        "video": "/videos/andean-flamingo.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Andean Flamingo in Andes Mountains Bolivia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, salt flat background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Andean Flamingo in Andes Mountains Bolivia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, salt flat foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Andean Flamingo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Andean Flamingo (Phoenicoparrus andinus) is one of the rarest and most threatened flamingo species in the world, a vision of pink elegance gracing the high-altitude salt lakes and wetlands of the central Andes. These striking birds are distinguished by their pale pink plumage, bright yellow legs, and the unique black triangle visible on their backs when wings are folded. Unlike their lowland relatives, Andean flamingos have adapted to survive at elevations between 2,300 and 4,500 meters, where they filter-feed on microscopic algae and diatoms in alkaline lakes. Their specialized beaks contain lamellae that act as filters, allowing them to extract tiny food particles from the water. These social birds gather in flocks numbering in the thousands during the breeding season, performing synchronized courtship dances that create spectacular displays across the shimmering salt flats of the Altiplano.",
+      "highlights": [
+        "One of the rarest flamingo species with only about 40,000 individuals remaining",
+        "Distinctive black triangle on back visible when wings are folded",
+        "Feeds exclusively on microscopic algae and diatoms in high-altitude salt lakes",
+        "Performs elaborate synchronized courtship dances in large flocks",
+        "Can survive at elevations up to 4,500 meters in the Andean Altiplano",
+        "Bright yellow legs and pale pink plumage distinguish them from other flamingos"
+      ],
+      "conservation": "The Andean Flamingo is currently listed as Vulnerable by the IUCN, having recovered from Endangered status through intensive conservation efforts. Populations declined dramatically in the mid-20th century due to egg harvesting, hunting for feathers, and disturbance at breeding colonies. Today, primary threats include mining activities affecting water quality in their specialized wetland habitats, climate change altering water levels in salt lakes, and competition with human water use. International agreements between Chile, Argentina, Bolivia, and Peru have established protected areas and coordinated monitoring programs. Community-based conservation initiatives engage local residents in protecting breeding sites."
+    },
+    {
+      "slug": "paramo-wolf",
+      "name": "Páramo Wolf",
+      "scientificName": "Lycalopex culpaeus",
+      "continent": "South America",
+      "subregion": "Andes Mountains",
+      "status": "Least Concern",
+      "emoji": "🐺",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/paramo-wolf.jpg",
+        "image2": "/images/paramo-wolf-2.jpg",
+        "video": "/videos/paramo-wolf.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Páramo Wolf in Andes Mountains Ecuador, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, paramo grassland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Páramo Wolf in Andes Mountains Ecuador, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, paramo grassland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Páramo Wolf in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Páramo Wolf (Lycalopex culpaeus), more commonly known as the Culpeo or Andean fox, is the second-largest native canid in South America and a master of the high-altitude grasslands known as páramos. Despite its common name, this is not a true wolf but a distinct fox species that has evolved to fill the ecological niche of a large predator in the Andes. These intelligent canids display a reddish-gray coat with a distinctive black-tipped tail and white markings on their chest and chin. They inhabit the treeless páramo grasslands and scrublands of the Andes from Colombia to Tierra del Fuego, thriving at elevations up to 4,800 meters. Páramo wolves are opportunistic omnivores, feeding on rodents, rabbits, birds, insects, fruits, and carrion. They play an important role in controlling rodent populations and dispersing seeds through their droppings, making them valuable contributors to Andean ecosystem health.",
+      "highlights": [
+        "Second-largest native canid in South America after the maned wolf",
+        "Not a true wolf but a distinct fox species filling a predator niche",
+        "Thrives at elevations up to 4,800 meters in páramo grasslands",
+        "Opportunistic omnivore - feeds on rodents, birds, insects, and fruits",
+        "Important rodent population controller in high-altitude ecosystems",
+        "Distinctive black-tipped tail and reddish-gray coat with white markings"
+      ],
+      "conservation": "The Páramo Wolf is currently listed as Least Concern by the IUCN due to its wide distribution and adaptability. However, populations face increasing pressure from human activities across the Andes. Primary threats include hunting and poisoning by farmers who blame them for livestock losses, habitat conversion of páramo grasslands for agriculture, and road mortality. Despite these challenges, culpeos have shown remarkable resilience, often thriving in modified landscapes and near human settlements. Conservation efforts focus on reducing human-wildlife conflict through education, implementing non-lethal predator control methods, and protecting critical páramo habitats. Their adaptability makes them excellent indicators of ecosystem health in the high Andes."
     },
     {
       "slug": "magellanic-penguin",
@@ -4107,9 +4353,15 @@
         "image2": "photorealistic wildlife photography, Kangaroo in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Kangaroo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The kangaroo is Australia's most iconic marsupial and a symbol of the nation's unique wildlife. These remarkable macropods have evolved powerful hind legs and a muscular tail that enable their distinctive hopping locomotion, allowing them to reach speeds of up to 70 km/h and cover 9 meters in a single bound. As the only large animals that use hopping as their primary means of travel, kangaroos represent one of nature's most efficient locomotion systems. Their strong tails act as a fifth limb when grazing and provide balance during movement. Female kangaroos possess a unique reproductive adaptation called embryonic diapause, allowing them to pause the development of a joey until the current one leaves the pouch. With four species ranging from the massive red kangaroo to the smaller wallaroo, these animals have adapted to diverse Australian habitats from arid deserts to tropical woodlands.",
+      "highlights": [
+        "Only large animal that uses hopping as primary locomotion, reaching speeds up to 70 km/h",
+        "Can cover 9 meters in a single hop and leap 3 meters vertically",
+        "Females have embryonic diapause - can pause pregnancy until pouch is available",
+        "Powerful tail acts as fifth limb for balance and support",
+        "Cannot walk backwards due to leg structure and large tail"
+      ],
+      "conservation": "Listed as Least Concern by the IUCN, kangaroos remain abundant across Australia with populations estimated at over 50 million. However, they face ongoing challenges including habitat fragmentation from agricultural expansion, competition with livestock for grazing, and commercial hunting. Climate change has also impacted their ranges, with drought conditions affecting food availability. Conservation efforts focus on sustainable management practices, habitat protection, and maintaining genetic diversity across isolated populations."
     },
     {
       "slug": "koala",
@@ -4135,9 +4387,16 @@
         "image2": "photorealistic wildlife photography, Koala in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Koala in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The koala is one of Australia's most beloved marsupials, instantly recognizable by its round face, large fluffy ears, and spoon-shaped nose. Despite commonly being called 'koala bears,' these animals are not bears at all but specialized arboreal marsupials that have evolved to feed almost exclusively on eucalyptus leaves. Koalas sleep up to 20 hours per day to conserve energy, as their fibrous diet provides minimal caloric value. They possess specialized digestive systems with extended intestines that break down toxic eucalyptus compounds. Each koala consumes approximately 500 grams of leaves daily, and their excellent sense of smell helps them select the most nutritious leaves while avoiding toxic varieties. Their sharp claws and rough paw pads provide exceptional grip for climbing, while their minimal tail serves as a seat cushion in tree forks.",
+      "highlights": [
+        "Sleeps 18-22 hours daily due to low-energy eucalyptus diet",
+        "Not a bear - is a marsupial that carries young in a pouch",
+        "Consumes approximately 500 grams of eucalyptus leaves daily",
+        "Excellent sense of smell to select nutritious, non-toxic leaves",
+        "Sharp claws and rough paw pads provide superior climbing grip",
+        "Only 1 in 1,000 eucalyptus trees meet their strict dietary requirements"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN, koala populations have declined dramatically due to habitat loss from urbanization and agriculture, bushfires, drought, and disease. The 2019-2020 Australian bushfires killed an estimated 30% of the koala population in some regions. Conservation efforts include habitat restoration, wildlife corridors, vaccination programs against chlamydia, and stricter land-clearing regulations. Several states have listed koalas as endangered, prompting increased protection measures."
     },
     {
       "slug": "platypus",
@@ -4163,9 +4422,16 @@
         "image2": "photorealistic wildlife photography, Platypus in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Platypus in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The platypus is one of the world's most extraordinary mammals, a monotreme that lays eggs yet produces milk, possessing a duck-like bill, webbed feet, and a beaver-like tail. When first specimens were sent to Europe in the late 18th century, scientists believed they were elaborate hoaxes created by stitching different animals together. These semi-aquatic creatures are equipped with electroreceptors in their bills that detect the electrical impulses of prey underwater, making them one of only a handful of mammals with this ability. Males possess venomous spurs on their hind legs capable of delivering excruciating pain. Platypuses are expert swimmers that close their eyes, ears, and nose underwater, relying entirely on their bill's electrosensory capabilities to hunt for crustaceans, insects, and worms.",
+      "highlights": [
+        "One of only five monotreme species that lay eggs instead of giving birth",
+        "Males possess venomous spurs capable of causing severe pain",
+        "Electroreceptors in bill detect prey through electrical impulses underwater",
+        "Closes eyes, ears, and nose while swimming - hunts entirely by electrosense",
+        "First European scientists thought specimens were taxidermy hoaxes",
+        "Can store up to 600 worms in cheek pouches during extended dives"
+      ],
+      "conservation": "Listed as Near Threatened by the IUCN, platypus populations have declined by approximately 30% since European settlement. Major threats include habitat destruction from dam construction and riverbank clearing, pollution from agricultural runoff, entanglement in fishing nets and litter, and climate change affecting water availability. Once common throughout eastern Australia, they are now extinct in South Australia and increasingly rare in many former strongholds. Conservation efforts focus on riparian habitat restoration, pollution control, and captive breeding programs."
     },
     {
       "slug": "tasmanian-devil",
@@ -4191,9 +4457,16 @@
         "image2": "photorealistic wildlife photography, Tasmanian Devil in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Tasmanian Devil in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The Tasmanian devil is the world's largest carnivorous marsupial, a stocky, powerful predator with a reputation for ferocity that belies its relatively small size. These nocturnal scavengers and hunters possess the strongest bite force relative to body size of any living mammal, capable of crushing bones and consuming entire carcasses including fur and bones. Their famous name comes from early European settlers who were terrified by the eerie screeches, growls, and screams they emit during feeding and mating encounters. Once abundant across mainland Australia, Tasmanian devils disappeared from the continent approximately 3,000 years ago, possibly due to competition with dingoes. Today they survive only on Tasmania, where they play a crucial ecological role as ecosystem cleaners, consuming carrion and helping control disease spread.",
+      "highlights": [
+        "World's largest carnivorous marsupial with strongest bite force relative to body size",
+        "Can consume entire carcasses including bones, fur, and organs",
+        "Name comes from terrifying screeches and screams during feeding",
+        "Extinct on mainland Australia for 3,000 years, now only found in Tasmania",
+        "Nocturnal and solitary except during feeding on large carcasses",
+        "Plays vital ecosystem role as scavenger controlling disease spread"
+      ],
+      "conservation": "Listed as Endangered by the IUCN, Tasmanian devils face an existential threat from Devil Facial Tumor Disease (DFTD), a contagious cancer transmitted through biting that has killed over 80% of the wild population since 1996. Conservation efforts include captive breeding programs, disease-free insurance populations on offshore islands, and research into potential vaccines. Recent studies suggest some devils are developing genetic resistance to DFTD, offering hope for population recovery. Additional threats include vehicle collisions and habitat fragmentation."
     },
     {
       "slug": "emu",
@@ -4219,9 +4492,16 @@
         "image2": "photorealistic wildlife photography, Emu in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Emu in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The emu is Australia's largest native bird and the second-largest living bird in the world after the ostrich. These flightless giants can reach heights of 1.9 meters and sprint at speeds up to 50 km/h, making them formidable runners capable of covering vast distances across the Australian outback. Unlike most birds, emus have three forward-facing toes on each foot adapted for running and long, powerful legs with strong calf muscles. Their shaggy, double-feathered plumage provides excellent insulation against extreme temperature variations, from freezing desert nights to scorching daytime heat. Emus are remarkably adaptable omnivores, consuming a diverse diet of plants, insects, and small animals. During the famous 1932 'Emu War,' Australian military forces attempted to cull emus that were damaging wheat crops, but the birds proved too elusive and the operation was abandoned.",
+      "highlights": [
+        "Australia's largest native bird, second-largest living bird after ostrich",
+        "Can sprint up to 50 km/h and travel long distances across outback",
+        "Unique three-toed feet adapted for running unlike ostriches",
+        "Survived the 1932 'Emu War' where military failed to cull them",
+        "Male emus incubate eggs and raise chicks for 18 months alone",
+        "Can survive weeks without food and go months without drinking"
+      ],
+      "conservation": "Listed as Least Concern by the IUCN, emus remain abundant across mainland Australia with an estimated population exceeding 700,000. Their adaptability to diverse habitats from coastal regions to arid interior has helped them thrive despite habitat changes. However, they face localized threats from vehicle collisions, fencing that restricts movement, and occasional culling due to agricultural conflicts. Climate change may affect their range distribution in coming decades."
     },
     {
       "slug": "quokka",
@@ -4247,9 +4527,16 @@
         "image2": "photorealistic wildlife photography, Quokka in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Quokka in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The quokka is a small marsupial that has achieved global fame as the 'world's happiest animal' due to its perpetually smiling facial expression. These cat-sized macropods are native to Western Australia's Rottnest Island and small mainland populations, where they have become a social media sensation thanks to their seemingly photogenic grins. Quokkas are actually nocturnal herbivores that spend their days sleeping in dense vegetation and emerge at night to feed on grasses, leaves, and bark. Their friendly demeanor toward humans is actually a survival adaptation - they evolved without natural predators and consequently lack fear responses. Despite their adorable appearance, quokkas are tough survivors capable of going months without water by extracting moisture from vegetation and storing fat in their tails during lean periods.",
+      "highlights": [
+        "Known as 'world's happiest animal' for perpetual smiling expression",
+        "Social media sensation due to photogenic appearance and friendly nature",
+        "Can survive months without water by extracting moisture from plants",
+        "Stores fat in tail during lean periods like a camel's hump",
+        "Nocturnal herbivores that sleep in dense vegetation during day",
+        "Found primarily on Rottnest Island, Dutch for 'Rat's Nest'"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN, quokka populations have declined significantly from historic levels. Mainland populations face threats from habitat loss, predation by foxes and cats, and altered fire regimes. Rottnest Island populations are more secure but face risks from climate change and disease. Conservation efforts include predator control programs, habitat restoration, and monitoring of disease outbreaks. Their popularity as tourist attractions has helped raise awareness but also creates risks from human interaction."
     },
     {
       "slug": "wombat",
@@ -4275,9 +4562,16 @@
         "image2": "photorealistic wildlife photography, Wombat in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Wombat in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The wombat is a burrowing marsupial that resembles a small, stocky bear with a distinctive waddle and powerful digging claws. These nocturnal herbivores are nature's excavators, creating extensive underground tunnel systems that can stretch for hundreds of meters and include multiple chambers for sleeping, breeding, and escaping predators. Wombats possess a unique evolutionary adaptation: their pouches face backward to prevent soil from entering when digging. Their most remarkable defense mechanism is their reinforced rear end, composed of cartilage and bone, which they use to crush predators against the tunnel roof when threatened. Wombats produce distinctive cube-shaped feces, a biological mystery scientists believe helps mark territory by preventing droppings from rolling away on slopes.",
+      "highlights": [
+        "Produces cube-shaped feces that don't roll away on slopes",
+        "Pouch faces backward to prevent dirt entering while digging",
+        "Reinforced rear end crushes predators against tunnel roof",
+        "Can dig tunnels up to 30 meters long with multiple chambers",
+        "Extremely slow metabolism allows survival on low-nutrient grasses",
+        "Third-largest marsupial after kangaroo and koala"
+      ],
+      "conservation": "Listed as Least Concern by the IUCN, though some populations face localized threats. The three wombat species vary in conservation status: common wombats are widespread, while northern hairy-nosed wombats are critically endangered with fewer than 300 individuals remaining. Threats include habitat destruction from agriculture, competition with livestock, vehicle collisions, and sarcoptic mange disease. Conservation efforts focus on habitat protection, disease management, and captive breeding programs for endangered species."
     },
     {
       "slug": "dingo",
@@ -4303,9 +4597,16 @@
         "image2": "photorealistic wildlife photography, Dingo in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Dingo in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The dingo is Australia's largest terrestrial predator, a wild dog that has roamed the continent for approximately 4,000 years after being introduced by seafaring Asian traders. These intelligent, adaptable canines occupy a unique ecological niche as apex predators, helping regulate populations of kangaroos, rabbits, and feral animals across diverse habitats from deserts to alpine regions. Dingoes possess distinctive features including a lean, athletic build, erect ears, a bushy tail, and a characteristic 'wolf howl' that communicates across vast distances. Unlike domestic dogs, dingoes have rotating wrists that allow them to climb and escape enclosures. They are highly social animals that typically live in small family groups, though they hunt alone or in pairs. Their role in Australian ecosystems remains controversial, with ongoing debates about their status as native wildlife versus introduced pest.",
+      "highlights": [
+        "Australia's largest terrestrial predator and apex hunter",
+        "Can rotate wrists to climb, unlike domestic dogs",
+        "Arrived in Australia approximately 4,000 years ago from Asia",
+        "Communicates across vast distances using characteristic wolf howl",
+        "Helps control populations of kangaroos, rabbits, and feral animals",
+        "More genetically diverse than domestic dogs, closer to wolves"
+      ],
+      "conservation": "Listed as Vulnerable by the IUCN, dingoes face significant threats from hybridization with domestic dogs, habitat loss, and persecution by livestock farmers. Pure dingoes are increasingly rare as interbreeding produces 'wild dogs' that lack the dingo's genetic purity and behavioral characteristics. Conservation efforts include maintaining pure dingo populations in protected areas like Fraser Island, genetic testing to identify pure specimens, and exploring non-lethal livestock protection methods. Their ecological role as apex predators is increasingly recognized as vital for ecosystem balance."
     },
     {
       "slug": "cassowary",
@@ -4331,9 +4632,191 @@
         "image2": "photorealistic wildlife photography, Cassowary in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
         "video": "cinematic wildlife footage, Cassowary in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
       },
-      "description": "",
-      "highlights": [],
-      "conservation": ""
+      "description": "The cassowary is a large, flightless bird native to the tropical rainforests of northern Australia and New Guinea, often called the world's most dangerous bird due to its powerful legs armed with dagger-like claws. These prehistoric-looking birds stand up to 1.8 meters tall and possess a distinctive helmet-like casque on their head, the function of which scientists are still studying. Cassowaries play a crucial ecological role as 'rainforest gardeners,' consuming fallen fruit and dispersing seeds across vast areas through their droppings. Their striking appearance features vivid blue and purple neck skin, red wattles, and coarse black feathers that resemble hair. Despite their intimidating reputation, cassowaries are generally shy and prefer to avoid humans, though they can deliver fatal kicks with their 12-centimeter claws when threatened or cornered.",
+      "highlights": [
+        "Considered world's most dangerous bird with 12cm dagger-like claws",
+        "Crucial 'rainforest gardener' dispersing seeds across vast areas",
+        "Distinctive helmet-like casque on head - function still debated",
+        "Can run up to 50 km/h and jump 1.5 meters vertically",
+        "Vivid blue and purple neck skin with red wattles",
+        "Male cassowaries incubate eggs and raise chicks for 9 months"
+      ],
+      "conservation": "Listed as Least Concern globally but the Australian subspecies is classified as Endangered. Cassowary populations have declined significantly due to habitat loss from deforestation, vehicle strikes, dog attacks, and fragmented habitat preventing movement between forest patches. Only an estimated 4,000 individuals remain in Australia, concentrated in Queensland's Wet Tropics. Conservation efforts include habitat corridor creation, road safety measures, and community education programs. Their role as keystone seed dispersers makes their protection vital for rainforest ecosystem health."
+    },
+    {
+      "slug": "kookaburra",
+      "name": "Kookaburra",
+      "scientificName": "Dacelo spp.",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Least Concern",
+      "emoji": "🐦",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/kookaburra.jpg",
+        "image2": "/images/kookaburra-2.jpg",
+        "video": "/videos/kookaburra.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Kookaburra in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Kookaburra in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Kookaburra in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The kookaburra is Australia's iconic laughing bird, a large kingfisher famous for its distinctive call that sounds remarkably like human laughter echoing through the bush. These charismatic birds have become a symbol of the Australian outback, featured in children's songs and stories worldwide. Despite being kingfishers, kookaburras rarely eat fish, instead hunting snakes, lizards, insects, and small mammals from their favorite perch. Their 'laugh' is actually a territorial call used to establish boundaries and communicate with family groups. Kookaburras mate for life and live in cooperative family groups where older siblings help raise younger chicks. Their powerful beaks can deliver a crushing blow, allowing them to kill snakes by bashing them against branches or the ground.",
+      "highlights": [
+        "Famous 'laughing' call sounds like human cackling laughter",
+        "Largest kingfisher species despite rarely eating fish",
+        "Mates for life and lives in cooperative family groups",
+        "Powerful beak can kill snakes by bashing against branches",
+        "Territorial call establishes boundaries across the bush",
+        "Featured in iconic Australian children's song 'Kookaburra Sits in the Old Gum Tree'"
+      ],
+      "conservation": "Listed as Least Concern by the IUCN, kookaburras have adapted well to human settlement and are common across eastern and southern Australia. Their populations have actually expanded in some areas due to land clearing creating open hunting grounds. However, they face threats from secondary poisoning after eating rodents killed by bait, vehicle collisions, and habitat loss. Conservation efforts focus on maintaining healthy forest ecosystems and educating the public about the dangers of rodent poisons to wildlife."
+    },
+    {
+      "slug": "wallaby",
+      "name": "Wallaby",
+      "scientificName": "Notamacropus spp.",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Least Concern",
+      "emoji": "🦘",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/wallaby.jpg",
+        "image2": "/images/wallaby-2.jpg",
+        "video": "/videos/wallaby.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Wallaby in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Wallaby in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Wallaby in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "Wallabies are small to medium-sized macropods closely related to kangaroos but distinguished by their compact size and preference for forested habitats. These agile marsupials have adapted to diverse Australian environments from rocky escarpments to dense rainforests, with different species evolving specialized traits for their specific niches. Rock wallabies possess rough foot pads and powerful limbs for scaling steep cliffs, while forest-dwelling species have developed camouflage coloring to blend with dappled light. Like their larger cousins, wallabies are powerful hoppers that can reach speeds of 50 km/h and cover impressive distances. They are primarily nocturnal, emerging at dusk to graze on grasses and browse on leaves. Female wallabies can pause embryo development until environmental conditions become favorable, a remarkable reproductive adaptation.",
+      "highlights": [
+        "Smaller relatives of kangaroos adapted to forest and rocky habitats",
+        "Rock wallabies can scale near-vertical cliffs with specialized foot pads",
+        "Can pause embryo development until conditions are favorable",
+        "Powerful hoppers reaching speeds up to 50 km/h",
+        "Excellent camouflage coloring blends with forest environments",
+        "Over 30 species ranging across diverse Australian habitats"
+      ],
+      "conservation": "Listed as Least Concern for most species, though several wallaby species are endangered or vulnerable. Threats include habitat fragmentation from land clearing, competition with introduced herbivores like rabbits and goats, predation by foxes and cats, and altered fire regimes. Some species like the yellow-footed rock wallaby have declined significantly. Conservation efforts include predator control, habitat restoration, captive breeding programs for endangered species, and the establishment of predator-free sanctuaries on islands."
+    },
+    {
+      "slug": "echidna",
+      "name": "Echidna",
+      "scientificName": "Tachyglossus aculeatus",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Least Concern",
+      "emoji": "🦔",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/echidna.jpg",
+        "image2": "/images/echidna-2.jpg",
+        "video": "/videos/echidna.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Echidna in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Echidna in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Echidna in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The echidna is one of only five monotreme species in the world, an egg-laying mammal covered in sharp spines that resembles a cross between a hedgehog and an anteater. These remarkable creatures possess electroreceptors in their long, sticky tongues that detect electrical signals from ants and termites, their primary food source. When threatened, echidnas curl into an impenetrable ball with spines exposed, or they rapidly dig straight down into the earth until only their spines remain visible. Female echidnas lay a single leathery egg that they carry in a temporary pouch until it hatches. The puggle, as baby echidnas are called, remains in the pouch for about 45 days feeding on milk secreted through pores rather than nipples. Echidnas are found throughout Australia and New Guinea, adapting to environments from snowy mountains to arid deserts.",
+      "highlights": [
+        "One of only five egg-laying mammal species in the world",
+        "Electroreceptors in tongue detect prey through electrical signals",
+        "Curls into spiny ball or digs straight down when threatened",
+        "Baby echidnas called 'puggles' carried in temporary pouch",
+        "Milk secreted through pores - no nipples like other mammals",
+        "Can survive from snowy mountains to scorching deserts"
+      ],
+      "conservation": "Listed as Least Concern by the IUCN, echidnas remain widespread across Australia with stable populations. Their spiny defense and burrowing abilities provide excellent protection from most predators. However, they face threats from vehicle collisions, habitat destruction, and climate change affecting food availability. The short-beaked echidna is relatively secure, while the long-beaked echidnas of New Guinea are critically endangered. Conservation efforts focus on habitat protection and road safety measures."
+    },
+    {
+      "slug": "frilled-neck-lizard",
+      "name": "Frilled-neck Lizard",
+      "scientificName": "Chlamydosaurus kingii",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Least Concern",
+      "emoji": "🦎",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/frilled-neck-lizard.jpg",
+        "image2": "/images/frilled-neck-lizard-2.jpg",
+        "video": "/videos/frilled-neck-lizard.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Frilled-neck Lizard in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Frilled-neck Lizard in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Frilled-neck Lizard in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The frilled-neck lizard is one of Australia's most distinctive reptiles, famous for the spectacular frill of skin that encircles its neck and can flare open like an umbrella when the lizard feels threatened. This dramatic display, combined with an open mouth and hissing, makes the lizard appear much larger and more intimidating to potential predators. These arboreal dragons spend most of their time camouflaged against tree trunks in northern Australian woodlands, waiting motionless for insects and small vertebrates to pass within striking distance. When danger approaches, they may first try to blend in with the bark, then display their frill if discovered. If the display fails, they drop to the ground and run away on their hind legs in a comical, almost cartoon-like sprint. The frill is supported by long spines of cartilage connected to the jaw muscles.",
+      "highlights": [
+        "Spectacular neck frill flares open like an umbrella when threatened",
+        "Runs on hind legs in comical sprint when escaping predators",
+        "Frill supported by cartilage spines connected to jaw muscles",
+        "Spends most of time camouflaged motionless against tree trunks",
+        "Can reach 90 cm in length including tail",
+        "Famous from appearances in movies and as Australian tourism mascot"
+      ],
+      "conservation": "Listed as Least Concern by the IUCN, frilled-neck lizards remain relatively common across northern Australia. However, they face localized threats from habitat loss due to land clearing, altered fire regimes, and predation by feral cats. Climate change may affect their thermal regulation and food availability. Conservation efforts focus on maintaining healthy woodland ecosystems and controlling feral predators. Their popularity has made them an ambassador species for Australian reptile conservation."
+    },
+    {
+      "slug": "sugar-glider",
+      "name": "Sugar Glider",
+      "scientificName": "Petaurus breviceps",
+      "continent": "Oceania",
+      "subregion": "Australia",
+      "status": "Least Concern",
+      "emoji": "🐿️",
+      "stats": {
+        "habitat": "",
+        "diet": "",
+        "lifespan": "",
+        "weight": ""
+      },
+      "media": {
+        "heroImage": "/images/sugar-glider.jpg",
+        "image2": "/images/sugar-glider-2.jpg",
+        "video": "/videos/sugar-glider.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Sugar Glider in Australia, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, bushland background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Sugar Glider in Australia, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, bushland foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Sugar Glider in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The sugar glider is a small, nocturnal marsupial that has captured hearts worldwide with its adorable appearance and remarkable gliding abilities. These possum relatives possess a thin membrane called a patagium that stretches from their wrists to ankles, allowing them to glide up to 50 meters between trees in search of food. Sugar gliders are highly social animals that live in family groups of up to seven adults plus their young, sharing nests in tree hollows and communicating through a complex vocabulary of chirps, barks, and hisses. Their name comes from their preference for sweet foods like nectar, sap, and pollen, though they also consume insects and small vertebrates. These tiny acrobats can steer and control their glides using their tail as a rudder, making 90-degree turns mid-air to navigate through dense forest canopies.",
+      "highlights": [
+        "Can glide up to 50 meters between trees using patagium membrane",
+        "Highly social, living in family groups of up to seven adults",
+        "Uses tail as rudder to steer and make 90-degree turns mid-glide",
+        "Communicates through complex vocabulary of chirps, barks, and hisses",
+        "Name comes from preference for sweet nectar, sap, and pollen",
+        "Nocturnal marsupial weighing only 100-160 grams"
+      ],
+      "conservation": "Listed as Least Concern by the IUCN, sugar gliders remain widespread across eastern and northern Australia. However, they face threats from habitat fragmentation, loss of mature trees with hollows for nesting, predation by cats and foxes, and climate change affecting food sources. In some areas, populations have declined due to land clearing for agriculture and urban development. Conservation efforts focus on preserving connected forest habitats, maintaining old-growth trees with nesting hollows, and controlling introduced predators."
     },
     {
       "slug": "hawaiian-monk-seal",
@@ -5374,6 +5857,486 @@
         "white-bellied-pangolin",
         "white-bellied-pangolin"
       ]
+    },
+    {
+      "slug": "harpy-eagle",
+      "name": "Harpy Eagle",
+      "scientificName": "Harpia harpyja",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Near Threatened",
+      "emoji": "🦅",
+      "stats": {
+        "habitat": "Tropical Rainforests, Forest Canopy",
+        "diet": "Carnivore - Sloths, Monkeys, Birds",
+        "lifespan": "25-35 years",
+        "weight": "4-9 kg (female)"
+      },
+      "media": {
+        "heroImage": "/images/harpy-eagle.jpg",
+        "image2": "/images/harpy-eagle-2.jpg",
+        "video": "/videos/harpy-eagle.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Harpy Eagle in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Harpy Eagle hunting sloth in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Harpy Eagle in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The harpy eagle (Harpia harpyja) stands as one of the largest and most powerful eagles on Earth, reigning as the undisputed apex predator of the Amazon Rainforest canopy. These magnificent raptors possess talons the size of grizzly bear claws, measuring up to 13 cm in length, capable of exerting over 500 pounds per square inch of pressure. Their distinctive crest of feathers, which they raise when threatened or excited, gives them a fierce, almost mythical appearance that has earned them the nickname 'flying wolf.' Harpy eagles are perfectly adapted for hunting in dense rainforest, with short, broad wings that allow them to maneuver through thick vegetation at speeds up to 80 km/h. Their primary prey includes sloths and monkeys, which they snatch directly from the treetops with deadly precision. A female harpy eagle can weigh up to 9 kg with a wingspan reaching 2.2 meters, making them formidable hunters capable of taking prey weighing up to 7 kg.",
+      "highlights": [
+        "One of the largest and most powerful eagles in the world",
+        "Talons reach 13 cm with grip strength over 500 psi",
+        "Can carry prey weighing up to 7 kg - nearly their own body weight",
+        "Distinctive feather crest raises when threatened or excited",
+        "Short broad wings allow maneuvering through dense rainforest",
+        "Primary predator of sloths and monkeys in Amazon canopy"
+      ],
+      "conservation": "Classified as Near Threatened by the IUCN Red List, harpy eagle populations have declined significantly across their range due to habitat loss from deforestation and human persecution. An estimated 50,000 individuals remain, with populations becoming increasingly fragmented as rainforest disappears. These eagles require vast territories of 100 square kilometers or more and old-growth forest with large trees for nesting. Conservation efforts focus on protecting critical rainforest habitats, establishing wildlife corridors, and educating local communities about the ecological importance of these apex predators. Harpy eagles serve as umbrella species - protecting their habitat benefits countless other rainforest species.",
+      "seo": {
+        "title": "Harpy Eagle: Amazon's Apex Predator | Rainforest Raptor Guide",
+        "metaDescription": "Discover the harpy eagle (Harpia harpyja), one of the world's largest and most powerful eagles. Learn about their massive talons, sloth-hunting prowess, and near threatened status.",
+        "keywords": ["harpy eagle", "Harpia harpyja", "Amazon eagle", "rainforest raptor", "near threatened bird", "sloth predator", "powerful eagle", "Amazon wildlife"]
+      }
+    },
+    {
+      "slug": "pink-river-dolphin",
+      "name": "Pink River Dolphin",
+      "scientificName": "Inia geoffrensis",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Endangered",
+      "emoji": "🐬",
+      "stats": {
+        "habitat": "Amazon River, Tributaries, Floodplains",
+        "diet": "Carnivore - Fish, Crabs, Turtles",
+        "lifespan": "30 years (wild)",
+        "weight": "100-185 kg"
+      },
+      "media": {
+        "heroImage": "/images/pink-river-dolphin.jpg",
+        "image2": "/images/pink-river-dolphin-2.jpg",
+        "video": "/videos/pink-river-dolphin.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Pink River Dolphin in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Pink River Dolphin in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Pink River Dolphin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Amazon pink river dolphin (Inia geoffrensis), locally known as 'boto,' is one of the most extraordinary freshwater cetaceans on Earth, renowned for its remarkable pink coloration and legendary status in Amazonian folklore. Unlike their ocean-dwelling cousins, these dolphins have evolved unique adaptations for life in murky, flooded forest waterways, including unfused neck vertebrae that allow them to turn their heads 180 degrees and hunt in tight spaces. Their color ranges from mottled gray to shocking pink, with males typically displaying the brightest hues, especially during excitement or aggression. Pink river dolphins can grow up to 2.5 meters long and weigh over 185 kg, making them the largest freshwater dolphins in the world. They possess echolocation capabilities so sophisticated they can navigate through flooded forests during the rainy season when water levels rise by up to 15 meters. These intelligent creatures are known for their playful behavior and curiosity toward humans, often approaching boats to investigate.",
+      "highlights": [
+        "Largest freshwater dolphin species, reaching 2.5 meters and 185 kg",
+        "Unique unfused neck vertebrae allow 180-degree head rotation",
+        "Color ranges from gray to bright pink - males are pinkest",
+        "Sophisticated echolocation navigates flooded forests",
+        "Can survive in extremely shallow water only 30 cm deep",
+        "Legendary status in Amazonian folklore and mythology"
+      ],
+      "conservation": "Classified as Endangered by the IUCN Red List, pink river dolphin populations have declined by over 50% in the past 75 years. An estimated 9,000 individuals remain in the wild, with populations continuing to decrease. Primary threats include mercury contamination from gold mining, entanglement in fishing gear, deliberate killing for use as catfish bait, and habitat degradation from dam construction. Climate change is altering flood patterns that these dolphins depend upon for accessing seasonal feeding grounds. Conservation efforts focus on reducing mercury pollution, establishing protected river corridors, and working with local communities to develop sustainable fishing practices that don't harm these iconic river dwellers.",
+      "seo": {
+        "title": "Pink River Dolphin: Amazon's Boto | Endangered Freshwater Dolphin",
+        "metaDescription": "Discover the pink river dolphin (Inia geoffrensis), the Amazon's legendary boto. Learn about their unique pink coloration, flexible neck, and endangered conservation status.",
+        "keywords": ["pink river dolphin", "Inia geoffrensis", "Amazon dolphin", "boto", "endangered dolphin", "freshwater dolphin", "Amazon wildlife", "pink dolphin"]
+      }
+    },
+    {
+      "slug": "sloth",
+      "name": "Three-Toed Sloth",
+      "scientificName": "Bradypus variegatus",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Least Concern",
+      "emoji": "🦥",
+      "stats": {
+        "habitat": "Tropical Rainforest Canopy",
+        "diet": "Herbivore - Leaves, Buds, Shoots",
+        "lifespan": "20-30 years",
+        "weight": "3.5-4.5 kg"
+      },
+      "media": {
+        "heroImage": "/images/sloth.jpg",
+        "image2": "/images/sloth-2.jpg",
+        "video": "/videos/sloth.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Three-Toed Sloth in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Three-Toed Sloth climbing in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Three-Toed Sloth in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The three-toed sloth (Bradypus variegatus) embodies the ultimate slow-living philosophy, having evolved one of the most energy-efficient lifestyles of any mammal in the Amazon Rainforest. These remarkable arboreal creatures spend nearly their entire lives hanging upside down from tree branches, moving so slowly that algae actually grows on their fur, providing natural camouflage that helps them blend into the green canopy. Sloths have the lowest metabolic rate of any mammal, taking up to a month to digest a single meal of tough, fibrous leaves. They descend from trees only once a week to defecate, a risky journey that makes them vulnerable to predators like jaguars and harpy eagles. Their slow movement is actually a survival strategy - by remaining motionless, they avoid detection by predators that hunt by sight. Three-toed sloths possess specialized curved claws that allow them to hang effortlessly without using any muscle energy, and they can rotate their heads 270 degrees to scan for threats.",
+      "highlights": [
+        "Slowest mammal with metabolic rate 40% lower than typical mammals",
+        "Algae grows on fur providing natural green camouflage",
+        "Spend 15-20 hours per day sleeping in trees",
+        "Descend to ground only once weekly to defecate",
+        "Can rotate head 270 degrees to watch for predators",
+        "Specialized curved claws allow effortless hanging"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, three-toed sloths remain relatively common throughout the Amazon Basin. However, they face increasing threats from habitat fragmentation due to deforestation, which isolates populations and makes their dangerous ground crossings even riskier. Climate change is also affecting the availability of their preferred tree species. In some areas, sloths are captured for the illegal pet trade, though they rarely survive in captivity due to their specialized dietary needs. Conservation efforts focus on protecting continuous tracts of rainforest and creating canopy bridges that allow sloths to move between fragmented habitats without descending to the dangerous forest floor.",
+      "seo": {
+        "title": "Three-Toed Sloth: Amazon's Slow Living Icon | Rainforest Mammal Guide",
+        "metaDescription": "Discover the three-toed sloth (Bradypus variegatus), the Amazon's ultimate slow-living specialist. Learn about their algae-covered fur, tree-dwelling lifestyle, and unique adaptations.",
+        "keywords": ["three-toed sloth", "Bradypus variegatus", "Amazon sloth", "slowest mammal", "rainforest sloth", "arboreal mammal", "Amazon wildlife", "sloth conservation"]
+      }
+    },
+    {
+      "slug": "howler-monkey",
+      "name": "Howler Monkey",
+      "scientificName": "Alouatta seniculus",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Least Concern",
+      "emoji": "🐒",
+      "stats": {
+        "habitat": "Tropical Rainforest Canopy",
+        "diet": "Herbivore - Leaves, Fruit, Flowers",
+        "lifespan": "15-20 years",
+        "weight": "4-10 kg"
+      },
+      "media": {
+        "heroImage": "/images/howler-monkey.jpg",
+        "image2": "/images/howler-monkey-2.jpg",
+        "video": "/videos/howler-monkey.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Howler Monkey in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Howler Monkey troop in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Howler Monkey in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The red howler monkey (Alouatta seniculus) holds the distinction of being the loudest land animal on Earth, with their thunderous vocalizations capable of traveling up to 5 kilometers through dense Amazon rainforest. These remarkable primates possess an enlarged hyoid bone in their throat that acts as a resonating chamber, amplifying their calls to ear-splitting volumes of up to 128 decibels - comparable to a rock concert or jet engine. Howler monkeys live in social groups of 5-20 individuals and use their legendary voices to defend territories and communicate with neighboring troops, typically performing their dawn chorus to announce their presence to rivals. Despite their intimidating vocalizations, howlers are actually gentle leaf-eaters who spend up to 80% of their time resting to conserve energy while digesting their low-nutrient diet. Their prehensile tails act as a fifth limb, providing a secure grip as they navigate the rainforest canopy. Males are significantly larger than females and possess the most powerful voices, using their calls to attract mates and intimidate rivals.",
+      "highlights": [
+        "Loudest land animal - calls reach 128 decibels and travel 5 km",
+        "Enlarged hyoid bone acts as natural amplifier",
+        "Live in social groups of 5-20 individuals",
+        "Prehensile tail acts as fifth limb for canopy navigation",
+        "Spend 80% of time resting to digest low-nutrient leaf diet",
+        "Dawn chorus announces territory to neighboring troops"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, red howler monkeys remain abundant throughout the Amazon Basin. However, they face increasing pressure from habitat loss due to deforestation, hunting for bushmeat, and capture for the illegal pet trade. Their leaf-based diet makes them particularly vulnerable to forest fragmentation, as they require large home ranges with diverse tree species. Yellow fever outbreaks have also caused significant population declines in some regions. Conservation efforts focus on protecting continuous forest habitat, establishing wildlife corridors, and working with local communities to reduce hunting pressure. Their role as seed dispersers makes their conservation important for forest regeneration.",
+      "seo": {
+        "title": "Howler Monkey: Amazon's Loudest Primate | Rainforest Wildlife Guide",
+        "metaDescription": "Discover the howler monkey (Alouatta seniculus), the loudest land animal on Earth. Learn about their thunderous calls, social behavior, and Amazon Rainforest habitat.",
+        "keywords": ["howler monkey", "Alouatta seniculus", "loudest land animal", "Amazon monkey", "red howler", "rainforest primate", "prehensile tail", "Amazon wildlife"]
+      }
+    },
+    {
+      "slug": "poison-dart-frog",
+      "name": "Poison Dart Frog",
+      "scientificName": "Dendrobates tinctorius",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Least Concern",
+      "emoji": "🐸",
+      "stats": {
+        "habitat": "Rainforest Floor, Leaf Litter",
+        "diet": "Insectivore - Ants, Termites, Beetles",
+        "lifespan": "3-15 years",
+        "weight": "1-3 grams"
+      },
+      "media": {
+        "heroImage": "/images/poison-dart-frog.jpg",
+        "image2": "/images/poison-dart-frog-2.jpg",
+        "video": "/videos/poison-dart-frog.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Poison Dart Frog in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Poison Dart Frog in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Poison Dart Frog in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The dyeing poison dart frog (Dendrobates tinctorius) stands as one of nature's most vivid warnings, displaying brilliant blue, yellow, and black patterns that advertise its deadly toxicity to potential predators. These tiny amphibians, measuring only 3-5 cm in length, possess skin glands that secrete potent neurotoxins called batrachotoxins, among the most powerful natural toxins known to science. Indigenous Amazonian tribes have historically used these toxins to poison the tips of blowdarts for hunting, giving the frogs their common name. Remarkably, poison dart frogs are not born toxic - they acquire their deadly defenses from their diet of ants, termites, and beetles in the wild. Captive-bred frogs fed on non-toxic diets lose their poison entirely. Their bright coloration, known as aposematic coloration, serves as an honest advertisement of their lethality. A single golden poison dart frog contains enough toxin to kill 10-20 humans or 20,000 mice. These diurnal frogs are devoted parents, with males carrying tadpoles on their backs to water-filled bromeliads where they develop.",
+      "highlights": [
+        "Skin secretes batrachotoxin - among most powerful natural toxins",
+        "Brilliant aposematic colors warn predators of toxicity",
+        "Acquire poison from diet - captive frogs are non-toxic",
+        "Males carry tadpoles on backs to water-filled plants",
+        "Tiny size - only 3-5 cm but can be deadly to humans",
+        "Indigenous tribes used toxins for blowdart hunting"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, dyeing poison dart frogs remain relatively common in suitable habitat. However, like all amphibians, they face severe threats from chytrid fungus, a deadly pathogen that has devastated frog populations worldwide. Habitat loss from deforestation, climate change affecting moisture levels, and collection for the pet trade also pose significant threats. Their dependence on pristine forest floor microhabitats makes them excellent indicator species for ecosystem health. Conservation efforts focus on protecting rainforest habitat, establishing captive breeding programs as insurance populations, and researching treatments for chytrid fungus. Their popularity in the pet trade has ironically helped conservation by creating economic incentives for habitat preservation.",
+      "seo": {
+        "title": "Poison Dart Frog: Amazon's Toxic Jewel | Rainforest Amphibian Guide",
+        "metaDescription": "Discover the poison dart frog (Dendrobates tinctorius), the Amazon's brilliantly colored toxic amphibian. Learn about their deadly toxins, aposematic colors, and unique parental care.",
+        "keywords": ["poison dart frog", "Dendrobates tinctorius", "toxic frog", "Amazon frog", "blue poison frog", "batrachotoxin", "rainforest amphibian", "aposematic coloration"]
+      }
+    },
+    {
+      "slug": "anaconda",
+      "name": "Green Anaconda",
+      "scientificName": "Eunectes murinus",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Least Concern",
+      "emoji": "🐍",
+      "stats": {
+        "habitat": "Rivers, Swamps, Marshes",
+        "diet": "Carnivore - Fish, Birds, Mammals",
+        "lifespan": "10-30 years",
+        "weight": "100-250 kg (large females)"
+      },
+      "media": {
+        "heroImage": "/images/anaconda.jpg",
+        "image2": "/images/anaconda-2.jpg",
+        "video": "/videos/anaconda.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Green Anaconda in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Green Anaconda in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Green Anaconda in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The green anaconda (Eunectes murinus) holds the title of the heaviest snake in the world and one of the longest, a true giant of the Amazon waterways that has captured human imagination for centuries. These massive constrictors can reach lengths exceeding 6 meters and weigh over 250 kg, with females significantly larger than males - sometimes by a factor of five. Despite their enormous size, anacondas are remarkably agile swimmers, spending much of their lives submerged in rivers, swamps, and marshes with only their eyes and nostrils above water. Their olive-green coloration with black oval spots provides perfect camouflage in aquatic vegetation. Anacondas are non-venomous constrictors that kill prey by wrapping their powerful bodies around victims and squeezing until circulation stops. They can consume prey as large as capybaras, caimans, and even deer, with jaws that can expand to swallow animals whole. After a large meal, they may not feed again for several months. Their eyes and nostrils are positioned on top of their heads, allowing them to breathe and see while remaining almost completely submerged.",
+      "highlights": [
+        "Heaviest snake in the world - can exceed 250 kg",
+        "Can reach lengths over 6 meters, among longest snakes",
+        "Females 5x larger than males - extreme sexual dimorphism",
+        "Eyes and nostrils on top of head for submerged hunting",
+        "Can consume prey as large as capybaras and caimans",
+        "May not eat for months after consuming large prey"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, green anacondas remain relatively common throughout their Amazonian range. However, they face threats from habitat loss as wetlands are drained for agriculture, human persecution due to fear and livestock predation, and collection for the skin trade and exotic pet market. Their slow reproductive rate makes populations vulnerable to overharvesting. Anacondas play a crucial role as apex predators in aquatic ecosystems, helping control populations of prey species. Conservation efforts focus on protecting wetland habitats, educating communities about their ecological importance, and enforcing regulations against illegal trade. Despite their fearsome reputation, anaconda attacks on humans are extremely rare.",
+      "seo": {
+        "title": "Green Anaconda: Amazon's Heavyweight Snake | World's Heaviest Serpent",
+        "metaDescription": "Discover the green anaconda (Eunectes murinus), the world's heaviest snake. Learn about their massive size, aquatic hunting skills, and Amazon River habitat.",
+        "keywords": ["green anaconda", "Eunectes murinus", "heaviest snake", "Amazon snake", "giant snake", "constrictor snake", "Amazon wildlife", "water boa"]
+      }
+    },
+    {
+      "slug": "tapir",
+      "name": "South American Tapir",
+      "scientificName": "Tapirus terrestris",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Vulnerable",
+      "emoji": "🦛",
+      "stats": {
+        "habitat": "Rainforests, Grasslands, Rivers",
+        "diet": "Herbivore - Leaves, Fruit, Aquatic Plants",
+        "lifespan": "25-30 years",
+        "weight": "150-250 kg"
+      },
+      "media": {
+        "heroImage": "/images/tapir.jpg",
+        "image2": "/images/tapir-2.jpg",
+        "video": "/videos/tapir.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic South American Tapir in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, South American Tapir in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, South American Tapir in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The South American tapir (Tapirus terrestris), known locally as 'anta,' represents one of the most ancient mammal lineages in the Amazon Rainforest, having changed little in appearance over millions of years. These remarkable creatures, often described as looking like a cross between a pig and an elephant, are actually most closely related to horses and rhinoceroses. Their most distinctive feature is their flexible proboscis, a short trunk-like snout that acts like an elephant's trunk on a smaller scale, allowing them to grasp leaves, fruit, and aquatic vegetation with remarkable dexterity. Tapirs can weigh up to 250 kg and are excellent swimmers, often seeking refuge in water when threatened by predators like jaguars. Their thick, dark brown coats provide protection from predators and insects. As the largest terrestrial mammal in the Amazon, tapirs play a crucial ecological role as seed dispersers, consuming over 200 species of fruit and spreading seeds throughout the forest via their droppings. They are primarily nocturnal, spending their days resting in dense vegetation and emerging at dusk to forage.",
+      "highlights": [
+        "Largest terrestrial mammal in the Amazon - up to 250 kg",
+        "Flexible proboscis snout for grasping vegetation",
+        "Most closely related to horses and rhinoceroses",
+        "Consume over 200 fruit species as key seed dispersers",
+        "Excellent swimmers - seek refuge in water from predators",
+        "Ancient lineage - changed little over millions of years"
+      ],
+      "conservation": "Classified as Vulnerable by the IUCN Red List, South American tapir populations have declined by over 30% in the past three generations. An estimated 50,000 individuals remain, with populations becoming increasingly fragmented across their range. Primary threats include habitat loss from deforestation, hunting for meat and hides, and human-wildlife conflict as tapirs raid agricultural crops. Their slow reproductive rate - females produce only one calf every two years - makes population recovery difficult. As important seed dispersers for large-seeded trees, their decline has cascading effects on forest regeneration. Conservation efforts focus on protecting continuous forest habitat, establishing wildlife corridors, reducing hunting pressure through community education, and mitigating human-wildlife conflict around agricultural areas.",
+      "seo": {
+        "title": "South American Tapir: Amazon's Ancient Giant | Vulnerable Mammal Guide",
+        "metaDescription": "Discover the South American tapir (Tapirus terrestris), the Amazon's largest land mammal. Learn about their trunk-like snout, seed dispersal role, and vulnerable status.",
+        "keywords": ["South American tapir", "Tapirus terrestris", "Amazon tapir", "lowland tapir", "vulnerable mammal", "seed disperser", "proboscis", "Amazon wildlife"]
+      }
+    },
+    {
+      "slug": "macaw",
+      "name": "Scarlet Macaw",
+      "scientificName": "Ara macao",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Least Concern",
+      "emoji": "🦜",
+      "stats": {
+        "habitat": "Tropical Rainforests, Savannahs",
+        "diet": "Herbivore - Seeds, Nuts, Fruit",
+        "lifespan": "40-50 years (wild)",
+        "weight": "1-1.5 kg"
+      },
+      "media": {
+        "heroImage": "/images/macaw.jpg",
+        "image2": "/images/macaw-2.jpg",
+        "video": "/videos/macaw.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Scarlet Macaw in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Scarlet Macaw flying in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Scarlet Macaw in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The scarlet macaw (Ara macao) stands as one of the most spectacularly beautiful birds in the world, a flying rainbow of scarlet red, electric blue, and brilliant yellow that embodies the vibrant spirit of the Amazon Rainforest. These magnificent parrots can reach lengths of 90 cm from beak to tail, with wingspans exceeding 1 meter, making them one of the largest macaw species. Their extraordinarily strong, curved beaks can exert over 500 pounds of pressure, capable of cracking the hardest palm nuts that other animals cannot access. Scarlet macaws are highly intelligent, social birds that mate for life and can live over 50 years in the wild. They are known for their raucous calls that can be heard up to 2 kilometers away, serving as communication within their flocks of 10-30 birds. Their brilliant coloration serves multiple purposes including mate attraction, species recognition, and camouflage among tropical flowers. Macaws play a vital ecological role as seed dispersers, consuming clay from riverbanks to neutralize toxins in unripe seeds they eat.",
+      "highlights": [
+        "One of the largest macaws - 90 cm long with 1 meter wingspan",
+        "Brilliant scarlet, blue, and yellow plumage",
+        "Beak can exert 500+ pounds of pressure to crack hard nuts",
+        "Mate for life and live 40-50 years in the wild",
+        "Highly intelligent with complex social behaviors",
+        "Eat clay to neutralize toxins from unripe seeds"
+      ],
+      "conservation": "The Scarlet Macaw is currently listed as Least Concern by the IUCN, though populations have declined significantly in many parts of their range. Primary threats include habitat loss from deforestation, capture for the illegal pet trade, and hunting for feathers. The species has been extirpated from parts of Mexico and Central America where they were once common. Conservation efforts include habitat protection, anti-poaching patrols, captive breeding programs, and reintroduction projects. Ecotourism initiatives that value macaws as flagship species provide economic incentives for local communities to protect these magnificent birds and their rainforest habitat.",
+      "seo": {
+        "title": "Scarlet Macaw: Amazon's Flying Rainbow | Rainforest Parrot Guide",
+        "metaDescription": "Discover the scarlet macaw (Ara macao), one of the world's most beautiful parrots. Learn about their brilliant colors, lifelong pair bonds, and Amazon Rainforest habitat.",
+        "keywords": ["scarlet macaw", "Ara macao", "Amazon parrot", "colorful macaw", "rainforest bird", "seed disperser", "clay lick", "Amazon wildlife"]
+      }
+    },
+    {
+      "slug": "spider-monkey",
+      "name": "Black Spider Monkey",
+      "scientificName": "Ateles paniscus",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Endangered",
+      "emoji": "🐒",
+      "stats": {
+        "habitat": "Tropical Rainforest Canopy",
+        "diet": "Herbivore - Fruit, Leaves, Seeds",
+        "lifespan": "20-27 years",
+        "weight": "7-9 kg"
+      },
+      "media": {
+        "heroImage": "/images/spider-monkey.jpg",
+        "image2": "/images/spider-monkey-2.jpg",
+        "video": "/videos/spider-monkey.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Black Spider Monkey in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Black Spider Monkey swinging in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Black Spider Monkey in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The black spider monkey (Ateles paniscus) is one of the most acrobatic primates on Earth, earning their name from their spider-like appearance when hanging by their extraordinarily long limbs and prehensile tail. These remarkable canopy dwellers possess arms and legs so long relative to their body that they can span over 1.5 meters when fully extended. Their prehensile tail acts as a fifth limb, capable of supporting their entire body weight and providing a secure grip as they swing through the rainforest canopy at speeds up to 55 km/h. Spider monkeys are among the largest New World primates, with males weighing up to 9 kg. They live in fission-fusion societies where large communities of 20-100 individuals split into smaller foraging groups during the day. Their high fruit diet makes them crucial seed dispersers for many tree species. Unlike most primates, spider monkeys lack thumbs on their hands, an adaptation that helps them grip branches while swinging. Their intelligence is legendary, with problem-solving abilities comparable to great apes.",
+      "highlights": [
+        "Most acrobatic New World primate with spider-like appearance",
+        "Arms and legs span over 1.5 meters when extended",
+        "Prehensile tail acts as fifth limb supporting full body weight",
+        "Can swing through canopy at speeds up to 55 km/h",
+        "Lack thumbs - adaptation for better branch gripping",
+        "Crucial seed dispersers for many rainforest tree species"
+      ],
+      "conservation": "Classified as Endangered by the IUCN Red List, black spider monkey populations have declined by over 50% in the past 45 years. An estimated 250,000 individuals remain, with populations becoming increasingly fragmented across their range. Primary threats include habitat loss from deforestation, hunting for bushmeat, and capture for the pet trade. Their large home range requirements and slow reproductive rate make them particularly vulnerable to forest fragmentation. As important seed dispersers for large-seeded trees, their decline threatens forest regeneration. Conservation efforts focus on protecting continuous forest habitat, establishing wildlife corridors, reducing hunting pressure, and working with local communities on sustainable forest management.",
+      "seo": {
+        "title": "Black Spider Monkey: Amazon's Acrobat | Endangered Primate Guide",
+        "metaDescription": "Discover the black spider monkey (Ateles paniscus), the Amazon's most acrobatic primate. Learn about their prehensile tail, canopy lifestyle, and endangered status.",
+        "keywords": ["black spider monkey", "Ateles paniscus", "spider monkey", "Amazon primate", "endangered monkey", "prehensile tail", "rainforest canopy", "Amazon wildlife"]
+      }
+    },
+    {
+      "slug": "golden-lion-tamarin",
+      "name": "Golden Lion Tamarin",
+      "scientificName": "Leontopithecus rosalia",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Endangered",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "Atlantic Coastal Forest",
+        "diet": "Omnivore - Fruit, Insects, Small Vertebrates",
+        "lifespan": "15 years (wild)",
+        "weight": "600-700 g"
+      },
+      "media": {
+        "heroImage": "/images/golden-lion-tamarin.jpg",
+        "image2": "/images/golden-lion-tamarin-2.jpg",
+        "video": "/videos/golden-lion-tamarin.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Golden Lion Tamarin in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Golden Lion Tamarin family in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Golden Lion Tamarin in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The golden lion tamarin (Leontopithecus rosalia) is one of the world's most striking primates, a tiny monkey with a magnificent mane of golden-orange fur that radiates like a miniature lion against the green backdrop of the rainforest. These endangered primates are found only in the Atlantic coastal forests of Brazil, where they have become a flagship species for conservation success stories. Weighing only 600-700 grams, they are among the smallest primates in the Americas, yet they possess remarkable intelligence and complex social behaviors. Golden lion tamarins live in family groups of 2-8 individuals and are cooperative breeders, with all group members helping to care for infants. They are omnivorous, feeding on fruit, insects, small lizards, and bird eggs. Their long, slender fingers are perfectly adapted for probing into tree bark crevices to extract insects. These primates are critically important seed dispersers for the endangered Atlantic Forest ecosystem.",
+      "highlights": [
+        "Magnificent golden-orange mane resembles miniature lion",
+        "One of smallest American primates at only 600-700 grams",
+        "Found only in Brazil's Atlantic coastal forests",
+        "Cooperative breeders - all group members help raise young",
+        "Long slender fingers probe bark for insects",
+        "Flagship species for conservation success story"
+      ],
+      "conservation": "Classified as Endangered by the IUCN Red List, golden lion tamarins represent one of conservation's greatest success stories. In the 1970s, only about 200 individuals remained in the wild due to habitat loss from deforestation and capture for the pet trade. Through intensive conservation efforts including habitat restoration, reintroduction programs, and captive breeding, populations have recovered to approximately 2,500 individuals. However, they remain endangered due to severe habitat fragmentation - over 90% of their Atlantic Forest habitat has been destroyed. Conservation efforts focus on creating forest corridors to connect isolated populations, continuing captive breeding programs, and working with local landowners to protect remaining forest. Their recovery demonstrates that dedicated conservation can bring species back from the brink.",
+      "seo": {
+        "title": "Golden Lion Tamarin: Tiny Lion of the Forest | Endangered Primate",
+        "metaDescription": "Discover the golden lion tamarin (Leontopithecus rosalia), the magnificent mini-lion of Brazil's Atlantic Forest. Learn about their conservation success story and endangered status.",
+        "keywords": ["golden lion tamarin", "Leontopithecus rosalia", "tamarin monkey", "endangered primate", "Brazil monkey", "conservation success", "Atlantic Forest", "Amazon wildlife"]
+      }
+    },
+    {
+      "slug": "uakari",
+      "name": "Bald Uakari",
+      "scientificName": "Cacajao calvus",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Vulnerable",
+      "emoji": "🐵",
+      "stats": {
+        "habitat": "Flooded Forests, Várzea",
+        "diet": "Herbivore - Seeds, Fruit, Leaves",
+        "lifespan": "20 years (wild)",
+        "weight": "2.5-3.5 kg"
+      },
+      "media": {
+        "heroImage": "/images/uakari.jpg",
+        "image2": "/images/uakari-2.jpg",
+        "video": "/videos/uakari.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Bald Uakari in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Bald Uakari troop in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Bald Uakari in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The bald uakari (Cacajao calvus) is one of the most distinctive primates in the Amazon, instantly recognizable by its bright crimson face that contrasts starkly with its long, shaggy white or golden coat. Their vivid facial coloration, which ranges from bright pink to deep scarlet depending on health and social status, has made them both famous and subject to unfortunate myths. The red face is actually an indicator of health - vibrant color signals a healthy individual with good blood circulation. These medium-sized monkeys are specialized for life in flooded forests (várzea), where they spend their days foraging for unripe seeds, a food source most other animals avoid. Uakaris live in large groups of 10-30 individuals and are excellent swimmers, having evolved to cross between trees during seasonal flooding. Their short tails, unusual for arboreal monkeys, reflect their preference for leaping between branches rather than hanging. Their unique appearance has unfortunately made them targets for hunting and capture.",
+      "highlights": [
+        "Distinctive bright crimson face contrasts with shaggy coat",
+        "Facial color indicates health - brighter red means healthier",
+        "Specialized for life in flooded várzea forests",
+        "Short tails - unusual for arboreal monkeys",
+        "Feed primarily on unripe seeds other animals avoid",
+        "Excellent swimmers adapted to seasonal flooding"
+      ],
+      "conservation": "Classified as Vulnerable by the IUCN Red List, bald uakari populations have declined by over 30% in the past three generations. An estimated 10,000 individuals remain in fragmented populations across their range. Primary threats include habitat loss from deforestation, hunting for food and traditional medicine, and capture for the pet trade. Their specialized dependence on flooded forests makes them particularly vulnerable to climate change and dam construction that alters river levels. Malaria has also caused significant population declines in some areas. Conservation efforts focus on protecting várzea habitats, reducing hunting pressure through community education, and researching disease impacts on populations. Their unique appearance makes them excellent flagship species for Amazon conservation.",
+      "seo": {
+        "title": "Bald Uakari: Amazon's Red-Faced Primate | Vulnerable Monkey Guide",
+        "metaDescription": "Discover the bald uakari (Cacajao calvus), the Amazon monkey with the striking red face. Learn about their flooded forest habitat, seed diet, and vulnerable conservation status.",
+        "keywords": ["bald uakari", "Cacajao calvus", "red-faced monkey", "Amazon primate", "vulnerable monkey", "várzea forest", "flooded forest specialist", "Amazon wildlife"]
+      }
+    },
+    {
+      "slug": "agouti",
+      "name": "Central American Agouti",
+      "scientificName": "Dasyprocta punctata",
+      "continent": "South America",
+      "subregion": "Amazon Rainforest",
+      "status": "Least Concern",
+      "emoji": "🐿️",
+      "stats": {
+        "habitat": "Rainforests, Forest Edges, Gardens",
+        "diet": "Herbivore - Seeds, Fruit, Nuts",
+        "lifespan": "13-20 years",
+        "weight": "3-4 kg"
+      },
+      "media": {
+        "heroImage": "/images/agouti.jpg",
+        "image2": "/images/agouti-2.jpg",
+        "video": "/videos/agouti.mp4"
+      },
+      "midjourneyPrompts": {
+        "hero": "photorealistic wildlife portrait, majestic Central American Agouti in Amazon Brazil, dramatic black and white photography, high contrast, studio-like composition, Pentax 67II medium format camera, 105mm prime lens, intimate close-up, animal fills frame, timeless mood, fine art conservation photography, rainforest background, in the style of Nick Brandt --ar 4:5 --v 7.0 --style raw",
+        "image2": "photorealistic wildlife photography, Central American Agouti in Amazon Brazil, dramatic golden hour backlighting, Canon EOS-1D X Mark III, 500mm f/4 telephoto lens, shallow depth of field, National Geographic quality, rainforest foreground, conservation photography, in the style of Beverly Joubert --ar 16:9 --v 7.0 --style raw",
+        "video": "cinematic wildlife footage, Central American Agouti in natural habitat, dramatic lighting, slow motion, 4K, atmospheric music, National Geographic documentary style"
+      },
+      "description": "The Central American agouti (Dasyprocta punctata) is a charming, rabbit-sized rodent that plays a crucial yet often overlooked role in the Amazon Rainforest ecosystem. These diurnal mammals resemble oversized guinea pigs with longer legs, sporting sleek brown coats with distinctive lighter spots and stripes. Agoutis are among the few animals capable of cracking open the rock-hard seed pods of the Brazil nut tree, making them essential for the survival and propagation of this economically important species. They possess incredibly strong jaws and sharp incisors that can crack nuts that would break a hammer. Agoutis are scatter hoarders, burying excess seeds throughout the forest for later consumption, and inevitably forgetting some locations - making them important seed dispersers. They are remarkably agile, capable of jumping up to 2 meters vertically and running at speeds up to 40 km/h when escaping predators like jaguars and ocelots. Their alert, upright posture and sharp hearing make them excellent sentinels for the forest understory.",
+      "highlights": [
+        "One of few animals that can crack Brazil nut pods",
+        "Scatter hoarders bury seeds - important forest regenerators",
+        "Can jump 2 meters vertically and run 40 km/h",
+        "Sharp incisors crack nuts that would break a hammer",
+        "Serve as forest sentinels with alert, upright posture",
+        "Diurnal lifestyle - active during daylight hours"
+      ],
+      "conservation": "Classified as Least Concern by the IUCN Red List, Central American agoutis remain abundant throughout their range from Mexico to northern South America. Their adaptability to human-modified landscapes, including agricultural areas and gardens, has helped maintain stable populations. However, they face hunting pressure for their meat in some regions, and habitat loss from deforestation affects localized populations. Their role as Brazil nut dispersers makes them economically important for sustainable forest management. Conservation efforts focus on maintaining forest connectivity and promoting agoutis as flagship species for sustainable rainforest use. Their presence indicates healthy forest ecosystems with adequate seed resources.",
+      "seo": {
+        "title": "Central American Agouti: Amazon's Seed Disperser | Rainforest Rodent",
+        "metaDescription": "Discover the Central American agouti (Dasyprocta punctata), the Amazon rodent that cracks Brazil nuts. Learn about their seed dispersal role, agility, and forest habitat.",
+        "keywords": ["Central American agouti", "Dasyprocta punctata", "agouti rodent", "Brazil nut disperser", "Amazon rodent", "scatter hoarder", "rainforest mammal", "Amazon wildlife"]
+      }
     }
   ]
 }
